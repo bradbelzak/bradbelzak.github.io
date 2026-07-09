@@ -3,38 +3,44 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AGP Option 1 — Split Hero</title>
+<title>Acuity Global Partners</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#050D28;--fg:#F5F8FF;--dim:#9FB2D8;--line:rgba(190,215,255,.13);--line2:rgba(255,255,255,.35);--sidebg:#040B22;--card:linear-gradient(170deg,#0A173F,transparent);--marqbg:rgba(5,13,40,.85);--glow:rgba(255,255,255,.35)}
+:root{--bg:#050D28;--fg:#F5F8FF;--dim:#BCCBE8;--line:rgba(190,215,255,.13);--line2:rgba(255,255,255,.35);--sidebg:#040B22;--card:linear-gradient(170deg,#0A173F,transparent);--glow:rgba(255,255,255,.35)}
 *{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{font-family:'Figtree',sans-serif;background:var(--bg);color:var(--fg);line-height:1.6;overflow-x:hidden}
+body{font-family:'Figtree',sans-serif;background:var(--bg);color:var(--fg);line-height:1.6;overflow-x:clip}
 h1,h2,h3{font-family:'Fraunces',Georgia,serif;font-weight:600;line-height:1.1}
 a{color:var(--fg);text-decoration:none}
-.side{position:fixed;left:0;top:0;bottom:0;width:300px;background:linear-gradient(168deg,#0C1E46 0%,#060F2E 72%);border-right:1px solid rgba(190,215,255,.18);display:flex;flex-direction:column;padding:34px 30px 30px;z-index:100}
+
+/* ===== Top navigation ===== */
+.topbar{position:sticky;top:0;z-index:120;display:flex;align-items:center;justify-content:space-between;padding:12px 40px;background:rgba(4,11,34,.78);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
 .brand{display:inline-block;background:transparent;line-height:0}
-.brand-logo{display:block;width:100%;max-width:240px}
-.brand .bw1{display:block;font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:44px;line-height:1;color:var(--fg)}
-.brand .bw2{display:block;font-size:12.5px;font-weight:600;letter-spacing:.4em;text-transform:uppercase;color:var(--fg);opacity:.8;margin-top:8px}
-.side nav{margin-top:34px;flex:1;display:flex;flex-direction:column;justify-content:space-evenly;gap:0}
-.side nav a{color:#CDDAF2;font-size:19px;font-weight:600;padding:13px 14px;border-radius:10px;transition:all .22s}
-.side nav a:hover{color:var(--bg);background:var(--fg)}
-.side .reach{background:transparent;border:none;color:#fff;text-align:left;padding:13px 14px;border-radius:10px;font-weight:800;font-size:19px;transition:all .22s}
-.side .reach:hover{color:#fff;background:rgba(255,255,255,.08)}
-.side .sig{margin-top:22px;font-size:11px;color:var(--dim);letter-spacing:.18em;text-transform:uppercase;text-align:left;padding-left:2px}
-.main{margin-left:300px}
-@media(max-width:900px){.side{position:static;width:100%;height:auto;flex-direction:column;align-items:center;gap:10px;padding:16px 16px 14px}.brand-logo{max-width:148px}.side nav{margin:0;flex:0 0 auto;flex-direction:row;flex-wrap:wrap;justify-content:center;gap:2px 6px}.side nav a{font-size:15px;padding:8px 12px}.side .reach{margin:0;padding:8px 12px;font-size:15px}.side .sig{display:none}.main{margin:0}}
-.marq{position:absolute;bottom:0;left:0;right:0;z-index:6;border-top:1px solid var(--line);background:var(--marqbg);backdrop-filter:blur(8px);overflow:hidden;padding:14px 0}
-.marq .track{display:flex;width:max-content;animation:roll 30s linear infinite}
-.marq span{font-size:12.5px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--fg);white-space:nowrap;padding:0 8px}
-.marq i{font-style:normal;padding:0 16px;opacity:.5}
-@keyframes roll{to{transform:translateX(-50%)}}
+.brand-logo{display:block;width:100%;max-width:184px}
+.brand-group{display:flex;align-items:center;gap:26px}
+.loc{font-size:11.5px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--dim);opacity:.8;white-space:nowrap}
+@media(max-width:1000px){.loc{display:none}}
+.topbar nav{display:flex;align-items:center;gap:4px}
+.topbar nav a{color:#E4ECFB;font-size:15px;font-weight:600;padding:9px 15px;border-radius:9px;transition:all .2s}
+.topbar nav a:hover,.topbar nav a.active{color:#fff;background:rgba(255,255,255,.1)}
+.navtoggle{display:none;background:none;border:none;cursor:pointer;padding:8px;margin:-8px}
+.navtoggle span{display:block;width:25px;height:2px;background:#fff;margin:6px 0;transition:transform .25s,opacity .25s}
+.navtoggle.x span:nth-child(1){transform:translateY(8px) rotate(45deg)}
+.navtoggle.x span:nth-child(2){opacity:0}
+.navtoggle.x span:nth-child(3){transform:translateY(-8px) rotate(-45deg)}
+@media(max-width:900px){
+  .topbar{padding:12px 18px}
+  .navtoggle{display:block}
+  .topbar nav{position:absolute;top:100%;left:0;right:0;flex-direction:column;align-items:stretch;gap:2px;background:rgba(4,11,34,.98);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);padding:10px 14px 16px;display:none}
+  .topbar nav.open{display:flex}
+  .topbar nav a{font-size:17px;padding:13px 12px}
+}
+
 section{padding:82px 60px}
-#services{padding-top:38px}
-.wrap{max-width:1120px}
+#services{padding-top:52px}
+.wrap{max-width:1120px;margin:0 auto}
 .label{font-size:15px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--fg);opacity:.85;margin-bottom:14px}
 h2.t{font-size:clamp(30px,3.4vw,46px);margin-bottom:18px}
 h2.t em,.hero h1 em{font-style:italic}
@@ -42,175 +48,74 @@ h2.t em,.hero h1 em{font-style:italic}
 .rv{opacity:0;transform:translateY(50px);transition:opacity .75s,transform .75s cubic-bezier(.16,1,.3,1)}
 .rv.go{opacity:1;transform:none}
 @media(max-width:900px){section{padding:56px 22px}}
-.engage{display:grid;grid-template-columns:repeat(3,1fr) auto;gap:30px;align-items:center;padding:42px 60px;border-block:1px solid var(--line)}
-.engage .st .k{font-size:12px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--fg);opacity:.9;display:block;margin-bottom:8px}
-.engage .st b{display:block;font-size:16.5px;color:var(--fg);margin-bottom:4px}
-.engage .st span{font-size:13.5px;color:var(--dim);line-height:1.5}
-.engage .go-cta{display:inline-flex;align-items:center;gap:9px;background:rgba(255,255,255,.05);border:1.5px solid rgba(255,255,255,.45);color:#fff;padding:14px 26px;border-radius:99px;font-weight:700;font-size:14px;white-space:nowrap;transition:all .25s}
-.engage .go-cta::after{content:"\2192";transition:transform .25s}
-.engage .go-cta:hover{background:#fff;color:#0A1440;border-color:#fff}
-.engage .go-cta:hover::after{transform:translateX(5px)}
-@media(max-width:900px){.engage{grid-template-columns:1fr;padding:34px 22px}}
-.pair{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:30px}
-.col{border:1px solid var(--line);border-radius:16px;padding:34px;background:var(--card)}
+
 .col .k,.special .k{font-size:11px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--fg);opacity:.65}
-.svc{padding:18px 0;border-top:1px solid var(--line);margin-top:14px}
-.svc:first-of-type{border-top:0}
-.svc b{display:block;font-weight:700;font-size:16.5px;margin-bottom:6px;color:var(--fg)}
-.svc p{color:var(--dim);font-size:14.5px;margin:0}
-.special{border:1px solid var(--line);border-radius:16px;padding:34px;margin-top:22px;background:var(--card)}
-.special b{display:block;font-family:'Fraunces',serif;font-weight:600;font-size:25px;margin:10px 0 8px;color:var(--fg)}
-.special p{color:var(--dim);font-size:14.5px;max-width:820px;margin:0}
-.ai-line{margin-top:30px;padding-top:24px;border-top:1px solid var(--line);font-family:'Fraunces',serif;font-style:italic;font-size:19px;color:var(--fg);opacity:.9}
-@media(max-width:900px){.pair{grid-template-columns:1fr}}
-.who{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
-.who span{font-size:14px;font-weight:600;color:var(--fg);border:1px solid var(--line);border-radius:99px;padding:12px 20px;transition:all .2s}
-.who span:hover{border-color:var(--fg);transform:translateY(-2px)}
-.proof{list-style:none;margin-top:24px;max-width:800px}
-.proof li{font-size:15.5px;color:var(--dim);padding:12px 0;border-bottom:1px solid var(--line)}
-.proof li b{color:var(--fg)}
-.bio{list-style:none;margin-top:18px;max-width:720px}
-.bio li{font-size:15px;color:var(--dim);padding:9px 0 9px 26px;position:relative}
-.bio li::before{content:"\2014";position:absolute;left:0;color:var(--fg);opacity:.5}
-.two{display:grid;grid-template-columns:1fr 1.4fr;gap:54px}
-@media(max-width:900px){.two{grid-template-columns:1fr}}
-.b1{display:inline-flex;align-items:center;gap:9px;background:rgba(255,255,255,.05);border:1.5px solid rgba(255,255,255,.5);color:#fff;padding:15px 30px;border-radius:99px;font-weight:700;font-size:15px;transition:all .25s}
-.b1::after{content:"\2192";transition:transform .25s}
-.b1:hover{background:#fff;color:#0A1440;border-color:#fff}
-.b1:hover::after{transform:translateX(5px)}
-.b2{display:inline-block;border:1px solid var(--line2);color:var(--fg);padding:15px 30px;border-radius:99px;font-weight:600;font-size:15px;transition:border-color .2s}
-.b2:hover{border-color:var(--fg)}
 .contact{background:var(--card);border-top:1px solid var(--line)}
 footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-size:12px}
 
-.hero{position:relative;height:100vh;display:flex;flex-direction:column;overflow:hidden}
-.worlds{flex:1;display:flex;min-height:0}
-.world{position:relative;flex:1;overflow:hidden;transition:flex .9s cubic-bezier(.22,1,.36,1)}
-.world:hover{flex:1.9}
-.world video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(1.06);transition:transform 1.2s}
-.world:hover video{transform:scale(1.05)}
-.world .tint{position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,13,40,.3),rgba(5,13,40,.86) 92%)}
-.world .txt{position:absolute;left:44px;right:44px;bottom:60px;z-index:3}
-.world .k{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:26px;opacity:.85;margin-bottom:6px;color:#fff}
-.world h2{font-size:clamp(34px,3.8vw,62px);color:#fff;text-shadow:0 2px 26px rgba(0,0,0,.55)}
-.world p{color:#D6E0F2;font-size:15px;max-width:420px;margin-top:8px;opacity:0;transform:translateY(12px);transition:all .5s .1s}
-.world:hover p{opacity:1;transform:none}
-.world+.world{border-left:1px solid var(--line)}
-.htitle{position:absolute;top:56px;left:0;right:0;z-index:6;text-align:center;pointer-events:none;padding:0 40px}
-.htitle h1{font-size:clamp(23px,2.6vw,41px);color:#fff;text-shadow:0 4px 30px rgba(0,0,0,.65);max-width:880px;margin:0 auto;line-height:1.16}
-.htitle p{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--dim);margin-top:6px}
-@media(max-width:900px){.worlds{flex-direction:column}.world+.world{border-left:0;border-top:1px solid var(--line)}.world .txt{bottom:34px;left:22px;right:22px}.world p{opacity:1;transform:none}}
-@media(max-width:700px){.hero{height:auto}.htitle{position:static;padding:30px 20px 8px}.htitle h1{font-size:24px}.worlds{flex-direction:column}.world{flex:0 0 auto;min-height:54vw;display:flex;align-items:flex-end}.world .txt{position:static;left:auto;right:auto;bottom:auto;padding:0 20px 26px;width:100%}.world h2{font-size:29px}.world .k{font-size:22px}.world p{font-size:14.5px;max-width:none}}
+/* ===== Hero (single) ===== */
+.hero{position:relative;height:100vh;min-height:600px;display:flex;align-items:center;justify-content:flex-start;overflow:hidden}
+.hero video.bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(1.03)}
+.hero .tint{position:absolute;inset:0;background:linear-gradient(95deg,rgba(4,10,32,.9) 0%,rgba(5,13,40,.62) 46%,rgba(5,13,40,.32) 100%)}
+.htitle{position:relative;z-index:3;text-align:left;padding:0 6.5vw;max-width:1180px}
+.htitle .gpsa{font-size:clamp(15px,1.8vw,23px);font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:#fff;opacity:.92;margin:0 0 30px;text-shadow:0 2px 22px rgba(0,0,0,.6)}
+.htitle h1{font-size:clamp(40px,6.6vw,92px);color:#fff;text-shadow:0 4px 30px rgba(0,0,0,.6);max-width:16ch;margin:0;line-height:1.02;letter-spacing:-.012em}
+.htitle .hsub{font-size:clamp(14px,1.35vw,17.5px);color:#C9D6EF;margin:22px 0 0;max-width:560px;line-height:1.5;text-shadow:0 2px 20px rgba(0,0,0,.6)}
+@media(max-width:700px){.hero{height:88vh}.htitle{padding:0 22px}.htitle h1{font-size:clamp(34px,10vw,52px);max-width:none}}
 
-
-.qts{margin-top:16px;display:flex;flex-direction:column;gap:2px}
-.qt{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:14.5px;opacity:.82;padding:10px 0 10px 16px;border-left:2px solid var(--line);color:var(--fg,#F5F8FF);margin:0}
 .svcbody{color:var(--dim);font-size:14.5px}
-.ledex{color:var(--dim);max-width:680px;font-size:16.5px;margin-top:10px}
+.ledex{color:var(--dim);max-width:760px;font-size:16.5px;margin-top:10px}
 
-.svc-sum{color:var(--fg,#F5F8FF);opacity:.92;font-size:15.5px;margin:8px 0 16px}
-.svc-pts{list-style:none;margin:0}
-.svc-pts li{color:var(--dim);font-size:14.5px;padding:11px 0 11px 22px;border-top:1px solid var(--line);position:relative}
-.svc-pts li:first-child{border-top:0}
-.svc-pts li::before{content:"\2014";position:absolute;left:0;color:var(--fg,#F5F8FF);opacity:.5}
-.svc-more{display:inline-block;margin-top:18px;font-size:13px;font-weight:700;letter-spacing:.04em;border-bottom:1px solid var(--line2,rgba(255,255,255,.35));padding-bottom:2px}
-.aiband{padding:66px 60px;text-align:center;border-block:1px solid var(--line)}
-.aiband p{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:clamp(22px,2.6vw,34px);max-width:920px;margin:0 auto;color:var(--fg,#F5F8FF)}
-.serve{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin-top:26px;background:var(--line);border:1px solid var(--line);border-radius:16px;overflow:hidden}
-.serve div{background:var(--bg,#050D28);padding:26px 28px}
-.serve b{display:block;font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:20px;margin-bottom:5px;color:var(--fg,#F5F8FF)}
+/* ===== Who We Serve / Clients ===== */
+.serve{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;margin-top:26px;background:var(--line);border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.serve div{background:var(--bg);padding:26px 28px}
+.serve b{display:block;font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:20px;margin-bottom:5px;color:var(--fg)}
 .serve p{color:var(--dim);font-size:14px;margin:0}
-.wa-cols{display:grid;grid-template-columns:1fr 1fr;gap:44px;margin-top:32px}
-.wa-col h4{font-family:'Figtree',sans-serif;font-size:12px;font-weight:700;letter-spacing:.22em;text-transform:uppercase;color:var(--fg,#F5F8FF);opacity:.6;margin-bottom:12px}
-@media(max-width:900px){.serve{grid-template-columns:1fr}.wa-cols{grid-template-columns:1fr}.aiband{padding:48px 22px}}
+@media(max-width:900px){.serve{grid-template-columns:1fr}}
 
-.wa-lead{color:var(--dim);font-size:17px;max-width:880px}
-.wa-narr{color:var(--dim);font-size:15.5px;max-width:880px;margin-top:14px}
-.wa-narr b{color:var(--fg,#F5F8FF);font-weight:600}
-.wa-photos{display:flex;gap:26px;margin-top:22px;flex-wrap:wrap}
-.wa-photos img{width:calc(33.333% - 18px);max-width:210px;aspect-ratio:16/10;object-fit:cover;border-radius:10px;border:1px solid var(--line);display:block}
-@media(max-width:600px){.wa-photos img{width:calc(50% - 13px);max-width:none}}
-.record{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin-top:38px;background:var(--line);border:1px solid var(--line);border-radius:16px;overflow:hidden}
-.rec{background:var(--bg,#050D28);padding:28px 26px}
-.rec h4{font-family:'Figtree',sans-serif;font-size:12px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:var(--fg,#F5F8FF);opacity:.72;margin-bottom:14px}
-.rec ul{list-style:none;margin:0}
-.rec li{color:var(--dim);font-size:14px;padding:10px 0;border-top:1px solid var(--line);line-height:1.55}
-.rec li:first-child{border-top:0}
-.rec li b{color:var(--fg,#F5F8FF);font-weight:600}
-@media(max-width:1100px){.record{grid-template-columns:1fr 1fr}}
-@media(max-width:700px){.record{grid-template-columns:1fr}}
-.htitle .gpsa{font-size:clamp(13px,1.4vw,18px);font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:#fff;opacity:.92;margin:0 0 16px;text-shadow:0 2px 22px rgba(0,0,0,.6)}
-.gpsa-lbl{font-size:14px;opacity:1;color:#fff}
-.quotes-band{padding:74px 60px;border-top:1px solid var(--line)}
-.qgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:30px}
-.qcard{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:17px;line-height:1.5;color:var(--fg);padding:26px 28px;border:1px solid var(--line);border-radius:16px;background:var(--card);margin:0}
-@media(max-width:900px){.quotes-band{padding:50px 22px}.qgrid{grid-template-columns:1fr}}
-.photo{position:relative;border-radius:16px;overflow:hidden;border:1px solid var(--line);background:#0A173F;margin:0;aspect-ratio:3/4}
-.photo.landscape{aspect-ratio:3/2}
-.photo img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 26%}
-.photo.landscape img{object-position:center 42%}
-.photo figcaption{position:absolute;left:0;right:0;bottom:0;padding:16px 18px;background:linear-gradient(0deg,rgba(4,11,34,.92),rgba(4,11,34,.08) 72%,transparent)}
-.photo figcaption b{display:block;font-family:'Fraunces',Georgia,serif;font-size:21px;color:#fff;line-height:1.1;margin-bottom:2px}
-.photo figcaption span{font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#C6D4EF}
-.photo.ph-missing{background:repeating-linear-gradient(45deg,#0A173F 0 12px,#0B1C48 12px 24px);min-height:340px}
-.photo.ph-missing figcaption{position:static;background:none;padding:0}
-.photo.ph-missing::after{content:attr(data-ph);position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:0 24px;color:#8FA3CC;font-size:13px;letter-spacing:.05em;line-height:1.6}
-.photo.landscape.ph-missing{min-height:210px}
-.wa-top{display:grid;grid-template-columns:330px 1fr;gap:44px;align-items:start;margin-top:8px}
-.gov-photos{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:30px}
-.svc-photo{margin:22px 0 4px}
-@media(max-width:900px){.wa-top{grid-template-columns:1fr}.gov-photos{grid-template-columns:1fr}}
-.col-quotes{margin-top:22px;padding-top:20px;border-top:1px solid var(--line)}
-.cq-label{font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--fg);opacity:.6;margin-bottom:12px}
-.cq{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:14.5px;line-height:1.5;color:var(--fg);opacity:.92;padding:7px 0 7px 15px;border-left:2px solid var(--line2);margin:0 0 9px}
-.side nav a.active{background:rgba(255,255,255,.14);color:#fff;font-weight:700}
-
-.svc-detail{border-top:1px solid var(--line);margin-top:36px;padding-top:34px}
-.svc-detail .k{font-size:11px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--fg);opacity:.65;margin-bottom:8px}
-.svc-detail h3{font-size:clamp(24px,2.6vw,38px);margin-bottom:10px}
-.svc-detail .one{color:var(--fg);opacity:.92;font-size:17.5px;max-width:840px;font-family:'Fraunces',Georgia,serif;font-style:italic}
-.svc-grid{display:grid;grid-template-columns:1fr 1fr;gap:44px;margin-top:28px}
-.svc-detail h4{font-family:'Figtree',sans-serif;font-size:12px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--fg);opacity:.6;margin:24px 0 12px}
-.svc-detail h4:first-child{margin-top:0}
-.sit blockquote{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:14.5px;line-height:1.5;color:var(--fg);opacity:.92;padding:7px 0 7px 15px;border-left:2px solid var(--line2);margin:0 0 9px}
-.svc-detail .body{color:var(--dim);font-size:14.5px}
-.svc-detail ul{list-style:none;margin:0}
-.svc-detail ul li{color:var(--dim);font-size:14.5px;padding:9px 0 9px 22px;border-bottom:1px solid var(--line);position:relative}
-.svc-detail ul li::before{content:"\2014";position:absolute;left:0;color:var(--fg);opacity:.5}
-@media(max-width:900px){.svc-grid{grid-template-columns:1fr}}
-
-.deliver{padding:80px 60px;border-block:1px solid var(--line)}
-.dphase{border-top:1px solid var(--line);padding:30px 0;display:grid;grid-template-columns:250px 1fr 1fr;gap:40px;align-items:start}
-.dphase:first-of-type{border-top:0;margin-top:22px}
-.dphase .dnum{font-size:11px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--fg);opacity:.55}
-.dphase .dname{font-family:'Fraunces',Georgia,serif;font-size:24px;color:var(--fg);margin-top:6px;line-height:1.15}
-.dphase .done-liner{color:var(--fg);opacity:.85;font-size:14px;margin-top:8px;font-style:italic;font-family:'Fraunces',Georgia,serif}
-.dcol h5{font-family:'Figtree',sans-serif;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--fg);opacity:.6;margin-bottom:11px}
-.dcol p{color:var(--dim);font-size:14px;margin:0}
-.dcol ul{list-style:none;margin:0}
-.dcol li{color:var(--dim);font-size:14px;padding:7px 0 7px 20px;position:relative}
-.dcol li::before{content:"\2014";position:absolute;left:0;color:var(--fg);opacity:.5}
-@media(max-width:900px){.dphase{grid-template-columns:1fr;gap:14px}.deliver{padding:56px 22px}}
-.htitle .hsub{font-size:clamp(14px,1.35vw,17.5px);color:#C9D6EF;margin:14px auto 0;max-width:640px;line-height:1.5;text-transform:none;letter-spacing:0;font-weight:400;text-shadow:0 2px 20px rgba(0,0,0,.6)}
-
-.wa-top{grid-template-columns:210px 1fr;gap:40px;margin-top:0}
+/* ===== Leadership ===== */
+.wa-lead{color:var(--dim);font-size:16px;max-width:880px}
+.wa-narr{color:var(--dim);font-size:14.5px;max-width:880px;margin-top:12px}
+.wa-narr b{color:var(--fg);font-weight:600}
+.wa-top{display:grid;grid-template-columns:210px 1fr;gap:40px;align-items:start;margin-top:8px}
 .portrait{max-width:210px;text-align:center}
 .phimg{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center 18%;border-radius:14px;background:#0A173F;display:block}
 .pname{font-family:'Fraunces',Georgia,serif;font-size:22px;color:#fff;margin-top:16px;text-align:center}
 .ptitle{font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#C6D4EF;margin-top:5px;text-align:center}
-.rec{padding:24px 22px}
-.rec li{font-size:13px;padding:8px 0;line-height:1.45}
-.rec h4{margin-bottom:12px}
-.wa-lead{font-size:16px}.wa-narr{font-size:14.5px;margin-top:12px}
-.svc-photo{max-width:340px}
-@media(max-width:900px){.wa-top{grid-template-columns:1fr}.portrait{max-width:210px;margin:0 auto}}
-
 .li-icon{display:inline-flex;margin-top:14px;border-radius:4px;overflow:hidden;transition:opacity .2s}
 .li-icon:hover{opacity:.85}
+@media(max-width:900px){.wa-top{grid-template-columns:1fr}.portrait{max-width:210px;margin:0 auto}}
 
+/* ===== Expertise ===== */
+.svc-detail{border-top:1px solid var(--line);margin-top:36px;padding-top:34px}
+.svc-detail:first-of-type{border-top:0;margin-top:10px;padding-top:0}
+.svc-detail .k{font-size:11px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--fg);opacity:.65;margin-bottom:8px}
+.svc-detail h3{font-size:clamp(24px,2.6vw,38px);margin-bottom:10px}
+.svc-detail .one{color:var(--fg);opacity:.92;font-size:17.5px;max-width:840px;font-family:'Fraunces',Georgia,serif;font-style:italic}
+.svc-grid{display:grid;grid-template-columns:1fr 1fr;gap:44px;margin-top:28px}
+.svc-grid>div:first-child{order:2}.svc-grid>div:nth-child(2){order:1}
+.svc-detail h4{font-family:'Figtree',sans-serif;font-size:12px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--fg);opacity:.6;margin:24px 0 12px}
+.svc-detail h4:first-child{margin-top:0}
+.sit blockquote{font-family:'Fraunces',Georgia,serif;font-style:italic;font-size:14.5px;line-height:1.5;color:var(--fg);opacity:.92;padding:7px 0 7px 15px;border-left:2px solid var(--line2);margin:0 0 9px}
+.svc-detail .body{color:var(--dim);font-size:14.5px}
+@media(max-width:900px){.svc-grid{grid-template-columns:1fr}}
+
+/* ===== How We Deliver (compact) ===== */
+.deliver{padding:80px 60px;border-block:1px solid var(--line)}
+.dphases{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;margin-top:30px;background:var(--line);border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.dstep{background:var(--bg);padding:30px 26px}
+.dstep .dnum{font-size:11px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--fg);opacity:.55}
+.dstep .dname{font-family:'Fraunces',Georgia,serif;font-size:20px;color:var(--fg);margin:9px 0 9px;line-height:1.15}
+.dstep .dliner{color:var(--dim);font-size:14px;margin:0}
+@media(max-width:900px){.deliver{padding:56px 22px}.dphases{grid-template-columns:1fr}}
+
+/* ===== Contact ===== */
 .mail-icon{display:inline-flex;color:#fff;transition:color .2s}
 .mail-icon:hover{color:#9FB2D8}
+.mail-text{font-family:'Fraunces',Georgia,serif;font-size:19px;color:#fff;border-bottom:1px solid var(--line2);padding-bottom:2px;transition:border-color .2s,opacity .2s}
+.mail-text:hover{border-color:#fff;opacity:.9}
 
+/* ===== Modal ===== */
 .modal{position:fixed;inset:0;z-index:300;display:none}
 .modal.open{display:block}
 .modal-backdrop{position:absolute;inset:0;background:rgba(3,8,26,.72);backdrop-filter:blur(5px)}
@@ -231,37 +136,37 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 </style>
 </head>
 <body>
-<aside class="side">
-  <a class="brand" href="#top" aria-label="Acuity Global Partners home"><img class="brand-logo" src="assets/agp-logo-white.png" alt="Acuity Global Partners"></a>
-  <p class="sig">Washington, DC &#183; Worldwide</p>
-  <nav>
+
+<header class="topbar">
+  <div class="brand-group">
+    <a class="brand" href="#top" aria-label="Acuity Global Partners home"><img class="brand-logo" src="assets/agp-logo-white.png" alt="Acuity Global Partners"></a>
+    <span class="loc">Washington, DC</span>
+  </div>
+  <button class="navtoggle" aria-label="Menu" aria-expanded="false" aria-controls="primary-nav"><span></span><span></span><span></span></button>
+  <nav id="primary-nav">
     <a href="#top">Home</a>
-    <a href="#services">Services</a>
-    <a href="#who">Who We Serve</a>
-    <a href="#about">Who We Are</a>
+    <a href="#services">Expertise</a>
+    <a href="#who">Clients</a>
+    <a href="#about">Leadership</a>
+    <a href="#contact">Contact</a>
   </nav>
-  <a class="reach" href="#contact">Contact Us</a>
-</aside>
-<div class="main">
-<header class="hero" id="top">
-  <div class="htitle"><p class="gpsa">Global Public Sector Advisory</p><h1>We help technology companies and their investors win and operate in government markets worldwide.</h1></div>
-  <div class="worlds">
-    <a class="world" href="#services">
-      <video src="assets/dc-hero.mp4?v=hero" autoplay loop muted playsinline></video><div class="tint"></div>
-      <div class="txt"><p class="k">01</p><h2>U.S. Federal Go-to-Market</h2><p>We build public sector divisions and win technology companies their first federal customer &#8212; and diligence for the investors behind them.</p></div>
-    </a>
-    <a class="world" href="#services">
-      <video src="assets/agp-earth.mp4" autoplay loop muted playsinline></video><div class="tint"></div>
-      <div class="txt"><p class="k">02</p><h2>Allied Nation and Multilateral Organizations Operations</h2><p>We stand up and run government-facing operations from allied capitals to emerging markets to the world&#8217;s hardest environments.</p></div>
-    </a>
-  </div></header>
+</header>
+
+<section class="hero" id="top">
+  <video class="bg" src="assets/hero-dc.mp4?v=1" autoplay loop muted playsinline></video>
+  <div class="tint"></div>
+  <div class="htitle">
+    <p class="gpsa">Global Public Sector Advisory</p>
+    <h1>We help technology companies and their investors win and operate in government markets worldwide.</h1>
+  </div>
+</section>
 
 <section id="services">
   <div class="wrap">
-    <p class="label rv">Services</p>
+    <p class="label rv">Expertise</p>
 
     <div class="svc-detail rv">
-      <p class="k">01 &#8212; Washington, DC</p>
+      <p class="k">Washington, DC</p>
       <h3>Federal Go-to-Market for Startups</h3>
       <p class="one">We help pre-seed to Series A startups win their first government customers and build the company to support them.</p>
       <div class="svc-grid">
@@ -273,19 +178,10 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
             <blockquote>&#8220;We have no compliance, contracting, or back-office infrastructure for federal work.&#8221;</blockquote>
             <blockquote>&#8220;We need government-ready collateral, pricing, and a partnership strategy before our next raise.&#8221;</blockquote>
           </div>
-          <h4>How Acuity Helps</h4>
-          <p class="body">We build the essentials a young company needs to sell to the U.S. government: go-to-market strategy grounded in how agencies actually buy, capture and pipeline discipline, compliance foundations, administrative and back-office setup, key hires including cleared talent, client-facing collateral, product strategy shaped to government use cases, and a partnership program that extends reach without giving away the deal.</p>
         </div>
         <div>
-          <h4>Typical Deliverables</h4>
-          <ul>
-            <li>Federal go-to-market strategy and capture plan</li>
-            <li>Compliance and back-office readiness roadmap</li>
-            <li>Government-facing collateral and capability sheets</li>
-            <li>Product strategy for government use cases</li>
-            <li>Partnership and teaming program design</li>
-            <li>Hiring plan for cleared and government-facing talent</li>
-          </ul>
+          <h4>How Acuity Helps</h4>
+          <p class="body">We build the essentials a young company needs to sell to the U.S. government: go-to-market strategy grounded in how agencies actually buy, capture and pipeline discipline, compliance foundations, administrative and back-office setup, key hires including cleared talent, client-facing collateral, product strategy shaped to government use cases, and a partnership program that extends reach without giving away the deal.</p>
           <h4>Best-Fit Clients</h4>
           <p class="body">Pre-seed to Series A founders with government-applicable products, venture-backed teams making their first federal hires, and investors preparing portfolio companies for public-sector revenue.</p>
         </div>
@@ -293,7 +189,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
     </div>
 
     <div class="svc-detail rv">
-      <p class="k">02 &#8212; Worldwide</p>
+      <p class="k">Worldwide</p>
       <h3>Allied and Multilateral Government Operations</h3>
       <p class="one">Five Eyes to frontier &#8212; for companies and investors expanding beyond the U.S. into allied, emerging, and contested markets.</p>
       <div class="svc-grid">
@@ -305,19 +201,10 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
             <blockquote>&#8220;We are operating where the rules change overnight, and we need to keep running when they do.&#8221;</blockquote>
             <blockquote>&#8220;We are weighing a presence in a fragile market and need an honest read, not a sales pitch.&#8221;</blockquote>
           </div>
-          <h4>How Acuity Helps</h4>
-          <p class="body">We stand up and run government-facing operations across the full spectrum: steady-state allied markets among the Five Eyes, emerging markets across the Middle East, Southeast Asia, and Latin America, and the multilateral bodies that shape how allies buy. We vet partners and conduct integrity due diligence before commitments are made, and build the resilience to keep operating when conditions turn.</p>
         </div>
         <div>
-          <h4>Typical Deliverables</h4>
-          <ul>
-            <li>Country and market-entry risk assessment</li>
-            <li>Partner, vendor, and counterparty vetting</li>
-            <li>Integrity due diligence ahead of signature</li>
-            <li>Operating model design and on-the-ground stand-up</li>
-            <li>Stakeholder mapping and escalation frameworks</li>
-            <li>Continuity and resilience planning</li>
-          </ul>
+          <h4>How Acuity Helps</h4>
+          <p class="body">We stand up and run government-facing operations across the full spectrum: steady-state allied markets among the Five Eyes, emerging markets across the Middle East, Southeast Asia, and Latin America, and the multilateral bodies that shape how allies buy. We vet partners and conduct integrity due diligence before commitments are made, and build the resilience to keep operating when conditions turn.</p>
           <h4>Best-Fit Clients</h4>
           <p class="body">Companies and investors expanding into allied, emerging, and contested markets; multinationals assessing country risk; and organizations that must keep operating when conditions change.</p>
         </div>
@@ -329,71 +216,44 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 <section class="deliver" id="deliver">
   <div class="wrap">
     <p class="label rv">How We Deliver</p>
-    <h2 class="t rv">How we <em>execute client delivery.</em></h2>
+    <h2 class="t rv">A disciplined path from <em>inquiry to impact.</em></h2>
     <p class="ledex rv">Every engagement runs on the same operating discipline &#8212; senior-led, clearly scoped, and measured on delivery, whether we are winning a first federal contract or standing up operations in a hard market.</p>
-
-    <div class="dphase rv">
-      <div><p class="dnum">Phase 01</p><p class="dname">Inquire and Align</p><p class="done-liner">A confidential first conversation to understand the objective and the stakes.</p></div>
-      <div class="dcol"><h5>What We Do</h5><p>We review your situation directly, define the market and what winning looks like, and agree how we will work together. Every inquiry is held in strict confidence.</p></div>
-      <div class="dcol"><h5>What You Get</h5><ul><li>A direct senior read on fit and feasibility</li><li>A confidentiality framework</li><li>A clear next step &#8212; within days, not weeks</li></ul></div>
+    <div class="dphases rv">
+      <div class="dstep"><p class="dnum">Phase 01</p><p class="dname">Inquire and Align</p><p class="dliner">A confidential first conversation to understand the objective and the stakes.</p></div>
+      <div class="dstep"><p class="dnum">Phase 02</p><p class="dname">Scope and Plan</p><p class="dliner">We turn the objective into a concrete plan, timeline, and success measures.</p></div>
+      <div class="dstep"><p class="dnum">Phase 03</p><p class="dname">Build and Execute</p><p class="dliner">We do the work alongside your team &#8212; building, selling, standing up operations.</p></div>
+      <div class="dstep"><p class="dnum">Phase 04</p><p class="dname">Operate and Sustain</p><p class="dliner">We keep it running &#8212; and hand it off cleanly when the time is right.</p></div>
     </div>
-
-    <div class="dphase rv">
-      <div><p class="dnum">Phase 02</p><p class="dname">Scope and Plan</p><p class="done-liner">We turn the objective into a concrete plan, timeline, and success measures.</p></div>
-      <div class="dcol"><h5>What We Do</h5><p>We map the terrain, define the workstreams, sequence the milestones, and set the measures that define success &#8212; bringing in vetted specialists in law, tax, security, and local-market advisory where the work requires.</p></div>
-      <div class="dcol"><h5>What You Get</h5><ul><li>A fixed-scope engagement plan</li><li>A milestone timeline and defined roles</li><li>Named deliverables and a clear budget</li></ul></div>
-    </div>
-
-    <div class="dphase rv">
-      <div><p class="dnum">Phase 03</p><p class="dname">Build and Execute</p><p class="done-liner">We do the work alongside your team &#8212; building, selling, and standing up operations.</p></div>
-      <div class="dcol"><h5>What We Do</h5><p>We stand up the go-to-market or the in-country operation, run the operating cadence, produce the deliverables, and coordinate the full advisor bench so you get one integrated picture &#8212; execution, not just advice.</p></div>
-      <div class="dcol"><h5>What You Get</h5><ul><li>The deliverables defined in scope</li><li>A regular reporting and decision cadence</li><li>Hands-on execution with your team</li></ul></div>
-    </div>
-
-    <div class="dphase rv">
-      <div><p class="dnum">Phase 04</p><p class="dname">Operate and Sustain</p><p class="done-liner">We keep it running &#8212; and hand it off cleanly when the time is right.</p></div>
-      <div class="dcol"><h5>What We Do</h5><p>We manage the operating rhythm, handle escalation when conditions change, build resilience, and transfer knowledge so your team can carry the work forward.</p></div>
-      <div class="dcol"><h5>What You Get</h5><ul><li>Ongoing operations and decision support</li><li>Escalation and contingency protocols</li><li>A clean handoff with documentation</li></ul></div>
-    </div>
-
   </div>
-</section>
-
-<section class="aiband">
-  <p class="rv">We use AI-enabled technologies to help clients make better decisions, faster.</p>
 </section>
 
 <section id="who" style="padding-top:8px">
   <div class="wrap">
-    <p class="label rv">Who We Serve</p>
-    <h2 class="t rv">Clients winning and operating in <em>government markets.</em></h2>
+    <p class="label rv">Clients</p>
+    <h2 class="t rv">Winning and operating in <em>government markets.</em></h2>
     <div class="serve rv">
-      <div><b>Technology Companies</b><p>Startup to mature, selling into government at home and abroad.</p></div>
-      <div><b>Investors and Boards</b><p>Diligence on government-facing companies, and government strategy and exposure.</p></div>
-      <div><b>Companies Expanding Abroad</b><p>Into allied, emerging, and contested markets.</p></div>
+      <div><b>Technology Companies</b><p>From pre-seed startups selling into government for the first time to established scale-ups deepening an existing public-sector footprint. We help them reach the right buyers, build the capability to win, and stand up the compliance, contracting, and operations that government work demands &#8212; at home and abroad.</p></div>
+      <div><b>Investors and Boards</b><p>Venture and private-equity firms, and the boards of their portfolio companies, who need a clear-eyed read on government-facing opportunity and risk &#8212; from diligence on a target&#8217;s public-sector revenue and exposure to shaping a portfolio company&#8217;s federal and allied-market strategy.</p></div>
+      <div><b>Companies Expanding Abroad</b><p>Companies and multinationals moving into allied, emerging, and contested markets who need trusted local partners, honest country-risk assessment, and operations that keep running when conditions change &#8212; from Five Eyes capitals to frontier environments.</p></div>
+      <div><b>High-Net-Worth Individuals and Family Offices</b><p>Principals and family offices whose capital, ventures, and interests intersect government &#8212; public-sector-facing investments, regulated industries, and cross-border holdings. We bring the same discretion, due diligence, and on-the-ground judgment we apply for governments to protect and advance private interests in complex, high-stakes markets.</p></div>
     </div>
   </div>
 </section>
 
 <section id="about" style="padding-top:8px">
   <div class="wrap">
-    <p class="label rv">Who We Are</p>
+    <p class="label rv">Leadership</p>
     <div class="wa-top rv">
       <div class="portrait">
         <img class="phimg" src="assets/headshot-clean.jpg?v=navy" alt="Brad Belzak">
         <p class="pname">Brad Belzak</p>
-        <p class="ptitle">CEO and Founder</p>
+        <p class="ptitle">Founder</p>
         <a href="https://www.linkedin.com/in/bradbelzak/" target="_blank" rel="noopener" class="li-icon" aria-label="Brad Belzak on LinkedIn"><svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><rect width="24" height="24" rx="4" fill="#0A66C2"/><path fill="#fff" d="M4.98 3.5a2.001 2.001 0 1 1-.02 4.001 2.001 2.001 0 0 1 .02-4.001zM3.4 9h3.16v10.5H3.4V9zm5.34 0h3.03v1.43h.04c.42-.8 1.45-1.64 2.98-1.64 3.19 0 3.78 2.1 3.78 4.83v5.88h-3.15v-5.21c0-1.24-.02-2.84-1.73-2.84-1.73 0-2 1.35-2 2.75v5.3H8.74V9z"/></svg></a>
       </div>
       <div class="wa-body">
-        <p class="wa-lead">Acuity Global Partners is led by founder Brad Belzak, a senior executive and advisor with 24 years across government, defense, technology, consulting, finance, and global risk &#8212; supported by vetted specialists in law, tax, security, investigations, and local-market advisory.</p>
-        <p class="wa-narr">His career has moved between public service and the private sector for two decades. He began at the Department of Homeland Security in its earliest days, holding progressive roles across intelligence, disaster response, and policy &#8212; FEMA during Hurricane Katrina, the FBI Terrorism Screening Center, and aviation security at TSA &#8212; before helping write aviation-security legislation on the U.S. Senate Homeland Security Committee. He then advised governments and multinationals through crisis and growth at Deloitte, Crumpton Group, and EY, from the 2011 Thai floods and post-conflict Libya to risk and investigations across Europe, the Middle East, and Southeast Asia.</p>
-        <p class="wa-narr">He returned to government to direct homeland defense integration at the Pentagon, where he helped lead the U.S. response to the Chinese spy balloon incident, then served as second-in-command of the Export-Import Bank and helped build the public sector practice at Strider Technologies. He currently serves as a Commissioner on the Washington Metrorail Safety Commission, holds degrees from Northeastern and Elon, is a Certified Fraud Examiner, and maintains an active Top Secret / SCI clearance.</p>
-        <div class="wa-photos">
-          <img src="assets/brad-nbc.png" alt="Brad Belzak in a broadcast interview on DC homeland security">
-          <img src="assets/brad-panel.png" alt="Brad Belzak speaking on an industry panel">
-          <img src="assets/libya.jpg" alt="Brad Belzak operating in the field abroad">
-        </div>
+        <p class="wa-lead">Acuity Global Partners is led by Brad Belzak, a senior executive and advisor with 24 years across government, defense, technology, consulting, finance, and global risk &#8212; supported by vetted specialists in law, tax, security, investigations, and local-market advisory.</p>
+        <p class="wa-narr">His career has moved between public service and the private sector for two decades. He began at the Department of Homeland Security in its earliest days, holding progressive roles across intelligence, disaster response, and policy &#8212; FEMA during Hurricane Katrina, the FBI Terrorism Screening Center, and aviation security at TSA &#8212; and performed security counsel and investigations for a U.S. Senator on the U.S. Senate Homeland Security Committee in Congress. He then advised governments and multinationals through crisis and growth at Deloitte, Crumpton Group, and EY, from the 2011 Thai floods and post-conflict Libya to risk and investigations across Europe, the Middle East, and Southeast Asia.</p>
+        <p class="wa-narr">He returned to government to direct homeland defense integration at the Pentagon, where he helped lead the U.S. response to the Chinese spy balloon incident, then served as second-in-command of the Export-Import Bank and helped build the public sector practice at Strider Technologies. He currently serves as a Commissioner on the Washington Metrorail Safety Commission, holds degrees from Northeastern and Elon, and is a Certified Fraud Examiner.</p>
       </div>
     </div>
   </div>
@@ -401,24 +261,11 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 
 <section id="contact" class="contact">
   <div class="wrap">
-    <h2 class="t rv">Contact <em>us.</em></h2>
-    <p class="rv svcbody" style="max-width:540px;font-size:16px">We handle every inquiry with the utmost discretion and confidentiality.</p>
-    <div class="rv" style="margin-top:24px;display:flex;gap:12px;flex-wrap:wrap">
-      <a href="mailto:Brad@acuityglobalpartners.com?subject=Consultation%20Request" class="mail-icon" aria-label="Email Acuity Global Partners"><svg viewBox="0 0 24 24" width="34" height="34" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2.5" y="4.5" width="19" height="15" rx="2.5"/><path d="M3 6.5l9 6 9-6"/></svg></a>
-    </div>
-  </div>
-</section>
-
-<footer>&#169; 2026 Acuity Global Partners &#183; Washington, DC</footer>
-</div>
-<div class="modal" id="contactModal" aria-hidden="true">
-  <div class="modal-backdrop" data-close></div>
-  <div class="modal-card" role="dialog" aria-modal="true" aria-label="Contact Acuity Global Partners">
-    <button class="modal-x" data-close aria-label="Close">&#215;</button>
-    <p class="label">Contact</p>
-    <h3 class="modal-h">Send a message.</h3>
-    <p class="modal-sub">We handle every inquiry with the utmost discretion and confidentiality.</p>
-    <form id="contactForm">
+    <p class="label rv">Contact</p>
+    <h2 class="t rv">Discuss an <em>engagement.</em></h2>
+    <p class="modal-sub rv" style="font-size:16px;max-width:540px;margin-bottom:8px">We handle every inquiry with the utmost discretion and confidentiality.</p>
+    <p class="modal-sub rv" style="font-size:16px;max-width:560px;margin-bottom:26px">Please reach out to <a href="mailto:Brad@acuityglobalpartners.com?subject=Engagement%20Inquiry" style="color:#fff;text-decoration:underline;text-underline-offset:3px">Brad@acuityglobalpartners.com</a> or use the form below.</p>
+    <form id="contactForm" class="rv" style="max-width:600px">
       <div class="f-row">
         <label>Name<input name="name" required></label>
         <label>Organization<input name="org"></label>
@@ -434,52 +281,55 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       </label>
       <label>Message<textarea name="message" rows="4"></textarea></label>
       <button type="submit" class="modal-send">Send</button>
-      <p class="modal-note">Opens your email client, pre-addressed to Brad@acuityglobalpartners.com.</p>
     </form>
   </div>
-</div>
+</section>
+
+<footer>&#169; 2026 Acuity Global Partners &#183; Washington, DC</footer>
+
 <script>
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('go');io.unobserve(e.target)}})},{threshold:.2});
 document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
+
+/* offset anchor scrolls to land just below the sticky bar */
 (function(){
-  var ids=['top','services','who','about'];
+  var bar=document.querySelector('.topbar');
+  function setPad(){document.documentElement.style.scrollPaddingTop=(bar.offsetHeight-2)+'px';}
+  setPad();window.addEventListener('resize',setPad);
+})();
+
+/* mobile hamburger */
+(function(){
+  var btn=document.querySelector('.navtoggle'),nav=document.getElementById('primary-nav');
+  if(!btn||!nav)return;
+  btn.addEventListener('click',function(){
+    var open=nav.classList.toggle('open');
+    btn.classList.toggle('x',open);
+    btn.setAttribute('aria-expanded',open?'true':'false');
+  });
+  nav.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){
+    nav.classList.remove('open');btn.classList.remove('x');btn.setAttribute('aria-expanded','false');
+  });});
+})();
+
+/* scrollspy */
+(function(){
+  var ids=['top','services','deliver','who','about','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
-  function setActive(id){document.querySelectorAll('.side nav a').forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+id)})}
+  function setActive(id){document.querySelectorAll('#primary-nav a').forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+id)})}
   var spy=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting)setActive(e.target.id)})},{rootMargin:'-45% 0px -50% 0px',threshold:0});
   secs.forEach(function(sec){spy.observe(sec)});
   setActive('top');
 })();
-function chainPlay(id, srcs){
-  var host=document.getElementById(id);if(!host)return;
-  var vids=[].slice.call(host.querySelectorAll('video')),cur=0;
-  vids.forEach(function(v,i){v.classList.toggle('on',i===0);v.muted=true;v.playsInline=true;});
-  vids[0].play();
-  vids.forEach(function(v,i){
-    v.addEventListener('timeupdate',function(){
-      if(v.duration && v.currentTime > v.duration-0.85 && i===cur){
-        var nx=(cur+1)%vids.length;
-        vids[nx].currentTime=0;vids[nx].play();
-        vids[nx].classList.add('on');v.classList.remove('on');
-        cur=nx;
-      }
-    });
-  });
-}
 
-
+/* contact form (inline) */
 (function(){
-  var modal=document.getElementById('contactModal');
-  if(!modal)return;
-  function open(e){if(e)e.preventDefault();modal.classList.add('open');}
-  function close(){modal.classList.remove('open');}
-  document.querySelectorAll('.mail-icon').forEach(function(o){o.addEventListener('click',open);});
-  modal.querySelectorAll('[data-close]').forEach(function(c){c.addEventListener('click',close);});
-  document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});
   var form=document.getElementById('contactForm');
+  if(!form)return;
   form.addEventListener('submit',function(e){
     e.preventDefault();
     var d=new FormData(form);
-    var subj='Consultation Request \u2014 '+(d.get('name')||'');
+    var subj='Engagement Inquiry — '+(d.get('name')||'');
     var body='Name: '+(d.get('name')||'')+'\nOrganization: '+(d.get('org')||'')+'\nEmail: '+(d.get('email')||'')+'\nNature of inquiry: '+(d.get('inquiry')||'')+'\n\n'+(d.get('message')||'');
     window.location.href='mailto:Brad@acuityglobalpartners.com?subject='+encodeURIComponent(subj)+'&body='+encodeURIComponent(body);
   });
