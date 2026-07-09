@@ -19,9 +19,8 @@ a{color:var(--fg);text-decoration:none}
 .topbar{position:sticky;top:0;z-index:120;display:flex;align-items:center;justify-content:space-between;padding:12px 40px;background:rgba(4,11,34,.78);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
 .brand{display:inline-block;background:transparent;line-height:0}
 .brand-logo{display:block;width:100%;max-width:184px}
-.brand-group{display:flex;align-items:center;gap:26px}
-.loc{font-size:11.5px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--dim);opacity:.8;white-space:nowrap}
-@media(max-width:1000px){.loc{display:none}}
+.brand-group{display:flex;flex-direction:column;align-items:flex-start;gap:7px}
+.loc{font-size:11.5px;font-weight:500;letter-spacing:.2em;text-transform:uppercase;color:var(--dim);opacity:.95;white-space:nowrap;padding-left:2px}
 .topbar nav{display:flex;align-items:center;gap:4px}
 .topbar nav a{color:#E4ECFB;font-size:15px;font-weight:600;padding:9px 15px;border-radius:9px;transition:all .2s}
 .topbar nav a:hover,.topbar nav a.active{color:#fff;background:rgba(255,255,255,.1)}
