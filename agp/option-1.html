@@ -227,7 +227,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   </div>
 </section>
 
-<section id="who" style="padding-top:8px">
+<section id="who" style="padding-top:56px">
   <div class="wrap">
     <p class="label rv">Clients</p>
     <h2 class="t rv">Winning and operating in <em>government markets.</em></h2>
@@ -240,7 +240,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   </div>
 </section>
 
-<section id="about" style="padding-top:8px">
+<section id="about" style="padding-top:56px">
   <div class="wrap">
     <p class="label rv">Leadership</p>
     <div class="wa-top rv">
@@ -294,8 +294,13 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
 /* offset anchor scrolls to land just below the sticky bar */
 (function(){
   var bar=document.querySelector('.topbar');
-  function setPad(){document.documentElement.style.scrollPaddingTop=(bar.offsetHeight-2)+'px';}
-  setPad();window.addEventListener('resize',setPad);
+  function setPad(){document.documentElement.style.scrollPaddingTop=(Math.round(bar.getBoundingClientRect().height)-1)+'px';}
+  setPad();
+  window.addEventListener('resize',setPad);
+  window.addEventListener('load',setPad);
+  var logo=document.querySelector('.brand-logo');
+  if(logo&&!logo.complete)logo.addEventListener('load',setPad);
+  if(document.fonts&&document.fonts.ready)document.fonts.ready.then(setPad);
 })();
 
 /* mobile hamburger */
