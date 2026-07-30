@@ -53,6 +53,16 @@
           '<span class="nf-tdot" aria-hidden="true"></span><span>Public Sector Intel</span></span>' +
         '<div class="nf-ticker-viewport"><div class="nf-ticker-track" id="nf-tick-track"></div></div>';
       hero.parentNode.insertBefore(bar, hero);
+      /* Pin the ticker directly under the sticky topbar so it stays visible
+         while scrolling every section. Anchor jumps account for its height. */
+      var pin = function () {
+        var tb = document.querySelector(".topbar");
+        var h = tb ? tb.offsetHeight : 0;
+        bar.style.top = h + "px";
+        document.documentElement.style.scrollPaddingTop = (h + bar.offsetHeight + 8) + "px";
+      };
+      pin();
+      window.addEventListener("resize", pin);
     }
     var html = list.map(function (s) {
       return '<a class="nf-ticker-item" href="' + esc(safeHref(s.url)) + '" target="_blank" rel="noopener noreferrer nofollow">' +
