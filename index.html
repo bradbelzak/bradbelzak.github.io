@@ -187,6 +187,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .modal-note{font-size:12px;color:var(--dim);margin-top:14px}
 @media(max-width:600px){.f-row{grid-template-columns:1fr}.modal-card{padding:28px 22px}}
 </style>
+<link rel="stylesheet" href="agp/assets/news-feed.css">
+<link rel="stylesheet" href="agp/assets/spacing-audit.css">
 </head>
 <body>
 
@@ -211,6 +213,29 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   <div class="htitle">
     <p class="gpsa">US Public Sector Advisory</p>
     <h1>We help technology companies and their investors enter, operate, and win in government markets worldwide.</h1>
+  </div>
+</section>
+
+
+<!-- ===== Acuity public-sector news feed (data: agp/assets/feed.json) ===== -->
+<section class="nf rv" id="news-feed" aria-labelledby="nf-heading">
+  <div class="wrap">
+    <div class="nf-head">
+      <div>
+        <h2 class="nf-h" id="nf-heading">Latest U.S. Public Sector Intelligence</h2>
+        <p class="nf-sub">Government developments that could affect how technology companies enter, compete, and win in the federal market.</p>
+      </div>
+      <div class="nf-meta">
+        <span class="nf-live" id="nf-live" data-state="stale"><span class="nf-dot" aria-hidden="true"></span><span class="nf-live-text">Latest</span></span>
+        <span class="nf-updated" id="nf-updated"></span>
+      </div>
+    </div>
+    <div class="nf-filters" id="nf-filters" role="group" aria-label="Filter intelligence by category" hidden></div>
+    <div id="nf-body" aria-live="polite" aria-busy="true" style="min-height:420px"></div>
+    <div class="nf-cta">
+      <p>Turn government developments into a federal market plan.</p>
+      <a class="nf-btn" id="nf-cta-btn" href="#contact">Discuss Your Federal Strategy</a>
+    </div>
   </div>
 </section>
 
@@ -413,5 +438,15 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
   });
 })();
 </script>
+<script>
+window.AGP_FEED_CONFIG = {
+  endpoint: "agp/assets/feed.json",
+  refreshMinutes: 15,
+  staleAfterMinutes: 90,
+  visibleFilters: ["All","Acquisition and Contracting","AI and Cybersecurity","Compliance and Security"],
+  ctaHref: "#contact"
+};
+</script>
+<script src="agp/assets/news-feed.js" defer></script>
 </body>
 </html>
