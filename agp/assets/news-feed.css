@@ -109,8 +109,10 @@
    Top-of-page scrolling headline ticker (element injected by news-feed.js
    between the sticky header and the hero). Continuous marquee, pause on
    hover/focus, edge fades, static + scrollable under reduced motion.
+   Sticky: pinned under the topbar so the feed stays visible while
+   scrolling every section (top offset set by news-feed.js).
    =========================================================================== */
-.nf-ticker{ position:relative; display:flex; align-items:stretch; height:46px; background:var(--sidebg); border-bottom:1px solid var(--line); overflow:hidden; }
+.nf-ticker{ position:sticky; top:var(--nf-ticker-top,58px); z-index:110; display:flex; align-items:stretch; height:46px; background:var(--sidebg); border-bottom:1px solid var(--line); overflow:hidden; }
 .nf-ticker-label{ flex:0 0 auto; display:flex; align-items:center; gap:8px; padding:0 18px; font-size:10.5px; font-weight:700; letter-spacing:2.2px; text-transform:uppercase; color:var(--fg); text-decoration:none; background:var(--sidebg); border-right:1px solid var(--line); white-space:nowrap; z-index:2; }
 .nf-ticker-label:hover span:last-child{ text-decoration:underline; }
 .nf-tdot{ width:7px; height:7px; border-radius:50%; background:#5BE49B; box-shadow:0 0 0 0 rgba(91,228,155,.55); animation:nf-pulse 2.4s ease-out infinite; }
