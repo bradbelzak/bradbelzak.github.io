@@ -1,0 +1,95 @@
+/* ===========================================================================
+   Acuity Global Partners — public-sector news feed
+   Uses the site's existing tokens only: --bg --fg --dim --line --line2
+   --sidebg --card --glow. Fonts inherited (Fraunces headings / Figtree body).
+   =========================================================================== */
+
+:root{
+  --sp-section: clamp(48px, 7vw, 118px);
+  --sp-group:   clamp(24px, 3vw, 40px);
+  --sp-tight:   clamp(16px, 1.6vw, 24px);
+  --sp-cardpad: clamp(18px, 2.2vw, 30px);
+  --nf-radius: 12px;
+}
+
+.nf{ padding: var(--sp-section) 60px; background: var(--sidebg); border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.nf .wrap{ max-width:1120px; margin:0 auto; }
+
+.nf-head{ display:flex; align-items:flex-end; justify-content:space-between; gap:var(--sp-tight); flex-wrap:wrap; margin-bottom:var(--sp-group); }
+.nf-h{ margin:0 0 8px; font-family:Fraunces,Georgia,serif; font-weight:600; font-size:clamp(26px,3.2vw,38px); line-height:1.12; letter-spacing:-.3px; color:var(--fg); }
+.nf-sub{ margin:0; max-width:64ch; color:var(--dim); font-size:clamp(14px,1.15vw,16px); line-height:1.6; }
+
+.nf-meta{ display:flex; align-items:center; gap:10px; white-space:nowrap; }
+.nf-live{ display:inline-flex; align-items:center; gap:7px; font-size:11px; font-weight:700; letter-spacing:2.4px; text-transform:uppercase; color:var(--fg); border:1px solid var(--line2); border-radius:99px; padding:5px 12px; }
+.nf-dot{ width:7px; height:7px; border-radius:50%; background:#5BE49B; box-shadow:0 0 0 0 rgba(91,228,155,.55); animation:nf-pulse 2.4s ease-out infinite; }
+.nf-live[data-state="stale"] .nf-dot{ background:var(--dim); animation:none; }
+@keyframes nf-pulse{ 70%{ box-shadow:0 0 0 7px rgba(91,228,155,0);} 100%{ box-shadow:0 0 0 0 rgba(91,228,155,0);} }
+.nf-updated{ font-size:12px; color:var(--dim); }
+
+.nf-filters{ display:flex; gap:8px; flex-wrap:wrap; margin-bottom:var(--sp-group); }
+.nf-filter{ font:inherit; font-size:12.5px; font-weight:600; color:var(--dim); background:transparent; border:1px solid var(--line); border-radius:99px; padding:7px 15px; cursor:pointer; transition:color .2s, border-color .2s, background .2s; }
+.nf-filter:hover{ color:var(--fg); border-color:var(--line2); }
+.nf-filter[aria-pressed="true"]{ color:var(--bg); background:var(--fg); border-color:var(--fg); }
+.nf-filter:focus-visible, .nf a:focus-visible, .nf button:focus-visible{ outline:2px solid var(--fg); outline-offset:3px; border-radius:6px; }
+
+.nf-grid{ display:grid; grid-template-columns:1.15fr 1fr; gap:var(--sp-tight); align-items:start; }
+.nf-list{ display:grid; gap:var(--sp-tight); }
+
+.nf-card{ position:relative; display:block; background:var(--card); border:1px solid var(--line); border-radius:var(--nf-radius); padding:var(--sp-cardpad); color:inherit; text-decoration:none; transition:border-color .25s ease, transform .25s ease; }
+.nf-card:hover{ border-color:var(--line2); transform:translateY(-2px); }
+.nf-card--lead{ height:100%; display:flex; flex-direction:column; }
+
+.nf-kicker{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-bottom:12px; }
+.nf-cat{ font-size:10.5px; font-weight:700; letter-spacing:1.8px; text-transform:uppercase; color:var(--fg); border:1px solid var(--line2); border-radius:4px; padding:3px 8px; }
+.nf-src{ font-size:12px; color:var(--dim); font-weight:600; }
+.nf-time{ font-size:12px; color:var(--dim); }
+
+.nf-title{ margin:0 0 10px; font-family:Fraunces,Georgia,serif; font-weight:600; color:var(--fg); letter-spacing:-.2px; }
+.nf-card--lead .nf-title{ font-size:clamp(21px,2.3vw,29px); line-height:1.2; }
+.nf-card--sm .nf-title{ font-size:clamp(15px,1.35vw,17.5px); line-height:1.32; }
+
+.nf-why{ margin:0; color:var(--dim); line-height:1.62; }
+.nf-card--lead .nf-why{ font-size:15px; }
+.nf-card--sm .nf-why{ font-size:13.5px; }
+.nf-whylabel{ display:block; font-size:10.5px; font-weight:700; letter-spacing:1.6px; text-transform:uppercase; color:var(--fg); opacity:.72; margin-bottom:5px; }
+
+.nf-ext{ display:inline-flex; align-items:center; gap:6px; margin-top:auto; padding-top:14px; font-size:12.5px; font-weight:600; color:var(--fg); }
+.nf-ext svg{ width:11px; height:11px; flex:0 0 auto; }
+.nf-card--sm .nf-ext{ padding-top:10px; }
+
+.nf-more{ display:none; width:100%; margin-top:var(--sp-tight); font:inherit; font-size:14px; font-weight:700; color:var(--fg); background:transparent; border:1px solid var(--line2); border-radius:8px; padding:13px 20px; cursor:pointer; }
+.nf-more:hover{ background:rgba(255,255,255,.05); }
+
+.nf-cta{ display:flex; align-items:center; justify-content:space-between; gap:var(--sp-tight); flex-wrap:wrap; margin-top:var(--sp-group); padding-top:var(--sp-group); border-top:1px solid var(--line); }
+.nf-cta p{ margin:0; font-family:Fraunces,Georgia,serif; font-size:clamp(17px,1.8vw,22px); color:var(--fg); letter-spacing:-.2px; }
+.nf-btn{ display:inline-block; background:#fff; color:#0A1440; font-weight:700; font-size:15px; border:0; border-radius:8px; padding:14px 30px; text-decoration:none; transition:transform .2s ease, opacity .2s ease; }
+.nf-btn:hover{ transform:translateY(-1px); opacity:.92; }
+
+.nf-skel{ background:var(--card); border:1px solid var(--line); border-radius:var(--nf-radius); padding:var(--sp-cardpad); }
+.nf-bar{ height:11px; border-radius:6px; background:linear-gradient(90deg,rgba(255,255,255,.05),rgba(255,255,255,.12),rgba(255,255,255,.05)); background-size:200% 100%; animation:nf-shimmer 1.5s linear infinite; margin-bottom:10px; }
+@keyframes nf-shimmer{ to{ background-position:-200% 0; } }
+.nf-note{ color:var(--dim); font-size:14px; line-height:1.6; padding:var(--sp-cardpad); border:1px dashed var(--line); border-radius:var(--nf-radius); }
+.nf-fade{ animation:nf-in .45s cubic-bezier(.16,1,.3,1) both; }
+@keyframes nf-in{ from{ opacity:0; transform:translateY(6px);} to{ opacity:1; transform:none;} }
+.nf-sr{ position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0 0 0 0); white-space:nowrap; border:0; }
+
+@media (max-width:900px){
+  .nf{ padding: var(--sp-section) 34px; }
+  .nf-grid{ grid-template-columns:1fr; }
+}
+@media (max-width:700px){
+  .nf{ padding: var(--sp-section) 22px; }
+  .nf-head{ flex-direction:column; align-items:flex-start; }
+  .nf-card--sm.nf-hidden{ display:none; }
+  .nf-more{ display:block; }
+  .nf-cta{ flex-direction:column; align-items:flex-start; }
+  .nf-btn{ width:100%; text-align:center; }
+}
+@media (max-width:600px){
+  .nf-filters{ overflow-x:auto; flex-wrap:nowrap; -webkit-overflow-scrolling:touch; padding-bottom:4px; }
+  .nf-filter{ flex:0 0 auto; }
+}
+@media (prefers-reduced-motion:reduce){
+  .nf-dot{ animation:none; } .nf-bar{ animation:none; }
+  .nf-card, .nf-btn{ transition:none; } .nf-fade{ animation:none; }
+}

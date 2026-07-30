@@ -1,0 +1,51 @@
+{
+ "updatedAt": "2026-07-30T17:09:35.853Z",
+ "live": true,
+ "stories": [
+  {
+   "title": "VA won't require existing FedRAMP certification for cloud contracts, memo reveals",
+   "url": "https://fedscoop.com/veterans-affairs-no-fedramp-certification-cloud-contractors-memo/",
+   "source": "FedScoop",
+   "category": "Compliance and Security",
+   "published": "2026-07-29T15:26:19.000Z",
+   "why": "VA will award cloud contracts without requiring existing FedRAMP certification, removing a gate that has slowed younger cloud vendors in VA procurements, while the memo holds vendors to security standards.",
+   "whyGenerated": true
+  },
+  {
+   "title": "Navy using LETHALITY Consortium to advance network consolidation initiative",
+   "url": "https://defensescoop.com/2026/07/29/navy-network-consolidation-initiative-nswc-corona/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-07-29T16:31:12.000Z",
+   "why": "The Navy is executing IT and data-architecture modernization at NSWC Corona through the LETHALITY Consortium, underscoring consortium membership as a practical route into naval modernization work.",
+   "whyGenerated": true
+  },
+  {
+   "title": "Homeland Security plans to add more AI to FOIA processing",
+   "url": "https://fedscoop.com/dhs-foia-processing-ai-tools/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-07-29T20:25:44.000Z",
+   "why": "The agency wants automation tools to improve efficiency amid an increasing volume of requests.",
+   "whyGenerated": true
+  },
+  {
+   "title": "DFARS: Modifications to Printed Circuit Board Acquisition Restrictions (DFARS Case 2022-D011)",
+   "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13375/defense-federal-acquisition-regulation-supplement-modifications-to-printed-circuit-board-acquisition",
+   "source": "Federal Register — Defense Department",
+   "category": "Acquisition and Contracting",
+   "published": "2026-07-02T12:00:00.000Z",
+   "why": "DoD's proposed DFARS revision on printed circuit board acquisition restrictions implements NDAA supply-chain mandates; hardware vendors selling into defense should assess sourcing exposure and consider commenting.",
+   "whyGenerated": true
+  },
+  {
+   "title": "DoD is looking for new ways to bring commercial innovation into national security",
+   "url": "https://federalnewsnetwork.com/contracting/2026/07/dod-is-looking-for-new-ways-to-bring-commercial-innovation-into-national-security/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-07-28T18:39:08.000Z",
+   "why": "DoD is reexamining which commercial business models it will accept in national-security acquisition, a signal for non-traditional vendors to watch for new entry paths beyond conventional contracts.",
+   "whyGenerated": true
+  }
+ ]
+}
