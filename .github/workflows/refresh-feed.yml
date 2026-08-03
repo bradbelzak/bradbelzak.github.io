@@ -1,0 +1,106 @@
+name: refresh-news-feed
+
+# Refreshes agp/assets/feed.json for the public sector ticker on
+# acuityglobalpartners.com. Commits only when the story list actually changes,
+# so Pages is not rebuilt for nothing and the commit history stays readable.
+#
+# Cadence (GitHub cron is UTC; both DST offsets are scheduled and the guard
+# below no-ops the wrong one). Runs at :10 past to dodge top-of-hour congestion.
+#   07:10 ET, 12:10 ET, 17:10 ET  Mon-Fri
+#   09:10 ET                      Sat
+
+on:
+  schedule:
+    - cron: "10 11 * * 1-5"   # 07:10 EDT
+    - cron: "10 12 * * 1-5"   # 07:10 EST
+    - cron: "10 16 * * 1-5"   # 12:10 EDT
+    - cron: "10 17 * * 1-5"   # 12:10 EST
+    - cron: "10 21 * * 1-5"   # 17:10 EDT
+    - cron: "10 22 * * 1-5"   # 17:10 EST
+    - cron: "10 13 * * 6"     # 09:10 EDT Sat
+    - cron: "10 14 * * 6"     # 09:10 EST Sat
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-news-feed
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Skip the wrong daylight-saving twin
+        id: guard
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          python3 - <<'PY'
+          import datetime, os
+          from zoneinfo import ZoneInfo
+
+          run = "true"
+          if os.environ.get("EVENT_NAME") == "schedule":
+              parts = os.environ.get("SCHEDULE", "").split()
+              run = "false"
+              if len(parts) >= 2:
+                  minute, hour = int(parts[0]), int(parts[1])
+                  today = datetime.datetime.now(ZoneInfo("UTC")).date()
+                  intended = datetime.datetime(today.year, today.month, today.day,
+                                               hour, minute, tzinfo=ZoneInfo("UTC"))
+                  et = intended.astimezone(ZoneInfo("America/New_York"))
+                  if et.hour in (7, 12, 17, 9):
+                      run = "true"
+                  print(f"cron -> ET {et.isoformat()} -> run={run}")
+
+          with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+              f.write(f"run={run}\n")
+          PY
+
+      - name: Set up Python
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        if: steps.guard.outputs.run == 'true'
+        run: pip install feedparser requests anthropic
+
+      - name: Build feed
+        if: steps.guard.outputs.run == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python build_feed.py
+
+      - name: Commit only if the stories changed
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "agp-feed-bot"
+          git config user.email "agp-feed-bot@users.noreply.github.com"
+
+          if git diff --quiet -- agp/assets/feed.json; then
+            echo "feed.json unchanged; nothing to commit"
+            exit 0
+          fi
+
+          # updatedAt moves every run. If that is the ONLY change, revert and
+          # skip, so a quiet news day does not trigger a pointless Pages rebuild.
+          SUBSTANTIVE=$(git diff -U0 -- agp/assets/feed.json \
+            | grep -E '^[+-]' \
+            | grep -v -E '^(\+\+\+|---)' \
+            | grep -v '"updatedAt"' || true)
+          if [ -z "$SUBSTANTIVE" ]; then
+            echo "only the timestamp moved; skipping commit"
+            git checkout -- agp/assets/feed.json
+            exit 0
+          fi
+
+          git add agp/assets/feed.json
+          git commit -m "feed: refresh public sector ticker"
+          git push
