@@ -1,51 +1,72 @@
 {
- "updatedAt": "2026-07-30T17:09:35.853Z",
+ "updatedAt": "2026-08-03T16:09:08.550060Z",
  "live": true,
+ "generator": "build_feed.py",
+ "windowDays": 7,
  "stories": [
   {
-   "title": "VA won't require existing FedRAMP certification for cloud contracts, memo reveals",
-   "url": "https://fedscoop.com/veterans-affairs-no-fedramp-certification-cloud-contractors-memo/",
-   "source": "FedScoop",
-   "category": "Compliance and Security",
-   "published": "2026-07-29T15:26:19.000Z",
-   "why": "VA will award cloud contracts without requiring existing FedRAMP certification, removing a gate that has slowed younger cloud vendors in VA procurements, while the memo holds vendors to security standards.",
-   "whyGenerated": true
+   "title": "Senate’s stopgap funding bill rejects special requests for Trump battleship, munitions",
+   "url": "https://breakingdefense.com/2026/08/senates-stopgap-funding-bill-rejects-special-requests-for-trump-battleship-munitions/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-03T16:00:56Z",
+   "why": ""
   },
   {
-   "title": "Navy using LETHALITY Consortium to advance network consolidation initiative",
-   "url": "https://defensescoop.com/2026/07/29/navy-network-consolidation-initiative-nswc-corona/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-07-29T16:31:12.000Z",
-   "why": "The Navy is executing IT and data-architecture modernization at NSWC Corona through the LETHALITY Consortium, underscoring consortium membership as a practical route into naval modernization work.",
-   "whyGenerated": true
-  },
-  {
-   "title": "Homeland Security plans to add more AI to FOIA processing",
-   "url": "https://fedscoop.com/dhs-foia-processing-ai-tools/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-07-29T20:25:44.000Z",
-   "why": "The agency wants automation tools to improve efficiency amid an increasing volume of requests.",
-   "whyGenerated": true
-  },
-  {
-   "title": "DFARS: Modifications to Printed Circuit Board Acquisition Restrictions (DFARS Case 2022-D011)",
-   "url": "https://www.federalregister.gov/documents/2026/07/02/2026-13375/defense-federal-acquisition-regulation-supplement-modifications-to-printed-circuit-board-acquisition",
-   "source": "Federal Register — Defense Department",
-   "category": "Acquisition and Contracting",
-   "published": "2026-07-02T12:00:00.000Z",
-   "why": "DoD's proposed DFARS revision on printed circuit board acquisition restrictions implements NDAA supply-chain mandates; hardware vendors selling into defense should assess sourcing exposure and consider commenting.",
-   "whyGenerated": true
-  },
-  {
-   "title": "DoD is looking for new ways to bring commercial innovation into national security",
-   "url": "https://federalnewsnetwork.com/contracting/2026/07/dod-is-looking-for-new-ways-to-bring-commercial-innovation-into-national-security/",
+   "title": "Senate CR would delay OMB’s grants rewrite",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/senate-cr-would-delay-ombs-grants-rewrite/",
    "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-07-28T18:39:08.000Z",
-   "why": "DoD is reexamining which commercial business models it will accept in national-security acquisition, a signal for non-traditional vendors to watch for new entry paths beyond conventional contracts.",
-   "whyGenerated": true
+   "category": "Technology Modernization",
+   "published": "2026-08-03T15:52:22Z",
+   "why": ""
+  },
+  {
+   "title": "GSA teases future steps to improve Login.gov user experience",
+   "url": "https://www.nextgov.com/digital-government/2026/08/gsa-teases-future-steps-improve-logingov-user-experience/415155/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T15:00:00Z",
+   "why": ""
+  },
+  {
+   "title": "OPM breach victims could get identity protection for life",
+   "url": "https://www.govexec.com/management/2026/08/opm-breach-victims-could-get-identity-protection-life/415167/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T15:00:00Z",
+   "why": ""
+  },
+  {
+   "title": "Lawmakers propose giving 2015 OPM breach victims identity protection for life",
+   "url": "https://www.nextgov.com/cybersecurity/2026/08/lawmakers-propose-giving-2015-opm-breach-victims-identity-protection-life/415166/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T13:00:00Z",
+   "why": ""
+  },
+  {
+   "title": "Northrop gets $3B framework deal to increase motor production for PAC-3, THAAD",
+   "url": "https://breakingdefense.com/2026/08/northrop-gets-3b-framework-deal-to-increase-motor-production-for-pac-3-thaad/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-03T12:18:14Z",
+   "why": ""
+  },
+  {
+   "title": "Visas: Visa Bond Program",
+   "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
+   "source": "Federal Register - State Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-03T12:00:00Z",
+   "why": ""
+  },
+  {
+   "title": "Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115",
+   "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled",
+   "source": "Federal Register - Federal Communications Commission",
+   "category": "Policy and Regulation",
+   "published": "2026-08-03T12:00:00Z",
+   "why": ""
   }
  ]
 }
