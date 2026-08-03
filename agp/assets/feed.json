@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-03T17:53:02.769583Z",
+ "updatedAt": "2026-08-03T22:15:15.932816Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
-   "url": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-03T17:38:42Z",
-   "why": "The German GMF 140 is envisioned to integrate US-sourced radar options, hypersonic weapons and ballistic missiles, the AEGIS Combat System, and 64..."
-  },
-  {
-   "title": "GSA’s digital roadmap looks to enhance agencies’ services, CIO says",
-   "url": "https://www.nextgov.com/digital-government/2026/08/gsas-digital-roadmap-looks-enhance-agencies-services-cio-says/415177/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-03T17:00:00Z",
-   "why": "Efforts to speed up adoption of new capabilities have “disrupted the longstanding practice of how technology is driven into this government,” GSA CIO Dave..."
-  },
-  {
-   "title": "Senate’s stopgap funding bill rejects special requests for Trump battleship, munitions",
-   "url": "https://breakingdefense.com/2026/08/senates-stopgap-funding-bill-rejects-special-requests-for-trump-battleship-munitions/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-03T16:00:56Z",
-   "why": "If passed by the Senate and House, the continuing resolution would extend federal funding until Dec."
-  },
-  {
-   "title": "Senate continuing resolution would delay OMB’s grants rewrite",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/senate-cr-would-delay-ombs-grants-rewrite/",
+   "title": "Senate stopgap extends key cyber authorities, TMF",
+   "url": "https://federalnewsnetwork.com/congress/2026/08/senate-stopgap-extends-key-cyber-authorities-tmf/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-03T15:52:22Z",
-   "why": "It also includes provisions to expand hiring authority for the National Taxpayer Advocate and the Office of Appeals."
+   "published": "2026-08-03T21:58:43Z",
+   "why": "The Senate's CR would keep the government open through Dec."
   },
   {
-   "title": "GSA teases future steps to improve Login.gov user experience",
-   "url": "https://www.nextgov.com/digital-government/2026/08/gsa-teases-future-steps-improve-logingov-user-experience/415155/",
-   "source": "Nextgov",
+   "title": "Key parts of federal employee performance overhaul ‘non-negotiable,’ OPM says",
+   "url": "https://federalnewsnetwork.com/unions/2026/08/key-parts-of-federal-employee-performance-overhaul-non-negotiable-opm-says/",
+   "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-03T15:00:00Z",
-   "why": "The agency is touting recent updates to the platform ahead of its 10 year anniversary next April."
+   "published": "2026-08-03T21:46:42Z",
+   "why": "A recent OPM memo details what aspects of the new performance management system override collective bargaining, and what remains subject to negotiation."
   },
   {
-   "title": "OPM breach victims could get identity protection for life",
-   "url": "https://www.govexec.com/management/2026/08/opm-breach-victims-could-get-identity-protection-life/415167/",
+   "title": "Public interest coalition urges Congress to investigate OpenAI, Hugging Face hack",
+   "url": "https://fedscoop.com/public-interest-coalition-urges-congress-investigate-openai-hugging-face-hack/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T21:37:24Z",
+   "why": "The group of public interest and left-leaning organizations urged Congress to open an investigation into an OpenAI model that went rogue."
+  },
+  {
+   "title": "America does not have a procurement problem — it has an access problem",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/america-does-not-have-a-procurement-problem-it-has-an-access-problem/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T21:26:37Z",
+   "why": "If we genuinely want more competition and more participation from women-owned, minority-owned and small businesses, we need to rethink what access means."
+  },
+  {
+   "title": "The hidden challenge of 508 compliance",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/the-hidden-challenge-of-508-compliance/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T21:23:33Z",
+   "why": "Federal agencies don't have an accessibility problem."
+  },
+  {
+   "title": "LGBTQ+ feds sue to restore FEHB coverage of gender affirming care",
+   "url": "https://www.govexec.com/pay-benefits/2026/08/lgbtq-feds-sue-restore-fehb-coverage-gender-affirming-care/415187/",
    "source": "Government Executive",
    "category": "Technology Modernization",
-   "published": "2026-08-03T15:00:00Z",
-   "why": "The federal government’s coverage for 22.1 million people hoovered up in the China-linked breaches is scheduled to end Sept."
+   "published": "2026-08-03T21:18:35Z",
+   "why": "A class action lawsuit challenging the Trump administration’s campaign to block gender affirming care coverage under federal agencies’ employer-sponsored..."
   },
   {
-   "title": "Lawmakers propose giving 2015 OPM breach victims identity protection for life",
-   "url": "https://www.nextgov.com/cybersecurity/2026/08/lawmakers-propose-giving-2015-opm-breach-victims-identity-protection-life/415166/",
-   "source": "Nextgov",
+   "title": "FBI counter-drone training isn’t keeping pace with demand",
+   "url": "https://fedscoop.com/fbi-drone-training-center-demand-outpaces-capacity/",
+   "source": "FedScoop",
    "category": "Technology Modernization",
-   "published": "2026-08-03T13:00:00Z",
-   "why": "The federal government’s coverage for 22.1 million people hoovered up in the China-linked breaches is scheduled to end Sept."
+   "published": "2026-08-03T21:03:46Z",
+   "why": "The bureau is expecting to train 250 more UAS mitigation officers by the end of next fiscal year."
   },
   {
-   "title": "Northrop gets $3B framework deal to increase motor production for PAC-3, THAAD",
-   "url": "https://breakingdefense.com/2026/08/northrop-gets-3b-framework-deal-to-increase-motor-production-for-pac-3-thaad/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-03T12:18:14Z",
-   "why": "The deal will allow Northrop to stand up production as a second supplier of solid rocket motors for the PAC-3 interceptor."
+   "title": "CMS moving beyond compliance-based cybersecurity",
+   "url": "https://federalnewsnetwork.com/federal-insights/2026/08/cms-moving-beyond-compliance-based-cybersecurity/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T20:39:00Z",
+   "why": "CMS CISO Keith Busby says his organization's cybersecurity efforts are aimed at linking compliance with “threat-informed, risk-based defense.\""
   }
  ]
 }
