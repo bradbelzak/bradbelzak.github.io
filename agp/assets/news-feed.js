@@ -108,3 +108,84 @@
   var mins = Math.min(60, Math.max(5, CFG.refreshMinutes || 15));
   setInterval(load, mins * 6e4);
 })();
+
+
+/* ---------------------------------------------------------------------------
+   Freshness guard (added 2026-08-03)
+   feed.json is rebuilt on a schedule by .github/workflows/refresh-feed.yml.
+   If that pipeline stalls, the ticker must not keep implying the news is live.
+   This watches the feed's updatedAt and, past STALE_AFTER_HOURS, drops the
+   pulsing green dot to a muted state and relabels it. It also hangs each
+   story's one-line 'why it matters' on the link as a hover title.
+   --------------------------------------------------------------------------- */
+(function () {
+  "use strict";
+
+  var STALE_AFTER_HOURS = 12;
+  var CFG = window.AGP_FEED_CONFIG || {};
+  var ENDPOINT = CFG.endpoint || "agp/assets/feed.json";
+
+  function applyFreshness(payload) {
+    var bar = document.getElementById("nf-ticker");
+    if (!bar || !payload || !payload.updatedAt) return;
+
+    var ageH = (Date.now() - Date.parse(payload.updatedAt)) / 3600000;
+    if (!isFinite(ageH)) return;
+
+    var dot = bar.querySelector(".nf-tdot");
+    var label = bar.querySelector(".nf-ticker-label span:last-child");
+    var stale = ageH > STALE_AFTER_HOURS;
+
+    if (dot) {
+      dot.style.background = stale ? "#8a8f98" : "";
+      dot.style.animation = stale ? "none" : "";
+      dot.style.boxShadow = stale ? "none" : "";
+    }
+    if (label) {
+      label.textContent = stale ? "Public Sector Intel (delayed)" : "Public Sector Intel";
+    }
+    bar.setAttribute("data-state", stale ? "stale" : "live");
+    bar.setAttribute(
+      "title",
+      "Feed updated " + (ageH < 1
+        ? Math.max(1, Math.round(ageH * 60)) + " minutes ago"
+        : Math.round(ageH) + " hours ago")
+    );
+  }
+
+  function annotate(payload) {
+    if (!payload || !Array.isArray(payload.stories)) return;
+    var byUrl = {};
+    payload.stories.forEach(function (s) {
+      if (s && s.url && s.why) byUrl[s.url] = s.why;
+    });
+    document.querySelectorAll(".nf-ticker-item").forEach(function (a) {
+      var why = byUrl[a.getAttribute("href")];
+      if (why && !a.getAttribute("title")) a.setAttribute("title", why);
+    });
+  }
+
+  function check() {
+    fetch(ENDPOINT, { headers: { accept: "application/json" }, cache: "no-store" })
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (p) {
+        if (!p) return;
+        applyFreshness(p);
+        annotate(p);
+      })
+      .catch(function () { /* never break the page over a status dot */ });
+  }
+
+  // Wait for the ticker to be injected by the loader above, then annotate it.
+  var tries = 0;
+  var poll = setInterval(function () {
+    tries += 1;
+    if (document.getElementById("nf-ticker")) {
+      clearInterval(poll);
+      check();
+      setInterval(check, 10 * 60 * 1000);
+    } else if (tries > 40) {
+      clearInterval(poll);
+    }
+  }, 500);
+})();
