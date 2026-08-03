@@ -318,3 +318,39 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# ---------------------------------------------------------------------------
+# Fallback blurbs (2026-08-03)
+# The homepage strip renders a one-line "why" under each headline. Without an
+# ANTHROPIC_API_KEY the model path is skipped, which used to leave "why" empty
+# and the strip hidden. Fall back to the item's own first sentence so the strip
+# always has something real to show; the model upgrade turns it from
+# descriptive into analytical. Defined last, so this is the version used.
+# ---------------------------------------------------------------------------
+
+def _first_sentence(text, limit=160):
+    text = (text or "").strip()
+    if not text:
+        return ""
+    parts = re.split(r"(?<=[.!?])\s+", text)
+    out = parts[0].strip() if parts else text
+    if len(out) > limit:
+        out = out[:limit].rsplit(" ", 1)[0].rstrip(",;:") + "..."
+    return out
+
+
+def heuristic_pick(items):  # noqa: F811  (intentional override)
+    """Newest first, category by source, blurb from the item's own summary."""
+    picked = []
+    for it in items[:MAX_STORIES]:
+        base = it["source"].split(" - ")[0]
+        picked.append({
+            "title": it["title"],
+            "url": it["url"],
+            "source": it["source"],
+            "category": SOURCE_CATEGORY.get(base, "Technology Modernization"),
+            "published": it["published"],
+            "why": _first_sentence(it.get("summary", "")),
+        })
+    return picked
