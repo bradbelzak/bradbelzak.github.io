@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-08-03T16:09:08.550060Z",
+ "updatedAt": "2026-08-03T17:32:54.968331Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "GSA’s digital roadmap looks to enhance agencies’ services, CIO says",
+   "url": "https://www.nextgov.com/digital-government/2026/08/gsas-digital-roadmap-looks-enhance-agencies-services-cio-says/415177/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-03T17:00:00Z",
+   "why": ""
+  },
   {
    "title": "Senate’s stopgap funding bill rejects special requests for Trump battleship, munitions",
    "url": "https://breakingdefense.com/2026/08/senates-stopgap-funding-bill-rejects-special-requests-for-trump-battleship-munitions/",
@@ -13,7 +21,7 @@
    "why": ""
   },
   {
-   "title": "Senate CR would delay OMB’s grants rewrite",
+   "title": "Senate continuing resolution would delay OMB’s grants rewrite",
    "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/senate-cr-would-delay-ombs-grants-rewrite/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
@@ -56,14 +64,6 @@
    "title": "Visas: Visa Bond Program",
    "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
    "source": "Federal Register - State Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-03T12:00:00Z",
-   "why": ""
-  },
-  {
-   "title": "Auction of Flexible-Use Licenses in the Upper C-Band for Next-Generation Wireless Services Scheduled for April 27, 2027; Comment Sought on Competitive Bidding Procedures for Auction 115",
-   "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15725/auction-of-flexible-use-licenses-in-the-upper-c-band-for-next-generation-wireless-services-scheduled",
-   "source": "Federal Register - Federal Communications Commission",
    "category": "Policy and Regulation",
    "published": "2026-08-03T12:00:00Z",
    "why": ""
