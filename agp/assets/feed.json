@@ -1,16 +1,24 @@
 {
- "updatedAt": "2026-08-03T17:32:54.968331Z",
+ "updatedAt": "2026-08-03T17:53:02.769583Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Rheinmetall unveils new guided-missile frigate projected for North American tender",
+   "url": "https://breakingdefense.com/2026/08/rheinmetall-unveils-new-guided-missile-frigate-projected-for-north-american-tender/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-03T17:38:42Z",
+   "why": "The German GMF 140 is envisioned to integrate US-sourced radar options, hypersonic weapons and ballistic missiles, the AEGIS Combat System, and 64..."
+  },
   {
    "title": "GSA’s digital roadmap looks to enhance agencies’ services, CIO says",
    "url": "https://www.nextgov.com/digital-government/2026/08/gsas-digital-roadmap-looks-enhance-agencies-services-cio-says/415177/",
    "source": "Nextgov",
    "category": "Technology Modernization",
    "published": "2026-08-03T17:00:00Z",
-   "why": ""
+   "why": "Efforts to speed up adoption of new capabilities have “disrupted the longstanding practice of how technology is driven into this government,” GSA CIO Dave..."
   },
   {
    "title": "Senate’s stopgap funding bill rejects special requests for Trump battleship, munitions",
@@ -18,7 +26,7 @@
    "source": "Breaking Defense",
    "category": "Defense and National Security",
    "published": "2026-08-03T16:00:56Z",
-   "why": ""
+   "why": "If passed by the Senate and House, the continuing resolution would extend federal funding until Dec."
   },
   {
    "title": "Senate continuing resolution would delay OMB’s grants rewrite",
@@ -26,7 +34,7 @@
    "source": "Federal News Network",
    "category": "Technology Modernization",
    "published": "2026-08-03T15:52:22Z",
-   "why": ""
+   "why": "It also includes provisions to expand hiring authority for the National Taxpayer Advocate and the Office of Appeals."
   },
   {
    "title": "GSA teases future steps to improve Login.gov user experience",
@@ -34,7 +42,7 @@
    "source": "Nextgov",
    "category": "Technology Modernization",
    "published": "2026-08-03T15:00:00Z",
-   "why": ""
+   "why": "The agency is touting recent updates to the platform ahead of its 10 year anniversary next April."
   },
   {
    "title": "OPM breach victims could get identity protection for life",
@@ -42,7 +50,7 @@
    "source": "Government Executive",
    "category": "Technology Modernization",
    "published": "2026-08-03T15:00:00Z",
-   "why": ""
+   "why": "The federal government’s coverage for 22.1 million people hoovered up in the China-linked breaches is scheduled to end Sept."
   },
   {
    "title": "Lawmakers propose giving 2015 OPM breach victims identity protection for life",
@@ -50,7 +58,7 @@
    "source": "Nextgov",
    "category": "Technology Modernization",
    "published": "2026-08-03T13:00:00Z",
-   "why": ""
+   "why": "The federal government’s coverage for 22.1 million people hoovered up in the China-linked breaches is scheduled to end Sept."
   },
   {
    "title": "Northrop gets $3B framework deal to increase motor production for PAC-3, THAAD",
@@ -58,15 +66,7 @@
    "source": "Breaking Defense",
    "category": "Defense and National Security",
    "published": "2026-08-03T12:18:14Z",
-   "why": ""
-  },
-  {
-   "title": "Visas: Visa Bond Program",
-   "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
-   "source": "Federal Register - State Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-03T12:00:00Z",
-   "why": ""
+   "why": "The deal will allow Northrop to stand up production as a second supplier of solid rocket motors for the PAC-3 interceptor."
   }
  ]
 }
