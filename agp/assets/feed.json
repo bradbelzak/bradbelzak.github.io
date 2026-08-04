@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-04T18:00:30.036933Z",
+ "updatedAt": "2026-08-04T22:19:37.270873Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "3 security questions agencies should answer before Gold Eagle lands",
-   "url": "https://www.nextgov.com/ideas/2026/08/3-security-questions-agencies-should-answer-gold-eagle-lands/415201/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T17:40:00Z",
-   "why": "COMMENTARY | The agencies that build that capability will define what good looks like for the next decade."
+   "title": "Space Force awards $615M in deals for second batch of aircraft-tracking satellites",
+   "url": "https://defensescoop.com/2026/08/04/space-force-awards-contracts-aircraft-tracking-satellites/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-04T22:13:21Z",
+   "why": "The new contracts build off the $4.16 billion award given to SpaceX in May, which tasked the company to develop an initial satellite constellation for the..."
   },
   {
-   "title": "Dem senators criticize Trump administration decisionmaking on AI security risks",
-   "url": "https://cyberscoop.com/trump-ai-policy-chinese-models-risk/",
+   "title": "Massive supply-chain attack compromises 440 packages under four hours",
+   "url": "https://cyberscoop.com/supply-chain-attack-malware-mini-shai-hulud-teampcp/",
    "source": "CyberScoop",
    "category": "AI and Cybersecurity",
-   "published": "2026-08-04T17:28:05Z",
-   "why": "The five senators said the administration has alternated between being too passive and overstepping, and China stands to benefit as a result."
+   "published": "2026-08-04T22:07:35Z",
+   "why": "Researchers from multiple security firms observed a variant of Mini Shai-Hulud, self-replicating malware linked to TeamPCP, in all the affected packages."
   },
   {
-   "title": "Colombia buys 2 KC-390s from Embraer in $336 million deal",
-   "url": "https://breakingdefense.com/2026/08/colombia-buys-2-kc-390s-from-embraer-in-336-million-deal/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-04T17:14:39Z",
-   "why": "The Colombian Aerospace Force said the first aircraft is expected for delivery in 2029, and that a second will follow in 2030."
+   "title": "The hidden costs of performative productivity",
+   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/the-hidden-costs-of-performative-productivity/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-04T21:48:16Z",
+   "why": "What's the cost of always being on time?"
+  },
+  {
+   "title": "OPM drops ‘disparate impact’ guidelines from federal hiring regulations",
+   "url": "https://federalnewsnetwork.com/hiring-retention/2026/08/opm-drops-disparate-impact-guidelines-from-federal-hiring-regulations/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-04T21:46:36Z",
+   "why": "A new rule from OPM aligns with the DOJ’s recent assertion that a framework meant to address disparate impact in hiring assessments is unconstitutional."
   },
   {
    "title": "Todd Blanche’s nomination for attorney general clears critical hurdle after deal with GOP holdouts",
    "url": "https://federalnewsnetwork.com/people/2026/08/senate-panel-expected-to-advance-blanches-attorney-general-nomination-after-deal-with-gop-holdouts/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-04T16:55:37Z",
-   "why": "Acting Attorney General Todd Blanche has a cleared critical hurdle in his bid to be confirmed to the post after swaying Republican holdouts on a Senate..."
+   "published": "2026-08-04T21:46:18Z",
+   "why": "Acting Attorney General Todd Blanche has cleared a critical hurdle in his bid to be confirmed to the post after swaying Republican holdouts on a Senate..."
   },
   {
-   "title": "When technology changes faster than acquisition cycles, government has a problem",
-   "url": "https://federalnewsnetwork.com/contracting/2026/08/when-technology-changes-faster-than-acquisition-cycles-government-has-a-problem/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T16:50:20Z",
-   "why": "\"I do have hope that there is light at the end of this particular tunnel, that we can start fielding these technologies,\" said Stephanie Kostro."
-  },
-  {
-   "title": "Italy’s controversial Gulf military mission enters public spotlight",
-   "url": "https://breakingdefense.com/2026/08/italys-controversial-gulf-military-mission-enters-public-spotlight/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-04T16:15:00Z",
-   "why": "“This is certainly one of Italy’s most significant deployments to the Gulf in many years — its importance lies not only in the number of personnel, but, above..."
-  },
-  {
-   "title": "Chinese telecom firms kept footholds in US networks despite federal crackdowns, House probe finds",
-   "url": "https://www.nextgov.com/cybersecurity/2026/08/chinese-telecom-firms-kept-footholds-us-networks-despite-federal-crackdowns-house-probe-finds/415190/",
+   "title": "OpenAI's advanced models have gone live for government use",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/openais-advanced-models-have-gone-live-government-use/415213/",
    "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-04T16:00:00Z",
-   "why": "China Mobile, China Telecom and China Unicom retained equipment, data center space and network ties after FCC restrictions, including a China Mobile-linked..."
+   "published": "2026-08-04T21:46:00Z",
+   "why": "OpenAI’s latest GPT-5.6 models were made available for government work via the FedRAMP-authorized ChatGPT Enterprise offering, weeks after one of the advanced..."
   },
   {
-   "title": "The confidence deficit in space",
-   "url": "https://breakingdefense.com/2026/08/the-confidence-deficit-in-space/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-04T16:00:00Z",
-   "why": "Satellite operators make decisions based on the quality and confidence of orbital data they receive."
+   "title": "VA’s cloud security memo more mythbuster than new policy",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/vas-cloud-security-memo-more-mythbuster-than-new-policy/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-04T21:27:12Z",
+   "why": "The Department of Veterans Affairs isn’t changing its security expectations of cloud service providers, but is trying to bring down barriers to new technology."
+  },
+  {
+   "title": "DoD seeks authority to directly sell its property to fund infrastructure, Golden Dome",
+   "url": "https://federalnewsnetwork.com/defense-news/2026/08/dod-seeks-authority-to-directly-sell-its-property-to-fund-infrastructure-golden-dome/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-04T21:10:20Z",
+   "why": "DoD seeks to bypass much of the current GSA process so it can sell military real estate more quickly and have greater flexibility to spend that money."
   }
  ]
 }
