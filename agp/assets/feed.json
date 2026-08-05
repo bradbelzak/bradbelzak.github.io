@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-04T22:19:37.270873Z",
+ "updatedAt": "2026-08-05T13:01:03.642946Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Space Force awards $615M in deals for second batch of aircraft-tracking satellites",
-   "url": "https://defensescoop.com/2026/08/04/space-force-awards-contracts-aircraft-tracking-satellites/",
-   "source": "DefenseScoop",
+   "title": "The reasons why Group 2 drones are right-sized for the fight",
+   "url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight/",
+   "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-04T22:13:21Z",
-   "why": "The new contracts build off the $4.16 billion award given to SpaceX in May, which tasked the company to develop an initial satellite constellation for the..."
+   "published": "2026-08-05T12:30:00Z",
+   "why": "[Sponsored] Fuel cell technology lets smaller, more versatile VTOLs handle tasks previously reserved for larger drones."
   },
   {
-   "title": "Massive supply-chain attack compromises 440 packages under four hours",
-   "url": "https://cyberscoop.com/supply-chain-attack-malware-mini-shai-hulud-teampcp/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-04T22:07:35Z",
-   "why": "Researchers from multiple security firms observed a variant of Mini Shai-Hulud, self-replicating malware linked to TeamPCP, in all the affected packages."
+   "title": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
+   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15929/improving-emergency-medical-kit-efficacy-and-flexibility-in-commercial-airline-operations",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-05T12:00:00Z",
+   "why": "FAA proposes to eliminate the prescriptive list of required items in emergency medical kits and first aid kits and replace it with a performance-based..."
   },
   {
-   "title": "The hidden costs of performative productivity",
-   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/the-hidden-costs-of-performative-productivity/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T21:48:16Z",
-   "why": "What's the cost of always being on time?"
+   "title": "Micro-Tracers, Inc.; Response to Objections and Requests for a Public Hearing",
+   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15920/micro-tracers-inc-response-to-objections-and-requests-for-a-public-hearing",
+   "source": "Federal Register - Health and Human Services Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-05T12:00:00Z",
+   "why": "The Food and Drug Administration (FDA or we) received objections and requests for a public hearing submitted by Buchanan Ingersoll & Rooney PC, on behalf of..."
   },
   {
-   "title": "OPM drops ‘disparate impact’ guidelines from federal hiring regulations",
-   "url": "https://federalnewsnetwork.com/hiring-retention/2026/08/opm-drops-disparate-impact-guidelines-from-federal-hiring-regulations/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T21:46:36Z",
-   "why": "A new rule from OPM aligns with the DOJ’s recent assertion that a framework meant to address disparate impact in hiring assessments is unconstitutional."
+   "title": "Amendment of United States Area Navigation Route Q-10 and Revocation of Alaska Area Navigation Routes J-804R and J-889R in Alaska",
+   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15912/amendment-of-united-states-area-navigation-route-q-10-and-revocation-of-alaska-area-navigation",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-05T12:00:00Z",
+   "why": "This action amends United States Area Navigation (RNAV) Route Q-10 and revokes Alaska RNAV Routes J-804R and J-889R in Alaska."
   },
   {
-   "title": "Todd Blanche’s nomination for attorney general clears critical hurdle after deal with GOP holdouts",
-   "url": "https://federalnewsnetwork.com/people/2026/08/senate-panel-expected-to-advance-blanches-attorney-general-nomination-after-deal-with-gop-holdouts/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T21:46:18Z",
-   "why": "Acting Attorney General Todd Blanche has cleared a critical hurdle in his bid to be confirmed to the post after swaying Republican holdouts on a Senate..."
+   "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Reef Fish Fishery in the Gulf of America; 2026 Commercial Closure for Greater Amberjack",
+   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15886/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-reef-fish-fishery-in-the-gulf-of",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-05T12:00:00Z",
+   "why": "NMFS is closing the 2026 commercial fishing season for greater amberjack in the Gulf of America (Gulf)."
   },
   {
-   "title": "OpenAI's advanced models have gone live for government use",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/openais-advanced-models-have-gone-live-government-use/415213/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T21:46:00Z",
-   "why": "OpenAI’s latest GPT-5.6 models were made available for government work via the FedRAMP-authorized ChatGPT Enterprise offering, weeks after one of the advanced..."
+   "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Gulf of Maine Area Trophy Fishery for 2026",
+   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15878/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-05T12:00:00Z",
+   "why": "NMFS closes the Angling category Gulf of Maine area fishery for large medium and giant (\"trophy\" (i.e., measuring 73 inches (185 centimeters (cm)) curved fork..."
   },
   {
-   "title": "VA’s cloud security memo more mythbuster than new policy",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/vas-cloud-security-memo-more-mythbuster-than-new-policy/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T21:27:12Z",
-   "why": "The Department of Veterans Affairs isn’t changing its security expectations of cloud service providers, but is trying to bring down barriers to new technology."
+   "title": "OCC Rules Regarding the Availability of OCC Information",
+   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15867/occ-rules-regarding-the-availability-of-occ-information",
+   "source": "Federal Register - Treasury Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-05T12:00:00Z",
+   "why": "The Office of the Comptroller of the Currency (OCC) is proposing changes to its rules on information disclosure."
   },
   {
-   "title": "DoD seeks authority to directly sell its property to fund infrastructure, Golden Dome",
-   "url": "https://federalnewsnetwork.com/defense-news/2026/08/dod-seeks-authority-to-directly-sell-its-property-to-fund-infrastructure-golden-dome/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-04T21:10:20Z",
-   "why": "DoD seeks to bypass much of the current GSA process so it can sell military real estate more quickly and have greater flexibility to spend that money."
+   "title": "Importation of Coffee Into Hawaii and Puerto Rico",
+   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15857/importation-of-coffee-into-hawaii-and-puerto-rico",
+   "source": "Federal Register - Agriculture Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-05T12:00:00Z",
+   "why": "We are proposing to amend the regulations regarding the importation of unroasted coffee and related articles into Hawaii and Puerto Rico by establishing a..."
   }
  ]
 }
