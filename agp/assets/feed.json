@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-05T17:50:39.254400Z",
+ "updatedAt": "2026-08-05T22:17:29.341005Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "One of the toughest jobs in government is paying today to avoid problems tomorrow",
-   "url": "https://federalnewsnetwork.com/agency-oversight/2026/08/one-of-the-toughest-jobs-in-government-is-paying-today-to-avoid-problems-tomorrow/",
+   "title": "Judge throws out DOE’s blanket ‘still interested’ FOIA policy",
+   "url": "https://federalnewsnetwork.com/litigation/2026/08/judge-throws-out-does-blanket-still-interested-foia-policy/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-05T17:47:12Z",
-   "why": "\"These are really small-scale renewable energy projects and they're really for things like secondary backup power for critical facilities,\" said Janet McKelvey."
+   "published": "2026-08-05T22:03:11Z",
+   "why": "The Energy Department tried to use a mass \"still interested\" notice to close older FOIA requests."
   },
   {
-   "title": "Army launches search for counter-drone missile priced under $150K",
-   "url": "https://breakingdefense.com/2026/08/army-launches-search-for-counter-drone-missile-priced-under-150k/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-05T17:38:11Z",
-   "why": "The interceptor, dubbed the Next Generation C-sUAS Missile, must be compatible with Raytheon’s Coyote launcher, per the RFI."
-  },
-  {
-   "title": "Air Force expands autonomous flight tests with live, AI-enabled intercepts",
-   "url": "https://defensescoop.com/2026/08/05/air-force-x-62-vista-have-heat-have-holiday/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-05T17:37:44Z",
-   "why": "During one of the latest Air Force experiments, the X-62 VISTA conducted 27 autonomous air intercepts across eight flights."
-  },
-  {
-   "title": "Critics argue Education's latest restructuring risks something harder to replace than staff",
-   "url": "https://www.govexec.com/management/2026/08/critics-argue-educations-latest-restructuring-risks-something-harder-replace-staff/415226/",
+   "title": "Mediation agency changes how labor disputes move forward",
+   "url": "https://www.govexec.com/workforce/2026/08/mediation-agency-changes-how-labor-disputes-move-forward/415237/",
    "source": "Government Executive",
    "category": "Technology Modernization",
-   "published": "2026-08-05T16:48:04Z",
-   "why": "Former Education officials from both parties joined Senate Democrats in warning that moving key responsibilities to other agencies carries risks beyond..."
+   "published": "2026-08-05T21:45:56Z",
+   "why": "The Federal Mediation and Conciliation Service says it is clarifying when it can decline to provide arbitrators, a change unions say exceeds its role."
   },
   {
-   "title": "Some critics say one little-known EPA power means the approval process may never truly be over",
-   "url": "https://federalnewsnetwork.com/management/2026/08/some-critics-say-one-little-known-epa-power-means-the-approval-process-may-never-truly-be-over/",
+   "title": "DoD pulls independent testing office’s public reports from its website",
+   "url": "https://federalnewsnetwork.com/defense-news/2026/08/dod-pulls-independent-testing-offices-public-reports-from-its-website/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-05T16:27:56Z",
-   "why": "\"This kind of regulatory uncertainty is just a huge disincentive to investors and companies to go through the long NEPA process...\" said Myron Ebell."
+   "published": "2026-08-05T21:43:43Z",
+   "why": "“The transition of DOT&E materials to a CAC-enabled environment is a proactive measure to strengthen our operational security posture,” a DoD official said."
   },
   {
-   "title": "Everyone is learning the wrong lessons from Ukraine’s drone war",
-   "url": "https://breakingdefense.com/2026/08/everyone-is-learning-the-wrong-lessons-from-ukraines-drone-war/",
+   "title": "Watchdog finds scant records of DOGE ethics training, financial disclosures",
+   "url": "https://fedscoop.com/doge-ethics-training-financial-disclosures-watchdog-report/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-05T21:37:27Z",
+   "why": "At least 27 personnel were “special government employees” who can retain outside employment while carrying out work for the U.S."
+  },
+  {
+   "title": "Snowflake hacker pleads guilty, faces up to 32 years in prison",
+   "url": "https://cyberscoop.com/connor-moucka-guilty-snowflake-attack-spree/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-05T21:29:58Z",
+   "why": "Connor Moucka obtained almost $500,000 for playing a key role in one of the most widespread and damaging cyberattack sprees on record."
+  },
+  {
+   "title": "Agencies told to prioritize hiring early-career employees, tech talent",
+   "url": "https://federalnewsnetwork.com/hiring-retention/2026/08/agencies-told-to-prioritize-hiring-early-career-employees-tech-talent/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-05T21:26:35Z",
+   "why": "The hiring efforts diverge from an earlier push to reduce the size of the federal workforce, leading to hundreds of thousands of feds leaving their jobs."
+  },
+  {
+   "title": "First Trump-class battleship could cost more than $23B: CBO",
+   "url": "https://breakingdefense.com/2026/08/first-battleship-could-cost-more-than-23-billion-cbo-says/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-05T16:27:37Z",
-   "why": "Everyone is focused on Ukraine’s drones."
+   "published": "2026-08-05T21:21:41Z",
+   "why": "The Congressional Budget Office estimates that 15 nuclear-powered battleships would cost $275 billion."
   },
   {
-   "title": "DoD building AI tools to predict, mitigate risks to sustainment supply chain",
-   "url": "https://federalnewsnetwork.com/army/2026/08/dod-building-ai-tools-to-predict-mitigate-risks-to-sustainment-supply-chain/",
-   "source": "Federal News Network",
+   "title": "Watchdog puts new numbers on the size of DOGE, but many details remain unknown as agencies refuse to turn over information",
+   "url": "https://www.govexec.com/oversight/2026/08/watchdog-numbers-size-doge-many-details-remain-unknown/415236/",
+   "source": "Government Executive",
    "category": "Technology Modernization",
-   "published": "2026-08-05T15:55:09Z",
-   "why": "Between now and March, several large DoD components are testing prototypes for the Joint Sustainment Decision Tool."
-  },
-  {
-   "title": "Contractor alleges Army inappropriately used AI to make $450M contract award",
-   "url": "https://www.nextgov.com/acquisition/2026/08/contractor-alleges-army-inappropriately-used-ai-make-450m-contract-award/415225/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-05T15:34:00Z",
-   "why": "An industry lawyer anticipates more bid protests will likely allege that agencies misused AI in the procurement process but that could be hard to prove if..."
+   "published": "2026-08-05T20:52:42Z",
+   "why": "In a new report, the Government Accountability Office said it was unable to verify if all Department of Government Efficiency employees completed mandatory..."
   }
  ]
 }
