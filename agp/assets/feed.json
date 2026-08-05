@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-05T13:01:03.642946Z",
+ "updatedAt": "2026-08-05T17:50:39.254400Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "The reasons why Group 2 drones are right-sized for the fight",
-   "url": "https://breakingdefense.com/2026/08/the-reasons-why-group-2-drones-are-right-sized-for-the-fight/",
+   "title": "One of the toughest jobs in government is paying today to avoid problems tomorrow",
+   "url": "https://federalnewsnetwork.com/agency-oversight/2026/08/one-of-the-toughest-jobs-in-government-is-paying-today-to-avoid-problems-tomorrow/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-05T17:47:12Z",
+   "why": "\"These are really small-scale renewable energy projects and they're really for things like secondary backup power for critical facilities,\" said Janet McKelvey."
+  },
+  {
+   "title": "Army launches search for counter-drone missile priced under $150K",
+   "url": "https://breakingdefense.com/2026/08/army-launches-search-for-counter-drone-missile-priced-under-150k/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-05T12:30:00Z",
-   "why": "[Sponsored] Fuel cell technology lets smaller, more versatile VTOLs handle tasks previously reserved for larger drones."
+   "published": "2026-08-05T17:38:11Z",
+   "why": "The interceptor, dubbed the Next Generation C-sUAS Missile, must be compatible with Raytheon’s Coyote launcher, per the RFI."
   },
   {
-   "title": "Improving Emergency Medical Kit Efficacy and Flexibility in Commercial Airline Operations",
-   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15929/improving-emergency-medical-kit-efficacy-and-flexibility-in-commercial-airline-operations",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-05T12:00:00Z",
-   "why": "FAA proposes to eliminate the prescriptive list of required items in emergency medical kits and first aid kits and replace it with a performance-based..."
+   "title": "Air Force expands autonomous flight tests with live, AI-enabled intercepts",
+   "url": "https://defensescoop.com/2026/08/05/air-force-x-62-vista-have-heat-have-holiday/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-05T17:37:44Z",
+   "why": "During one of the latest Air Force experiments, the X-62 VISTA conducted 27 autonomous air intercepts across eight flights."
   },
   {
-   "title": "Micro-Tracers, Inc.; Response to Objections and Requests for a Public Hearing",
-   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15920/micro-tracers-inc-response-to-objections-and-requests-for-a-public-hearing",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-05T12:00:00Z",
-   "why": "The Food and Drug Administration (FDA or we) received objections and requests for a public hearing submitted by Buchanan Ingersoll & Rooney PC, on behalf of..."
+   "title": "Critics argue Education's latest restructuring risks something harder to replace than staff",
+   "url": "https://www.govexec.com/management/2026/08/critics-argue-educations-latest-restructuring-risks-something-harder-replace-staff/415226/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-05T16:48:04Z",
+   "why": "Former Education officials from both parties joined Senate Democrats in warning that moving key responsibilities to other agencies carries risks beyond..."
   },
   {
-   "title": "Amendment of United States Area Navigation Route Q-10 and Revocation of Alaska Area Navigation Routes J-804R and J-889R in Alaska",
-   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15912/amendment-of-united-states-area-navigation-route-q-10-and-revocation-of-alaska-area-navigation",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-05T12:00:00Z",
-   "why": "This action amends United States Area Navigation (RNAV) Route Q-10 and revokes Alaska RNAV Routes J-804R and J-889R in Alaska."
+   "title": "Some critics say one little-known EPA power means the approval process may never truly be over",
+   "url": "https://federalnewsnetwork.com/management/2026/08/some-critics-say-one-little-known-epa-power-means-the-approval-process-may-never-truly-be-over/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-05T16:27:56Z",
+   "why": "\"This kind of regulatory uncertainty is just a huge disincentive to investors and companies to go through the long NEPA process...\" said Myron Ebell."
   },
   {
-   "title": "Fisheries of the Caribbean, Gulf of America, and South Atlantic; Reef Fish Fishery in the Gulf of America; 2026 Commercial Closure for Greater Amberjack",
-   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15886/fisheries-of-the-caribbean-gulf-of-america-and-south-atlantic-reef-fish-fishery-in-the-gulf-of",
-   "source": "Federal Register - Commerce Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-05T12:00:00Z",
-   "why": "NMFS is closing the 2026 commercial fishing season for greater amberjack in the Gulf of America (Gulf)."
+   "title": "Everyone is learning the wrong lessons from Ukraine’s drone war",
+   "url": "https://breakingdefense.com/2026/08/everyone-is-learning-the-wrong-lessons-from-ukraines-drone-war/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-05T16:27:37Z",
+   "why": "Everyone is focused on Ukraine’s drones."
   },
   {
-   "title": "Atlantic Highly Migratory Species; Atlantic Bluefin Tuna Fisheries; Closure of the Angling Category Gulf of Maine Area Trophy Fishery for 2026",
-   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15878/atlantic-highly-migratory-species-atlantic-bluefin-tuna-fisheries-closure-of-the-angling-category",
-   "source": "Federal Register - Commerce Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-05T12:00:00Z",
-   "why": "NMFS closes the Angling category Gulf of Maine area fishery for large medium and giant (\"trophy\" (i.e., measuring 73 inches (185 centimeters (cm)) curved fork..."
+   "title": "DoD building AI tools to predict, mitigate risks to sustainment supply chain",
+   "url": "https://federalnewsnetwork.com/army/2026/08/dod-building-ai-tools-to-predict-mitigate-risks-to-sustainment-supply-chain/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-05T15:55:09Z",
+   "why": "Between now and March, several large DoD components are testing prototypes for the Joint Sustainment Decision Tool."
   },
   {
-   "title": "OCC Rules Regarding the Availability of OCC Information",
-   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15867/occ-rules-regarding-the-availability-of-occ-information",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-05T12:00:00Z",
-   "why": "The Office of the Comptroller of the Currency (OCC) is proposing changes to its rules on information disclosure."
-  },
-  {
-   "title": "Importation of Coffee Into Hawaii and Puerto Rico",
-   "url": "https://www.federalregister.gov/documents/2026/08/05/2026-15857/importation-of-coffee-into-hawaii-and-puerto-rico",
-   "source": "Federal Register - Agriculture Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-05T12:00:00Z",
-   "why": "We are proposing to amend the regulations regarding the importation of unroasted coffee and related articles into Hawaii and Puerto Rico by establishing a..."
+   "title": "Contractor alleges Army inappropriately used AI to make $450M contract award",
+   "url": "https://www.nextgov.com/acquisition/2026/08/contractor-alleges-army-inappropriately-used-ai-make-450m-contract-award/415225/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-05T15:34:00Z",
+   "why": "An industry lawyer anticipates more bid protests will likely allege that agencies misused AI in the procurement process but that could be hard to prove if..."
   }
  ]
 }
