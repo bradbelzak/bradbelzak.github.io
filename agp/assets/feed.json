@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-05T22:17:29.341005Z",
+ "updatedAt": "2026-08-06T13:02:32.559180Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Judge throws out DOE’s blanket ‘still interested’ FOIA policy",
-   "url": "https://federalnewsnetwork.com/litigation/2026/08/judge-throws-out-does-blanket-still-interested-foia-policy/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-05T22:03:11Z",
-   "why": "The Energy Department tried to use a mass \"still interested\" notice to close older FOIA requests."
-  },
-  {
-   "title": "Mediation agency changes how labor disputes move forward",
-   "url": "https://www.govexec.com/workforce/2026/08/mediation-agency-changes-how-labor-disputes-move-forward/415237/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-05T21:45:56Z",
-   "why": "The Federal Mediation and Conciliation Service says it is clarifying when it can decline to provide arbitrators, a change unions say exceeds its role."
-  },
-  {
-   "title": "DoD pulls independent testing office’s public reports from its website",
-   "url": "https://federalnewsnetwork.com/defense-news/2026/08/dod-pulls-independent-testing-offices-public-reports-from-its-website/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-05T21:43:43Z",
-   "why": "“The transition of DOT&E materials to a CAC-enabled environment is a proactive measure to strengthen our operational security posture,” a DoD official said."
-  },
-  {
-   "title": "Watchdog finds scant records of DOGE ethics training, financial disclosures",
-   "url": "https://fedscoop.com/doge-ethics-training-financial-disclosures-watchdog-report/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-08-05T21:37:27Z",
-   "why": "At least 27 personnel were “special government employees” who can retain outside employment while carrying out work for the U.S."
-  },
-  {
-   "title": "Snowflake hacker pleads guilty, faces up to 32 years in prison",
-   "url": "https://cyberscoop.com/connor-moucka-guilty-snowflake-attack-spree/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-05T21:29:58Z",
-   "why": "Connor Moucka obtained almost $500,000 for playing a key role in one of the most widespread and damaging cyberattack sprees on record."
-  },
-  {
-   "title": "Agencies told to prioritize hiring early-career employees, tech talent",
-   "url": "https://federalnewsnetwork.com/hiring-retention/2026/08/agencies-told-to-prioritize-hiring-early-career-employees-tech-talent/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-05T21:26:35Z",
-   "why": "The hiring efforts diverge from an earlier push to reduce the size of the federal workforce, leading to hundreds of thousands of feds leaving their jobs."
-  },
-  {
-   "title": "First Trump-class battleship could cost more than $23B: CBO",
-   "url": "https://breakingdefense.com/2026/08/first-battleship-could-cost-more-than-23-billion-cbo-says/",
+   "title": "How Ukraine tries to intercept Russian drones more effectively — and affordably",
+   "url": "https://breakingdefense.com/2026/08/how-ukraine-tries-to-intercept-russian-drones-more-effectively-and-affordably/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-05T21:21:41Z",
-   "why": "The Congressional Budget Office estimates that 15 nuclear-powered battleships would cost $275 billion."
+   "published": "2026-08-06T12:37:45Z",
+   "why": "Since last year, Kyiv has turned to Western fighter jets to shoot down aerial threats, but also rely on dispersed air defense teams and other modified aircraft."
   },
   {
-   "title": "Watchdog puts new numbers on the size of DOGE, but many details remain unknown as agencies refuse to turn over information",
-   "url": "https://www.govexec.com/oversight/2026/08/watchdog-numbers-size-doge-many-details-remain-unknown/415236/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-05T20:52:42Z",
-   "why": "In a new report, the Government Accountability Office said it was unable to verify if all Department of Government Efficiency employees completed mandatory..."
+   "title": "Amendment of Class D and Class E Airspace; Morgantown, WV",
+   "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16084/amendment-of-class-d-and-class-e-airspace-morgantown-wv",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-06T12:00:00Z",
+   "why": "This action proposes to amend the Class D and Class E airspace at Morgantown Municipal Airport-Walter L."
+  },
+  {
+   "title": "Partial Approval and Partial Disapproval of Air Quality State Implementation Plans; Arizona; Prevention of Significant Deterioration Infrastructure Requirements for the 2012 Fine Particulate Matter National Ambient Air Quality Standard",
+   "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16083/partial-approval-and-partial-disapproval-of-air-quality-state-implementation-plans-arizona",
+   "source": "Federal Register - Environmental Protection Agency",
+   "category": "Policy and Regulation",
+   "published": "2026-08-06T12:00:00Z",
+   "why": "The Environmental Protection Agency (EPA) is proposing to partially approve and partially disapprove a revision to the Arizona State implementation plan (SIP)..."
+  },
+  {
+   "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
+   "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-06T12:00:00Z",
+   "why": "The Bureau of Industry and Security (\"BIS\") is publishing this temporary final rule to restrict the exportation of black mass and tungsten waste and scrap..."
+  },
+  {
+   "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
+   "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16077/pacific-halibut-fisheries-of-the-west-coast-inseason-action-for-the-2026-area-2a-pacific-halibut",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-06T12:00:00Z",
+   "why": "NMFS announces an inseason action for the 2026 Pacific halibut non-Tribal directed commercial fishery in the International Pacific Halibut Commission's (IPHC)..."
+  },
+  {
+   "title": "Investment Company Governance Technical Amendments",
+   "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16066/investment-company-governance-technical-amendments",
+   "source": "Federal Register - Securities and Exchange Commission",
+   "category": "Policy and Regulation",
+   "published": "2026-08-06T12:00:00Z",
+   "why": "The Securities and Exchange Commission (the \"Commission\") is adopting technical amendments to a rule under the Investment Company Act of 1940 (the \"Investment..."
+  },
+  {
+   "title": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; Pacific Coast Groundfish Fishery Management Plan; Amendment 36; Limited Entry Fixed Gear Follow-On Actions; Correction",
+   "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16049/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-06T12:00:00Z",
+   "why": "NMFS corrects the final rule published on July 22, 2026 to implement Amendment 36 to the Pacific Coast Groundfish Fishery Management Plan (91 FR 46000)."
+  },
+  {
+   "title": "Airworthiness Directives; Airbus Helicopters",
+   "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16047/airworthiness-directives-airbus-helicopters",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-06T12:00:00Z",
+   "why": "The FAA is adopting a new airworthiness directive (AD) for certain Airbus Helicopters Model AS350B, AS350BA, AS350B1, AS350B2, AS350B3, AS350D, EC130B4, and..."
   }
  ]
 }
