@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-07T17:03:48.032601Z",
+ "updatedAt": "2026-08-07T21:51:07.008325Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
-   "url": "https://breakingdefense.com/2026/08/eu-lays-out-18b-satellite-constellation-plan-with-spanish-firm-winning-key-role/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-07T17:03:30Z",
-   "why": "Overall investment in the high profile program is expected to push beyond $18 billion, with first satellite launches slated for 2029."
-  },
-  {
-   "title": "As AI models break free, White House works with firms on secret safety measures",
-   "url": "https://www.nextgov.com/defense/2026/08/ai-models-white-house-and-companies-secret-safety-measures/415286/",
-   "source": "Nextgov",
+   "title": "Secret Service reveals new surveillance system amid slowdown in privacy impact assessments",
+   "url": "https://fedscoop.com/secret-service-surveillance-system-privacy-impact-assessment-dhs/",
+   "source": "FedScoop",
    "category": "Technology Modernization",
-   "published": "2026-08-07T16:52:00Z",
-   "why": "Lawmakers blast administration's \"ad-hoc\" AI strategy; tech giants pitch ideas to keep federal contracts flowing."
+   "published": "2026-08-07T21:49:42Z",
+   "why": "The Helix tool, which combines surveillance video, facial recognition tech and license plate data to monitor potential threats, is one of just a few PIAs..."
   },
   {
-   "title": "Remote connections to monitor critical systems create opportunities for cyber attackers",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/remote-connections-to-monitor-critical-systems-create-opportunities-for-cyber-attackers/",
+   "title": "DoD wants AI to cut civilian hiring to 30 days",
+   "url": "https://federalnewsnetwork.com/defense-main/2026/08/dod-wants-ai-to-cut-civilian-hiring-to-30-days/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-07T16:41:11Z",
-   "why": "\"As we say, to protect the whole system, technology is only play a part of it,\" said CheeYee Tang."
+   "published": "2026-08-07T21:38:25Z",
+   "why": "The Defense Department wants to cut its civilian hiring timeline to 30 days by introducing generative AI into the process."
   },
   {
-   "title": "Pentagon wants ‘expanding options’ for nuclear weapons, officials say",
-   "url": "https://breakingdefense.com/2026/08/pentagon-wants-expanding-options-for-nuclear-weapons-officials-say/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-07T16:21:19Z",
-   "why": "“There’s, you know, a review or sort of relook at the employment guidance, which is more about the commander of STRATCOM and his responsibilities and [the..."
+   "title": "Keeping service members out of harm’s way: Why the future of defense logistics is going autonomous",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/keeping-service-members-out-of-harms-way-why-the-future-of-defense-logistics-is-going-autonomous/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-07T21:23:50Z",
+   "why": "By investing in these technologies today, we can build a defense ecosystem that protects people who serve while delivering the capabilities needed for tomorrow."
   },
   {
-   "title": "Congress confirms Schiess as third-ever chief of space operations",
-   "url": "https://defensescoop.com/2026/08/07/congress-confirms-schiess-as-chief-of-space-operations/",
+   "title": "War Data Platform integration plans under scrutiny as DOD hustles to weaponize AI",
+   "url": "https://defensescoop.com/2026/08/07/pentagon-war-data-platform-integration-plans-under-scrutiny/",
    "source": "DefenseScoop",
    "category": "Defense and National Security",
-   "published": "2026-08-07T16:11:55Z",
-   "why": "Lt."
+   "published": "2026-08-07T21:10:09Z",
+   "why": "Sources familiar with the deal expressed unease about the government’s handling of this significant procurement decision."
   },
   {
-   "title": "Updating Navy warships at the speed of software",
-   "url": "https://breakingdefense.com/2026/08/updating-navy-warships-at-the-speed-of-software/",
+   "title": "The state of DoD Zero Trust: Progress toward target level",
+   "url": "https://breakingdefense.com/2026/08/the-state-of-dod-zero-trust-progress-toward-target-level/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-07T15:40:02Z",
-   "why": "After years of wanting and waiting, the Navy is now updating combat systems over-the-air on ships at sea, write two Navy Department leaders."
+   "published": "2026-08-07T20:54:56Z",
+   "why": "Join us August 26th at 2pm ET as industry leaders discuss the current state of Zero Trust and what the roadmap looks like for the next 2 years."
   },
   {
-   "title": "GAO finds 96% of DOGE’s claimed savings on federal grants cannot be verified",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/gao-finds-96-of-doges-claimed-savings-on-federal-grants-cannot-be-verified/",
+   "title": "House Dems seek GAO review of ‘fractured’ counter-WMD responsibilities",
+   "url": "https://federalnewsnetwork.com/congress/2026/08/house-dems-seek-gao-review-of-fractured-counter-wmd-responsibilities/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-07T15:27:48Z",
-   "why": "Some savings that DOGE posted on its “wall of receipts” website were already being phased out before DOGE was established."
+   "published": "2026-08-07T20:52:51Z",
+   "why": "After the DHS CWMD office was dissolved, lawmakers say a GAO review is needed to ensure its former functions are still being carried out effectively."
   },
   {
-   "title": "CISA cautions against rigid rules for future of cyber vulnerability program",
-   "url": "https://www.nextgov.com/cybersecurity/2026/08/cisa-cautions-against-rigid-rules-future-cyber-vulnerability-program/415282/",
-   "source": "Nextgov",
+   "title": "Key oversight and federal workforce nominees confirmed by Senate",
+   "url": "https://www.govexec.com/oversight/2026/08/oversight-and-federal-workforce-nominees-confirmed/415295/",
+   "source": "Government Executive",
    "category": "Technology Modernization",
-   "published": "2026-08-07T14:33:00Z",
-   "why": "A top agency official said formal backing from Congress could strengthen the global vulnerability-tracking system but warned against measures that may limit..."
+   "published": "2026-08-07T20:37:20Z",
+   "why": "Several of the individuals will lead agencies that have been downsized or otherwise weakened by the Trump administration."
+  },
+  {
+   "title": "Judge rejects VA’s third attempt to cancel union contracts",
+   "url": "https://www.govexec.com/workforce/2026/08/judge-rejects-vas-third-attempt-cancel-union-contracts/415293/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-07T19:54:57Z",
+   "why": "U.S."
   }
  ]
 }
