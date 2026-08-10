@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-08T13:53:20.237865Z",
+ "updatedAt": "2026-08-10T17:04:04.427697Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "English Language Proficiency; Out of Service Criteria",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16288/english-language-proficiency-out-of-service-criteria",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "FMCSA proposes to codify the English language proficiency (ELP) driver qualification requirement as an out-of-service (OOS) violation."
+   "title": "Epirus secures $11 million Marine Corps contract for HAVOC system",
+   "url": "https://breakingdefense.com/2026/08/epirus-secures-11-million-marine-corps-contract-for-havoc-system/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-10T16:44:01Z",
+   "why": "The system will feature a “universal sled mount” to pair it with various manned and unmanned vehicles across the service, Epirus said."
   },
   {
-   "title": "Establishment of Class E Airspace; Coleman, TX",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16274/establishment-of-class-e-airspace-coleman-tx",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "This action proposes to establish Class E airspace at Ranch at Double Gates Airport, Coleman, TX."
+   "title": "Boeing to sell three subsidiaries to eVTOL firm Archer",
+   "url": "https://breakingdefense.com/2026/08/boeing-to-sell-three-subsidiaries-to-evtol-firm-archer/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-10T16:20:04Z",
+   "why": "Pending regulatory approval, the sales of drone maker Insitu, air traffic management firm SkyGrid and electric aircraft maker Wisk Aero are expected to close..."
   },
   {
-   "title": "Removal of FAA Third-Class Medical Certificate Requirement for Military Pilot Trainees",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16272/removal-of-faa-third-class-medical-certificate-requirement-for-military-pilot-trainees",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "FAA proposes to amend regulations to extend the existing exception for U.S."
+   "title": "Federal systems increasingly likely to face accidental AI breach after Hugging Face, experts say",
+   "url": "https://www.nextgov.com/cybersecurity/2026/08/federal-systems-increasingly-likely-face-accidental-ai-breach-after-hugging-face-experts-say/415307/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-10T15:19:00Z",
+   "why": "Former officials and security experts say aged systems, contractors and agency AI adoption could open similar paths into government networks."
   },
   {
-   "title": "Backup Withholding on Third Party Network Transactions",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16269/backup-withholding-on-third-party-network-transactions",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "This document contains final regulations governing backup withholding on reportable payments with respect to third party network transactions."
+   "title": "UK man tied to The Com sentenced for abusing 117 victims",
+   "url": "https://cyberscoop.com/uk-justin-swaddle-the-com-sentenced/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-10T15:09:41Z",
+   "why": "Justin Swaddle, who was a minor when he committed the crimes, coerced children across multiple countries into self-harm and sexual abuse using threats tied to..."
   },
   {
-   "title": "Television Broadcasting Services Elko, Nevada",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16268/television-broadcasting-services-elko-nevada",
-   "source": "Federal Register - Federal Communications Commission",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "This document proposes to amend the Table of TV Allotments (Table) of the Federal Communications Commission's (Commission) rules in response to a petition for..."
+   "title": "Air Force seeks AI tool to help manage Minuteman III ICBM sustainment",
+   "url": "https://breakingdefense.com/2026/08/air-force-seeks-ai-tool-to-help-manage-minuteman-iii-icbm-sustainment/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-10T14:53:52Z",
+   "why": "The new AI tool could help cut down the cumbersome labor needed to sift through roughly 60 different data sources, according to the Air Force."
   },
   {
-   "title": "Establishment of Class E Airspace; Havana, IL",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16258/establishment-of-class-e-airspace-havana-il",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "This action proposes to establish Class E airspace at Mason District Hospital Heliport, Havana, IL."
+   "title": "Why transparent AI agents matter more than you think",
+   "url": "https://cyberscoop.com/transparent-ai-agent-security-op-ed/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-10T14:23:16Z",
+   "why": "The difference between a prompt injection attack you'll catch and one you won't might just be whether your AI agent can explain itself."
   },
   {
-   "title": "Safety Zone; Lake St. Clair; Grosse Pointe Farms, MI",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16256/safety-zone-lake-st-clair-grosse-pointe-farms-mi",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "The Coast Guard is establishing a temporary safety zone for navigable waters of Lake St."
+   "title": "Germany and the Netherlands buy 69 more RCT30 infantry fighting vehicles",
+   "url": "https://breakingdefense.com/2026/08/germany-and-the-netherlands-buy-69-more-rct30-infantry-fighting-vehicles/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-10T13:45:58Z",
+   "why": "Manufacturer KNDS said it has developed the Boxer RCT30 as the “backbone” of Germany’s new “Medium Forces.”"
   },
   {
-   "title": "Safety Zones; Annual Events in the Captain of the Port Eastern Great Lakes Zone Marine Events Within the Great Lakes Coast Guard District",
-   "url": "https://www.federalregister.gov/documents/2026/08/10/2026-16254/safety-zones-annual-events-in-the-captain-of-the-port-eastern-great-lakes-zone-marine-events-within",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-10T12:00:00Z",
-   "why": "The Coast Guard will enforce multiple safety zones located in federal regulations for recurring marine events taking place in August through September of 2026..."
+   "title": "Cloudflare to seek DOD IL4 authorization after new FedRAMP, GovRAMP designations",
+   "url": "https://www.nextgov.com/acquisition/2026/08/cloudflare-seek-dod-il4-authorization-after-new-fedramp-govramp-designations/415299/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-10T13:00:00Z",
+   "why": "The connectivity cloud giant recently achieved FedRAMP High certification and GovRAMP Moderate authorization."
   }
  ]
 }
