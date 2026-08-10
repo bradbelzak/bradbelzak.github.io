@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-10T17:04:04.427697Z",
+ "updatedAt": "2026-08-10T21:53:10.823618Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Epirus secures $11 million Marine Corps contract for HAVOC system",
-   "url": "https://breakingdefense.com/2026/08/epirus-secures-11-million-marine-corps-contract-for-havoc-system/",
+   "title": "Agentic AI turning Zero Trust cybersecurity ‘on its head’",
+   "url": "https://breakingdefense.com/2026/08/agentic-ai-turning-zero-trust-cybersecurity-on-its-head/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-10T16:44:01Z",
-   "why": "The system will feature a “universal sled mount” to pair it with various manned and unmanned vehicles across the service, Epirus said."
+   "published": "2026-08-10T21:39:40Z",
+   "why": "A top Intelligence Community official said the government may need to develop digital birth certificates for AI agents."
   },
   {
-   "title": "Boeing to sell three subsidiaries to eVTOL firm Archer",
-   "url": "https://breakingdefense.com/2026/08/boeing-to-sell-three-subsidiaries-to-evtol-firm-archer/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-10T16:20:04Z",
-   "why": "Pending regulatory approval, the sales of drone maker Insitu, air traffic management firm SkyGrid and electric aircraft maker Wisk Aero are expected to close..."
-  },
-  {
-   "title": "Federal systems increasingly likely to face accidental AI breach after Hugging Face, experts say",
-   "url": "https://www.nextgov.com/cybersecurity/2026/08/federal-systems-increasingly-likely-face-accidental-ai-breach-after-hugging-face-experts-say/415307/",
+   "title": "Federal agencies quietly joined health data superhighway governing council",
+   "url": "https://www.nextgov.com/digital-government/2026/08/federal-agencies-quietly-joined-health-data-superhighway-governing-council/415324/",
    "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-10T15:19:00Z",
-   "why": "Former officials and security experts say aged systems, contractors and agency AI adoption could open similar paths into government networks."
+   "published": "2026-08-10T21:37:00Z",
+   "why": "The rapidly growing superhighway — known as TEFCA — will help federal agencies digitally obtain health records from thousands of hospitals, clinics and other..."
   },
   {
-   "title": "UK man tied to The Com sentenced for abusing 117 victims",
-   "url": "https://cyberscoop.com/uk-justin-swaddle-the-com-sentenced/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-10T15:09:41Z",
-   "why": "Justin Swaddle, who was a minor when he committed the crimes, coerced children across multiple countries into self-harm and sexual abuse using threats tied to..."
-  },
-  {
-   "title": "Air Force seeks AI tool to help manage Minuteman III ICBM sustainment",
-   "url": "https://breakingdefense.com/2026/08/air-force-seeks-ai-tool-to-help-manage-minuteman-iii-icbm-sustainment/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-10T14:53:52Z",
-   "why": "The new AI tool could help cut down the cumbersome labor needed to sift through roughly 60 different data sources, according to the Air Force."
-  },
-  {
-   "title": "Why transparent AI agents matter more than you think",
-   "url": "https://cyberscoop.com/transparent-ai-agent-security-op-ed/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-10T14:23:16Z",
-   "why": "The difference between a prompt injection attack you'll catch and one you won't might just be whether your AI agent can explain itself."
-  },
-  {
-   "title": "Germany and the Netherlands buy 69 more RCT30 infantry fighting vehicles",
-   "url": "https://breakingdefense.com/2026/08/germany-and-the-netherlands-buy-69-more-rct30-infantry-fighting-vehicles/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-10T13:45:58Z",
-   "why": "Manufacturer KNDS said it has developed the Boxer RCT30 as the “backbone” of Germany’s new “Medium Forces.”"
-  },
-  {
-   "title": "Cloudflare to seek DOD IL4 authorization after new FedRAMP, GovRAMP designations",
-   "url": "https://www.nextgov.com/acquisition/2026/08/cloudflare-seek-dod-il4-authorization-after-new-fedramp-govramp-designations/415299/",
+   "title": "Senate’s short-term funding bill provides temporary extensions for TMF, cyber data-sharing law",
+   "url": "https://www.nextgov.com/policy/2026/08/senates-short-term-funding-bill-provides-temporary-extensions-tmf-cyber-data-sharing-law/415322/",
    "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-10T13:00:00Z",
-   "why": "The connectivity cloud giant recently achieved FedRAMP High certification and GovRAMP Moderate authorization."
+   "published": "2026-08-10T21:25:00Z",
+   "why": "The continuing resolution that overwhelmingly passed the upper chamber this weekend would push the federal government’s funding deadline until Dec."
+  },
+  {
+   "title": "IT cuts led to delays in IRS’s processing of paper returns, GAO finds",
+   "url": "https://fedscoop.com/irs-paper-returns-processing-gao-report/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-10T21:24:48Z",
+   "why": "Agency officials told the watchdog that the “recent loss of experienced IT acquisition staff” resulted in paper-processing systems not being ready for the..."
+  },
+  {
+   "title": "The FTC wants to regulate AI for ideological bias",
+   "url": "https://cyberscoop.com/ftc-regulating-ai-ideological-bias/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-10T21:20:50Z",
+   "why": "The commission is mulling whether to begin regulating bias in AI systems."
+  },
+  {
+   "title": "Project 2025 contributor nominated for government watchdog position",
+   "url": "https://www.govexec.com/oversight/2026/08/project-2025-contributor-nominated-government-watchdog-position/415320/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-10T21:14:05Z",
+   "why": "While the president recently nominated Dennis Kirk to serve as inspector general at the Interior Department, he’s reportedly already working in that office as..."
+  },
+  {
+   "title": "How operating reality shifts under NSPM-12",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/how-operating-reality-shifts-under-nspm-12/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-10T21:13:57Z",
+   "why": "It shifts from decentralized, policy‑heavy efforts like zero trust guidance to a more centralized model that imposes uniform compliance and real accountability."
+  },
+  {
+   "title": "Senate Finance panel’s top Dem proposes excise tax on new data centers",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/senate-finance-panels-top-dem-proposes-excise-tax-new-data-centers/415321/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-10T21:12:00Z",
+   "why": "Oregon Sen."
   }
  ]
 }
