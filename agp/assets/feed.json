@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-12T11:56:07.173318Z",
+ "updatedAt": "2026-08-12T17:07:44.460471Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Appellate Jurisdiction Update II",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16456/appellate-jurisdiction-update-ii",
-   "source": "Federal Register - Merit Systems Protection Board",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "The Merit Systems Protection Board (MSPB or Board) is amending its regulations to remove references to MSPB's jurisdiction over probationary termination..."
+   "title": "Army shifts autonomy strategy to lean more on ‘awesome vendors’",
+   "url": "https://breakingdefense.com/2026/08/army-shifts-autonomy-strategy-to-lean-more-on-awesome-vendors/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-12T16:39:00Z",
+   "why": "An Army official told Breaking Defense the service’s original plan to build a software backbone itself makes less sense now that there’s real industry..."
   },
   {
-   "title": "Community Reinvestment Act Regulations",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16454/community-reinvestment-act-regulations",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "The Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) are proposing to amend their Community Reinvestment..."
+   "title": "Joint force needs kinetic and non-kinetic weapons for space war: Whiting",
+   "url": "https://breakingdefense.com/2026/08/joint-force-needs-kinetic-and-non-kinetic-weapons-for-space-war-whiting/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-12T15:56:57Z",
+   "why": "“We’re a combatant command and we fight to win wars,” US Space Command chief Gen."
   },
   {
-   "title": "Imposition of Import Restrictions on Categories of Archaeological and Ethnological Material of Nepal",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16432/imposition-of-import-restrictions-on-categories-of-archaeological-and-ethnological-material-of-nepal",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "This document amends U.S."
+   "title": "Army loses 18% of civilian workforce at two major depots",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/army-loses-18-of-civilian-workforce-at-two-major-depots/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T15:49:07Z",
+   "why": "The GAO found that the Anniston and Red River Army Depots lost nearly 800 permanent and term-limited employees when comparing fiscal 2021 to fiscal 2025."
   },
   {
-   "title": "Special Local Regulation; Casco Bay, Flotilla To Fight Cancer, Long Island, ME",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16428/special-local-regulation-casco-bay-flotilla-to-fight-cancer-long-island-me",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "The Coast Guard is establishing a temporary special local regulation for the navigable waters of Casco Bay, in the vicinity of Cow Island, in the Town of Long..."
+   "title": "Pentagon wants to spend millions on Palantir with few details",
+   "url": "https://federalnewsnetwork.com/contracting/2026/08/pentagon-wants-to-spend-millions-on-palantir-with-few-details/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T15:44:58Z",
+   "why": "A Pentagon memo directs up to $244 million for Palantir and calls for additional funding through 2028, raising transparency and competition concerns."
   },
   {
-   "title": "Special Local Regulation; Daugherty Creek, Crisfield, MD",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16426/special-local-regulation-daugherty-creek-crisfield-md",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "The Coast Guard is establishing a temporary special local regulation (SLR) for certain waters of Daugherty Creek, off Wellington Beach, near Crisfield, MD."
+   "title": "VA’s benefits system overhaul is running into some familiar problems",
+   "url": "https://www.govexec.com/technology/2026/08/vas-benefits-system-overhaul-running-some-familiar-problems/415366/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T15:28:50Z",
+   "why": "An audit found gaps in planning, cost estimates and oversight that could put the modernization effort further behind schedule."
   },
   {
-   "title": "Rescission of DOE's Procedures for Traffic Control on the Nevada Test Site",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16425/rescission-of-does-procedures-for-traffic-control-on-the-nevada-test-site",
-   "source": "Federal Register - Energy Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "This interim final rule rescinds DOE's regulations outlining the establishment of traffic control regulations on the Nevada National Security Site (NNSS)..."
+   "title": "Amazon Web Services’ Dave Levy departs for Google",
+   "url": "https://www.nextgov.com/people/2026/08/amazon-web-services-dave-levy-departs-google/415364/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T14:52:00Z",
+   "why": "The senior executive worked at AWS since 2017."
   },
   {
-   "title": "Guide To Minimize Biological Hazards in Ready-to-Eat Fresh-Cut Produce; Guidance for Industry; Availability",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16420/guide-to-minimize-biological-hazards-in-ready-to-eat-fresh-cut-produce-guidance-for-industry",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "The Food and Drug Administration (FDA or we) is announcing the availability of a final guidance for industry entitled \"Guide to Minimize Biological Hazards in..."
+   "title": "Feinberg requested defense industry board members for briefing",
+   "url": "https://breakingdefense.com/2026/08/feinberg-requested-defense-industry-board-members-for-briefing-execs/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-12T13:51:48Z",
+   "why": "The request by the Pentagon’s No."
   },
   {
-   "title": "Adoption and Foster Care Analysis and Reporting System",
-   "url": "https://www.federalregister.gov/documents/2026/08/12/2026-16414/adoption-and-foster-care-analysis-and-reporting-system",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-12T12:00:00Z",
-   "why": "This document withdraws a proposed rule that was published in the Federal Register on January 11, 2008."
+   "title": "Engineering decision advantage for the warfighter",
+   "url": "https://breakingdefense.com/2026/08/engineering-decision-advantage-for-the-warfighter/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-12T12:22:00Z",
+   "why": "[Sponsored] Multi-orbit mission capabilities are accelerating decision making across domains."
   }
  ]
 }
