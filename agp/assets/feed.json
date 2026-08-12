@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-12T17:07:44.460471Z",
+ "updatedAt": "2026-08-12T21:56:59.888985Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Army shifts autonomy strategy to lean more on ‘awesome vendors’",
-   "url": "https://breakingdefense.com/2026/08/army-shifts-autonomy-strategy-to-lean-more-on-awesome-vendors/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-12T16:39:00Z",
-   "why": "An Army official told Breaking Defense the service’s original plan to build a software backbone itself makes less sense now that there’s real industry..."
-  },
-  {
-   "title": "Joint force needs kinetic and non-kinetic weapons for space war: Whiting",
-   "url": "https://breakingdefense.com/2026/08/joint-force-needs-kinetic-and-non-kinetic-weapons-for-space-war-whiting/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-12T15:56:57Z",
-   "why": "“We’re a combatant command and we fight to win wars,” US Space Command chief Gen."
-  },
-  {
-   "title": "Army loses 18% of civilian workforce at two major depots",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/army-loses-18-of-civilian-workforce-at-two-major-depots/",
+   "title": "‘ICJobs:’ Intel community gets new classified jobs portal",
+   "url": "https://federalnewsnetwork.com/intelligence-community/2026/08/icjobs-intel-community-gets-new-classified-jobs-portal/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-12T15:49:07Z",
-   "why": "The GAO found that the Anniston and Red River Army Depots lost nearly 800 permanent and term-limited employees when comparing fiscal 2021 to fiscal 2025."
+   "published": "2026-08-12T21:52:55Z",
+   "why": "IC CIO Doug Cossa says the intelligence community needs to find \"the right people with the right talent for the right work\" amid the AI race."
   },
   {
-   "title": "Pentagon wants to spend millions on Palantir with few details",
-   "url": "https://federalnewsnetwork.com/contracting/2026/08/pentagon-wants-to-spend-millions-on-palantir-with-few-details/",
+   "title": "Government asks for public input all the time, most people don’t know what to do with that invitation",
+   "url": "https://federalnewsnetwork.com/agency-oversight/2026/08/government-asks-for-public-input-all-the-time-most-people-dont-know-what-to-do-with-that-invitation/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-12T15:44:58Z",
-   "why": "A Pentagon memo directs up to $244 million for Palantir and calls for additional funding through 2028, raising transparency and competition concerns."
+   "published": "2026-08-12T21:49:42Z",
+   "why": "\"This is a part of the American democratic process, that this our government asking for feedback,\" said Colette Delawalla."
   },
   {
-   "title": "VA’s benefits system overhaul is running into some familiar problems",
-   "url": "https://www.govexec.com/technology/2026/08/vas-benefits-system-overhaul-running-some-familiar-problems/415366/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T15:28:50Z",
-   "why": "An audit found gaps in planning, cost estimates and oversight that could put the modernization effort further behind schedule."
-  },
-  {
-   "title": "Amazon Web Services’ Dave Levy departs for Google",
-   "url": "https://www.nextgov.com/people/2026/08/amazon-web-services-dave-levy-departs-google/415364/",
+   "title": "VA seeks to extend its Oracle health record contract through 2031",
+   "url": "https://www.nextgov.com/modernization/2026/08/va-seeks-extend-its-oracle-health-record-contract-through-2031/415380/",
    "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-12T14:52:00Z",
-   "why": "The senior executive worked at AWS since 2017."
+   "published": "2026-08-12T21:43:00Z",
+   "why": "“This action is necessary to continue [electronic health record modernization] deployment activities and associated support services until all VA Medical..."
   },
   {
-   "title": "Feinberg requested defense industry board members for briefing",
-   "url": "https://breakingdefense.com/2026/08/feinberg-requested-defense-industry-board-members-for-briefing-execs/",
+   "title": "Day 2 of the 2026 Space and Missile Defense Symposium",
+   "url": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-12T13:51:48Z",
-   "why": "The request by the Pentagon’s No."
+   "published": "2026-08-12T21:38:47Z",
+   "why": "More photos from the expo floor at the Von Braun Center in Huntsville, Ala."
   },
   {
-   "title": "Engineering decision advantage for the warfighter",
-   "url": "https://breakingdefense.com/2026/08/engineering-decision-advantage-for-the-warfighter/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-12T12:22:00Z",
-   "why": "[Sponsored] Multi-orbit mission capabilities are accelerating decision making across domains."
+   "title": "Congress seeks federal workforce changes in recent slate of bills",
+   "url": "https://federalnewsnetwork.com/congress/2026/08/congress-seeks-federal-workforce-changes-in-recent-slate-of-bills/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T21:33:07Z",
+   "why": "Various bills pending on Capitol Hill are looking to address issues like workplace health and safety, employee benefits and cybersecurity protections."
+  },
+  {
+   "title": "The missing component of government AI deployment: Trust",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/the-missing-component-of-government-ai-deployment-trust/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T21:30:50Z",
+   "why": "The agencies that build verification into their AI architecture now will be best positioned to bring the most capable AI systems to the missions that matter."
+  },
+  {
+   "title": "DoD eyes accounting reforms to lower barriers for commercial firms",
+   "url": "https://federalnewsnetwork.com/acquisition-policy/2026/08/dod-eyes-accounting-reforms-to-lower-barriers-for-commercial-firms/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T21:12:46Z",
+   "why": "The Pentagon is asking industry to recommend “common sense contract accounting changes” that would reduce compliance costs."
+  },
+  {
+   "title": "$10B VA-Oracle EHRM contract will soon run out of funds and time, documents show",
+   "url": "https://fedscoop.com/va-oracle-ehrm-contract-funds-running-out/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-12T21:09:28Z",
+   "why": "An “unanticipated complexity of the effort” delayed the contract and cost more to deploy than originally budgeted for, contracting documents said."
   }
  ]
 }
