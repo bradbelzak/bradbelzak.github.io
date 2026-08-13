@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-13T17:07:04.643622Z",
+ "updatedAt": "2026-08-13T21:56:44.087021Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "MSPB officially transitions away from its authority over adverse action appeals",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/mspb-officially-transitions-away-from-its-authority-over-adverse-action-appeals/",
+   "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
+   "url": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-13T21:49:57Z",
+   "why": "The memo also called for the establishment of a new component repair center in an attempt to reduce submarine repair delays."
+  },
+  {
+   "title": "BOD 26-04 isn’t a scoring upgrade. It’s an audit of whether you can actually fix things.",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/bod-26-04-isnt-a-scoring-upgrade-its-an-audit-of-whether-you-can-actually-fix-things/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-13T17:02:53Z",
-   "why": "The adjustments at MSPB come after OPM finalized rules to take over decisions in three categories of workplace disputes."
+   "published": "2026-08-13T21:48:48Z",
+   "why": "When automated threat actors weaponize vulnerabilities in hours, the ultimate bottleneck is not how fast we can scan, it's how fast we can coordinate a fix."
   },
   {
-   "title": "AI’s ‘middle class’ has gotten dramatically better at hacking",
-   "url": "https://cyberscoop.com/mid-tier-ai-models-hacking-threat/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-13T16:55:02Z",
-   "why": "As frontier models and their sandbox escaping exploits dominate front-page news, researchers are increasingly worried about cheaper, more efficient AI models."
+   "title": "Priorities for Army fires top off SMD Day 3",
+   "url": "https://breakingdefense.com/2026/08/priorities-for-army-fires-top-off-smd-day-3/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-13T21:48:40Z",
+   "why": "Top news from the final day of the 2026 Space and Missile Defense Symposium."
   },
   {
-   "title": "Trump admin empowers private US firms to go after transnational cybercriminals",
-   "url": "https://www.nextgov.com/cybersecurity/2026/08/trump-admin-gives-private-us-firms-ability-go-after-transnational-cybercriminals/415398/",
-   "source": "Nextgov",
+   "title": "Pentagon’s nascent BOND program informed Feinberg’s new ‘Funding Palantir’ memo",
+   "url": "https://defensescoop.com/2026/08/13/feinberg-funding-palantir-memo-pentagon-bond-program/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-13T21:33:41Z",
+   "why": "The new guidance has sparked more questions than Defense Department officials would answer this week."
+  },
+  {
+   "title": "Intel agencies take deliberate approach to agentic AI adoption",
+   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/08/intel-agencies-take-deliberate-approach-to-agentic-ai-adoption/",
+   "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-13T16:40:00Z",
-   "why": "“By partnering with vetted United States companies subject to the direction and oversight of the Federal Government, we will enhance our ability to counter..."
+   "published": "2026-08-13T21:17:41Z",
+   "why": "The DIA is on a 90-day sprint to establish an enterprise AI platform, as it lays the groundwork for having agents working with agents."
   },
   {
-   "title": "State’s overseas housing rules haven’t kept up with the times, GAO says",
-   "url": "https://www.govexec.com/oversight/2026/08/states-overseas-housing-rules-gao/415396/",
+   "title": "DOJ finds three federal STEM education programs unconstitutional",
+   "url": "https://fedscoop.com/doj-opinion-nsf-stem-dei-unconstitutional/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-13T21:00:31Z",
+   "why": "The NSF programs include one aimed at Hispanic-serving institutions that was established under bipartisan legislation and signed into law by President George W."
+  },
+  {
+   "title": "DISA starting small in proving out Mission Partner Environment capabilities",
+   "url": "https://federalnewsnetwork.com/ask-the-cio/2026/08/disa-starting-small-in-proving-out-mission-partner-environment-capabilities/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-13T20:50:35Z",
+   "why": "Nic Creswell, the portfolio acquisition executive for the Mission Partner Environment at DISA, said the goal is to test and expand capabilities at INDOPACOM."
+  },
+  {
+   "title": "Lawsuit seeks to enforce 2025 SCOTUS decision improving pay for feds called to active duty",
+   "url": "https://www.govexec.com/pay-benefits/2026/08/lawsuit-seeks-enforce-2025-scotus-decision-improving-pay-feds-called-active-duty/415415/",
    "source": "Government Executive",
    "category": "Technology Modernization",
-   "published": "2026-08-13T16:38:48Z",
-   "why": "The agency is still using standards tied to the D.C."
-  },
-  {
-   "title": "On Asia trip, DoD policy chief has praise for AUKUS, and a warning for ‘middle powers’",
-   "url": "https://breakingdefense.com/2026/08/on-asia-trip-dod-policy-chief-has-praise-for-aukus-and-a-warning-for-middle-powers/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-13T16:27:24Z",
-   "why": "Elbridge Colby said at the start of his multi-nation tour that his message would be “realistic and perhaps bracing, but also reassuring.”"
-  },
-  {
-   "title": "The Retirement Playbook Has Changed: What mid career feds should rethink now",
-   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/the-retirement-playbook-has-changed-what-mid-career-feds-should-rethink-now/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-13T16:22:17Z",
-   "why": "Fed Thread"
-  },
-  {
-   "title": "AI’s next leap for the Intelligence Community: Agents managing agents",
-   "url": "https://breakingdefense.com/2026/08/ais-next-leap-for-the-intelligence-community-agents-managing-agents/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-13T15:00:00Z",
-   "why": "DIA, NGA and the FBI are building the infrastructure and guardrails needed for increasingly autonomous artificial intelligence."
-  },
-  {
-   "title": "AEVEX to acquire BlackSea Technologies for up to $650M",
-   "url": "https://breakingdefense.com/2026/08/aevex-to-acquire-blacksea-technologies-for-up-to-650m/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-13T14:09:08Z",
-   "why": "The acquisition is slated to close in September and aims to provide AEVEX greater “customer access” to military users."
+   "published": "2026-08-13T20:36:53Z",
+   "why": "In the 15 months since the Supreme Court ruled that federal workers who also serve as military reservists do not need to prove that an active duty deployment..."
   }
  ]
 }
