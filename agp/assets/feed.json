@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-12T21:56:59.888985Z",
+ "updatedAt": "2026-08-13T11:56:32.261731Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "‘ICJobs:’ Intel community gets new classified jobs portal",
-   "url": "https://federalnewsnetwork.com/intelligence-community/2026/08/icjobs-intel-community-gets-new-classified-jobs-portal/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T21:52:55Z",
-   "why": "IC CIO Doug Cossa says the intelligence community needs to find \"the right people with the right talent for the right work\" amid the AI race."
+   "title": "Airworthiness Directives; Airbus SAS Airplanes",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16567/airworthiness-directives-airbus-sas-airplanes",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "The FAA proposes to adopt a new airworthiness directive (AD) for all Airbus SAS Model A330-243, A330-243F, A330-341, A330-342, A330- 343, A330-841, and..."
   },
   {
-   "title": "Government asks for public input all the time, most people don’t know what to do with that invitation",
-   "url": "https://federalnewsnetwork.com/agency-oversight/2026/08/government-asks-for-public-input-all-the-time-most-people-dont-know-what-to-do-with-that-invitation/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T21:49:42Z",
-   "why": "\"This is a part of the American democratic process, that this our government asking for feedback,\" said Colette Delawalla."
+   "title": "Air Plan Approval; Commonwealth of Virginia; Transfer of Authority and Requests for Certain Public Hearings on Air Permits",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16564/air-plan-approval-commonwealth-of-virginia-transfer-of-authority-and-requests-for-certain-public",
+   "source": "Federal Register - Environmental Protection Agency",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "The Environmental Protection Agency (EPA) is proposing to approve a state implementation plan (SIP) revision request submitted by Virginia Department of..."
   },
   {
-   "title": "VA seeks to extend its Oracle health record contract through 2031",
-   "url": "https://www.nextgov.com/modernization/2026/08/va-seeks-extend-its-oracle-health-record-contract-through-2031/415380/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T21:43:00Z",
-   "why": "“This action is necessary to continue [electronic health record modernization] deployment activities and associated support services until all VA Medical..."
+   "title": "Establishment of Class E Airspace; Havana, IL",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16539/establishment-of-class-e-airspace-havana-il",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "This action corrects a notice of proposed rulemaking (NPRM) that the FAA published in the Federal Register on August 10, 2026, proposing to establish Class E..."
   },
   {
-   "title": "Day 2 of the 2026 Space and Missile Defense Symposium",
-   "url": "https://breakingdefense.com/2026/08/day-2-of-the-2026-space-and-missile-defense-symposium/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-12T21:38:47Z",
-   "why": "More photos from the expo floor at the Von Braun Center in Huntsville, Ala."
+   "title": "Fisheries Off West Coast States; Modification of the West Coast Salmon Fisheries; Inseason Action #23-#24",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16537/fisheries-off-west-coast-states-modification-of-the-west-coast-salmon-fisheries-inseason-action",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "NMFS announces two inseason actions for the 2026 portion of the 2025-2026 ocean salmon fisheries."
   },
   {
-   "title": "Congress seeks federal workforce changes in recent slate of bills",
-   "url": "https://federalnewsnetwork.com/congress/2026/08/congress-seeks-federal-workforce-changes-in-recent-slate-of-bills/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T21:33:07Z",
-   "why": "Various bills pending on Capitol Hill are looking to address issues like workplace health and safety, employee benefits and cybersecurity protections."
+   "title": "Air Plan Approval; Missouri; Clean Data Determination for the 2015 8-Hour Ozone Standard for the Missouri Portion of the St. Louis Nonattainment Area",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16515/air-plan-approval-missouri-clean-data-determination-for-the-2015-8-hour-ozone-standard-for-the",
+   "source": "Federal Register - Environmental Protection Agency",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "The Environmental Protection Agency (EPA) is determining under the Clean Air Act (CAA) that the Missouri portion of the St."
   },
   {
-   "title": "The missing component of government AI deployment: Trust",
-   "url": "https://federalnewsnetwork.com/commentary/2026/08/the-missing-component-of-government-ai-deployment-trust/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T21:30:50Z",
-   "why": "The agencies that build verification into their AI architecture now will be best positioned to bring the most capable AI systems to the missions that matter."
+   "title": "Air Plan Approval; Illinois; Clean Data Determination for the Illinois Portion of the St. Louis Area for the 2015 Ozone Standard",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16514/air-plan-approval-illinois-clean-data-determination-for-the-illinois-portion-of-the-st-louis-area",
+   "source": "Federal Register - Environmental Protection Agency",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "The Environmental Protection Agency (EPA) is determining under the Clean Air Act (CAA) that the Illinois portion of the St."
   },
   {
-   "title": "DoD eyes accounting reforms to lower barriers for commercial firms",
-   "url": "https://federalnewsnetwork.com/acquisition-policy/2026/08/dod-eyes-accounting-reforms-to-lower-barriers-for-commercial-firms/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T21:12:46Z",
-   "why": "The Pentagon is asking industry to recommend “common sense contract accounting changes” that would reduce compliance costs."
+   "title": "Airworthiness Directives; BRP-Rotax GmbH & Co KG (Formerly BRP-Powertrain GMBH & CO KG and Bombardier-Rotax GmbH) Engines and Various Aircraft",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16512/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "The FAA is adopting a new airworthiness directive (AD) for all BRP-Rotax GmbH & Co KG (Rotax) Model 912 F2, 912 F3, 912 F4, 912 iSc2 Sport, 912 iSc3 Sport, 912..."
   },
   {
-   "title": "$10B VA-Oracle EHRM contract will soon run out of funds and time, documents show",
-   "url": "https://fedscoop.com/va-oracle-ehrm-contract-funds-running-out/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-08-12T21:09:28Z",
-   "why": "An “unanticipated complexity of the effort” delayed the contract and cost more to deploy than originally budgeted for, contracting documents said."
+   "title": "Determination of Attainment by the Attainment Date; 1997 Ozone Standards; California; Coachella Valley",
+   "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16511/determination-of-attainment-by-the-attainment-date-1997-ozone-standards-california-coachella-valley",
+   "source": "Federal Register - Environmental Protection Agency",
+   "category": "Policy and Regulation",
+   "published": "2026-08-13T12:00:00Z",
+   "why": "The Environmental Protection Agency (EPA) is taking final action to determine that the Riverside County (Coachella Valley), CA 1997 ozone \"Extreme\"..."
   }
  ]
 }
