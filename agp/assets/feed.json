@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-08-14T11:54:03.965888Z",
+ "updatedAt": "2026-08-14T17:04:35.606957Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army tells industry: Soldiers need more power, but don’t just offer batteries and generators",
+   "url": "https://breakingdefense.com/2026/08/army-tells-industry-soldiers-need-more-power-but-dont-offer-us-more-batteries-and-generators/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-14T15:48:31Z",
+   "why": "As new drones, networks and weapons come online, the Army faces a power crunch that senior officials are asking industry to help solve."
+  },
+  {
+   "title": "Pentagon inks SM-3 framework deals with RTX, Boeing on critical components",
+   "url": "https://breakingdefense.com/2026/08/pentagon-inks-sm-3-framework-deals-with-rtx-boeing-on-critical-components/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-14T14:55:00Z",
+   "why": "The seven-year framework deals cover key SM-3 components including avionics and ejector assemblies."
+  },
+  {
+   "title": "Trump opens door for foreign-built Navy ships. It could get complicated.",
+   "url": "https://breakingdefense.com/2026/08/what-would-integrating-foreign-ships-into-the-us-fleet-look-like/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-14T14:02:00Z",
+   "why": "President Donald Trump has called for the US to outsource the building of at least a few Navy ships to foreign shipyards."
+  },
+  {
+   "title": "CENTCOM launches multinational one-way attack drone force",
+   "url": "https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-14T13:26:22Z",
+   "why": "The force “will employ one-way attack drones consisting of unmanned systems from above, on, and below the sea operated by military support staff from the..."
+  },
+  {
+   "title": "FAA brings in AT&T for network modernization program",
+   "url": "https://www.nextgov.com/modernization/2026/08/faa-brings-t-network-modernization-program/415417/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T13:00:00Z",
+   "why": "The Federal Aviation Administration is developing a potential 15-year contract with AT&T to support the overhaul of the air traffic control system."
+  },
   {
    "title": "Differential Pay for Prescribed Wildland Fire Activities",
    "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16687/differential-pay-for-prescribed-wildland-fire-activities",
@@ -27,46 +67,6 @@
    "category": "Policy and Regulation",
    "published": "2026-08-14T12:00:00Z",
    "why": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the 15,827-acre \"Rancho Santa Fe\" American viticultural area (AVA) in San Diego..."
-  },
-  {
-   "title": "Proposed Establishment of the Llano Uplift and Hickory Sands District Viticultural Areas",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16670/proposed-establishment-of-the-llano-uplift-and-hickory-sands-district-viticultural-areas",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the 2,096-square mile \"Llano Uplift\" American viticultural area (AVA) in portions of..."
-  },
-  {
-   "title": "Proposed Establishment of the Mill Creek-Walla Walla Valley Viticultural Area",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16669/proposed-establishment-of-the-mill-creek-walla-walla-valley-viticultural-area",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the approximately 4,898-acre \"Mill Creek--Walla Walla Valley\" American viticultural..."
-  },
-  {
-   "title": "Proposed Establishment of the Kaw Valley Viticultural Area",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16668/proposed-establishment-of-the-kaw-valley-viticultural-area",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the approximately 3,515,482-acre (5,493-square mile) \"Kaw Valley\" American..."
-  },
-  {
-   "title": "Special Local Regulation; ChattaWake Wakesurfing Event, Tennessee River, Chattanooga TN",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16660/special-local-regulation-chattawake-wakesurfing-event-tennessee-river-chattanooga-tn",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The Coast Guard is establishing a special local regulation (SLR) for the ChattaWake wakesurfing competition, from Mile Marker 462 to 466 on the Tennessee River..."
-  },
-  {
-   "title": "Airworthiness Directives; Gulfstream Aerospace LP (Type Certificate Previously Held by Israel Aircraft Industries, Ltd.) Airplanes",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16659/airworthiness-directives-gulfstream-aerospace-lp-type-certificate-previously-held-by-israel-aircraft",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The FAA is adopting a new airworthiness directive (AD) for all Gulfstream Aerospace LP Model Gulfstream 200 and Galaxy airplanes."
   }
  ]
 }
