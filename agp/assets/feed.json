@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-14T17:04:35.606957Z",
+ "updatedAt": "2026-08-14T21:35:16.971524Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Army tells industry: Soldiers need more power, but don’t just offer batteries and generators",
-   "url": "https://breakingdefense.com/2026/08/army-tells-industry-soldiers-need-more-power-but-dont-offer-us-more-batteries-and-generators/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-14T15:48:31Z",
-   "why": "As new drones, networks and weapons come online, the Army faces a power crunch that senior officials are asking industry to help solve."
-  },
-  {
-   "title": "Pentagon inks SM-3 framework deals with RTX, Boeing on critical components",
-   "url": "https://breakingdefense.com/2026/08/pentagon-inks-sm-3-framework-deals-with-rtx-boeing-on-critical-components/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-14T14:55:00Z",
-   "why": "The seven-year framework deals cover key SM-3 components including avionics and ejector assemblies."
-  },
-  {
-   "title": "Trump opens door for foreign-built Navy ships. It could get complicated.",
-   "url": "https://breakingdefense.com/2026/08/what-would-integrating-foreign-ships-into-the-us-fleet-look-like/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-14T14:02:00Z",
-   "why": "President Donald Trump has called for the US to outsource the building of at least a few Navy ships to foreign shipyards."
-  },
-  {
-   "title": "CENTCOM launches multinational one-way attack drone force",
-   "url": "https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-14T13:26:22Z",
-   "why": "The force “will employ one-way attack drones consisting of unmanned systems from above, on, and below the sea operated by military support staff from the..."
-  },
-  {
-   "title": "FAA brings in AT&T for network modernization program",
-   "url": "https://www.nextgov.com/modernization/2026/08/faa-brings-t-network-modernization-program/415417/",
+   "title": "Gartner has confirmed the battle for authority is happening right now. Is your agency ready for the aftermath?",
+   "url": "https://www.nextgov.com/ideas/2026/08/gartner-has-confirmed-battle-authority-happening-right-now-your-agency-ready-aftermath/415435/",
    "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-14T13:00:00Z",
-   "why": "The Federal Aviation Administration is developing a potential 15-year contract with AT&T to support the overhaul of the air traffic control system."
+   "published": "2026-08-14T19:40:00Z",
+   "why": "COMMENTARY | If agencies don't act, the consequences won't be abstract."
   },
   {
-   "title": "Differential Pay for Prescribed Wildland Fire Activities",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16687/differential-pay-for-prescribed-wildland-fire-activities",
-   "source": "Federal Register - Personnel Management Office",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The Office of Personnel Management is issuing a final rule to add prescribed (planned) wildland fire duties as covered activities triggering payment of..."
+   "title": "GSA acquisition product pricing data flawed, may cause agencies to overpay, watchdog says",
+   "url": "https://fedscoop.com/gsa-acquisition-pricing-data-flawed-may-cause-agencies-to-overpay-watchdog-says/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T19:30:16Z",
+   "why": "In an audit, the GSA’s Office of the Inspector General said the Federal Acquisition Service’s product catalog and data reporting system had varying names and..."
   },
   {
-   "title": "Airworthiness Directives; Air Tractor, Inc. Airplanes",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16672/airworthiness-directives-air-tractor-inc-airplanes",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The FAA is superseding Airworthiness Directive (AD) 2024-16- 06, which applied to all Air Tractor, Inc."
+   "title": "Who says the federal government should own part of a private company? That’s no longer a theoretical question.",
+   "url": "https://federalnewsnetwork.com/management/2026/08/who-says-the-federal-government-should-own-part-of-a-private-company-thats-no-longer-a-theoretical-question/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T19:29:08Z",
+   "why": "\"The government is a shareholder, but it's not necessarily sitting there, as I understand it, in the boardroom dictating strategy or policy,\" said Joel Fetter."
   },
   {
-   "title": "Proposed Establishment of the Rancho Santa Fe Viticultural Area",
-   "url": "https://www.federalregister.gov/documents/2026/08/14/2026-16671/proposed-establishment-of-the-rancho-santa-fe-viticultural-area",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-14T12:00:00Z",
-   "why": "The Alcohol and Tobacco Tax and Trade Bureau (TTB) proposes to establish the 15,827-acre \"Rancho Santa Fe\" American viticultural area (AVA) in San Diego..."
+   "title": "OPM finalizes expanded hazard pay for federal firefighters",
+   "url": "https://www.govexec.com/workforce/2026/08/opm-finalizes-expanded-hazard-pay-federal-firefighters/415432/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T19:20:47Z",
+   "why": "Under regulations set to take effect next month, federal wildland firefighters will be eligible for 25% hazard pay in connection with work on prescribed burns."
+  },
+  {
+   "title": "Government is taking a bigger role in emerging technologies, and now Congress has to rewrite some rules",
+   "url": "https://federalnewsnetwork.com/congress/2026/08/government-is-taking-a-bigger-role-in-emerging-technologies-and-now-congress-has-to-rewrite-some-rules/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T19:12:56Z",
+   "why": "\"I'm not optimistic we'll get anything done this year."
+  },
+  {
+   "title": "Tokenized finance is forcing governments to coordinate rules for markets that are still being built",
+   "url": "https://federalnewsnetwork.com/technology-main/2026/08/tokenized-finance-is-forcing-governments-to-coordinate-rules-for-markets-that-are-still-being-built/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T18:44:43Z",
+   "why": "\"You can take one asset and you can tokenize it and can then trade it 24/7 or internationally,\" said John Kearney."
+  },
+  {
+   "title": "Blue states seek to stop DHS from accessing commercial driver's license database",
+   "url": "https://www.nextgov.com/digital-government/2026/08/blue-states-seek-stop-dhs-accessing-commercial-drivers-license-database/415429/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T18:41:00Z",
+   "why": "In a court filing, a coalition of Democrat-led states says the Department of Homeland Security’s demand for trucker data is part of a broader effort to create..."
+  },
+  {
+   "title": "Federal Movers & Shakers | August 14, 2026",
+   "url": "https://federalnewsnetwork.com/leadership-connect/2026/08/federal-movers-shakers-august-14/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T18:38:21Z",
+   "why": "Tracking leadership changes across the federal government"
   }
  ]
 }
