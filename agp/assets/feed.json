@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-17T16:39:21.588529Z",
+ "updatedAt": "2026-08-17T21:35:07.966893Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Trump scales back military exercise with S Korea, calling it ‘costly’ and ‘hostile’ to the North",
-   "url": "https://breakingdefense.com/2026/08/trump-scales-back-military-exercise-with-s-korea-calling-it-costly-and-hostile-to-the-north/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-17T16:14:35Z",
-   "why": "“These exercises are not only costly […] but send a signal that is completely inappropriate and hostile,” Trump wrote in a social media post."
-  },
-  {
-   "title": "Trump’s call for fifth shipyard likely to run into cost, workforce hurdles: Analysts",
-   "url": "https://breakingdefense.com/2026/08/trumps-call-for-fifth-shipyard-likely-to-run-into-cost-workforce-hurdles-analysts/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-17T16:02:48Z",
-   "why": "The Trump administration’s plans for a new shipyard were disclosed in a National Security Presidential Memorandum released Thursday."
-  },
-  {
-   "title": "Kubasik ousted as L3Harris CEO following conduct violation, company says",
-   "url": "https://breakingdefense.com/2026/08/kubasik-ousted-as-l3harris-ceo-following-conduct-violation-company-says/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-17T15:21:06Z",
-   "why": "L3Harris did not provide specifics on what led to Kubasik’s ouster, but said in a press release that the company “became aware” of conduct by Kubasik “that was..."
-  },
-  {
-   "title": "DLA moves its catalog system off a 35-year-old COBOL platform",
-   "url": "https://federalnewsnetwork.com/it-modernization/2026/08/dla-moves-its-catalog-system-off-a-35-year-old-cobol-platform/",
+   "title": "Three pillars of a resilient hybrid SATCOM architecture",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/three-pillars-of-a-resilient-hybrid-satcom-architecture/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-17T14:12:44Z",
-   "why": "Adarryl Roberts, DLA’s CIO, said the catalog platform is part of a 10-year IT modernization strategy that implements capabilities in short sprints."
+   "published": "2026-08-17T21:18:54Z",
+   "why": "The current threat environment is forcing the agency to realize that all capabilities, including those space-based, are urgent and compelling."
   },
   {
-   "title": "The Retirement Promise: What changes, what doesn’t and what actually matters",
-   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/the-retirement-promise-what-changes-what-doesnt-and-what-actually-matters/",
+   "title": "Pentagon probes 30 U.S. academic institutions for potential ties to adversaries",
+   "url": "https://defensescoop.com/2026/08/17/pentagon-probes-30-u-s-academic-institutions-for-potential-ties-to-adversaries/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-17T20:53:47Z",
+   "why": "A U.S."
+  },
+  {
+   "title": "FEMA gets new CIO as its administrator plans IT overhaul",
+   "url": "https://fedscoop.com/fema-new-cio-steven-mcandrews/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-17T20:48:29Z",
+   "why": "Steven McAndrews will take over the top technology role at the DHS component after most recently serving as the National Nuclear Security Administration’s..."
+  },
+  {
+   "title": "Congress may be on recess, but the campaign for governing power is still underway",
+   "url": "https://federalnewsnetwork.com/congress/2026/08/congress-may-be-on-recess-but-the-campaign-for-governing-power-is-still-underway/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-17T13:33:03Z",
-   "why": "On this episode of Fed Thread, John Hatton explains how federal retirement changes happen and which threats deserve your attention."
+   "published": "2026-08-17T20:44:41Z",
+   "why": "\"I don't think that you'll see the wave that you saw in past years where maybe 30 seats have changed hands,\" said Loren Duggan."
   },
   {
-   "title": "Space Force brings 5 companies on-board Space Data Network",
-   "url": "https://breakingdefense.com/2026/08/space-force-brings-5-companies-on-board-space-data-network/",
-   "source": "Breaking Defense",
+   "title": "Details emerge on BlackFile’s recent attacks on financial companies",
+   "url": "https://cyberscoop.com/blackfile-cyberattacks-financial-sector/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-17T20:41:00Z",
+   "why": "BlackFile’s four affiliate groups are still targeting victims, including medical technology organizations."
+  },
+  {
+   "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents",
+   "url": "https://cyberscoop.com/irregular-ai-sandbox-escape-human-oversight/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-17T20:36:56Z",
+   "why": "In a post-mortem, the frontier AI testing company said internet access for models is necessary to fully test out their cybersecurity capabilities."
+  },
+  {
+   "title": "Anduril redesigns tech for Army’s Soldier Borne Mission Command program",
+   "url": "https://defensescoop.com/2026/08/17/anduril-tech-soldier-borne-mission-command-program/",
+   "source": "DefenseScoop",
    "category": "Defense and National Security",
-   "published": "2026-08-17T13:17:00Z",
-   "why": "The new awards are aimed at demonstrating the ability of multiple satellite networks to connect to the Space Force’s emerging Space Data Network."
+   "published": "2026-08-17T20:32:46Z",
+   "why": "An Anduril executive provided an update on the SBMC effort."
   },
   {
-   "title": "Revocation of Class E Airspace; Santa Elena, TX",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16774/revocation-of-class-e-airspace-santa-elena-tx",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "This action proposes to revoke the Class E airspace at Diamond \"O\" Ranch Airport, Santa Elena, TX."
-  },
-  {
-   "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16769/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "This document contains proposed regulations that would amend existing regulations that require certain trusts to report all charitable contributions and..."
+   "title": "US civil rights agency moves to end demographic data collection after 60 years",
+   "url": "https://federalnewsnetwork.com/management/2026/08/us-civil-rights-agency-moves-to-end-demographic-data-collection-after-60-years/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-17T20:13:39Z",
+   "why": "FILE - Andrea Lucas, nominee to be a member of the Equal Employment Opportunity Commission, testifies during a Senate Health, Education, Labor, and Pensions..."
   }
  ]
 }
