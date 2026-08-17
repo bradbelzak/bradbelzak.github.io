@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-15T13:38:35.207358Z",
+ "updatedAt": "2026-08-17T11:36:22.194480Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Revocation of Class E Airspace; Santa Elena, TX",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16774/revocation-of-class-e-airspace-santa-elena-tx",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "This action proposes to revoke the Class E airspace at Diamond \"O\" Ranch Airport, Santa Elena, TX."
+   "title": "Labor looks to AI to tackle accommodation requests from disabled employees",
+   "url": "https://www.govexec.com/technology/2026/08/labor-department-seeks-ai-triage-accommodation-requests-disabled-employees/415438/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-17T10:00:00Z",
+   "why": "Employees say they’ve waited months or longer for decisions, as the Labor Department considers using AI to sort requests and flag missing documentation."
   },
   {
-   "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16769/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "This document contains proposed regulations that would amend existing regulations that require certain trusts to report all charitable contributions and..."
+   "title": "As warfare becomes engineering, the era of the digital mercenary dawns",
+   "url": "https://www.nextgov.com/cybersecurity/2026/08/warfare-becomes-engineering-era-digital-mercenary-dawns/415442/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-15T00:28:52Z",
+   "why": "The White House revives “privateering for the digital age” by authorizing cyber firms to strike foreign targets."
   },
   {
-   "title": "Supplemental Nutrition Assistance Program: Changes in Federal-State Administrative Cost Sharing; Extension of Comment Period",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16760/supplemental-nutrition-assistance-program-changes-in-federal-state-administrative-cost-sharing",
-   "source": "Federal Register - Agriculture Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "The U.S."
+   "title": "DoD changes transitional health care eligibility for reservists following lawsuit",
+   "url": "https://federalnewsnetwork.com/defense-news/2026/08/dod-changes-transitional-health-care-eligibility-for-reservists-following-lawsuit/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T22:54:38Z",
+   "why": "Reservists no longer need to demonstrate that their period of active duty service was connected to a war to qualify for transitional health care coverage."
   },
   {
-   "title": "Safety Zone; Fox River, Green Bay, WI",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16757/safety-zone-fox-river-green-bay-wi",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "The Coast Guard is establishing a temporary safety zone for navigable waters on the Fox River, in Green Bay, WI."
+   "title": "US military base schools put new emphasis on Western civilization and Christianity",
+   "url": "https://federalnewsnetwork.com/defense-news/2026/08/schools-serving-us-military-families-put-new-emphasis-on-western-civilization-and-christianity-2/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T22:50:36Z",
+   "why": "In a written statement, DoD said it “remains committed to providing all of its military-connected students with the best possible education and opportunities.\""
   },
   {
-   "title": "Establishment of Class E Airspace; DeKalb, IL",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16750/establishment-of-class-e-airspace-dekalb-il",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "This action proposes to establish Class E airspace at Northwestern Memorial Healthcare Heliport, DeKalb, IL."
+   "title": "Trump’s move to ‘unleash’ private sector hackers raises novel oversight, liability questions",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/trumps-move-to-unleash-private-sector-hackers-raises-novel-oversight-liability-questions/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T22:33:25Z",
+   "why": "The goal is to let private companies take on foreign cyber criminals, but the unprecedented approach raises plenty of questions about oversight and liability."
   },
   {
-   "title": "Medical Devices; Classification of Accessories Distinct From Other Devices; Proposed List of Accessories Suitable for Class I; Request for Comments",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16729/medical-devices-classification-of-accessories-distinct-from-other-devices-proposed-list-of",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "As required by the FDA Reauthorization Act of 2017 (FDARA), the Food and Drug Administration (FDA or Agency) has identified a list of accessories for which the..."
+   "title": "Tech Bills of the Week: Leveraging AI for environmental evaluations; crafting a report on China’s AI ecosystem; and more",
+   "url": "https://www.nextgov.com/policy/2026/08/tech-bills-week-leveraging-ai-environmental-evaluations-crafting-new-report-chinas-ai-stack-ecosystem-and-limiting-adversarial-access-national-labs/415441/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T22:31:00Z",
+   "why": "Recently proposals look, in part, to deploy artificial intelligence solutions to prevent natural disasters from impeding U.S."
   },
   {
-   "title": "Gastroenterology-Urology Devices; Reclassification of Diagnostic Endoscopic Light Source Systems To Be Renamed Cystoscopic Systems Intended as an Aid for Detection of Bladder Cancer",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16728/gastroenterology-urology-devices-reclassification-of-diagnostic-endoscopic-light-source-systems-to",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "The Food and Drug Administration (FDA) is proposing to reclassify diagnostic endoscopic light source systems (product code OAY), which are postamendments class..."
+   "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland",
+   "url": "https://defensescoop.com/2026/08/14/northcom-general-warning-weak-drone-defense-homeland/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-14T22:30:03Z",
+   "why": "“We’re seeing it used on a daily basis around the world, and we’ve got to figure out how to mitigate that threat,” Army Lt."
   },
   {
-   "title": "Hematology and Pathology Devices; Reclassification of In Situ Hybridization Test Systems for Use With a Corresponding Approved Oncology Therapeutic Product",
-   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16727/hematology-and-pathology-devices-reclassification-of-in-situ-hybridization-test-systems-for-use-with",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-17T12:00:00Z",
-   "why": "The Food and Drug Administration (FDA, the Agency, or we) is issuing a final order reclassifying in situ hybridization (ISH) test systems indicated for use..."
+   "title": "Do we (still) need a director of national intelligence?",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/do-we-still-need-a-director-of-national-intelligence/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-14T22:12:33Z",
+   "why": "Ronald Sanders, a NAPA fellow and former Intelligence Community CHCO, explains why the DNI’s mission needs to be clarified and redefined."
   }
  ]
 }
