@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-17T11:36:22.194480Z",
+ "updatedAt": "2026-08-17T16:39:21.588529Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Labor looks to AI to tackle accommodation requests from disabled employees",
-   "url": "https://www.govexec.com/technology/2026/08/labor-department-seeks-ai-triage-accommodation-requests-disabled-employees/415438/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-17T10:00:00Z",
-   "why": "Employees say they’ve waited months or longer for decisions, as the Labor Department considers using AI to sort requests and flag missing documentation."
-  },
-  {
-   "title": "As warfare becomes engineering, the era of the digital mercenary dawns",
-   "url": "https://www.nextgov.com/cybersecurity/2026/08/warfare-becomes-engineering-era-digital-mercenary-dawns/415442/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-15T00:28:52Z",
-   "why": "The White House revives “privateering for the digital age” by authorizing cyber firms to strike foreign targets."
-  },
-  {
-   "title": "DoD changes transitional health care eligibility for reservists following lawsuit",
-   "url": "https://federalnewsnetwork.com/defense-news/2026/08/dod-changes-transitional-health-care-eligibility-for-reservists-following-lawsuit/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-14T22:54:38Z",
-   "why": "Reservists no longer need to demonstrate that their period of active duty service was connected to a war to qualify for transitional health care coverage."
-  },
-  {
-   "title": "US military base schools put new emphasis on Western civilization and Christianity",
-   "url": "https://federalnewsnetwork.com/defense-news/2026/08/schools-serving-us-military-families-put-new-emphasis-on-western-civilization-and-christianity-2/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-14T22:50:36Z",
-   "why": "In a written statement, DoD said it “remains committed to providing all of its military-connected students with the best possible education and opportunities.\""
-  },
-  {
-   "title": "Trump’s move to ‘unleash’ private sector hackers raises novel oversight, liability questions",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/trumps-move-to-unleash-private-sector-hackers-raises-novel-oversight-liability-questions/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-14T22:33:25Z",
-   "why": "The goal is to let private companies take on foreign cyber criminals, but the unprecedented approach raises plenty of questions about oversight and liability."
-  },
-  {
-   "title": "Tech Bills of the Week: Leveraging AI for environmental evaluations; crafting a report on China’s AI ecosystem; and more",
-   "url": "https://www.nextgov.com/policy/2026/08/tech-bills-week-leveraging-ai-environmental-evaluations-crafting-new-report-chinas-ai-stack-ecosystem-and-limiting-adversarial-access-national-labs/415441/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-14T22:31:00Z",
-   "why": "Recently proposals look, in part, to deploy artificial intelligence solutions to prevent natural disasters from impeding U.S."
-  },
-  {
-   "title": "Top Northcom general adds to drumbeat of warnings about weak drone defenses in the homeland",
-   "url": "https://defensescoop.com/2026/08/14/northcom-general-warning-weak-drone-defense-homeland/",
-   "source": "DefenseScoop",
+   "title": "Trump scales back military exercise with S Korea, calling it ‘costly’ and ‘hostile’ to the North",
+   "url": "https://breakingdefense.com/2026/08/trump-scales-back-military-exercise-with-s-korea-calling-it-costly-and-hostile-to-the-north/",
+   "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-14T22:30:03Z",
-   "why": "“We’re seeing it used on a daily basis around the world, and we’ve got to figure out how to mitigate that threat,” Army Lt."
+   "published": "2026-08-17T16:14:35Z",
+   "why": "“These exercises are not only costly […] but send a signal that is completely inappropriate and hostile,” Trump wrote in a social media post."
   },
   {
-   "title": "Do we (still) need a director of national intelligence?",
-   "url": "https://federalnewsnetwork.com/commentary/2026/08/do-we-still-need-a-director-of-national-intelligence/",
+   "title": "Trump’s call for fifth shipyard likely to run into cost, workforce hurdles: Analysts",
+   "url": "https://breakingdefense.com/2026/08/trumps-call-for-fifth-shipyard-likely-to-run-into-cost-workforce-hurdles-analysts/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-17T16:02:48Z",
+   "why": "The Trump administration’s plans for a new shipyard were disclosed in a National Security Presidential Memorandum released Thursday."
+  },
+  {
+   "title": "Kubasik ousted as L3Harris CEO following conduct violation, company says",
+   "url": "https://breakingdefense.com/2026/08/kubasik-ousted-as-l3harris-ceo-following-conduct-violation-company-says/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-17T15:21:06Z",
+   "why": "L3Harris did not provide specifics on what led to Kubasik’s ouster, but said in a press release that the company “became aware” of conduct by Kubasik “that was..."
+  },
+  {
+   "title": "DLA moves its catalog system off a 35-year-old COBOL platform",
+   "url": "https://federalnewsnetwork.com/it-modernization/2026/08/dla-moves-its-catalog-system-off-a-35-year-old-cobol-platform/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-14T22:12:33Z",
-   "why": "Ronald Sanders, a NAPA fellow and former Intelligence Community CHCO, explains why the DNI’s mission needs to be clarified and redefined."
+   "published": "2026-08-17T14:12:44Z",
+   "why": "Adarryl Roberts, DLA’s CIO, said the catalog platform is part of a 10-year IT modernization strategy that implements capabilities in short sprints."
+  },
+  {
+   "title": "The Retirement Promise: What changes, what doesn’t and what actually matters",
+   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/the-retirement-promise-what-changes-what-doesnt-and-what-actually-matters/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-17T13:33:03Z",
+   "why": "On this episode of Fed Thread, John Hatton explains how federal retirement changes happen and which threats deserve your attention."
+  },
+  {
+   "title": "Space Force brings 5 companies on-board Space Data Network",
+   "url": "https://breakingdefense.com/2026/08/space-force-brings-5-companies-on-board-space-data-network/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-17T13:17:00Z",
+   "why": "The new awards are aimed at demonstrating the ability of multiple satellite networks to connect to the Space Force’s emerging Space Data Network."
+  },
+  {
+   "title": "Revocation of Class E Airspace; Santa Elena, TX",
+   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16774/revocation-of-class-e-airspace-santa-elena-tx",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-17T12:00:00Z",
+   "why": "This action proposes to revoke the Class E airspace at Diamond \"O\" Ranch Airport, Santa Elena, TX."
+  },
+  {
+   "title": "Proposed Removal of a Reporting Requirement for Trusts Whose Charitable Contribution Deductions Are Solely for Contributions Made by Passthrough Entities",
+   "url": "https://www.federalregister.gov/documents/2026/08/17/2026-16769/proposed-removal-of-a-reporting-requirement-for-trusts-whose-charitable-contribution-deductions-are",
+   "source": "Federal Register - Treasury Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-17T12:00:00Z",
+   "why": "This document contains proposed regulations that would amend existing regulations that require certain trusts to report all charitable contributions and..."
   }
  ]
 }
