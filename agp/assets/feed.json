@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-17T21:35:07.966893Z",
+ "updatedAt": "2026-08-18T11:36:09.106915Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Three pillars of a resilient hybrid SATCOM architecture",
-   "url": "https://federalnewsnetwork.com/commentary/2026/08/three-pillars-of-a-resilient-hybrid-satcom-architecture/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-17T21:18:54Z",
-   "why": "The current threat environment is forcing the agency to realize that all capabilities, including those space-based, are urgent and compelling."
+   "title": "Establishing the National Fraud Enforcement Division",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16846/establishing-the-national-fraud-enforcement-division",
+   "source": "Federal Register - Justice Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "This rule amends Part 0 of the Department of Justice's (\"Department\") organizational regulations in title 28 of the Code of Federal Regulations to establish..."
   },
   {
-   "title": "Pentagon probes 30 U.S. academic institutions for potential ties to adversaries",
-   "url": "https://defensescoop.com/2026/08/17/pentagon-probes-30-u-s-academic-institutions-for-potential-ties-to-adversaries/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-17T20:53:47Z",
-   "why": "A U.S."
+   "title": "Anchorages; Bolivar Roads Channel, Galveston, TX",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16832/anchorages-bolivar-roads-channel-galveston-tx",
+   "source": "Federal Register - Homeland Security Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "The Coast Guard is proposing to amend the regulation for the Galveston Harbor, Bolivar Roads Channel, Texas Anchorage grounds (the \"Bolivar Anchorage\") to..."
   },
   {
-   "title": "FEMA gets new CIO as its administrator plans IT overhaul",
-   "url": "https://fedscoop.com/fema-new-cio-steven-mcandrews/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-08-17T20:48:29Z",
-   "why": "Steven McAndrews will take over the top technology role at the DHS component after most recently serving as the National Nuclear Security Administration’s..."
+   "title": "Changes to Delegations",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16828/changes-to-delegations",
+   "source": "Federal Register - Surface Transportation Board",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "In this final rule, the Board is revising its regulations to clarify certain existing delegations of authority and create certain new delegations for the..."
   },
   {
-   "title": "Congress may be on recess, but the campaign for governing power is still underway",
-   "url": "https://federalnewsnetwork.com/congress/2026/08/congress-may-be-on-recess-but-the-campaign-for-governing-power-is-still-underway/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-17T20:44:41Z",
-   "why": "\"I don't think that you'll see the wave that you saw in past years where maybe 30 seats have changed hands,\" said Loren Duggan."
+   "title": "Safety Zone; Lake Michigan, Gary, IN",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16807/safety-zone-lake-michigan-gary-in",
+   "source": "Federal Register - Homeland Security Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "The Coast Guard is establishing a temporary safety zone for navigable waters on Lake Michigan in Gary, IN."
   },
   {
-   "title": "Details emerge on BlackFile’s recent attacks on financial companies",
-   "url": "https://cyberscoop.com/blackfile-cyberattacks-financial-sector/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-17T20:41:00Z",
-   "why": "BlackFile’s four affiliate groups are still targeting victims, including medical technology organizations."
+   "title": "Safety Zone; ANCHOR Floating Production Unit (FPU) Outer Continental Shelf Facility, Green Canyon Block 763, Gulf of America",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16806/safety-zone-anchor-floating-production-unit-fpu-outer-continental-shelf-facility-green-canyon-block",
+   "source": "Federal Register - Homeland Security Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "The Coast Guard is establishing a safety zone around the ANCHOR Floating Production Unit (FPU), located in Green Canyon Block 763 on the Outer Continental..."
   },
   {
-   "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents",
-   "url": "https://cyberscoop.com/irregular-ai-sandbox-escape-human-oversight/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-17T20:36:56Z",
-   "why": "In a post-mortem, the frontier AI testing company said internet access for models is necessary to fully test out their cybersecurity capabilities."
+   "title": "Safety Zone; Ohio Street Beach Swim Course, Lake Michigan, Chicago Harbor, Chicago, IL",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16805/safety-zone-ohio-street-beach-swim-course-lake-michigan-chicago-harbor-chicago-il",
+   "source": "Federal Register - Homeland Security Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "The Coast Guard will enforce a safety zone for the North Avenue Swim & Triathlon Yo (NASTY) Carb Party event to provide for the safety of life on navigable..."
   },
   {
-   "title": "Anduril redesigns tech for Army’s Soldier Borne Mission Command program",
-   "url": "https://defensescoop.com/2026/08/17/anduril-tech-soldier-borne-mission-command-program/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-17T20:32:46Z",
-   "why": "An Anduril executive provided an update on the SBMC effort."
+   "title": "Establishment of Class E Airspace; Trading Bay Production Airport, Trading Bay, AK",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16804/establishment-of-class-e-airspace-trading-bay-production-airport-trading-bay-ak",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "This action proposes to establish Class E airspace extending upward from 700 feet above the surface at Trading Bay Production Airport, Trading Bay, AK."
   },
   {
-   "title": "US civil rights agency moves to end demographic data collection after 60 years",
-   "url": "https://federalnewsnetwork.com/management/2026/08/us-civil-rights-agency-moves-to-end-demographic-data-collection-after-60-years/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-17T20:13:39Z",
-   "why": "FILE - Andrea Lucas, nominee to be a member of the Equal Employment Opportunity Commission, testifies during a Senate Health, Education, Labor, and Pensions..."
+   "title": "GENIUS Act Regulations on Payment Stablecoin Issuance, Offer, and Sale",
+   "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16796/genius-act-regulations-on-payment-stablecoin-issuance-offer-and-sale",
+   "source": "Federal Register - Treasury Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-18T12:00:00Z",
+   "why": "The Department of the Treasury (Treasury) proposes to issue regulations to implement section 3 of the Guiding and Establishing National Innovation for U.S."
   }
  ]
 }
