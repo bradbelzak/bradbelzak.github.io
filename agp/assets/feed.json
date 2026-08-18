@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-18T16:43:28.971481Z",
+ "updatedAt": "2026-08-18T21:33:43.949068Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Navy clears upgrade for E-2D Advanced Hawkeye",
-   "url": "https://breakingdefense.com/2026/08/navy-clears-upgrade-for-e-2d-advanced-hawkeye/",
+   "title": "Army picks Hanwha’s wheeled K9 for self-propelled howitzer prototypes",
+   "url": "https://breakingdefense.com/2026/08/army-picks-hanwhas-wheeled-k9-for-self-propelled-howitzer-prototypes/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-18T16:28:00Z",
-   "why": "Manufacturer Northrop Grumman said that aircraft revamped with a Block II upgrade will be delivered “by the end of the decade.”"
+   "published": "2026-08-18T21:28:37Z",
+   "why": "Today’s decision comes after decades of fits and starts to find a new mobile howitzer, including the ill-fated Crusader, Non-Line-of-Sight Cannon and Extended..."
   },
   {
-   "title": "NSF offers $1.5 billion in foundational research funding",
-   "url": "https://fedscoop.com/nsf-billion-foundational-research-funding-grants/",
+   "title": "Plans to move FBI headquarters to Reagan Building blocked by federal judge",
+   "url": "https://www.govexec.com/management/2026/08/plans-move-fbi-headquarters-reagan-building-blocked-federal-judge/415500/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-18T20:54:20Z",
+   "why": "A federal judge in Maryland ruled that the Trump administration's decision to move the FBI headquarters to the Ronald Reagan Building runs counter to spending..."
+  },
+  {
+   "title": "Navy approves Block II upgrades for E-2D Advanced Hawkeye fleet",
+   "url": "https://defensescoop.com/2026/08/18/navy-approves-block-ii-upgrades-for-e-2d-advanced-hawkeye-fleet/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-18T20:50:02Z",
+   "why": "Prime contractor Northrop Grumman expects to deliver the first upgraded E-2D plane for flight testing by fiscal 2029."
+  },
+  {
+   "title": "Attorney general violated Hatch Act ethics rules, nonprofit says",
+   "url": "https://www.govexec.com/oversight/2026/08/attorney-general-violated-hatch-act-ethics-rules-nonprofit-says/415499/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-18T20:22:40Z",
+   "why": "Good government groups have filed Hatch Act complaints against several Trump administration officials."
+  },
+  {
+   "title": "SSA seeks direction for new enterprise AI strategy",
+   "url": "https://fedscoop.com/social-security-administration-rfi-agentic-ai/",
    "source": "FedScoop",
    "category": "Technology Modernization",
-   "published": "2026-08-18T16:12:13Z",
-   "why": "The new opportunities include research areas such as engineering and mathematical and physical sciences."
+   "published": "2026-08-18T20:17:04Z",
+   "why": "The agency released an enterprise AI strategy in September 2025."
   },
   {
-   "title": "Diving into Trump’s unusual shipbuilding plans, plus an SMD expo floor tour",
-   "url": "https://breakingdefense.com/2026/08/diving-into-trumps-unusual-shipbuilding-plans-plus-an-smd-expo-floor-tour/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-18T15:48:43Z",
-   "why": "The Breaking Defense team unpacks three new directives from the White House that could influence the future of the Navy."
+   "title": "Eight years later, federal authorities re-up charges against alleged Iranian hackers at Mabna Institute",
+   "url": "https://cyberscoop.com/mabna-institute-iranian-hackers-indictment/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-18T20:12:06Z",
+   "why": "The superseding indictment adds defendants and allegations against the Iranian firm accused of a massive cybertheft campaign against foreign universities and..."
   },
   {
-   "title": "Australia, Japan test co-developed high-energy laser",
-   "url": "https://breakingdefense.com/2026/08/australia-japan-test-co-developed-high-energy-laser/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-18T15:26:29Z",
-   "why": "Both countries will also accelerate discussions for Japan to use Australian ranges for hypersonic weapon tests"
-  },
-  {
-   "title": "Labor looks to AI to tackle accommodation requests from disabled employees",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/labor-department-seeks-ai-triage-accommodation-requests-disabled-employees/415484/",
+   "title": "Social Security expands electronic health record sharing to speed up disability claims adjudication",
+   "url": "https://www.nextgov.com/digital-government/2026/08/social-security-expands-electronic-health-record-sharing-speed-disability-claims-adjudication/415496/",
    "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-18T15:26:00Z",
-   "why": "Employees say they’ve waited months or longer for decisions, as the Labor Department considers using AI to sort requests and flag missing documentation."
+   "published": "2026-08-18T20:00:00Z",
+   "why": "A health data sharing superhighway “allows SSA to access complete, structured medical records within seconds or minutes for claimants, helping to significantly..."
   },
   {
-   "title": "FBI plans to expand its AI infrastructure",
-   "url": "https://fedscoop.com/fbi-artificial-intelligence-infrastructure-expansion/",
-   "source": "FedScoop",
+   "title": "The Russian hurdle in Trump’s new offensive cyber program",
+   "url": "https://www.nextgov.com/cybersecurity/2026/08/russian-hurdle-trumps-new-offensive-cyber-program/415493/",
+   "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-18T15:25:47Z",
-   "why": "The bureau is looking to add a host of new hardware as part of a multiple-award IDIQ contract with a collective ceiling of $88 million."
-  },
-  {
-   "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building",
-   "url": "https://federalnewsnetwork.com/facilities-construction/2026/08/judge-blocks-the-trump-administration-from-moving-fbi-headquarters-to-dc-office-building/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-18T15:04:03Z",
-   "why": "A U.S."
-  },
-  {
-   "title": "Your Next Mission: Preparing for a successful second career after federal service",
-   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/your-next-mission-preparing-for-a-successful-second-career-after-federal-service/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-18T13:46:20Z",
-   "why": "This episode of Fed Thread explores how Misty Cook helps senior federal civilian and military leaders navigate the transition out of government."
+   "published": "2026-08-18T19:26:00Z",
+   "why": "The White House wants private companies to help take down cybercriminals overseas."
   }
  ]
 }
