@@ -1,9 +1,57 @@
 {
- "updatedAt": "2026-08-19T11:36:12.203682Z",
+ "updatedAt": "2026-08-19T16:41:58.688085Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "DOJ charges 17 Iranians in cybertheft campaign",
+   "url": "https://www.nextgov.com/cybersecurity/2026/08/doj-charges-17-iranians-cybertheft-campaign/415511/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-19T16:13:00Z",
+   "why": "Prosecutors say the Mabna Institute — which conducted intrusions for Iran’s Islamic Revolutionary Guard Corps, among other campaigns — stole 31.5 terabytes of..."
+  },
+  {
+   "title": "The CDC director’s job just got a lot more complicated",
+   "url": "https://www.govexec.com/management/2026/08/cdc-directors-job-just-got-lot-more-complicated/415512/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-19T16:10:20Z",
+   "why": "Dr."
+  },
+  {
+   "title": "A California county wants to hire Tina Peters to help run its elections",
+   "url": "https://cyberscoop.com/shasta-county-elections-tina-peters/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-19T15:57:37Z",
+   "why": "After her prison sentence for felony election-related crimes was commuted, Peters is poised to once again administer critical election duties."
+  },
+  {
+   "title": "Why Congress will be in a hurry after August recess",
+   "url": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-19T15:37:25Z",
+   "why": "Can both chambers reach an agreement to fund the government before the start of the new fiscal year?"
+  },
+  {
+   "title": "The long tail of Clop’s PTC hack is just beginning to emerge",
+   "url": "https://cyberscoop.com/clop-zero-day-attacks-ptc-windchill-flexplm/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-19T14:30:52Z",
+   "why": "The data theft extortion group likely compromised a critical vulnerability affecting PTC’s product lifecycle management software in June, a month before it..."
+  },
+  {
+   "title": "US-South Korea military drills cut in half after Trump’s broadside",
+   "url": "https://breakingdefense.com/2026/08/us-south-korea-military-drills-cut-in-half-after-trumps-broadside/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-19T14:25:43Z",
+   "why": "President Donald Trump’s call to drastically shorten the exercise out of deference to North Korea’s leader reportedly took Seoul by surprise."
+  },
   {
    "title": "Gardenia Blue Interest Group; Filing of Color Additive Petition",
    "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16944/gardenia-blue-interest-group-filing-of-color-additive-petition",
@@ -19,54 +67,6 @@
    "category": "Policy and Regulation",
    "published": "2026-08-19T12:00:00Z",
    "why": "The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by the International Association of Color Manufacturers..."
-  },
-  {
-   "title": "Food Additives Permitted in Feed and Drinking Water of Animals; Chromium DL-methionine Chelate",
-   "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16942/food-additives-permitted-in-feed-and-drinking-water-of-animals-chromium-dl-methionine-chelate",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-19T12:00:00Z",
-   "why": "The Food and Drug Administration (FDA, we, or the Agency) is amending the regulations for food additives permitted in feed and drinking water of animals to..."
-  },
-  {
-   "title": "GNT USA, LLC.; Filing of Color Additive Petition",
-   "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16939/gnt-usa-llc-filing-of-color-additive-petition",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-19T12:00:00Z",
-   "why": "The Food and Drug Administration (FDA or we) is announcing that we have filed a petition, submitted by GNT USA, LLC., c/o Exponent, Inc., proposing that we..."
-  },
-  {
-   "title": "Air Plan Approval; South Carolina; Minor Source Permit Program Revisions",
-   "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16937/air-plan-approval-south-carolina-minor-source-permit-program-revisions",
-   "source": "Federal Register - Environmental Protection Agency",
-   "category": "Policy and Regulation",
-   "published": "2026-08-19T12:00:00Z",
-   "why": "The U.S."
-  },
-  {
-   "title": "Air Plan Partial Approval and Partial Conditional Approval; South Carolina; Control of Oxides of Nitrogen and Source Testing Requirements",
-   "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16932/air-plan-partial-approval-and-partial-conditional-approval-south-carolina-control-of-oxides-of",
-   "source": "Federal Register - Environmental Protection Agency",
-   "category": "Policy and Regulation",
-   "published": "2026-08-19T12:00:00Z",
-   "why": "The U.S."
-  },
-  {
-   "title": "Rescission of Rural Development's Construction and Repair Regulation",
-   "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16914/rescission-of-rural-developments-construction-and-repair-regulation",
-   "source": "Federal Register - Agriculture Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-19T12:00:00Z",
-   "why": "The Rural Business-Cooperative Service (RBCS), Rural Housing Service (RHS), and Rural Utilities Service (RUS), together make up the Rural Development (RD or..."
-  },
-  {
-   "title": "Standard Instrument Approach Procedures, and Takeoff Minimums and Obstacle Departure Procedures; Miscellaneous Amendments",
-   "url": "https://www.federalregister.gov/documents/2026/08/19/2026-16888/standard-instrument-approach-procedures-and-takeoff-minimums-and-obstacle-departure-procedures",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-19T12:00:00Z",
-   "why": "This rule amends, suspends, or removes Standard Instrument Approach Procedures (SIAPs) and associated Takeoff Minimums and Obstacle Departure Procedures for..."
   }
  ]
 }
