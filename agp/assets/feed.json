@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-20T16:46:45.266162Z",
+ "updatedAt": "2026-08-20T21:37:23.554088Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
-   "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-20T16:19:50Z",
-   "why": "The new directive, signed off by Deputy Defense Secretary Steve Feinberg, is meant to “reset” the Pentagon’s expectations for supplier cost and pricing..."
-  },
-  {
-   "title": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
-   "url": "https://breakingdefense.com/2026/08/turkish-aerospace-plans-naval-version-of-hurjet-as-it-eyes-expanded-nato-exports/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-20T15:55:13Z",
-   "why": "“We believe HÜRJET has the potential to become not only the trainer aircraft of Türkiye and Spain, but also a training platform for NATO,” CEO Mehmet Demiroglu..."
-  },
-  {
-   "title": "My Cup of IT: Cyber Vigilantes Wanted",
-   "url": "https://www.meritalk.com/my-cup-of-it-cyber-vigilantes-wanted/",
-   "source": "MeriTalk",
+   "title": "OPM wants to woo young workers. Can internet memes overcome Trump’s cuts to the civil service?",
+   "url": "https://www.govexec.com/technology/2026/08/opm-wants-woo-young-workers-can-internet-memes-overcome-trumps-cuts-civil-service/415551/",
+   "source": "Government Executive",
    "category": "Technology Modernization",
-   "published": "2026-08-20T15:45:44Z",
-   "why": "Uncle Sam is looking for a few good hackers."
+   "published": "2026-08-20T21:33:21Z",
+   "why": "An agency spokeswoman said that a four-person communications team — all under the age of 30 — is spearheading the effort to make OPM’s social media more..."
   },
   {
-   "title": "Space Force opens its own recruiting squadron",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/space-force-opens-its-own-recruiting-squadron/",
+   "title": "DIU tries to transition tech to the frontlines faster with launch of new Bridge Program",
+   "url": "https://defensescoop.com/2026/08/20/diu-bridge-program-transition-commercial-technology-to-military/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-20T20:38:03Z",
+   "why": "The initiative marks the unit’s latest move under Owen West’s leadership to rapidly supply measurable combat power to the joint force."
+  },
+  {
+   "title": "What’s the difference between a machine that follows instructions and one that can make decisions?",
+   "url": "https://federalnewsnetwork.com/technology-main/2026/08/whats-the-difference-between-a-machine-that-follows-instructions-and-one-that-can-react-on-its-own/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-20T15:33:16Z",
-   "why": "The service has already reached its goal of enlisting 730 new guardians in 2026."
+   "published": "2026-08-20T20:38:01Z",
+   "why": "\"Our AI lives on the edge on the machine, not in some central server somewhere that can be hacked into,\" said Ben Wolff."
   },
   {
-   "title": "Retail theft bill spurs ‘very large and very dangerous’ surveillance fears",
-   "url": "https://cyberscoop.com/corca-retail-theft-bill-ice-surveillance/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-20T15:27:24Z",
-   "why": "The Combating Organized Retail Crime Act has won a big House vote and could be on the fast track in the Senate — and supporters say it could help fight..."
+   "title": "VA boosts EHR modernization contract with Oracle by $17B",
+   "url": "https://www.nextgov.com/modernization/2026/08/va-boosts-ehr-modernization-contract-oracle-17b/415548/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-20T20:36:00Z",
+   "why": "The modified agreement raises the contract’s total value to just under $27 billion."
   },
   {
-   "title": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’",
-   "url": "https://breakingdefense.com/2026/08/estonian-lawmaker-calls-us-questionnaire-to-nato-unnecessary-stress-test/",
+   "title": "Stop acting. Start owning.",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/stop-acting-start-owning/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-20T20:32:21Z",
+   "why": "Bill James, a former deputy assistant secretary for DevOps at the VA, calls on agency leadership to appoint a permanent CISO and address cyber risks."
+  },
+  {
+   "title": "Closing federal security gaps in an era of AI-enabled attacks",
+   "url": "https://www.nextgov.com/ideas/2026/08/closing-federal-security-gaps-era-ai-enabled-attacks/415549/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-20T20:30:00Z",
+   "why": "COMMENTARY | Agencies that align IT, security, data and AI leadership can be prepared for the speed and scale of tomorrow’s AI threats."
+  },
+  {
+   "title": "GSA looks to ‘meaningfully increase’ hiring to replenish its workforce",
+   "url": "https://www.govexec.com/management/2026/08/gsa-lncrease-hiring-replenish-workforce/415547/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-20T20:29:48Z",
+   "why": "Current and former GSA officials said significant hiring is needed at the Public Buildings Service to help the agency recover from last year’s deep staffing..."
+  },
+  {
+   "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
+   "url": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
    "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-08-20T14:24:00Z",
-   "why": "“It is critically important for us in this time, a time of not living in peace time … that both in words and deeds to not make any steps to create an image..."
-  },
-  {
-   "title": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
-   "url": "https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-20T13:57:40Z",
-   "why": "Task Force Lexington houses all of Army Cyber Command’s AI efforts, including an AI “red team.”"
-  },
-  {
-   "title": "The push to designate AI as the next critical infrastructure sector",
-   "url": "https://cyberscoop.com/ai-critical-infrastructure-designation-cisa-report/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-20T13:31:17Z",
-   "why": "The designation would unlock a range of federal services, tools and resources for an industry that policymakers view as increasingly tied to national and..."
+   "published": "2026-08-20T19:55:53Z",
+   "why": "“It’s a big ask,” acknowledged Maj."
   }
  ]
 }
