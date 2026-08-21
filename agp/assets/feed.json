@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-21T16:47:00.984437Z",
+ "updatedAt": "2026-08-21T21:34:17.092876Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "House Democrats want answers on what CISA lost in workforce cuts",
-   "url": "https://www.govexec.com/management/2026/08/house-democrats-want-answers-what-cisa-lost-workforce-cuts/415560/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T16:00:00Z",
-   "why": "Lawmakers want Congress’ watchdog to assess what capabilities were lost after the cyber agency shed roughly one-third of its staff."
-  },
-  {
-   "title": "Army wants fast AI cybersecurity agents that won’t run up token costs or create new vulnerabilities",
-   "url": "https://defensescoop.com/2026/08/21/army-wants-fast-ai-cybersecurity-agents-wont-run-up-costs-create-vulnerabilities/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-21T15:33:27Z",
-   "why": "“We need help in implementing agents securely, so that it doesn't inadvertently increase our attack surface,” an Army official said."
-  },
-  {
-   "title": "IT hiring at GAO lags watchdog’s own timeframes, OIG finds",
-   "url": "https://fedscoop.com/gao-it-workforce-hiring-timelines-oig-report/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T15:31:14Z",
-   "why": "The fiscal 2024 audit shows the GAO slightly off pace from its own targets and further behind OPM’s time-to-hire goals for IT management roles."
-  },
-  {
-   "title": "Navy secretary warns of ‘coordinated, multi-domain’ campaign against personnel and installations",
-   "url": "https://defensescoop.com/2026/08/21/navy-secretary-hung-cao-warning-about-threats-to-personnel-installations/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-21T15:17:19Z",
-   "why": "Hung Cao warned sailors, Marines and Navy civilians about a \"deliberate effort to gather intelligence, test our defenses, disrupt our operations, and..."
-  },
-  {
-   "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
-   "url": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-21T15:10:10Z",
-   "why": "Dedicated funding is key, according to the Army’s principal cyber advisor, because the service’s cyber command cannot fund AI work strictly from their..."
-  },
-  {
-   "title": "Lawmakers seek watchdog review of federal hacking of Americans",
-   "url": "https://cyberscoop.com/watchdog-review-federal-government-hacking-americans/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-21T15:05:33Z",
-   "why": "Sen."
-  },
-  {
-   "title": "Are you getting the most out of your TSP? Probably not — here’s how to change that",
-   "url": "https://federalnewsnetwork.com/federal-insights/2026/08/are-you-getting-the-most-out-of-your-tsp-probably-not-heres-how-to-change-that/",
+   "title": "Losses keep piling up for Trump administration over handling of RTO mandate",
+   "url": "https://federalnewsnetwork.com/workforce-rightsgovernance/2026/08/losses-keep-piling-up-for-trump-administration-over-handling-of-rto-mandate/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-21T13:17:36Z",
-   "why": "Being aware of a few lesser-known tricks and pitfalls can help federal employees get the most out of their TSP, and subsequently, their retirement."
+   "published": "2026-08-21T21:25:51Z",
+   "why": "A third-party arbitrator ruled that USDA violated the collective bargaining agreement with 135 Rural Development Agency employees."
   },
   {
-   "title": "Trump’s FDA pick faces questions about leading the agency",
-   "url": "https://www.govexec.com/management/2026/08/trumps-fda-pick-faces-questions-about-leading-agency/415559/",
+   "title": "U.S. military to host directed energy ‘shoot-off’ amid governmentwide counter-drone push",
+   "url": "https://defensescoop.com/2026/08/21/us-military-directed-energy-shoot-off-counter-drone/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-21T21:14:18Z",
+   "why": "Officials leading the Joint Interagency Task Force 401 shared new details about that pilot program and other updates on recent progress."
+  },
+  {
+   "title": "Compliance theater is over: What FedRAMP 20x means for every vendor selling to government",
+   "url": "https://www.nextgov.com/ideas/2026/08/compliance-theater-over-what-fedramp-20x-means-every-vendor-selling-government/415580/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-21T20:38:00Z",
+   "why": "COMMENTARY | Attacks now move faster than human-paced patch cycles can keep up with and a compliance program built around periodic reviews will not catch them."
+  },
+  {
+   "title": "National security requires securing modern AI workloads",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/national-security-requires-securing-modern-ai-workloads/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-21T20:09:07Z",
+   "why": "Solutions of choice need to address runtime-relevant exposure, reduce CVE counts, and allow authorizing officials to distinguish noise from mission impact."
+  },
+  {
+   "title": "CISA issues guidance for agencies to improve cybersecurity data logging",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/cisa-issues-guidance-for-agencies-to-improve-cybersecurity-data-logging/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-21T19:43:20Z",
+   "why": "CISA said agencies will be able to achieve priority logging capabilities that support continuous event monitoring, threat hunting, incident response and more."
+  },
+  {
+   "title": "Tech bills of the week: Overseeing algorithm-set rental prices; and halting federal overreach in data center construction",
+   "url": "https://www.nextgov.com/policy/2026/08/tech-bills-week-overseeing-algorithm-set-rental-prices-and-halting-federal-overreach-data-center-construction/415569/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-21T19:33:00Z",
+   "why": "Legislation introduced this week seeks to police the use of algorithmic price-setting for home rentals and rein in how the federal government influences new..."
+  },
+  {
+   "title": "Think you’d never fall for it? Modern cybercriminals are counting on that",
+   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/think-youd-never-fall-for-it-modern-cybercriminals-are-counting-on-that/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-21T19:22:46Z",
+   "why": "The bad guys don’t necessarily need to hack the system if they can hack the human."
+  },
+  {
+   "title": "IRS CEO’s call to end advanced leave should be ‘null and void,’ NTEU says in lawsuit",
+   "url": "https://www.govexec.com/workforce/2026/08/irs-ceos-call-end-advanced-leave-null-void-nteu-lawsuit/415575/",
    "source": "Government Executive",
    "category": "Technology Modernization",
-   "published": "2026-08-21T13:00:20Z",
-   "why": "Sen."
+   "published": "2026-08-21T19:14:34Z",
+   "why": "The National Treasury Employees Union argues Frank Bisignano running the IRS without Senate confirmation violates the Constitution."
   }
  ]
 }
