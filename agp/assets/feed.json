@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-20T21:37:23.554088Z",
+ "updatedAt": "2026-08-21T11:37:31.640195Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "OPM wants to woo young workers. Can internet memes overcome Trump’s cuts to the civil service?",
-   "url": "https://www.govexec.com/technology/2026/08/opm-wants-woo-young-workers-can-internet-memes-overcome-trumps-cuts-civil-service/415551/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-20T21:33:21Z",
-   "why": "An agency spokeswoman said that a four-person communications team — all under the age of 30 — is spearheading the effort to make OPM’s social media more..."
+   "title": "Regulation Crypto Assets",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17183/regulation-crypto-assets",
+   "source": "Federal Register - Securities and Exchange Commission",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "The Securities and Exchange Commission (\"Commission\") is proposing new rules to create a tailored offering regime for certain investment contracts involving..."
   },
   {
-   "title": "DIU tries to transition tech to the frontlines faster with launch of new Bridge Program",
-   "url": "https://defensescoop.com/2026/08/20/diu-bridge-program-transition-commercial-technology-to-military/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-20T20:38:03Z",
-   "why": "The initiative marks the unit’s latest move under Owen West’s leadership to rapidly supply measurable combat power to the joint force."
+   "title": "Request for Comment on the Listing of Compute Derivatives Contracts",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17163/request-for-comment-on-the-listing-of-compute-derivatives-contracts",
+   "source": "Federal Register - Commodity Futures Trading Commission",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "The Commodity Futures Trading Commission (\"CFTC\" or \"Commission\") is seeking public responses to this Request for Comment to better inform its understanding..."
   },
   {
-   "title": "What’s the difference between a machine that follows instructions and one that can make decisions?",
-   "url": "https://federalnewsnetwork.com/technology-main/2026/08/whats-the-difference-between-a-machine-that-follows-instructions-and-one-that-can-react-on-its-own/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-20T20:38:01Z",
-   "why": "\"Our AI lives on the edge on the machine, not in some central server somewhere that can be hacked into,\" said Ben Wolff."
+   "title": "Income Taxes",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17154/income-taxes",
+   "source": "Federal Register - Internal Revenue Service",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "Rule"
   },
   {
-   "title": "VA boosts EHR modernization contract with Oracle by $17B",
-   "url": "https://www.nextgov.com/modernization/2026/08/va-boosts-ehr-modernization-contract-oracle-17b/415548/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-20T20:36:00Z",
-   "why": "The modified agreement raises the contract’s total value to just under $27 billion."
+   "title": "Fisheries of the Northeastern United States; Mackerel, Squid, and Butterfish; 2026 Illex Squid Quota Harvested",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17148/fisheries-of-the-northeastern-united-states-mackerel-squid-and-butterfish-2026-illex-squid-quota",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "NMFS is closing the directed Illex squid fishery in Federal waters based on a projection that 96 percent of the 2026 domestic annual harvest (DAH) will be..."
   },
   {
-   "title": "Stop acting. Start owning.",
-   "url": "https://federalnewsnetwork.com/commentary/2026/08/stop-acting-start-owning/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-20T20:32:21Z",
-   "why": "Bill James, a former deputy assistant secretary for DevOps at the VA, calls on agency leadership to appoint a permanent CISO and address cyber risks."
+   "title": "Inflation Adjustment for EOIR OBBBA Fees; Fiscal Year 2027",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17146/inflation-adjustment-for-eoir-obbba-fees-fiscal-year-2027",
+   "source": "Federal Register - Justice Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "The Department of Justice (\"Department\") is making inflationary adjustments to immigration-related fees for filings with the Executive Office for Immigration..."
   },
   {
-   "title": "Closing federal security gaps in an era of AI-enabled attacks",
-   "url": "https://www.nextgov.com/ideas/2026/08/closing-federal-security-gaps-era-ai-enabled-attacks/415549/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-20T20:30:00Z",
-   "why": "COMMENTARY | Agencies that align IT, security, data and AI leadership can be prepared for the speed and scale of tomorrow’s AI threats."
+   "title": "Environmental Protection Regulations for Domestic Licensing and Related Regulatory Functions",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17145/environmental-protection-regulations-for-domestic-licensing-and-related-regulatory-functions",
+   "source": "Federal Register - Nuclear Regulatory Commission",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "Rule"
   },
   {
-   "title": "GSA looks to ‘meaningfully increase’ hiring to replenish its workforce",
-   "url": "https://www.govexec.com/management/2026/08/gsa-lncrease-hiring-replenish-workforce/415547/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-20T20:29:48Z",
-   "why": "Current and former GSA officials said significant hiring is needed at the Public Buildings Service to help the agency recover from last year’s deep staffing..."
+   "title": "Security Zone; Ohio River, Cincinnati, OH",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17131/security-zone-ohio-river-cincinnati-oh",
+   "source": "Federal Register - Homeland Security Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "The Coast Guard is establishing a temporary security zone for all navigable waters of the Ohio River, extending the entire width of the river, between mile..."
   },
   {
-   "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
-   "url": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-20T19:55:53Z",
-   "why": "“It’s a big ask,” acknowledged Maj."
+   "title": "Fisheries of the Northeastern United States; Summer Flounder Fishery; Quota Transfer From North Carolina to Massachusetts",
+   "url": "https://www.federalregister.gov/documents/2026/08/21/2026-17129/fisheries-of-the-northeastern-united-states-summer-flounder-fishery-quota-transfer-from-north",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-21T12:00:00Z",
+   "why": "NMFS announces that the State of North Carolina is transferring a portion of its 2026 commercial summer flounder quota to the Commonwealth of Massachusetts."
   }
  ]
 }
