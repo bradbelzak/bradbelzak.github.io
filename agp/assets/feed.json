@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-21T21:34:17.092876Z",
+ "updatedAt": "2026-08-22T13:39:59.075710Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Losses keep piling up for Trump administration over handling of RTO mandate",
-   "url": "https://federalnewsnetwork.com/workforce-rightsgovernance/2026/08/losses-keep-piling-up-for-trump-administration-over-handling-of-rto-mandate/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T21:25:51Z",
-   "why": "A third-party arbitrator ruled that USDA violated the collective bargaining agreement with 135 Rural Development Agency employees."
+   "title": "Response to Clean Air Act Section 176A Petition From New Hampshire",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/C1-2026-16331/response-to-clean-air-act-section-176a-petition-from-new-hampshire",
+   "source": "Federal Register - Environmental Protection Agency",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "Proposed Rule"
   },
   {
-   "title": "U.S. military to host directed energy ‘shoot-off’ amid governmentwide counter-drone push",
-   "url": "https://defensescoop.com/2026/08/21/us-military-directed-energy-shoot-off-counter-drone/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-21T21:14:18Z",
-   "why": "Officials leading the Joint Interagency Task Force 401 shared new details about that pilot program and other updates on recent progress."
+   "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/C1-2026-16314/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance",
+   "source": "Federal Register - Treasury Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "Proposed Rule"
   },
   {
-   "title": "Compliance theater is over: What FedRAMP 20x means for every vendor selling to government",
-   "url": "https://www.nextgov.com/ideas/2026/08/compliance-theater-over-what-fedramp-20x-means-every-vendor-selling-government/415580/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T20:38:00Z",
-   "why": "COMMENTARY | Attacks now move faster than human-paced patch cycles can keep up with and a compliance program built around periodic reviews will not catch them."
+   "title": "Education Department General Administrative Regulations",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17239/education-department-general-administrative-regulations",
+   "source": "Federal Register - Education Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "The Secretary of Education proposes to amend the Education Department General Administrative Regulations (EDGAR) and other provisions in 2 CFR parts 3474 and..."
   },
   {
-   "title": "National security requires securing modern AI workloads",
-   "url": "https://federalnewsnetwork.com/commentary/2026/08/national-security-requires-securing-modern-ai-workloads/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T20:09:07Z",
-   "why": "Solutions of choice need to address runtime-relevant exposure, reduce CVE counts, and allow authorizing officials to distinguish noise from mission impact."
+   "title": "Revisions to the Entity List",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "In this rule, the Bureau of Industry and Security (BIS) revises the Export Administration Regulations (EAR) by removing two addresses associated with Arrow..."
   },
   {
-   "title": "CISA issues guidance for agencies to improve cybersecurity data logging",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/cisa-issues-guidance-for-agencies-to-improve-cybersecurity-data-logging/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T19:43:20Z",
-   "why": "CISA said agencies will be able to achieve priority logging capabilities that support continuous event monitoring, threat hunting, incident response and more."
+   "title": "Removal From the Entity List",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by removing one entity from the Entity List under..."
   },
   {
-   "title": "Tech bills of the week: Overseeing algorithm-set rental prices; and halting federal overreach in data center construction",
-   "url": "https://www.nextgov.com/policy/2026/08/tech-bills-week-overseeing-algorithm-set-rental-prices-and-halting-federal-overreach-data-center-construction/415569/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T19:33:00Z",
-   "why": "Legislation introduced this week seeks to police the use of algorithmic price-setting for home rentals and rein in how the federal government influences new..."
+   "title": "Coastal Migratory Pelagic Resources of the Gulf and Atlantic Region; Commercial Closure for Atlantic Spanish Mackerel in the Northern Zone",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17228/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic",
+   "source": "Federal Register - Commerce Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "NMFS implements an accountability measure (AM) for the commercial harvest of the Atlantic migratory group of Spanish mackerel in the northern zone of the..."
   },
   {
-   "title": "Think you’d never fall for it? Modern cybercriminals are counting on that",
-   "url": "https://federalnewsnetwork.com/fed-thread/2026/08/think-youd-never-fall-for-it-modern-cybercriminals-are-counting-on-that/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T19:22:46Z",
-   "why": "The bad guys don’t necessarily need to hack the system if they can hack the human."
+   "title": "Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17217/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
+   "source": "Federal Register - Homeland Security Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "The Coast Guard is establishing a temporary safety zone for navigable waters within a 500-yard radius of the T/V DENISE FOSS (O.N."
   },
   {
-   "title": "IRS CEO’s call to end advanced leave should be ‘null and void,’ NTEU says in lawsuit",
-   "url": "https://www.govexec.com/workforce/2026/08/irs-ceos-call-end-advanced-leave-null-void-nteu-lawsuit/415575/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-21T19:14:34Z",
-   "why": "The National Treasury Employees Union argues Frank Bisignano running the IRS without Senate confirmation violates the Constitution."
+   "title": "Travel Management; National Forest System Lands",
+   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17211/travel-management-national-forest-system-lands",
+   "source": "Federal Register - Agriculture Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-24T12:00:00Z",
+   "why": "The U.S."
   }
  ]
 }
