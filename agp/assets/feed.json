@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-24T16:50:44.570203Z",
+ "updatedAt": "2026-08-24T21:38:36.669678Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
-   "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-24T16:42:23Z",
-   "why": "“İ-ZAHA [is] designed to take the crew out of the first wave which is the highest-risk phase of any amphibious assault and to operate as part of a..."
+   "title": "DOGE alum, Treasury CIO Corcos adds three GSA jobs to his portfolio",
+   "url": "https://fedscoop.com/sam-corcos-gsa-management-treasury-doge/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-24T21:35:30Z",
+   "why": "Corcos will now lead GSA’s Technology Transformation Services, and help oversee the Federal Acquisition Service and Login-dot-gov, in addition to serving as..."
   },
   {
-   "title": "Lawmakers call for investigation into CISA workforce cuts as threats increase",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/lawmakers-call-for-investigation-into-cisa-workforce-cuts-as-threats-increase/",
+   "title": "Navy boss launches defense industrial base office",
+   "url": "https://defensescoop.com/2026/08/24/navy-launches-office-of-the-defense-industrial-base/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-24T21:25:43Z",
+   "why": "Andrew Magliochetti has been appointed deputy assistant secretary of the Navy for the defense industrial base."
+  },
+  {
+   "title": "Unions accuse mediation agency of ‘doublespeak’ in updated lawsuit",
+   "url": "https://www.govexec.com/workforce/2026/08/unions-accuse-mediation-agency-doublespeak-updated-lawsuit/415604/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-08-24T21:16:23Z",
+   "why": "The Federal Mediation and Conciliation Service’s new policy allowing it to investigate the arbitrability of disputes if an agency objects to participating in..."
+  },
+  {
+   "title": "How complex conflicts of interest plague military housing",
+   "url": "https://federalnewsnetwork.com/agency-oversight/2026/08/how-complex-conflicts-of-interest-plague-military-housing/",
    "source": "Federal News Network",
    "category": "Technology Modernization",
-   "published": "2026-08-24T16:01:05Z",
-   "why": "CISA has also experienced leadership turnover during the second Trump administration."
+   "published": "2026-08-24T20:54:42Z",
+   "why": "\"It's a mangled system when you have a tenants' bill of rights for service members where the housing companies participate in the drafting,\" René Kladzyk said."
   },
   {
-   "title": "GSA begins quantum security efforts for digital and physical systems",
-   "url": "https://www.nextgov.com/emerging-tech/2026/08/gsa-begins-quantum-security-efforts-digital-and-physical-systems/415583/",
+   "title": "GSA, Treasury kick off post-quantum initiatives to protect against cyber threats",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/gsa-treasury-kick-off-post-quantum-initiatives-to-protect-against-cyber-threats/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-24T20:54:12Z",
+   "why": "GSA is updating its Federal Identity, Credential and Access Management architecture as Treasury launches a new task force for the financial sector."
+  },
+  {
+   "title": "White House space transportation policy calls for integration with air traffic control modernization",
+   "url": "https://www.nextgov.com/emerging-tech/2026/08/white-house-space-transportation-policy-calls-integration-air-traffic-control-modernization/415603/",
    "source": "Nextgov",
    "category": "Technology Modernization",
-   "published": "2026-08-24T13:30:00Z",
-   "why": "The General Services Administration is updating an existing identity and access management framework and expanding a physical security testing program to..."
+   "published": "2026-08-24T20:37:00Z",
+   "why": "The guidance directs the Transportation Department and other agencies to “implement a plan to integrate space launch and reentry management into airspace and..."
   },
   {
-   "title": "Pentagon counter-drone task force preps ‘shoot-off’ for directed energy prototypes",
-   "url": "https://breakingdefense.com/2026/08/pentagon-counter-drone-task-force-preps-shoot-off-for-directed-energy-prototypes/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-24T13:06:14Z",
-   "why": "The event will be structured such that a promising demonstration could result “in a purchase order that allows us to start building the production lines to get..."
+   "title": "Dem lawmaker hopes to add AI containment language to FRONTIER Act",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415602/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-24T20:29:00Z",
+   "why": "Rep."
   },
   {
-   "title": "Response to Clean Air Act Section 176A Petition From New Hampshire",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/C1-2026-16331/response-to-clean-air-act-section-176a-petition-from-new-hampshire",
-   "source": "Federal Register - Environmental Protection Agency",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "Proposed Rule"
-  },
-  {
-   "title": "Employer Contributions to Trump Accounts and Nondiscrimination Rules for Dependent Care Assistance Programs",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/C1-2026-16314/employer-contributions-to-trump-accounts-and-nondiscrimination-rules-for-dependent-care-assistance",
-   "source": "Federal Register - Treasury Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "Proposed Rule"
-  },
-  {
-   "title": "Education Department General Administrative Regulations",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17239/education-department-general-administrative-regulations",
-   "source": "Federal Register - Education Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "The Secretary of Education proposes to amend the Education Department General Administrative Regulations (EDGAR) and other provisions in 2 CFR parts 3474 and..."
-  },
-  {
-   "title": "Revisions to the Entity List",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17231/revisions-to-the-entity-list",
-   "source": "Federal Register - Commerce Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "In this rule, the Bureau of Industry and Security (BIS) revises the Export Administration Regulations (EAR) by removing two addresses associated with Arrow..."
+   "title": "Democrats stump for labor representation on Fed’s AI task force",
+   "url": "https://fedscoop.com/federal-reserve-ai-task-force-workforce-democrats-letter/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-08-24T20:00:07Z",
+   "why": "The lawmakers pushed Fed Chair Kevin Warsh to include U.S."
   }
  ]
 }
