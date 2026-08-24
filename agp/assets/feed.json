@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-08-22T13:39:59.075710Z",
+ "updatedAt": "2026-08-24T16:50:44.570203Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Turkish FNSS unveils unmanned amphibious assault vehicle",
+   "url": "https://breakingdefense.com/2026/08/turkish-fnss-unveils-unmanned-amphibious-assault-vehicle/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-24T16:42:23Z",
+   "why": "“İ-ZAHA [is] designed to take the crew out of the first wave which is the highest-risk phase of any amphibious assault and to operate as part of a..."
+  },
+  {
+   "title": "Lawmakers call for investigation into CISA workforce cuts as threats increase",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/lawmakers-call-for-investigation-into-cisa-workforce-cuts-as-threats-increase/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-08-24T16:01:05Z",
+   "why": "CISA has also experienced leadership turnover during the second Trump administration."
+  },
+  {
+   "title": "GSA begins quantum security efforts for digital and physical systems",
+   "url": "https://www.nextgov.com/emerging-tech/2026/08/gsa-begins-quantum-security-efforts-digital-and-physical-systems/415583/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-08-24T13:30:00Z",
+   "why": "The General Services Administration is updating an existing identity and access management framework and expanding a physical security testing program to..."
+  },
+  {
+   "title": "Pentagon counter-drone task force preps ‘shoot-off’ for directed energy prototypes",
+   "url": "https://breakingdefense.com/2026/08/pentagon-counter-drone-task-force-preps-shoot-off-for-directed-energy-prototypes/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-08-24T13:06:14Z",
+   "why": "The event will be structured such that a promising demonstration could result “in a purchase order that allows us to start building the production lines to get..."
+  },
   {
    "title": "Response to Clean Air Act Section 176A Petition From New Hampshire",
    "url": "https://www.federalregister.gov/documents/2026/08/24/C1-2026-16331/response-to-clean-air-act-section-176a-petition-from-new-hampshire",
@@ -35,38 +67,6 @@
    "category": "Policy and Regulation",
    "published": "2026-08-24T12:00:00Z",
    "why": "In this rule, the Bureau of Industry and Security (BIS) revises the Export Administration Regulations (EAR) by removing two addresses associated with Arrow..."
-  },
-  {
-   "title": "Removal From the Entity List",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17230/removal-from-the-entity-list",
-   "source": "Federal Register - Commerce Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "In this rule, the Bureau of Industry and Security (BIS) amends the Export Administration Regulations (EAR) by removing one entity from the Entity List under..."
-  },
-  {
-   "title": "Coastal Migratory Pelagic Resources of the Gulf and Atlantic Region; Commercial Closure for Atlantic Spanish Mackerel in the Northern Zone",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17228/coastal-migratory-pelagic-resources-of-the-gulf-and-atlantic-region-commercial-closure-for-atlantic",
-   "source": "Federal Register - Commerce Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "NMFS implements an accountability measure (AM) for the commercial harvest of the Atlantic migratory group of Spanish mackerel in the northern zone of the..."
-  },
-  {
-   "title": "Safety Zone; T/V DENISE FOSS (O.N. 1254223), Honolulu, HI",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17217/safety-zone-tv-denise-foss-on-1254223-honolulu-hi",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "The Coast Guard is establishing a temporary safety zone for navigable waters within a 500-yard radius of the T/V DENISE FOSS (O.N."
-  },
-  {
-   "title": "Travel Management; National Forest System Lands",
-   "url": "https://www.federalregister.gov/documents/2026/08/24/2026-17211/travel-management-national-forest-system-lands",
-   "source": "Federal Register - Agriculture Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-24T12:00:00Z",
-   "why": "The U.S."
   }
  ]
 }
