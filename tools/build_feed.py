@@ -55,6 +55,8 @@ FEEDS = [
     ("Government Executive", "https://www.govexec.com/rss/all/"),
     ("Breaking Defense", "https://breakingdefense.com/feed/"),
     ("CyberScoop", "https://cyberscoop.com/feed/"),
+    ("Washington Technology", "https://washingtontechnology.com/rss/all/"),
+    ("GovConWire", "https://www.govconwire.com/feed/"),
 ]
 
 # Categories the ticker displays. Keep this list short; it renders as a chip.
@@ -74,7 +76,77 @@ SOURCE_CATEGORY = {
     "Breaking Defense": "Defense and National Security",
     "CyberScoop": "AI and Cybersecurity",
     "Federal Register": "Policy and Regulation",
+    "Washington Technology": "Acquisition and Contracting",
+    "GovConWire": "Acquisition and Contracting",
 }
+
+# Relevance scoring for the no-model path (added 2026-08-25). Before this,
+# heuristic_pick took the newest items, and the morning Federal Register batch
+# (every document stamped noon UTC) filled all eight slots with rules that
+# have nothing to do with selling into government. Now each candidate is
+# scored on contractor and compliance keywords, source balance is enforced,
+# and the Federal Register is capped.
+KEYWORD_WEIGHTS = [
+    # compliance gates
+    (r"\bcmmc\b", 6), (r"\bfedramp\b", 6), (r"\bnist\b", 3), (r"\bcompliance\b", 4),
+    (r"\bcertification", 3), (r"\bzero trust\b", 3), (r"\bsupply chain\b", 3),
+    (r"\bsam\.gov\b", 4), (r"\bfalse claims\b", 4), (r"\bdfars\b", 5), (r"\bfar\b", 3),
+    (r"\bexport control|\bitar\b|\bear\b", 3), (r"\bsecurity clearance|\bcleared\b", 3),
+    # contracting and acquisition
+    (r"\bcontract", 4), (r"\bawards?\b", 3), (r"\bprocurement\b", 4), (r"\bacquisition\b", 4),
+    (r"\bsolicitation|\brfp\b|\brfi\b", 4), (r"\bidiq\b|\bgwac\b|\bbpa\b|\bota\b", 4),
+    (r"\bgsa\b|\bschedule\b", 3), (r"\bsmall business\b|\bsbir\b|\bsttr\b", 4),
+    (r"\bprotest\b", 3), (r"\bvendor|\bcontractor|\bprime\b|\bsubcontract", 4),
+    (r"\bdiu\b|\bafwerx\b|\bsofwerx\b", 3), (r"\bteaming\b|\bpartnership\b", 2),
+    # budget
+    (r"\bappropriation|\bbudget\b|\bcontinuing resolution|\bshutdown\b", 4),
+    (r"\bndaa\b", 4),
+    # technology adoption
+    (r"\bartificial intelligence\b|\bai\b", 2), (r"\bcloud\b", 2), (r"\bmodernization\b", 2),
+    (r"\bcounter-uas\b|\bdrone", 3), (r"\bcyber", 2), (r"\bstartup|\bventure\b", 3),
+]
+NEGATIVE_WEIGHTS = [
+    (r"\bcorrection\b", -6), (r"\btechnical amendment", -6), (r"\brestricted area", -8),
+    (r"\bairspace\b", -6), (r"\bfishery|\bfisheries\b", -8), (r"\bmigratory\b", -8),
+    (r"\bpesticide|\btolerance", -8), (r"\bopinion\b|\bcommentary\b", -4),
+    (r"\bobituar|\bpodcast\b|\bwebinar\b", -5), (r"\bwaiver and extension", -6),
+    (r"\bappeals?\b", -3),
+]
+FEDREG_CAP = 1            # at most this many Federal Register items in the ticker
+PER_SOURCE_CAP = 3        # keep the ticker from reading like one outlet
+
+
+def relevance(item):
+    text = (item.get("title", "") + " " + item.get("summary", "")).lower()
+    score = 0
+    for pat, w in KEYWORD_WEIGHTS + NEGATIVE_WEIGHTS:
+        if re.search(pat, text):
+            score += w
+    base = item["source"].split(" - ")[0]
+    if base in ("Washington Technology", "GovConWire"):
+        score += 2          # contractor press is on-topic by construction
+    if base == "Federal Register":
+        score -= 3          # rules need to earn their slot on keywords alone
+    return score
+
+
+def category_for(item):
+    """Keyword-first category, source fallback. Used on the no-model path."""
+    text = (item.get("title", "") + " " + item.get("summary", "")).lower()
+    if re.search(r"cmmc|fedramp|compliance|certification|zero trust|false claims|dfars|clearance", text):
+        return "Compliance and Security"
+    if re.search(r"appropriation|budget|continuing resolution|shutdown|ndaa", text):
+        return "Budget and Appropriations"
+    if re.search(r"contract|award|procurement|acquisition|solicitation|rfp|idiq|gwac|protest|small business|sbir", text):
+        return "Acquisition and Contracting"
+    if re.search(r"\bai\b|artificial intelligence|cyber", text):
+        return "AI and Cybersecurity"
+    if re.search(r"pentagon|defense|army|navy|air force|space force|dod\b|homeland|counter-uas|drone", text):
+        return "Defense and National Security"
+    if re.search(r"rule|regulation|executive order|policy|legislation|congress", text):
+        return "Policy and Regulation"
+    base = item["source"].split(" - ")[0]
+    return SOURCE_CATEGORY.get(base, "Technology Modernization")
 
 SELECTION_PROMPT = """You are curating a public sector news ticker on the website of Acuity Global Partners, a Washington DC advisory that helps technology companies and their investors enter, operate, and win in government markets. The audience is agency executives, govtech founders, and investors.
 
@@ -264,21 +336,33 @@ def dedupe(items):
 def heuristic_pick(items):
     """Used when the model call is unavailable.
 
-    Newest first, category by source, blurb taken from the item's own RSS
-    description. Descriptive rather than analytical, but never blank when the
-    feed gave us anything to work with.
+    Ranked by contractor and compliance relevance (recency breaks ties), with
+    a per-source cap and a Federal Register cap so the ticker reads like a
+    government-contracting desk, not the newest eight lines of whatever came
+    in. Blurb comes from the item's own RSS description.
     """
-    picked = []
-    for it in items[:MAX_STORIES]:
+    ranked = sorted(items, key=lambda it: (relevance(it), it["published"]), reverse=True)
+    picked, per_source = [], {}
+    for it in ranked:
         base = it["source"].split(" - ")[0]
+        cap = FEDREG_CAP if base == "Federal Register" else PER_SOURCE_CAP
+        if per_source.get(base, 0) >= cap:
+            continue
+        if relevance(it) < 0:
+            continue
+        per_source[base] = per_source.get(base, 0) + 1
         picked.append({
             "title": it["title"],
             "url": it["url"],
             "source": it["source"],
-            "category": SOURCE_CATEGORY.get(base, "Technology Modernization"),
+            "category": category_for(it),
             "published": it["published"],
             "why": _first_sentence(it.get("summary", "")),
         })
+        if len(picked) >= MAX_STORIES:
+            break
+    # Newest first inside the chosen set so the ticker still reads as current.
+    picked.sort(key=lambda x: x["published"], reverse=True)
     return picked
 
 
