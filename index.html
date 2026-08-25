@@ -167,6 +167,16 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .mail-icon:hover{color:#9FB2D8}
 .mail-text{font-family:'Fraunces',Georgia,serif;font-size:19px;color:#fff;border-bottom:1px solid var(--line2);padding-bottom:2px;transition:border-color .2s,opacity .2s}
 .mail-text:hover{border-color:#fff;opacity:.9}
+/* Contact: copy and form left, a look at the materials right. The photo's
+   own background matches --bg, so a hairline border is what gives it an edge. */
+.contact .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.92fr);gap:clamp(26px,4vw,58px);align-items:center}
+.contact-col{min-width:0}
+.contact-shot{min-width:0}
+.contact-shot img{display:block;width:100%;height:auto;border-radius:14px;border:1px solid var(--line)}
+@media(max-width:900px){
+  .contact .wrap{grid-template-columns:1fr;gap:30px}
+  .contact-shot{margin-top:4px}
+}
 
 /* ===== Modal ===== */
 .modal{position:fixed;inset:0;z-index:300;display:none}
@@ -396,6 +406,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 
 <section id="contact" class="contact">
   <div class="wrap">
+    <div class="contact-col">
     <p class="label rv">Contact</p>
     <h2 class="t rv">Discuss an <em>engagement.</em></h2>
     <p class="modal-sub rv" style="font-size:16px;max-width:540px;margin-bottom:8px">We handle every inquiry with the utmost discretion and confidentiality.</p>
@@ -417,6 +428,10 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <label>Message<textarea name="message" rows="4"></textarea></label>
       <button type="submit" class="modal-send">Send</button>
     </form>
+    </div>
+    <div class="contact-shot rv">
+      <img src="agp/assets/agp-materials.jpg" alt="Acuity Global Partners presentation folder, capability one-pagers, and business cards" loading="lazy" width="1240" height="974">
+    </div>
   </div>
 </section>
 
