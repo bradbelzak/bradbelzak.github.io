@@ -188,14 +188,11 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 @media(max-width:600px){.f-row{grid-template-columns:1fr}.modal-card{padding:28px 22px}}
 
 /* ===== Expertise: 1-2-3 steps, sub-section, What We Build ===== */
-.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0 6px}
-.step{position:relative;background:rgba(255,255,255,.035);border:1px solid var(--line);border-radius:10px;padding:14px 14px 13px 16px}
-.step .sn{font-family:'Fraunces',Georgia,serif;font-size:22px;font-weight:600;color:#8FB4FF;line-height:1;margin-bottom:7px}
-.step b{display:block;font-size:14px;color:var(--fg);margin-bottom:3px}
-.step span{display:block;font-size:12.5px;line-height:1.45;color:var(--dim)}
-.step::after{content:"\2192";position:absolute;right:-11px;top:50%;transform:translateY(-50%);color:var(--line2);font-size:14px;z-index:1}
-.step:last-child::after{content:none}
-@media(max-width:600px){.steps{grid-template-columns:1fr}.step::after{content:none}}
+.steps{display:grid;gap:8px;margin:16px 0 4px}
+.step{display:grid;grid-template-columns:34px 1fr;column-gap:12px;align-items:start;background:rgba(255,255,255,.035);border:1px solid var(--line);border-radius:10px;padding:13px 16px 13px 14px}
+.step .sn{font-family:'Fraunces',Georgia,serif;font-size:24px;font-weight:600;color:#8FB4FF;line-height:1;grid-row:1/3;padding-top:1px}
+.step b{display:block;font-size:14.5px;color:var(--fg);margin-bottom:3px}
+.step span{display:block;font-size:13px;line-height:1.5;color:var(--dim)}
 .sub-h{font-family:'Fraunces',Georgia,serif;font-size:19px;color:var(--fg);margin:26px 0 8px}
 .build{margin-top:38px;padding-top:32px;border-top:1px solid var(--line)}
 .build .label{margin-bottom:6px}
@@ -287,11 +284,11 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
         </div>
         <div>
           <h4>How Acuity Helps</h4>
-          <p class="body">We build the essentials a young company needs to sell to the U.S. government: go-to-market strategy grounded in how agencies actually buy, capture and pipeline discipline, compliance foundations, back-office setup, key hires including cleared talent, client-facing collateral, product strategy shaped to government use cases, and a partnership program that extends reach without giving away the deal. Once the public sector division is built, we create and help execute the government affairs strategy that scales it.</p>
-          <div class="steps" aria-label="How Acuity helps, in three steps">
-            <div class="step"><p class="sn">1</p><b>Build</b><span>Strategy, compliance, back office, collateral, and the first hires.</span></div>
-            <div class="step"><p class="sn">2</p><b>Win</b><span>Capture discipline, pilots, and partners that convert to contracts.</span></div>
-            <div class="step"><p class="sn">3</p><b>Scale</b><span>A government affairs campaign that turns one customer into a market.</span></div>
+          <p class="body">We stand up the public sector division inside a young company and run it alongside the founders until it wins on its own. The work runs in three stages.</p>
+          <div class="steps" aria-label="How Acuity helps, in three stages">
+            <div class="step"><p class="sn">1</p><b>Build</b><span>Go-to-market strategy grounded in how agencies actually buy, compliance and contracting foundations, back-office setup, government-ready collateral, and the first key hires, including cleared talent.</span></div>
+            <div class="step"><p class="sn">2</p><b>Win</b><span>Capture and pipeline discipline, product strategy shaped to government use cases, pilots that convert to contracts, and a partnership program that extends reach without giving away the deal.</span></div>
+            <div class="step"><p class="sn">3</p><b>Scale</b><span>A government affairs strategy, created and executed with the client, that turns a first customer into a repeatable public sector business.</span></div>
           </div>
           <p class="sub-h">Government Affairs Strategy</p>
           <p class="body">A first contract is a foothold, not a business. We design the national or international campaign that follows and run it with the client: the agencies, committees, primes, and allied buyers to engage, the message for each, the sequence, and the people who carry it. The goal is a repeatable public sector business, not a single win.</p>
