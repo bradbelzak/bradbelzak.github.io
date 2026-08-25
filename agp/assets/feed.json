@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-24T21:38:36.669678Z",
+ "updatedAt": "2026-08-25T11:38:52.524860Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "DOGE alum, Treasury CIO Corcos adds three GSA jobs to his portfolio",
-   "url": "https://fedscoop.com/sam-corcos-gsa-management-treasury-doge/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-08-24T21:35:30Z",
-   "why": "Corcos will now lead GSA’s Technology Transformation Services, and help oversee the Federal Acquisition Service and Login-dot-gov, in addition to serving as..."
+   "title": "Establishment of Four Customs-Enforcement Areas",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas",
+   "source": "Federal Register - Homeland Security Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "This document sets forth the Commissioner of U.S."
   },
   {
-   "title": "Navy boss launches defense industrial base office",
-   "url": "https://defensescoop.com/2026/08/24/navy-launches-office-of-the-defense-industrial-base/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-24T21:25:43Z",
-   "why": "Andrew Magliochetti has been appointed deputy assistant secretary of the Navy for the defense industrial base."
+   "title": "Final Waiver and Extension of the Project Period With Funding-Elementary and Secondary Education Act of 1965, as Amended, Title VI, Part B, Native Hawaiian Education",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17353/final-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act",
+   "source": "Federal Register - Education Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "The Secretary waives the requirements in the Education Department General Administrative Regulations (EDGAR) that generally prohibit project period extensions..."
   },
   {
-   "title": "Unions accuse mediation agency of ‘doublespeak’ in updated lawsuit",
-   "url": "https://www.govexec.com/workforce/2026/08/unions-accuse-mediation-agency-doublespeak-updated-lawsuit/415604/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-08-24T21:16:23Z",
-   "why": "The Federal Mediation and Conciliation Service’s new policy allowing it to investigate the arbitrability of disputes if an agency objects to participating in..."
+   "title": "Amendment of Restricted Areas R-2505, R-2524, R-2508, and R-2515 in California",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california",
+   "source": "Federal Register - Transportation Department",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "This action amends multiple coordinates used to describe restricted areas R-2505, R-2524, R-2508, and R-2515 in California."
   },
   {
-   "title": "How complex conflicts of interest plague military housing",
-   "url": "https://federalnewsnetwork.com/agency-oversight/2026/08/how-complex-conflicts-of-interest-plague-military-housing/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-24T20:54:42Z",
-   "why": "\"It's a mangled system when you have a tenants' bill of rights for service members where the housing companies participate in the drafting,\" René Kladzyk said."
+   "title": "Reduction in Force Appeals; Correction",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17338/reduction-in-force-appeals-correction",
+   "source": "Federal Register - Personnel Management Office",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning reduction in force appeals."
   },
   {
-   "title": "GSA, Treasury kick off post-quantum initiatives to protect against cyber threats",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/gsa-treasury-kick-off-post-quantum-initiatives-to-protect-against-cyber-threats/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-08-24T20:54:12Z",
-   "why": "GSA is updating its Federal Identity, Credential and Access Management architecture as Treasury launches a new task force for the financial sector."
+   "title": "Suitability Action Appeals; Correction",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17337/suitability-action-appeals-correction",
+   "source": "Federal Register - Personnel Management Office",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning suitability action appeals."
   },
   {
-   "title": "White House space transportation policy calls for integration with air traffic control modernization",
-   "url": "https://www.nextgov.com/emerging-tech/2026/08/white-house-space-transportation-policy-calls-integration-air-traffic-control-modernization/415603/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-24T20:37:00Z",
-   "why": "The guidance directs the Transportation Department and other agencies to “implement a plan to integrate space launch and reentry management into airspace and..."
+   "title": "Streamlining Probationary and Trial Period Appeals; Correction and Technical Amendment",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17336/streamlining-probationary-and-trial-period-appeals-correction-and-technical-amendment",
+   "source": "Federal Register - Personnel Management Office",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, streamlining probationary and trial period appeals."
   },
   {
-   "title": "Dem lawmaker hopes to add AI containment language to FRONTIER Act",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/dem-lawmaker-hopes-add-ai-containment-language-frontier-act/415602/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-08-24T20:29:00Z",
-   "why": "Rep."
+   "title": "Reduction in Force; Correction",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17335/reduction-in-force-correction",
+   "source": "Federal Register - Personnel Management Office",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning reduction in force."
   },
   {
-   "title": "Democrats stump for labor representation on Fed’s AI task force",
-   "url": "https://fedscoop.com/federal-reserve-ai-task-force-workforce-democrats-letter/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-08-24T20:00:07Z",
-   "why": "The lawmakers pushed Fed Chair Kevin Warsh to include U.S."
+   "title": "Improving Performance, Accountability and Responsiveness in the Civil Service, and Recruitment and Relocation Incentive Waivers; Correcting Amendments",
+   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17334/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and",
+   "source": "Federal Register - Personnel Management Office",
+   "category": "Policy and Regulation",
+   "published": "2026-08-25T12:00:00Z",
+   "why": "The Office of Personnel Management (OPM) is correcting technical and conforming errors arising from two recent final rules: \"Improving Performance..."
   }
  ]
 }
