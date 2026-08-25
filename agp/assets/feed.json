@@ -1,9 +1,57 @@
 {
- "updatedAt": "2026-08-25T14:26:28.288118Z",
+ "updatedAt": "2026-08-25T16:49:56.011218Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "How a new Pentagon memo ‘resets’ industry requirements, plus highlights from TechNet",
+   "url": "https://breakingdefense.com/2026/08/how-a-new-pentagon-memo-resets-industry-requirements-plus-highlights-from-technet/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-25T16:00:00Z",
+   "why": "A new DoD memo affecting Pentagon contractors, plus tech news out of Georgia."
+  },
+  {
+   "title": "Agentic AI Tokenomics: Why Federal Agencies Need an Infrastructure-First Token Strategy",
+   "url": "https://www.meritalk.com/agentic-ai-tokenomics-why-federal-agencies-need-an-infrastructure-first-token-strategy/",
+   "source": "MeriTalk",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-25T15:34:01Z",
+   "why": "By: Paul Perez, SVP & Senior Technology Fellow, Office of the CTO & Dell Federal Always-on agents change the economics of AI."
+  },
+  {
+   "title": "Navy establishes new defense industrial base office: Cao",
+   "url": "https://breakingdefense.com/2026/08/navy-establishes-new-defense-industrial-base-office-cao/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-25T14:21:53Z",
+   "why": "Andrew Magliochetti, who previously served as the director of the Navy’s Office of Small Business Programs, will oversee the Office of the Defense Industrial..."
+  },
+  {
+   "title": "Parsons Secures $514M Option to Extend Missile Defense Agency Engineering Support",
+   "url": "https://www.govconwire.com/articles/parsons-mda-teams-next-contract-option",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-25T09:22:15Z",
+   "why": "Parsons landed the Technical, Engineering, Advisory and Management Support-Next Missile Defense System Engineering contract in 2021."
+  },
+  {
+   "title": "Leidos Awarded $301M Army Contract for 24/7 Cyber Defense",
+   "url": "https://www.govconwire.com/articles/leidos-301m-army-cyber-defense-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-25T09:21:35Z",
+   "why": "The follow-on award covers continuous cyber monitoring and new capability development supporting Department of War network resilience."
+  },
+  {
+   "title": "Boeing Lands Potential $131.2B Air Force F-15 Eagle Crest Contract",
+   "url": "https://www.govconwire.com/articles/boeing-air-force-f-15-eagle-crest",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-25T09:14:17Z",
+   "why": "Boeing’s F-15 Eagle Crest contract includes foreign military sales to seven countries and new depot maintenance capabilities."
+  },
   {
    "title": "DOGE alum, Treasury CIO Corcos adds three GSA jobs to his portfolio",
    "url": "https://fedscoop.com/sam-corcos-gsa-management-treasury-doge/",
@@ -19,54 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-08-24T20:54:12Z",
    "why": "GSA is updating its Federal Identity, Credential and Access Management architecture as Treasury launches a new task force for the financial sector."
-  },
-  {
-   "title": "Compliance theater is over: What FedRAMP 20x means for every vendor selling to government",
-   "url": "https://www.nextgov.com/ideas/2026/08/compliance-theater-over-what-fedramp-20x-means-every-vendor-selling-government/415580/",
-   "source": "Nextgov",
-   "category": "Compliance and Security",
-   "published": "2026-08-21T20:38:00Z",
-   "why": "COMMENTARY | Attacks now move faster than human-paced patch cycles can keep up with and a compliance program built around periodic reviews will not catch them."
-  },
-  {
-   "title": "Army wants fast AI cybersecurity agents that won’t run up token costs or create new vulnerabilities",
-   "url": "https://defensescoop.com/2026/08/21/army-wants-fast-ai-cybersecurity-agents-wont-run-up-costs-create-vulnerabilities/",
-   "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-21T15:33:27Z",
-   "why": "“We need help in implementing agents securely, so that it doesn't inadvertently increase our attack surface,” an Army official said."
-  },
-  {
-   "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
-   "url": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says/",
-   "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-21T15:10:10Z",
-   "why": "Dedicated funding is key, according to the Army’s principal cyber advisor, because the service’s cyber command cannot fund AI work strictly from their..."
-  },
-  {
-   "title": "VA boosts EHR modernization contract with Oracle by $17B",
-   "url": "https://www.nextgov.com/modernization/2026/08/va-boosts-ehr-modernization-contract-oracle-17b/415548/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-20T20:36:00Z",
-   "why": "The modified agreement raises the contract’s total value to just under $27 billion."
-  },
-  {
-   "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
-   "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-20T16:19:50Z",
-   "why": "The new directive, signed off by Deputy Defense Secretary Steve Feinberg, is meant to “reset” the Pentagon’s expectations for supplier cost and pricing..."
-  },
-  {
-   "title": "Hanwha captures Army contract for mobile tactical cannons and expects to deliver first prototype this fall",
-   "url": "https://defensescoop.com/2026/08/19/hanwha-army-contract-mobile-tactical-cannon-program/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-19T21:00:36Z",
-   "why": "The award represents a confluence of two Army goals: boosting its long-range firepower for modern battlefields and expanding the defense industrial base."
   }
  ]
 }
