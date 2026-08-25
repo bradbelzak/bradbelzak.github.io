@@ -186,6 +186,34 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .modal-send:hover{opacity:.9}
 .modal-note{font-size:12px;color:var(--dim);margin-top:14px}
 @media(max-width:600px){.f-row{grid-template-columns:1fr}.modal-card{padding:28px 22px}}
+
+/* ===== Expertise: 1-2-3 steps, sub-section, What We Build ===== */
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:18px 0 6px}
+.step{position:relative;background:rgba(255,255,255,.035);border:1px solid var(--line);border-radius:10px;padding:14px 14px 13px 16px}
+.step .sn{font-family:'Fraunces',Georgia,serif;font-size:22px;font-weight:600;color:#8FB4FF;line-height:1;margin-bottom:7px}
+.step b{display:block;font-size:14px;color:var(--fg);margin-bottom:3px}
+.step span{display:block;font-size:12.5px;line-height:1.45;color:var(--dim)}
+.step::after{content:"\2192";position:absolute;right:-11px;top:50%;transform:translateY(-50%);color:var(--line2);font-size:14px;z-index:1}
+.step:last-child::after{content:none}
+@media(max-width:600px){.steps{grid-template-columns:1fr}.step::after{content:none}}
+.sub-h{font-family:'Fraunces',Georgia,serif;font-size:19px;color:var(--fg);margin:26px 0 8px}
+.build{margin-top:38px;padding-top:32px;border-top:1px solid var(--line)}
+.build .label{margin-bottom:6px}
+.build .ledex{margin:0 0 22px;font-size:15.5px}
+.bgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.bcell{background:var(--bg);padding:24px 26px;display:grid;grid-template-columns:44px 1fr;gap:14px;align-items:start}
+.bcell .bn{font-family:'Fraunces',Georgia,serif;font-size:24px;font-weight:600;color:#8FB4FF;line-height:1.1}
+.bcell b{display:block;font-family:'Fraunces',Georgia,serif;font-weight:600;font-size:19px;color:var(--fg);margin-bottom:5px}
+.bcell p{color:var(--dim);font-size:14px;margin:0}
+@media(max-width:900px){.bgrid{grid-template-columns:1fr}}
+
+/* ===== Our Team ===== */
+.team-lead{color:var(--dim);font-size:17px;line-height:1.6;max-width:820px;margin-bottom:26px}
+.tgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 40px}
+.trole{border-left:3px solid #8FB4FF;padding:2px 0 2px 16px}
+.trole b{display:block;font-size:16.5px;color:var(--fg);margin-bottom:3px}
+.trole p{color:var(--dim);font-size:14px;margin:0}
+@media(max-width:900px){.tgrid{grid-template-columns:1fr}}
 </style>
 <link rel="stylesheet" href="agp/assets/news-feed.css">
 <link rel="stylesheet" href="agp/assets/spacing-audit.css">
@@ -259,10 +287,28 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
         </div>
         <div>
           <h4>How Acuity Helps</h4>
-          <p class="body">We build the essentials a young company needs to sell to the U.S. government: go-to-market strategy grounded in how agencies actually buy, capture and pipeline discipline, compliance foundations, administrative and back-office setup, key hires including cleared talent, client-facing collateral, product strategy shaped to government use cases, and a partnership program that extends reach without giving away the deal.</p>
+          <p class="body">We build the essentials a young company needs to sell to the U.S. government: go-to-market strategy grounded in how agencies actually buy, capture and pipeline discipline, compliance foundations, back-office setup, key hires including cleared talent, client-facing collateral, product strategy shaped to government use cases, and a partnership program that extends reach without giving away the deal. Once the public sector division is built, we create and help execute the government affairs strategy that scales it.</p>
+          <div class="steps" aria-label="How Acuity helps, in three steps">
+            <div class="step"><p class="sn">1</p><b>Build</b><span>Strategy, compliance, back office, collateral, and the first hires.</span></div>
+            <div class="step"><p class="sn">2</p><b>Win</b><span>Capture discipline, pilots, and partners that convert to contracts.</span></div>
+            <div class="step"><p class="sn">3</p><b>Scale</b><span>A government affairs campaign that turns one customer into a market.</span></div>
+          </div>
+          <p class="sub-h">Government Affairs Strategy</p>
+          <p class="body">A first contract is a foothold, not a business. We design the national or international campaign that follows and run it with the client: the agencies, committees, primes, and allied buyers to engage, the message for each, the sequence, and the people who carry it. The goal is a repeatable public sector business, not a single win.</p>
           <h4>Best-Fit Clients</h4>
           <p class="body">Pre-seed to Series A founders with government-applicable products, venture-backed teams making their first federal hires, investors preparing portfolio companies for public-sector revenue, and high-net-worth individuals and family offices whose capital and ventures intersect the public sector.</p>
         </div>
+      </div>
+    </div>
+
+    <div class="build rv">
+      <p class="label">What We Build</p>
+      <p class="ledex">The four things every early-stage company needs in place before the U.S. government will buy.</p>
+      <div class="bgrid">
+        <div class="bcell"><p class="bn">01</p><div><b>Go-to-Market</b><p>Capture and pipeline discipline, compliance and contracting foundations, pricing for the federal buyer.</p></div></div>
+        <div class="bcell"><p class="bn">02</p><div><b>Product Strategy</b><p>Roadmaps shaped for government requirements, certifications, and procurement reality.</p></div></div>
+        <div class="bcell"><p class="bn">03</p><div><b>Partnerships</b><p>Primes, integrators, and channel; the teaming that gets early-stage technology onto contract vehicles.</p></div></div>
+        <div class="bcell"><p class="bn">04</p><div><b>Vetted Talent</b><p>The operators who run public sector; sourced, vetted, and accountable.</p></div></div>
       </div>
     </div>
 
@@ -336,17 +382,19 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   </div>
 </section>
 
-<section id="advisors" style="padding-top:56px">
+<section id="team" style="padding-top:56px">
   <div class="wrap">
-    <p class="label rv">Senior Advisors</p>
-    <p class="wa-lead rv" style="opacity:.6">Coming soon</p>
-  </div>
-</section>
-
-<section id="technical-advisors" style="padding-top:56px">
-  <div class="wrap">
-    <p class="label rv">Technical Advisors</p>
-    <p class="wa-lead rv" style="opacity:.6">Coming soon</p>
+    <p class="label rv">Our Team</p>
+    <p class="team-lead rv">Acuity works as one team. A multidisciplinary bench of public sector specialists carries each engagement, from entry strategy to a running division.</p>
+    <div class="tgrid rv">
+      <div class="trole"><b>Federal Go-to-Market Strategists</b><p>Procurement strategy, capture discipline, and federal sales architecture for market entry.</p></div>
+      <div class="trole"><b>Partnership and Channel Builders</b><p>Primes, integrators, and resellers that carry emerging technology onto contract vehicles.</p></div>
+      <div class="trole"><b>Compliance and Regulatory Advisors</b><p>Contracting, certifications, and compliance program design under U.S. oversight regimes.</p></div>
+      <div class="trole"><b>National Security Policy Advisors</b><p>Homeland security, defense, and interagency strategy at senior government levels.</p></div>
+      <div class="trole"><b>Policy and Legislative Strategists</b><p>Policy design, legislative strategy, and program navigation across federal environments.</p></div>
+      <div class="trole"><b>Public Sector Talent</b><p>Sourcing the operators who run and grow federal businesses.</p></div>
+      <div class="trole"><b>Vetting and Due Diligence Specialists</b><p>Investigative screening of partners, investments, and key hires.</p></div>
+    </div>
   </div>
 </section>
 
