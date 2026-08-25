@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-25T11:38:52.524860Z",
+ "updatedAt": "2026-08-25T14:26:28.288118Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Establishment of Four Customs-Enforcement Areas",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17354/establishment-of-four-customs-enforcement-areas",
-   "source": "Federal Register - Homeland Security Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "This document sets forth the Commissioner of U.S."
+   "title": "DOGE alum, Treasury CIO Corcos adds three GSA jobs to his portfolio",
+   "url": "https://fedscoop.com/sam-corcos-gsa-management-treasury-doge/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-24T21:35:30Z",
+   "why": "Corcos will now lead GSA’s Technology Transformation Services, and help oversee the Federal Acquisition Service and Login-dot-gov, in addition to serving as..."
   },
   {
-   "title": "Final Waiver and Extension of the Project Period With Funding-Elementary and Secondary Education Act of 1965, as Amended, Title VI, Part B, Native Hawaiian Education",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17353/final-waiver-and-extension-of-the-project-period-with-funding-elementary-and-secondary-education-act",
-   "source": "Federal Register - Education Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "The Secretary waives the requirements in the Education Department General Administrative Regulations (EDGAR) that generally prohibit project period extensions..."
+   "title": "GSA, Treasury kick off post-quantum initiatives to protect against cyber threats",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/gsa-treasury-kick-off-post-quantum-initiatives-to-protect-against-cyber-threats/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-24T20:54:12Z",
+   "why": "GSA is updating its Federal Identity, Credential and Access Management architecture as Treasury launches a new task force for the financial sector."
   },
   {
-   "title": "Amendment of Restricted Areas R-2505, R-2524, R-2508, and R-2515 in California",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17339/amendment-of-restricted-areas-r-2505-r-2524-r-2508-and-r-2515-in-california",
-   "source": "Federal Register - Transportation Department",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "This action amends multiple coordinates used to describe restricted areas R-2505, R-2524, R-2508, and R-2515 in California."
+   "title": "Compliance theater is over: What FedRAMP 20x means for every vendor selling to government",
+   "url": "https://www.nextgov.com/ideas/2026/08/compliance-theater-over-what-fedramp-20x-means-every-vendor-selling-government/415580/",
+   "source": "Nextgov",
+   "category": "Compliance and Security",
+   "published": "2026-08-21T20:38:00Z",
+   "why": "COMMENTARY | Attacks now move faster than human-paced patch cycles can keep up with and a compliance program built around periodic reviews will not catch them."
   },
   {
-   "title": "Reduction in Force Appeals; Correction",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17338/reduction-in-force-appeals-correction",
-   "source": "Federal Register - Personnel Management Office",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning reduction in force appeals."
+   "title": "Army wants fast AI cybersecurity agents that won’t run up token costs or create new vulnerabilities",
+   "url": "https://defensescoop.com/2026/08/21/army-wants-fast-ai-cybersecurity-agents-wont-run-up-costs-create-vulnerabilities/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-21T15:33:27Z",
+   "why": "“We need help in implementing agents securely, so that it doesn't inadvertently increase our attack surface,” an Army official said."
   },
   {
-   "title": "Suitability Action Appeals; Correction",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17337/suitability-action-appeals-correction",
-   "source": "Federal Register - Personnel Management Office",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning suitability action appeals."
+   "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
+   "url": "https://breakingdefense.com/2026/08/army-cyber-defenses-need-dedicated-funding-for-ai-top-official-says/",
+   "source": "Breaking Defense",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-21T15:10:10Z",
+   "why": "Dedicated funding is key, according to the Army’s principal cyber advisor, because the service’s cyber command cannot fund AI work strictly from their..."
   },
   {
-   "title": "Streamlining Probationary and Trial Period Appeals; Correction and Technical Amendment",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17336/streamlining-probationary-and-trial-period-appeals-correction-and-technical-amendment",
-   "source": "Federal Register - Personnel Management Office",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, streamlining probationary and trial period appeals."
+   "title": "VA boosts EHR modernization contract with Oracle by $17B",
+   "url": "https://www.nextgov.com/modernization/2026/08/va-boosts-ehr-modernization-contract-oracle-17b/415548/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-20T20:36:00Z",
+   "why": "The modified agreement raises the contract’s total value to just under $27 billion."
   },
   {
-   "title": "Reduction in Force; Correction",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17335/reduction-in-force-correction",
-   "source": "Federal Register - Personnel Management Office",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "The Office of Personnel Management (OPM) published a final rule in the Federal Register on August 3, 2026, concerning reduction in force."
+   "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
+   "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-20T16:19:50Z",
+   "why": "The new directive, signed off by Deputy Defense Secretary Steve Feinberg, is meant to “reset” the Pentagon’s expectations for supplier cost and pricing..."
   },
   {
-   "title": "Improving Performance, Accountability and Responsiveness in the Civil Service, and Recruitment and Relocation Incentive Waivers; Correcting Amendments",
-   "url": "https://www.federalregister.gov/documents/2026/08/25/2026-17334/improving-performance-accountability-and-responsiveness-in-the-civil-service-and-recruitment-and",
-   "source": "Federal Register - Personnel Management Office",
-   "category": "Policy and Regulation",
-   "published": "2026-08-25T12:00:00Z",
-   "why": "The Office of Personnel Management (OPM) is correcting technical and conforming errors arising from two recent final rules: \"Improving Performance..."
+   "title": "Hanwha captures Army contract for mobile tactical cannons and expects to deliver first prototype this fall",
+   "url": "https://defensescoop.com/2026/08/19/hanwha-army-contract-mobile-tactical-cannon-program/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-19T21:00:36Z",
+   "why": "The award represents a confluence of two Army goals: boosting its long-range firepower for modern battlefields and expanding the defense industrial base."
   }
  ]
 }

@@ -50,7 +50,7 @@
       bar.setAttribute("aria-label", "Latest U.S. public sector developments — scrolling headlines");
       bar.innerHTML =
         '<span class="nf-ticker-label">' +
-          '<span class="nf-tdot" aria-hidden="true"></span><span>Public Sector Intel</span></span>' +
+          '<span class="nf-tdot" aria-hidden="true"></span><span>Public Sector News</span></span>' +
         '<div class="nf-ticker-viewport"><div class="nf-ticker-track" id="nf-tick-track"></div></div>';
       hero.parentNode.insertBefore(bar, hero);
       /* Pin the ticker directly under the sticky topbar so it stays visible
@@ -75,7 +75,7 @@
     trk.querySelectorAll('[aria-hidden="true"] a').forEach(function (a) { a.tabIndex = -1; });
     requestAnimationFrame(function () {
       var w = trk.scrollWidth / 2;
-      if (w > 0) trk.style.setProperty("--nf-tick-dur", Math.max(30, Math.round(w / 55)) + "s");
+      if (w > 0) trk.style.setProperty("--nf-tick-dur", Math.max(22, Math.round(w / 75)) + "s");
     });
     trk.querySelectorAll(".nf-ticker-item").forEach(function (a) {
       a.addEventListener("click", function () {
@@ -142,7 +142,7 @@
       dot.style.boxShadow = stale ? "none" : "";
     }
     if (label) {
-      label.textContent = stale ? "Public Sector Intel (delayed)" : "Public Sector Intel";
+      label.textContent = stale ? "Public Sector News (delayed)" : "Public Sector News";
     }
     bar.setAttribute("data-state", stale ? "stale" : "live");
     bar.setAttribute(
@@ -188,80 +188,4 @@
       clearInterval(poll);
     }
   }, 500);
-})();
-
-
-/* ---------------------------------------------------------------------------
-   "What We Are Watching" strip (added 2026-08-03)
-   The ticker is for scanning headlines; a marquee cannot carry a sentence of
-   analysis at reading speed. This renders the top three stories as static
-   cards directly under the hero, each with its one-line read. It hides itself
-   entirely if the feed has fewer than two blurbs, so a degraded feed never
-   leaves an empty box on the page.
-   --------------------------------------------------------------------------- */
-(function () {
-  "use strict";
-
-  var CFG = window.AGP_FEED_CONFIG || {};
-  var ENDPOINT = CFG.endpoint || "agp/assets/feed.json";
-  var COUNT = 3;
-
-  function esc(s) {
-    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
-      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
-    });
-  }
-  function safeHref(u) {
-    try { var p = new URL(String(u)); return (p.protocol === "http:" || p.protocol === "https:") ? p.href : "#"; }
-    catch (e) { return "#"; }
-  }
-  function ago(iso) {
-    var h = (Date.now() - Date.parse(iso)) / 3600000;
-    if (!isFinite(h)) return "";
-    if (h < 1) return Math.max(1, Math.round(h * 60)) + " min ago";
-    if (h < 24) return Math.round(h) + " hr ago";
-    return Math.round(h / 24) + " days ago";
-  }
-
-  function render(payload) {
-    if (!payload || !Array.isArray(payload.stories)) return;
-    if (document.getElementById("nf-strip")) return;
-
-    var usable = payload.stories.filter(function (s) {
-      return s && s.title && s.url && s.why;
-    });
-    if (usable.length < 2) return;   // nothing worth showing; leave the page alone
-
-    var hero = document.querySelector(".hero");
-    if (!hero || !hero.parentNode) return;
-
-    var cards = usable.slice(0, COUNT).map(function (s) {
-      return '<a class="nf-strip-card" href="' + esc(safeHref(s.url)) +
-        '" target="_blank" rel="noopener noreferrer nofollow">' +
-        '<span class="nf-strip-cat">' + esc(s.category || "") + "</span>" +
-        '<h3 class="nf-strip-h">' + esc(s.title) + "</h3>" +
-        '<p class="nf-strip-why">' + esc(s.why) + "</p>" +
-        '<span class="nf-strip-src">' + esc(s.source || "") + "</span></a>";
-    }).join("");
-
-    var sec = document.createElement("section");
-    sec.id = "nf-strip";
-    sec.className = "nf-strip";
-    sec.setAttribute("aria-label", "What we are watching in the public sector");
-    sec.innerHTML =
-      '<div class="wrap">' +
-        '<div class="nf-strip-head">' +
-          '<h2 class="nf-strip-title">What We Are Watching</h2>' +
-          '<span class="nf-strip-meta">Updated ' + esc(ago(payload.updatedAt)) + "</span>" +
-        "</div>" +
-        '<div class="nf-strip-grid">' + cards + "</div>" +
-      "</div>";
-
-    hero.parentNode.insertBefore(sec, hero.nextSibling);
-  }
-
-  fetch(ENDPOINT, { headers: { accept: "application/json" }, cache: "no-store" })
-    .then(function (r) { return r.ok ? r.json() : null; })
-    .then(render)
-    .catch(function () { /* never break the page over a news strip */ });
 })();
