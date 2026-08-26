@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-08-26T11:41:19.180344Z",
+ "updatedAt": "2026-08-26T16:54:56.821289Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Marines want to move Camp Lejeune armory off paper and into the web",
+   "url": "https://www.washingtontechnology.com/contracts/2026/08/marines-want-move-camp-lejeune-armory-paper-and-web/415645/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-26T15:25:54Z",
+   "why": "A new solicitation for a SDVOSB contract also leans on the Revolutionary FAR Overhaul deviation instead of the standard FAR."
+  },
+  {
+   "title": "Spain signs off on $6.3 billion budget for joint MRTT buy with Poland",
+   "url": "https://breakingdefense.com/2026/08/spain-signs-off-on-6-3-billion-budget-for-joint-mrtt-buy-with-poland/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-08-26T14:13:35Z",
+   "why": "Poland’s minister of national defense said today that “at least” seven aircraft will be purchased, with his country receiving four by 2030."
+  },
+  {
+   "title": "Aiming to turn ‘every device into a source,’ Cellebrite launches made-for-the-military data extraction kit",
+   "url": "https://defensescoop.com/2026/08/26/cellebrite-launches-made-for-the-military-data-extraction-kit/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-26T12:30:00Z",
+   "why": "The Israeli firm’s new C-TEK product triages data from mobile phones, SIM cards, computers, drones and other portable media."
+  },
   {
    "title": "Raytheon, Boeing Secure $766M Air Force Contracts for B-52 Modernization",
    "url": "https://www.govconwire.com/articles/raytheon-boeing-usaf-b-52-modernization",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-08-25T20:13:32Z",
    "why": "The Air Force is moving its fragmented scheduling, training and readiness systems into a single enterprise platform known as the Aerospace Readiness Enterprise..."
-  },
-  {
-   "title": "GSA to reinstate FedRAMP director, taps Treasury CIO for 3 roles",
-   "url": "https://www.nextgov.com/people/2026/08/gsa-reinstate-fedramp-director-taps-treasury-cio-3-roles/415625/",
-   "source": "Nextgov",
-   "category": "Compliance and Security",
-   "published": "2026-08-25T20:01:00Z",
-   "why": "The General Services Administration is seeing a string of personnel changes leading up to the federal chief information officer’s departure from government at..."
-  },
-  {
-   "title": "GSA says it’s uncovered ‘record-setting’ $13B in suspected procurement fraud",
-   "url": "https://www.nextgov.com/acquisition/2026/08/gsa-says-its-uncovered-record-setting-13b-suspected-procurement-fraud/415632/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-25T19:57:00Z",
-   "why": "The White House added General Services Administration fraud estimates to its website that serves as a ledger for suspected fraud across the federal government."
-  },
-  {
-   "title": "Lawmakers press Commerce to restrict Americans from aiding foreign spy agencies",
-   "url": "https://www.nextgov.com/policy/2026/08/lawmakers-press-commerce-restrict-americans-aiding-foreign-spy-agencies/415630/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-25T18:44:00Z",
-   "why": "A bipartisan group says unfinished export control rules leave civilian intelligence services able to obtain U.S."
   }
  ]
 }
