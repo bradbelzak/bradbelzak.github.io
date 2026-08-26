@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-08-25T21:38:05.442875Z",
+ "updatedAt": "2026-08-26T11:41:19.180344Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Raytheon, Boeing Secure $766M Air Force Contracts for B-52 Modernization",
+   "url": "https://www.govconwire.com/articles/raytheon-boeing-usaf-b-52-modernization",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-26T09:10:08Z",
+   "why": "Raytheon will handle AN/APQ-188 radar work, while Boeing will deliver bomb rack modernization system kits for the B-52."
+  },
+  {
+   "title": "Parsons Subsidiary SealingTech Lands $750M USCYBERCOM JCHK Production OTA",
+   "url": "https://www.govconwire.com/articles/parsons-sealingtech-750m-uscybercom-jchk-ota-award",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-26T09:08:58Z",
+   "why": "Parsons subsidiary SealingTech has booked a potential five-year, $750 million USCYBERCOM OTA for Joint Cyber Hunt Kit production."
+  },
+  {
+   "title": "DHS Unveils Plans for Follow-On OneStream Systems Integrator BPA",
+   "url": "https://www.govconwire.com/articles/dhs-follow-on-onestream-systems-integrator-bpa",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-26T08:39:24Z",
+   "why": "DHS plans to compete a follow-on $100 million OneStream systems integrator BPA, with award anticipated in the second quarter of FY27."
+  },
+  {
+   "title": "Army moves cloud management under its Cyber Command",
+   "url": "https://federalnewsnetwork.com/army/2026/08/army-moves-cloud-management-under-its-cyber-command/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-25T22:07:32Z",
+   "why": "Moving ECMA away from the Army's chief information officer aims to more closely integrate cloud management and cyber defenses."
+  },
   {
    "title": "Air Force awards $100M production deal for AI-enabled readiness platform",
    "url": "https://defensescoop.com/2026/08/25/air-force-awards-100m-deal-ai-enabled-readiness-platform/",
@@ -35,38 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-08-25T18:44:00Z",
    "why": "A bipartisan group says unfinished export control rules leave civilian intelligence services able to obtain U.S."
-  },
-  {
-   "title": "GAO tosses QinetiQ's protest of TCOM's $625M Polish aerostat deal",
-   "url": "https://www.washingtontechnology.com/contracts/2026/08/gao-tosses-qinetiqs-protest-tcoms-625m-polish-aerostat-deal/415627/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-25T18:11:58Z",
-   "why": "The decision clears the way for TCOM to deliver four surveillance aerostat systems to Poland under the foreign military sales program."
-  },
-  {
-   "title": "GSA's $13 billion fraud claim relies on cases predating task force",
-   "url": "https://www.washingtontechnology.com/contracts/2026/08/gsas-13-billion-fraud-claim-relies-cases-predating-task-force/415624/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-25T17:42:10Z",
-   "why": "The settlements cited add up to just $117 million, and at least one case predates the Trump administration."
-  },
-  {
-   "title": "New contract aims to keep Space Force’s multi-billion-dollar projects on budget",
-   "url": "https://www.washingtontechnology.com/contracts/2026/08/new-contract-aims-keep-space-forces-multi-billion-dollar-projects-budget/415628/",
-   "source": "Washington Technology",
-   "category": "Budget and Appropriations",
-   "published": "2026-08-25T16:00:00Z",
-   "why": "Integrate was just for the service’s complicated launch programs."
-  },
-  {
-   "title": "How a new Pentagon memo ‘resets’ industry requirements, plus highlights from TechNet",
-   "url": "https://breakingdefense.com/2026/08/how-a-new-pentagon-memo-resets-industry-requirements-plus-highlights-from-technet/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-25T16:00:00Z",
-   "why": "A new DoD memo affecting Pentagon contractors, plus tech news out of Georgia."
   }
  ]
 }
