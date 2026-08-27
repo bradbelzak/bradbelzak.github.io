@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-08-26T16:54:56.821289Z",
+ "updatedAt": "2026-08-27T00:40:27.293958Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army awards $2.2B in contracts for nuclear microreactors",
+   "url": "https://federalnewsnetwork.com/army/2026/08/army-awards-2-2b-in-contracts-for-nuclear-microreactors/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-27T00:00:53Z",
+   "why": "The companies are now on the clock to get at least one reactor up and running by the end of September 2028 — a deadline set by President Trump."
+  },
+  {
+   "title": "Three initiatives causing industry new concerns about DoD acquisition reforms",
+   "url": "https://federalnewsnetwork.com/defense-industry/2026/08/three-initiatives-causing-industry-new-concerns-about-dod-acquisition-reforms/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-26T21:37:06Z",
+   "why": "The Pentagon wants more cost and pricing data transparency and to establish contract profit margins from vendors who provide commercial products and services."
+  },
+  {
+   "title": "CMMC phase II is paused, but the adversary threats are not",
+   "url": "https://www.washingtontechnology.com/opinion/2026/08/cmmc-phase-ii-paused-adversary-threats-are-not/415658/",
+   "source": "Washington Technology",
+   "category": "Compliance and Security",
+   "published": "2026-08-26T21:17:39Z",
+   "why": "Contractors still holding sensitive defense data need visibility, segmentation, and containment — CMMC or not."
+  },
+  {
+   "title": "FedRAMP Director Pete Waterman reinstated at GSA after weeks of leave",
+   "url": "https://fedscoop.com/fedramp-director-pete-waterman-reinstated-at-gsa/",
+   "source": "FedScoop",
+   "category": "Compliance and Security",
+   "published": "2026-08-26T20:35:21Z",
+   "why": "After his comments on veterans’ hiring preference, the General Services Administration put him on leave around the beginning of August."
+  },
+  {
+   "title": "Army to host nuclear microreactors at Forts Bragg, Campbell, Hood, Benning and Drum",
+   "url": "https://defensescoop.com/2026/08/26/army-annouces-initiial-bases-to-host-nuclear-microreactors/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-26T20:00:00Z",
+   "why": "The service tapped five vendors for the effort: Antares Nuclear, BWXT Advanced Technologies, General Atomics Electromagnetic Systems, Radiant Industries and..."
+  },
+  {
+   "title": "Contractor may have used AI to falsify payment dispute financial documents, appeals board finds",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/contractor-may-have-used-ai-falsify-payment-dispute-financial-documents-appeals-board-finds/415647/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-26T17:17:00Z",
+   "why": "A legal expert told Nextgov/FCW the possibility underscores how the federal government is “fully unprepared for how bad” AI-driven procurement fraud is going..."
+  },
+  {
+   "title": "Air Force awards $766 million for B-52 radar modernization",
+   "url": "https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-26T17:06:02Z",
+   "why": "One contract worth up to $603 million was issued to RTX subsidiary Raytheon, while a second valued at roughly $163 million was issued to B-52 prime contractor..."
+  },
   {
    "title": "Marines want to move Camp Lejeune armory off paper and into the web",
    "url": "https://www.washingtontechnology.com/contracts/2026/08/marines-want-move-camp-lejeune-armory-paper-and-web/415645/",
@@ -11,62 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-08-26T15:25:54Z",
    "why": "A new solicitation for a SDVOSB contract also leans on the Revolutionary FAR Overhaul deviation instead of the standard FAR."
-  },
-  {
-   "title": "Spain signs off on $6.3 billion budget for joint MRTT buy with Poland",
-   "url": "https://breakingdefense.com/2026/08/spain-signs-off-on-6-3-billion-budget-for-joint-mrtt-buy-with-poland/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-08-26T14:13:35Z",
-   "why": "Poland’s minister of national defense said today that “at least” seven aircraft will be purchased, with his country receiving four by 2030."
-  },
-  {
-   "title": "Aiming to turn ‘every device into a source,’ Cellebrite launches made-for-the-military data extraction kit",
-   "url": "https://defensescoop.com/2026/08/26/cellebrite-launches-made-for-the-military-data-extraction-kit/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-26T12:30:00Z",
-   "why": "The Israeli firm’s new C-TEK product triages data from mobile phones, SIM cards, computers, drones and other portable media."
-  },
-  {
-   "title": "Raytheon, Boeing Secure $766M Air Force Contracts for B-52 Modernization",
-   "url": "https://www.govconwire.com/articles/raytheon-boeing-usaf-b-52-modernization",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-26T09:10:08Z",
-   "why": "Raytheon will handle AN/APQ-188 radar work, while Boeing will deliver bomb rack modernization system kits for the B-52."
-  },
-  {
-   "title": "Parsons Subsidiary SealingTech Lands $750M USCYBERCOM JCHK Production OTA",
-   "url": "https://www.govconwire.com/articles/parsons-sealingtech-750m-uscybercom-jchk-ota-award",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-26T09:08:58Z",
-   "why": "Parsons subsidiary SealingTech has booked a potential five-year, $750 million USCYBERCOM OTA for Joint Cyber Hunt Kit production."
-  },
-  {
-   "title": "DHS Unveils Plans for Follow-On OneStream Systems Integrator BPA",
-   "url": "https://www.govconwire.com/articles/dhs-follow-on-onestream-systems-integrator-bpa",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-26T08:39:24Z",
-   "why": "DHS plans to compete a follow-on $100 million OneStream systems integrator BPA, with award anticipated in the second quarter of FY27."
-  },
-  {
-   "title": "Army moves cloud management under its Cyber Command",
-   "url": "https://federalnewsnetwork.com/army/2026/08/army-moves-cloud-management-under-its-cyber-command/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-25T22:07:32Z",
-   "why": "Moving ECMA away from the Army's chief information officer aims to more closely integrate cloud management and cyber defenses."
-  },
-  {
-   "title": "Air Force awards $100M production deal for AI-enabled readiness platform",
-   "url": "https://defensescoop.com/2026/08/25/air-force-awards-100m-deal-ai-enabled-readiness-platform/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-25T20:13:32Z",
-   "why": "The Air Force is moving its fragmented scheduling, training and readiness systems into a single enterprise platform known as the Aerospace Readiness Enterprise..."
   }
  ]
 }
