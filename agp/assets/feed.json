@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-27T00:40:27.293958Z",
+ "updatedAt": "2026-08-27T20:59:57.910790Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Army awards $2.2B in contracts for nuclear microreactors",
-   "url": "https://federalnewsnetwork.com/army/2026/08/army-awards-2-2b-in-contracts-for-nuclear-microreactors/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-27T00:00:53Z",
-   "why": "The companies are now on the clock to get at least one reactor up and running by the end of September 2028 — a deadline set by President Trump."
-  },
-  {
-   "title": "Three initiatives causing industry new concerns about DoD acquisition reforms",
-   "url": "https://federalnewsnetwork.com/defense-industry/2026/08/three-initiatives-causing-industry-new-concerns-about-dod-acquisition-reforms/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-26T21:37:06Z",
-   "why": "The Pentagon wants more cost and pricing data transparency and to establish contract profit margins from vendors who provide commercial products and services."
-  },
-  {
-   "title": "CMMC phase II is paused, but the adversary threats are not",
-   "url": "https://www.washingtontechnology.com/opinion/2026/08/cmmc-phase-ii-paused-adversary-threats-are-not/415658/",
-   "source": "Washington Technology",
-   "category": "Compliance and Security",
-   "published": "2026-08-26T21:17:39Z",
-   "why": "Contractors still holding sensitive defense data need visibility, segmentation, and containment — CMMC or not."
-  },
-  {
-   "title": "FedRAMP Director Pete Waterman reinstated at GSA after weeks of leave",
-   "url": "https://fedscoop.com/fedramp-director-pete-waterman-reinstated-at-gsa/",
+   "title": "DHS picks new CIO with deep DOGE roots",
+   "url": "https://fedscoop.com/dhs-new-cio-kyle-schutt-doge/",
    "source": "FedScoop",
-   "category": "Compliance and Security",
-   "published": "2026-08-26T20:35:21Z",
-   "why": "After his comments on veterans’ hiring preference, the General Services Administration put him on leave around the beginning of August."
+   "category": "Technology Modernization",
+   "published": "2026-08-27T20:15:48Z",
+   "why": "Kyle Schutt, taking over for Antoine McCord, has a similarly scant digital footprint."
   },
   {
-   "title": "Army to host nuclear microreactors at Forts Bragg, Campbell, Hood, Benning and Drum",
-   "url": "https://defensescoop.com/2026/08/26/army-annouces-initiial-bases-to-host-nuclear-microreactors/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-08-26T20:00:00Z",
-   "why": "The service tapped five vendors for the effort: Antares Nuclear, BWXT Advanced Technologies, General Atomics Electromagnetic Systems, Radiant Industries and..."
-  },
-  {
-   "title": "Contractor may have used AI to falsify payment dispute financial documents, appeals board finds",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/contractor-may-have-used-ai-falsify-payment-dispute-financial-documents-appeals-board-finds/415647/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-26T17:17:00Z",
-   "why": "A legal expert told Nextgov/FCW the possibility underscores how the federal government is “fully unprepared for how bad” AI-driven procurement fraud is going..."
-  },
-  {
-   "title": "Air Force awards $766 million for B-52 radar modernization",
-   "url": "https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-26T17:06:02Z",
-   "why": "One contract worth up to $603 million was issued to RTX subsidiary Raytheon, while a second valued at roughly $163 million was issued to B-52 prime contractor..."
-  },
-  {
-   "title": "Marines want to move Camp Lejeune armory off paper and into the web",
-   "url": "https://www.washingtontechnology.com/contracts/2026/08/marines-want-move-camp-lejeune-armory-paper-and-web/415645/",
+   "title": "How Salesforce built itself into a prime contractor",
+   "url": "https://www.washingtontechnology.com/companies/2026/08/how-salesforce-built-itself-prime-contractor/415679/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
-   "published": "2026-08-26T15:25:54Z",
-   "why": "A new solicitation for a SDVOSB contract also leans on the Revolutionary FAR Overhaul deviation instead of the standard FAR."
+   "published": "2026-08-27T20:08:58Z",
+   "why": "National security leader says that close ties to defense and intel customers require a direct role instead of working only through partners."
+  },
+  {
+   "title": "TMF will have $200M to spend next year without appropriations, official says",
+   "url": "https://www.nextgov.com/modernization/2026/08/tmf-will-have-200m-spend-next-year-without-appropriations-official-says/415676/",
+   "source": "Nextgov",
+   "category": "Budget and Appropriations",
+   "published": "2026-08-27T19:52:00Z",
+   "why": "The federal government plans to announce new projects receiving modernization dollars at the end of next month, ahead of a possible expiration for the fund."
+  },
+  {
+   "title": "Unit 42 warns AI has shifted balance of power from defenders to attackers",
+   "url": "https://cyberscoop.com/unit-42-palo-alto-networks-warning-agentic-ai-frontier-models/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-27T18:31:23Z",
+   "why": "Palo Alto Networks’ threat intelligence team said the early waves of threats riding on agentic AI models have broken in the wild, and organizations are..."
+  },
+  {
+   "title": "100-plus companies call for ‘global surge’ in AI-powered cyber defense",
+   "url": "https://cyberscoop.com/ai-cyber-defense-global-surge/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-27T18:29:55Z",
+   "why": "OpenAI, Anthropic, Google, Microsoft, and others say there’s a narrow “defenders’ window” to strengthen security before AI-powered attacks become more..."
+  },
+  {
+   "title": "Pentagon awards $318M contract for Dataminr alerting services technology",
+   "url": "https://defensescoop.com/2026/08/27/pentagon-awards-dataminr-318m-contract/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-27T15:48:53Z",
+   "why": "The deal provides situational awareness, force protection, and indications and warnings on global events, per the DOD announcement."
+  },
+  {
+   "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
+   "url": "https://breakingdefense.com/2026/08/the-fight-over-the-fy27-defense-budget-is-on-heres-13-key-issues-for-congress-to-resolve/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-08-27T15:05:00Z",
+   "why": "From the Iran supplemental to the debate over a third reconciliation bill, Congress will have its hands full with a long list of defense funding needs when it..."
+  },
+  {
+   "title": "Turn Asset Visibility Into Mission Readiness",
+   "url": "https://www.meritalk.com/turn-asset-visibility-into-mission-readiness/",
+   "source": "MeriTalk",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-27T13:00:59Z",
+   "why": "Federal missions depend on far more than laptops, servers, and software."
   }
  ]
 }
