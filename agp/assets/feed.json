@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-08-28T05:18:49.988869Z",
+ "updatedAt": "2026-08-28T21:20:58.356055Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "ICE awards $16.7M contract to buy 6,000 pairs of gloves that deliver electric shocks",
-   "url": "https://federalnewsnetwork.com/contractsawards/2026/08/group-of-democratic-senators-calls-on-ice-to-cancel-plan-to-buy-electric-shock-gloves/",
+   "title": "Quantum security ‘drumbeat’ to grow louder in federal procurement",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/quantum-security-drumbeat-to-grow-louder-in-federal-procurement/",
    "source": "Federal News Network",
    "category": "Acquisition and Contracting",
-   "published": "2026-08-28T01:15:41Z",
-   "why": "FILE - Sen."
+   "published": "2026-08-28T21:08:47Z",
+   "why": "CISA’s top quantum security expert says agencies will need to work closely with industry on the cryptographic transition."
   },
   {
-   "title": "Army overhauls software acquisition to speed delivery",
-   "url": "https://federalnewsnetwork.com/army/2026/08/army-overhauls-software-acquisition-to-speed-delivery/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-27T21:51:54Z",
-   "why": "Army Secretary Dan Driscoll's policy update all but abandons the longstanding practice of purchasing software that is custom-built for military needs."
+   "title": "Trump administration attempts to punish, ban Anthropic were unlawful, judge rules",
+   "url": "https://fedscoop.com/anthropic-government-ban-court-ruling/",
+   "source": "FedScoop",
+   "category": "Defense and National Security",
+   "published": "2026-08-28T21:06:26Z",
+   "why": "A federal district judge found the government's actions, including the Pentagon’s designation that Anthropic posed a supply chain risk, were “illegal and..."
   },
   {
-   "title": "How Salesforce built itself into a prime contractor",
-   "url": "https://www.washingtontechnology.com/companies/2026/08/how-salesforce-built-itself-prime-contractor/415679/",
+   "title": "Evaluating contract bids with AI? Prepare to be challenged.",
+   "url": "https://www.washingtontechnology.com/opinion/2026/08/evaluating-contract-bids-ai-prepare-be-challenged/415713/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
-   "published": "2026-08-27T20:08:58Z",
-   "why": "National security leader says that close ties to defense and intel customers require a direct role instead of working only through partners."
+   "published": "2026-08-28T20:43:23Z",
+   "why": "A $450M bid protest over an alleged AI hallucination is a preview of what's coming for every agency using AI in source selection, writes David Smalley with..."
   },
   {
-   "title": "TMF will have $200M to spend next year without appropriations, official says",
-   "url": "https://www.nextgov.com/modernization/2026/08/tmf-will-have-200m-spend-next-year-without-appropriations-official-says/415676/",
+   "title": "Air Force eyes overhaul of PLM program as Siemens contract nears 2029 end",
+   "url": "https://www.washingtontechnology.com/contracts/2026/08/air-force-eyes-overhaul-plm-program-siemens-contract-nears-2029-end/415708/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-28T19:54:52Z",
+   "why": "An RFI seeking a modernized approach to how it updates and deploys the software it uses to manage data across its weapons systems."
+  },
+  {
+   "title": "The Revolutionary MAS Overhaul",
+   "url": "https://federalnewsnetwork.com/commentary/2026/08/the-revolutionary-mas-overhaul/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-28T17:33:58Z",
+   "why": "GSA has an opportunity to build on the Revolutionary FAR Overhaul with reforms to the Multiple Award Schedule."
+  },
+  {
+   "title": "Acting Navy Sec. Cao Rallies Industry for His War Against Acquisition Lethargy",
+   "url": "https://www.govconwire.com/articles/hung-cao-2026-navy-summit-keynote-china-shipyards-acquistion-carriers",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-28T15:40:02Z",
+   "why": "The Navy needs help from industry to try new things, slash bureaucracy and build weapon systems faster, said acting Sec."
+  },
+  {
+   "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
+   "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan/",
+   "source": "Breaking Defense",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-28T15:07:32Z",
+   "why": "“When people say, ‘Hey, we’re at an inflection point,’ we are absolutely at an inflection point,” 16th Air Force commander Lt."
+  },
+  {
+   "title": "Judge rules Anthropic supply chain risk designation was ‘illegal and baseless’",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/judge-rules-anthropic-supply-chain-risk-designation-was-illegal-and-baseless/415698/",
    "source": "Nextgov",
-   "category": "Budget and Appropriations",
-   "published": "2026-08-27T19:52:00Z",
-   "why": "The federal government plans to announce new projects receiving modernization dollars at the end of next month, ahead of a possible expiration for the fund."
-  },
-  {
-   "title": "Unit 42 warns AI has shifted balance of power from defenders to attackers",
-   "url": "https://cyberscoop.com/unit-42-palo-alto-networks-warning-agentic-ai-frontier-models/",
-   "source": "CyberScoop",
    "category": "AI and Cybersecurity",
-   "published": "2026-08-27T18:31:23Z",
-   "why": "Palo Alto Networks’ threat intelligence team said the early waves of threats riding on agentic AI models have broken in the wild, and organizations are..."
-  },
-  {
-   "title": "100-plus companies call for ‘global surge’ in AI-powered cyber defense",
-   "url": "https://cyberscoop.com/ai-cyber-defense-global-surge/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-27T18:29:55Z",
-   "why": "OpenAI, Anthropic, Google, Microsoft, and others say there’s a narrow “defenders’ window” to strengthen security before AI-powered attacks become more..."
-  },
-  {
-   "title": "Pentagon awards $318M contract for Dataminr alerting services technology",
-   "url": "https://defensescoop.com/2026/08/27/pentagon-awards-dataminr-318m-contract/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-27T15:48:53Z",
-   "why": "The deal provides situational awareness, force protection, and indications and warnings on global events, per the DOD announcement."
-  },
-  {
-   "title": "Turn Asset Visibility Into Mission Readiness",
-   "url": "https://www.meritalk.com/turn-asset-visibility-into-mission-readiness/",
-   "source": "MeriTalk",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-27T13:00:59Z",
-   "why": "Federal missions depend on far more than laptops, servers, and software."
+   "published": "2026-08-28T15:00:00Z",
+   "why": "A Northern California judge found that the AI company’s products did not represent a meaningful threat to national security, making the Pentagon’s designation..."
   }
  ]
 }
