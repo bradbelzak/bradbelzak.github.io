@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-08-27T20:59:57.910790Z",
+ "updatedAt": "2026-08-28T00:50:36.826255Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "DHS picks new CIO with deep DOGE roots",
-   "url": "https://fedscoop.com/dhs-new-cio-kyle-schutt-doge/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-08-27T20:15:48Z",
-   "why": "Kyle Schutt, taking over for Antoine McCord, has a similarly scant digital footprint."
+   "title": "Army overhauls software acquisition to speed delivery",
+   "url": "https://federalnewsnetwork.com/army/2026/08/army-overhauls-software-acquisition-to-speed-delivery/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-27T21:51:54Z",
+   "why": "Army Secretary Dan Driscoll's policy update all but abandons the longstanding practice of purchasing software that is custom-built for military needs."
   },
   {
    "title": "How Salesforce built itself into a prime contractor",
