@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-08-28T00:50:36.826255Z",
+ "updatedAt": "2026-08-28T05:18:49.988869Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "ICE awards $16.7M contract to buy 6,000 pairs of gloves that deliver electric shocks",
+   "url": "https://federalnewsnetwork.com/contractsawards/2026/08/group-of-democratic-senators-calls-on-ice-to-cancel-plan-to-buy-electric-shock-gloves/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-28T01:15:41Z",
+   "why": "FILE - Sen."
+  },
   {
    "title": "Army overhauls software acquisition to speed delivery",
    "url": "https://federalnewsnetwork.com/army/2026/08/army-overhauls-software-acquisition-to-speed-delivery/",
@@ -51,14 +59,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-08-27T15:48:53Z",
    "why": "The deal provides situational awareness, force protection, and indications and warnings on global events, per the DOD announcement."
-  },
-  {
-   "title": "The fight over the FY27 defense budget is on. Here’s 13 key issues for Congress to resolve.",
-   "url": "https://breakingdefense.com/2026/08/the-fight-over-the-fy27-defense-budget-is-on-heres-13-key-issues-for-congress-to-resolve/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-08-27T15:05:00Z",
-   "why": "From the Iran supplemental to the debate over a third reconciliation bill, Congress will have its hands full with a long list of defense funding needs when it..."
   },
   {
    "title": "Turn Asset Visibility Into Mission Readiness",
