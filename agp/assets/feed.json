@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-28T21:20:58.356055Z",
+ "updatedAt": "2026-08-29T17:05:29.453686Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
@@ -29,6 +29,22 @@
    "why": "A $450M bid protest over an alleged AI hallucination is a preview of what's coming for every agency using AI in source selection, writes David Smalley with..."
   },
   {
+   "title": "ATF confirms cyberattack hit system containing info on its investigation targets",
+   "url": "https://cyberscoop.com/atf-doj-cyberattack-qilin-ransomware/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-28T20:29:38Z",
+   "why": "The prolific ransomware group Qilin claimed responsibility for the attack."
+  },
+  {
+   "title": "National Archives says agencies’ AI use does not automatically create federal records",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/national-archives-says-agencies-ai-use-does-not-automatically-create-federal-records/415711/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-28T20:18:00Z",
+   "why": "New guidance from the National Archives and Records Administration outlines when agencies should preserve AI-related materials as federal records and notes..."
+  },
+  {
    "title": "Air Force eyes overhaul of PLM program as Siemens contract nears 2029 end",
    "url": "https://www.washingtontechnology.com/contracts/2026/08/air-force-eyes-overhaul-plm-program-siemens-contract-nears-2029-end/415708/",
    "source": "Washington Technology",
@@ -37,36 +53,20 @@
    "why": "An RFI seeking a modernized approach to how it updates and deploys the software it uses to manage data across its weapons systems."
   },
   {
+   "title": "OIG dings GAO over documentation of evolving IT modernization strategy",
+   "url": "https://fedscoop.com/gao-it-modernization-plan-oig-report/",
+   "source": "FedScoop",
+   "category": "Policy and Regulation",
+   "published": "2026-08-28T19:17:12Z",
+   "why": "The congressional watchdog’s shift from a five-year modernization plan to ongoing IT work wasn’t documented clearly, OIG found."
+  },
+  {
    "title": "The Revolutionary MAS Overhaul",
    "url": "https://federalnewsnetwork.com/commentary/2026/08/the-revolutionary-mas-overhaul/",
    "source": "Federal News Network",
    "category": "Acquisition and Contracting",
    "published": "2026-08-28T17:33:58Z",
    "why": "GSA has an opportunity to build on the Revolutionary FAR Overhaul with reforms to the Multiple Award Schedule."
-  },
-  {
-   "title": "Acting Navy Sec. Cao Rallies Industry for His War Against Acquisition Lethargy",
-   "url": "https://www.govconwire.com/articles/hung-cao-2026-navy-summit-keynote-china-shipyards-acquistion-carriers",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-28T15:40:02Z",
-   "why": "The Navy needs help from industry to try new things, slash bureaucracy and build weapon systems faster, said acting Sec."
-  },
-  {
-   "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
-   "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan/",
-   "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-28T15:07:32Z",
-   "why": "“When people say, ‘Hey, we’re at an inflection point,’ we are absolutely at an inflection point,” 16th Air Force commander Lt."
-  },
-  {
-   "title": "Judge rules Anthropic supply chain risk designation was ‘illegal and baseless’",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/08/judge-rules-anthropic-supply-chain-risk-designation-was-illegal-and-baseless/415698/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-28T15:00:00Z",
-   "why": "A Northern California judge found that the AI company’s products did not represent a meaningful threat to national security, making the Pentagon’s designation..."
   }
  ]
 }
