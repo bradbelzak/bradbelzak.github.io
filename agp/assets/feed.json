@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-08-31T17:59:10.500975Z",
+ "updatedAt": "2026-08-31T21:26:34.866048Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army tests AI to speed up solicitation writing",
+   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/08/army-tests-ai-to-speed-up-solicitation-writing/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-31T21:11:50Z",
+   "why": "The tool could help the Army issue solicitations for massive services contracts in days rather than months."
+  },
+  {
+   "title": "A new review of AI use finds the postal industry is still sorting out what works at scale",
+   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/08/a-new-review-of-ai-use-finds-the-postal-industry-is-still-sorting-out-what-works-at-scale/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-31T21:04:37Z",
+   "why": "\"Most of the AI today in the postal and logistics sectors is used for discrete tasks."
+  },
+  {
+   "title": "Federal disability employment program faced widespread compliance problems, whistleblower investigation finds",
+   "url": "https://www.govexec.com/oversight/2026/08/federal-disability-employment-program-faced-widespread-compliance-problems-whistleblower-investigation-finds/415731/",
+   "source": "Government Executive",
+   "category": "Compliance and Security",
+   "published": "2026-08-31T19:40:18Z",
+   "why": "The AbilityOne Commission countered that “many of the compliance concerns cited by [the Office of Special Counsel] occurred during periods of operational..."
+  },
+  {
+   "title": "MIxed signals on acquisition are creating a confused market",
+   "url": "https://www.washingtontechnology.com/opinion/2026/08/mixed-signals-acquisition-are-creating-confused-market/415728/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-31T19:00:00Z",
+   "why": "The market will adapt to change but there is too much uncertainty and confusion about the direction and pace of that change, writes Stan Soloway, former..."
+  },
+  {
+   "title": "GSA orders Trade Agreement Act changes for AbilityOne and National Prison Industries",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/08/gsa-orders-trade-agreement-act-changes-for-abilityone-and-national-prison-industries/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-31T18:16:37Z",
+   "why": "The deviation comes on the heels of a letter from GSA to AbilityOne seeking more information about the products they are selling through the schedule contracts."
+  },
   {
    "title": "Japan seeks new extended-range missiles in record $55B defense budget request",
    "url": "https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request/",
@@ -27,46 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-08-31T16:25:22Z",
    "why": "[Sponsored] Traditional thinking about how to protect facilities must adapt to new threats such as drones or downstream attacks."
-  },
-  {
-   "title": "House lawmakers return to Washington with a stopgap funding bill atop the list of priorities",
-   "url": "https://federalnewsnetwork.com/congress/2026/08/house-lawmakers-return-to-washington-with-a-stopgap-funding-bill-atop-the-list-of-priorities/",
-   "source": "Federal News Network",
-   "category": "Budget and Appropriations",
-   "published": "2026-08-31T11:34:08Z",
-   "why": "The continuing resolution would keep the federal government fully funded through early December."
-  },
-  {
-   "title": "The AI Kill Switch Act is repeating the Clipper Chip’s mistakes",
-   "url": "https://cyberscoop.com/ai-kill-switch-act-clipper-chip-mistakes-op-ed/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-31T10:00:00Z",
-   "why": "Mandating ‘kill switches’ for AI agents would threaten the security of America’s critical infrastructure and undercut U.S."
-  },
-  {
-   "title": "Extant Aerospace Wins $147M Air Force Contract for Countermeasure Dispenser Production",
-   "url": "https://www.govconwire.com/articles/extant-aerospace-147m-usaf-contract-countermeasure-dispenser-production",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-31T09:38:57Z",
-   "why": "Extant Aerospace has secured a potential $147.3 million Air Force IDIQ contract to produce ALE-47 countermeasure dispenser units."
-  },
-  {
-   "title": "NASA Seeks Comments on Draft Space Power & Reactor Capabilities RFP",
-   "url": "https://www.govconwire.com/articles/nasa-sparc-draft-rfp-space-nuclear-systems",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-31T08:46:49Z",
-   "why": "NASA has issued a draft RFP for the SPARC IDIQ contract to develop, test and sustain space nuclear systems for lunar missions."
-  },
-  {
-   "title": "The Mecca pact explained, tankers for Qatar, and CENTCOM’s new drone force",
-   "url": "https://breakingdefense.com/2026/08/the-mecca-pact-explained-tankers-for-qatar-and-centcoms-new-drone-force/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-31T04:30:00Z",
-   "why": "Middle East Bureau Chief Agnes Helou recaps leading developments from the region before speaking with Dubai-based analyst Riad Kahwaji."
   }
  ]
 }
