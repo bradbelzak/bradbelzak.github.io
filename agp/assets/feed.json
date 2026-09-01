@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-08-31T21:26:34.866048Z",
+ "updatedAt": "2026-09-01T00:33:29.142418Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "SBA’s size standard rewrite draws angry, frustrated comments",
+   "url": "https://www.washingtontechnology.com/contracts/2026/08/sbas-size-standard-rewrite-draws-angry-frustrated-comments/415742/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-08-31T22:09:57Z",
+   "why": "Critics say the rule would turn the small business program into a marketplace dominated by the biggest players."
+  },
+  {
+   "title": "McKesson copes with fallout from data theft extortion attack",
+   "url": "https://cyberscoop.com/mckesson-data-theft-extortion-attack-shinyhunters/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-08-31T21:39:01Z",
+   "why": "The major healthcare sector vendor did not identify the attackers, but ShinyHunters, a prolific group increasingly targeting the sector, claimed responsibility."
+  },
   {
    "title": "Army tests AI to speed up solicitation writing",
    "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/08/army-tests-ai-to-speed-up-solicitation-writing/",
@@ -11,14 +27,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-08-31T21:11:50Z",
    "why": "The tool could help the Army issue solicitations for massive services contracts in days rather than months."
-  },
-  {
-   "title": "A new review of AI use finds the postal industry is still sorting out what works at scale",
-   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/08/a-new-review-of-ai-use-finds-the-postal-industry-is-still-sorting-out-what-works-at-scale/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-31T21:04:37Z",
-   "why": "\"Most of the AI today in the postal and logistics sectors is used for discrete tasks."
   },
   {
    "title": "Federal disability employment program faced widespread compliance problems, whistleblower investigation finds",
@@ -29,7 +37,7 @@
    "why": "The AbilityOne Commission countered that “many of the compliance concerns cited by [the Office of Special Counsel] occurred during periods of operational..."
   },
   {
-   "title": "MIxed signals on acquisition are creating a confused market",
+   "title": "Mixed signals on acquisition are creating a confused market",
    "url": "https://www.washingtontechnology.com/opinion/2026/08/mixed-signals-acquisition-are-creating-confused-market/415728/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-08-31T17:28:01Z",
    "why": "Research Innovations will provide and maintain the ruggedized sensors under a nearly $100 million, five-year contract."
-  },
-  {
-   "title": "In the age of drones, a bigger fence around your facility doesn’t protect you anymore",
-   "url": "https://breakingdefense.com/2026/08/in-the-age-of-drones-a-bigger-fence-around-your-facility-doesnt-protect-you-anymore/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-08-31T16:25:22Z",
-   "why": "[Sponsored] Traditional thinking about how to protect facilities must adapt to new threats such as drones or downstream attacks."
   }
  ]
 }
