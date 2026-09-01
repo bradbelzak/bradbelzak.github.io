@@ -1,32 +1,48 @@
 {
- "updatedAt": "2026-09-01T19:21:40.476615Z",
+ "updatedAt": "2026-09-01T23:15:12.542837Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Shutdown threat lifted as House passes stopgap spending bill",
-   "url": "https://www.nextgov.com/policy/2026/09/shutdown-threat-lifted-house-passes-stopgap-spending-bill/415755/",
-   "source": "Nextgov",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-01T18:39:00Z",
-   "why": "The measure gives Congress more time to reach a deal on a comprehensive spending package for fiscal 2027."
-  },
-  {
-   "title": "House passes funding stopgap, averting government shutdown in October",
-   "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-01T18:10:06Z",
-   "why": "The bill, which now heads to the president’s desk, gives Congress until Dec."
-  },
-  {
-   "title": "House passes short-term funding bill to avoid a shutdown before the election",
-   "url": "https://federalnewsnetwork.com/congress/2026/09/house-passes-short-term-funding-bill-to-avoid-a-shutdown-before-the-election/",
+   "title": "CR extends cyber info sharing law through December",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/cr-extends-cyber-info-sharing-law-through-december/",
    "source": "Federal News Network",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-01T18:09:33Z",
-   "why": "The House has passed a short-term measure to fund the federal government into early December."
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-01T22:16:36Z",
+   "why": "Industry groups were concerned the law would lapse again amid hacks into water systems and recent advancements in AI."
+  },
+  {
+   "title": "CUI sprawl — The hidden driver of CMMC risk",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/cui-sprawl-the-hidden-driver-of-cmmc-risk/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-01T20:51:13Z",
+   "why": "An analysis of how controlled unclassified information spreads beyond formal systems and contracts."
+  },
+  {
+   "title": "DISA sends mixed signals on combatant command network migration",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/disa-sends-mixed-signals-combatant-command-network-migration/415759/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-01T20:40:31Z",
+   "why": "After a protest, two RFIs, and a one-day comment window, the path forward is still unclear."
+  },
+  {
+   "title": "Navy kicks off search for first increment of CCA drones",
+   "url": "https://defensescoop.com/2026/09/01/navy-kicks-off-search-for-first-increment-of-cca-drones/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-01T19:31:17Z",
+   "why": "The Navy’s request for information outlines a carrier-capable CCA drone that can be demonstrated and certified within three years of an award."
+  },
+  {
+   "title": "Army seeks tracked howitzer candidates following award for wheeled platforms",
+   "url": "https://breakingdefense.com/2026/09/army-seeks-tracked-howitzer-candidates-following-award-for-wheeled-platforms/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-01T19:25:00Z",
+   "why": "The new solicitation comes weeks after the Army awarded Hanwha Defense USA a deal up to $233 million to deliver wheeled K9 mobile howitzer prototypes."
   },
   {
    "title": "The defense intelligence community’s AI and cyber view forward",
@@ -51,22 +67,6 @@
    "category": "Budget and Appropriations",
    "published": "2026-09-01T12:00:00Z",
    "why": "The Office of Management and Budget (OMB), Cost Accounting Standards Board (Board), is publishing a final rule to increase the Cost Accounting Standards (CAS)..."
-  },
-  {
-   "title": "The Collective Cyber Defense letter wrote your next vendor questionnaire",
-   "url": "https://cyberscoop.com/collective-cyber-defense-letter-vendor-questionnaire-op-ed/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-01T10:00:00Z",
-   "why": "More than 200 companies have now signed to an August 27 letter about improving cyber defenses in the age of AI."
-  },
-  {
-   "title": "FAA Seeks Small Business Support for Contract Management System",
-   "url": "https://www.govconwire.com/articles/faa-nest-solicitation-nisc-info-management-system",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-01T09:14:39Z",
-   "why": "The FAA has posted a solicitation for supporting the system that manages the NAS Integration Support Contract IV."
   }
  ]
 }
