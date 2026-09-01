@@ -1,16 +1,48 @@
 {
- "updatedAt": "2026-09-01T15:27:20.899881Z",
+ "updatedAt": "2026-09-01T19:21:40.476615Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Federal AI: How Governed Mission Data Enables Secure, Scalable AI",
-   "url": "https://www.meritalk.com/federal-ai-how-governed-mission-data-enables-secure-scalable-ai/",
-   "source": "MeriTalk",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-01T13:00:06Z",
-   "why": "By: Daniel Carroll, Field CTO, Dell Federal AI depends on data that is visible, governed, and usable."
+   "title": "Shutdown threat lifted as House passes stopgap spending bill",
+   "url": "https://www.nextgov.com/policy/2026/09/shutdown-threat-lifted-house-passes-stopgap-spending-bill/415755/",
+   "source": "Nextgov",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-01T18:39:00Z",
+   "why": "The measure gives Congress more time to reach a deal on a comprehensive spending package for fiscal 2027."
+  },
+  {
+   "title": "House passes funding stopgap, averting government shutdown in October",
+   "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-01T18:10:06Z",
+   "why": "The bill, which now heads to the president’s desk, gives Congress until Dec."
+  },
+  {
+   "title": "House passes short-term funding bill to avoid a shutdown before the election",
+   "url": "https://federalnewsnetwork.com/congress/2026/09/house-passes-short-term-funding-bill-to-avoid-a-shutdown-before-the-election/",
+   "source": "Federal News Network",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-01T18:09:33Z",
+   "why": "The House has passed a short-term measure to fund the federal government into early December."
+  },
+  {
+   "title": "The defense intelligence community’s AI and cyber view forward",
+   "url": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward/",
+   "source": "Breaking Defense",
+   "category": "Compliance and Security",
+   "published": "2026-09-01T17:49:50Z",
+   "why": "From AI adoption and agentic systems to Zero Trust and cyber resilience, Breaking Defense’s latest eBook brings together key reporting from DoDIIS 2026 on the..."
+  },
+  {
+   "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
+   "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-01T15:49:12Z",
+   "why": "The company also recently nabbed a $318 million “situational awareness” contract with the Pentagon."
   },
   {
    "title": "Increase of Monetary Thresholds and Other Matters Related to Cost Accounting Standards Program Requirements",
@@ -29,44 +61,12 @@
    "why": "More than 200 companies have now signed to an August 27 letter about improving cyber defenses in the age of AI."
   },
   {
-   "title": "Dan Driscoll Resigns as Army Secretary",
-   "url": "https://www.govconwire.com/articles/army-secretary-dan-driscoll-resignation",
-   "source": "GovConWire",
-   "category": "Defense and National Security",
-   "published": "2026-09-01T09:16:27Z",
-   "why": "Dan Driscoll has submitted his resignation as secretary of the Army after nearly two years leading the service."
-  },
-  {
    "title": "FAA Seeks Small Business Support for Contract Management System",
    "url": "https://www.govconwire.com/articles/faa-nest-solicitation-nisc-info-management-system",
    "source": "GovConWire",
    "category": "Acquisition and Contracting",
    "published": "2026-09-01T09:14:39Z",
    "why": "The FAA has posted a solicitation for supporting the system that manages the NAS Integration Support Contract IV."
-  },
-  {
-   "title": "SBA’s size standard rewrite draws angry, frustrated comments",
-   "url": "https://www.washingtontechnology.com/contracts/2026/08/sbas-size-standard-rewrite-draws-angry-frustrated-comments/415742/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-31T22:09:57Z",
-   "why": "Critics say the rule would turn the small business program into a marketplace dominated by the biggest players."
-  },
-  {
-   "title": "McKesson copes with fallout from data theft extortion attack",
-   "url": "https://cyberscoop.com/mckesson-data-theft-extortion-attack-shinyhunters/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-08-31T21:39:01Z",
-   "why": "The major healthcare sector vendor did not identify the attackers, but ShinyHunters, a prolific group increasingly targeting the sector, claimed responsibility."
-  },
-  {
-   "title": "Army tests AI to speed up solicitation writing",
-   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/08/army-tests-ai-to-speed-up-solicitation-writing/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-08-31T21:11:50Z",
-   "why": "The tool could help the Army issue solicitations for massive services contracts in days rather than months."
   }
  ]
 }
