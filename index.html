@@ -220,7 +220,14 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .team-lead{color:var(--dim);font-size:17px;line-height:1.6;max-width:820px;margin-bottom:26px}
 .tgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px 40px}
 .trole{border-left:3px solid #8FB4FF;padding:2px 0 2px 16px}
-.trole b{display:block;font-size:16.5px;color:var(--fg);margin-bottom:3px}
+.trole b{display:block;font-size:16.5px;margin-bottom:3px;color:#fff;background:linear-gradient(90deg,#fff 0%,#fff 34%,#BFD6FF 44%,#7FA8FF 50%,#BFD6FF 56%,#fff 66%,#fff 100%);background-size:260% 100%;background-position:100% 0;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+/* Our Team: a slow band of light sweeps each role name left to right on
+   hover or tap. The border brightens with it. */
+.trole:hover b,.trole.sweep b{animation:role-sweep 1.6s ease-in-out}
+.trole{transition:border-color .4s}
+.trole:hover,.trole.sweep{border-color:#fff}
+@keyframes role-sweep{from{background-position:100% 0}to{background-position:0 0}}
+@media(prefers-reduced-motion:reduce){.trole:hover b,.trole.sweep b{animation:none}}
 .trole p{color:var(--dim);font-size:14px;margin:0}
 @media(max-width:900px){.tgrid{grid-template-columns:1fr}}
 /* Our Team: the specialist list reads down the left, the materials sit beside
@@ -504,6 +511,14 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
   window.addEventListener('scroll',update,{passive:true});
   window.addEventListener('resize',update);
   update();
+})();
+
+/* Our Team: tap (touch) triggers the same sweep as hover */
+(function(){
+  document.querySelectorAll('.trole').forEach(function(r){
+    r.addEventListener('click',function(){r.classList.remove('sweep');void r.offsetWidth;r.classList.add('sweep');});
+    r.addEventListener('animationend',function(){r.classList.remove('sweep');});
+  });
 })();
 
 /* mobile hamburger */
