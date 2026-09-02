@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-02T19:21:26.892473Z",
+ "updatedAt": "2026-09-02T23:16:00.096663Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "House committee votes to subpoena Oracle after fiery hearing on VA’s $27B EHRM contract",
+   "url": "https://fedscoop.com/oracle-subpoena-house-hearing-va-27b-ehrm-contract/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T22:23:35Z",
+   "why": "Across the aisle, lawmakers expressed outrage over the recent contract ceiling hike after Oracle’s CEO told Congress four years ago that the company would not..."
+  },
+  {
+   "title": "House panel subpoenas Oracle heads over VA health record overhaul’s ballooning costs",
+   "url": "https://www.nextgov.com/modernization/2026/09/house-panel-subpoenas-oracle-heads-over-va-health-record-overhauls-ballooning-costs/415791/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T22:09:00Z",
+   "why": "The House Veterans’ Affairs Committee voted 19-0 to subpoena Oracle Chairman and Co-founder Larry Ellison and Oracle CEO Mike Sicilia after VA announced plans..."
+  },
+  {
+   "title": "House VA lawmakers to subpoena Oracle over EHR contract",
+   "url": "https://federalnewsnetwork.com/veterans-affairs/2026/09/house-va-lawmakers-to-subpoena-oracle-over-ehr-contract/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T21:52:51Z",
+   "why": "The House Veterans Affairs Committee unanimously approved the motion to compel Oracle leaders to testify after the software giant pulled out of the hearing."
+  },
+  {
+   "title": "Forget the budget; the government’s tech gap is about capacity",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/forget-the-budget-the-governments-tech-gap-is-about-capacity/",
+   "source": "Federal News Network",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-02T21:38:38Z",
+   "why": "Erika Dinnie, the vice president of federal strategy and planning at MetTel, explains why outsourcing to U.S.-based firms is a viable option for agencies."
+  },
+  {
+   "title": "GSA terminates hundreds of security clearances after review",
+   "url": "https://federalnewsnetwork.com/workforce/2026/09/gsa-terminates-hundreds-of-security-clearances-after-review/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-02T20:53:19Z",
+   "why": "GSA terminated the security clearances of several hundred employees after an audit to ensure clearances \"are strictly aligned with operational necessity.\""
+  },
   {
    "title": "Army awards first-ever laser production contract to AV, with $465M value",
    "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value/",
@@ -27,46 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-02T18:54:59Z",
    "why": "“The Enduring High Energy Laser Program is historically significant,” said Mary Clum, president of AV’s space, cyber and directed energy program."
-  },
-  {
-   "title": "Pentagon cyber strategy expected as soon as next week, sources say",
-   "url": "https://www.nextgov.com/cybersecurity/2026/09/pentagon-cyber-strategy-expected-soon-next-week-sources-say/415778/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-02T16:56:00Z",
-   "why": "Officials have previewed a blueprint emphasizing offensive operations, AI adoption and closer industry ties as the military reorganizes its cyber forces."
-  },
-  {
-   "title": "Microsoft Fabric integration platform launches for select federal customers",
-   "url": "https://www.nextgov.com/acquisition/2026/09/microsoft-fabric-integration-platform-launches-select-federal-customers/415730/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-02T16:00:00Z",
-   "why": "The platform is now available on a preview basis for Government Community Cloud High environments and is designed to support the needs of agentic AI tools."
-  },
-  {
-   "title": "3 Companies Secure $400M Air Force IDIQ for Pacific Theater Civil Engineering Support",
-   "url": "https://www.govconwire.com/articles/usaf-civil-engineering-multi-award-idiq-pacific",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T08:52:08Z",
-   "why": "Cherokee Nation Government Solutions, SSE BB&E JV and KIRA Services will compete for task orders to be carried out in the Pacific."
-  },
-  {
-   "title": "NASA Picks Blue Origin to Build Mars Communications Orbiter",
-   "url": "https://www.govconwire.com/articles/nasa-blue-origin-700m-mars-communications-orbiter-award",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T08:51:34Z",
-   "why": "The firm-fixed-price award covers a Mars orbiter for relaying science data, imagery and navigation information."
-  },
-  {
-   "title": "CR extends cyber info sharing law through December",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/cr-extends-cyber-info-sharing-law-through-december/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-01T22:16:36Z",
-   "why": "Industry groups were concerned the law would lapse again amid hacks into water systems and recent advancements in AI."
   }
  ]
 }
