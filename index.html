@@ -114,19 +114,21 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .htitle .gpsa{font-size:clamp(16px,2vw,25px);font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:#fff;opacity:.94;margin:0 0 clamp(16px,3vh,34px);text-shadow:0 2px 22px rgba(0,0,0,.6)}
 .htitle h1{font-size:clamp(38px,6vw,82px);color:#fff;text-shadow:0 4px 30px rgba(0,0,0,.6);max-width:17ch;margin:0;line-height:1.03;letter-spacing:-.012em}
 .htitle .hsub{font-size:clamp(14px,1.35vw,17.5px);color:#E4ECFB;margin:22px 0 0;max-width:560px;line-height:1.5;text-shadow:0 2px 20px rgba(0,0,0,.6)}
-/* Scroll cues: pinned bottom-centre on every section. Two bare chevrons,
-   no ring: up goes to the previous section, down to the next. The script
-   keeps both hrefs current; up hides on the hero, down hides at Contact. */
-.scroll-cues{position:fixed;left:50%;bottom:clamp(14px,3vh,28px);z-index:115;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:2px;opacity:0;animation:cue-in .9s ease-out .9s forwards}
-.scroll-cue{display:grid;place-items:center;width:44px;height:40px;color:#fff;filter:drop-shadow(0 2px 10px rgba(0,0,0,.75));transition:opacity .3s,transform .2s,color .2s}
-.scroll-cue--down svg{animation:cue-bob 2.2s ease-in-out 1.8s infinite}
-.scroll-cue:hover{color:#BFD6FF}
+/* Scroll cues: two bare chevrons that float at the screen edges. Up sits
+   just under the news ticker and goes to the previous section (hidden on
+   the hero); down sits at the bottom and goes to the next (hidden at
+   Contact). Kept dim so they guide without pulling the eye off the copy. */
+.scroll-cue{position:fixed;left:50%;transform:translateX(-50%);z-index:115;display:grid;place-items:center;width:44px;height:40px;color:#fff;opacity:0;filter:drop-shadow(0 2px 8px rgba(0,0,0,.7));animation:cue-in .9s ease-out .9s forwards;transition:opacity .3s,color .2s}
+.scroll-cue--down{bottom:clamp(12px,2.5vh,24px)}
+.scroll-cue--up{top:calc(var(--agp-chrome,156px) + 8px)}
+.scroll-cue--down svg{animation:cue-bob 2.4s ease-in-out 1.8s infinite}
+.scroll-cue:hover{opacity:1!important;color:#fff}
 .scroll-cue--down:hover svg{animation-play-state:paused;transform:translateY(3px)}
 .scroll-cue--up:hover svg{transform:translateY(-3px)}
-.scroll-cue.gone{opacity:0;pointer-events:none;height:0;overflow:hidden}
-@keyframes cue-in{to{opacity:1}}
-@keyframes cue-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}
-@media(prefers-reduced-motion:reduce){.scroll-cues{animation:none;opacity:1}.scroll-cue--down svg{animation:none}}
+.scroll-cue.gone{opacity:0!important;pointer-events:none}
+@keyframes cue-in{to{opacity:.55}}
+@keyframes cue-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
+@media(prefers-reduced-motion:reduce){.scroll-cue{animation:none;opacity:.55}.scroll-cue--down svg{animation:none}}
 @media(max-width:700px){.hero{min-height:88vh}.htitle{padding:clamp(12px,2vh,24px) 22px}.htitle .gpsa{margin:0 0 clamp(14px,2.4vh,26px)}.htitle h1{font-size:clamp(34px,10vw,52px);max-width:none}}
 
 .svcbody{color:var(--dim);font-size:14.5px}
@@ -229,6 +231,13 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .trole{transition:border-color .4s}
 .trole:hover,.trole.sweep{border-color:#fff}
 @keyframes role-sweep{from{background-position:100% 0}to{background-position:0 0}}
+/* Section headers: each time a section comes into view its label and title
+   light up with a slow band of white travelling left to right, then settle
+   at full white. Driven by the observer below; .lit is re-added on re-entry. */
+.hd-sweep{background:linear-gradient(90deg,#fff 0%,#fff 36%,#E6EEFF 44%,#fff 50%,rgba(255,255,255,.5) 58%,rgba(255,255,255,.5) 100%);background-size:260% 100%;background-position:0 0;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;text-shadow:none;opacity:1!important;transform:none!important}
+.hd-sweep.lit{animation:hd-sweep 2.6s ease-in-out both}
+@keyframes hd-sweep{from{background-position:100% 0}to{background-position:0 0}}
+@media(prefers-reduced-motion:reduce){.hd-sweep.lit{animation:none}}
 @media(prefers-reduced-motion:reduce){.trole:hover b,.trole.sweep b{animation:none}}
 .trole p{color:var(--dim);font-size:14px;margin:0}
 @media(max-width:900px){.tgrid{grid-template-columns:1fr}}
@@ -272,10 +281,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   </div>
 </section>
 
-<div class="scroll-cues" aria-label="Section navigation">
-  <a class="scroll-cue scroll-cue--up gone" href="#top" aria-label="Scroll to the previous section"><svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="M12 19V6M6 11l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-  <a class="scroll-cue scroll-cue--down" href="#services" aria-label="Scroll to the next section"><svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="M12 5v13M6 13l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-</div>
+<a class="scroll-cue scroll-cue--up gone" href="#top" aria-label="Scroll to the previous section"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M12 19V6M6 11l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+<a class="scroll-cue scroll-cue--down" href="#services" aria-label="Scroll to the next section"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M12 5v13M6 13l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
 
 <!-- ===== Acuity public-sector news feed (data: agp/assets/feed.json) ===== -->
 <section class="nf rv" id="news-feed" aria-labelledby="nf-heading">
@@ -513,6 +520,17 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
   window.addEventListener('scroll',update,{passive:true});
   window.addEventListener('resize',update);
   update();
+})();
+
+/* section headers: slow white sweep on every entry into view */
+(function(){
+  var hs=document.querySelectorAll('.label, .svc-detail h3, #contact h2.t');
+  if(!hs.length||!('IntersectionObserver' in window))return;
+  hs.forEach(function(h){h.classList.add('hd-sweep')});
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){
+    if(e.isIntersecting){e.target.classList.remove('lit');void e.target.offsetWidth;e.target.classList.add('lit');}
+  })},{threshold:.9});
+  hs.forEach(function(h){io.observe(h)});
 })();
 
 /* Our Team: tap (touch) triggers the same sweep as hover */
