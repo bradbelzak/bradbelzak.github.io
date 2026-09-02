@@ -118,7 +118,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
    just under the news ticker and goes to the previous section (hidden on
    the hero); down sits at the bottom and goes to the next (hidden at
    Contact). Kept dim so they guide without pulling the eye off the copy. */
-.scroll-cue{position:fixed;left:50%;transform:translateX(-50%);z-index:115;display:grid;place-items:center;width:44px;height:40px;color:#fff;opacity:0;filter:drop-shadow(0 2px 8px rgba(0,0,0,.7));animation:cue-in .9s ease-out .9s forwards;transition:opacity .3s,color .2s}
+.scroll-cue{position:fixed;left:50%;transform:translateX(-50%);z-index:115;display:grid;place-items:center;width:56px;height:46px;color:#fff;opacity:0;filter:drop-shadow(0 2px 8px rgba(0,0,0,.7));animation:cue-in .9s ease-out .9s forwards;transition:opacity .3s,color .2s}
 .scroll-cue--down{bottom:clamp(12px,2.5vh,24px)}
 .scroll-cue--up{top:calc(var(--agp-chrome,156px) + 8px)}
 .scroll-cue--down svg{animation:cue-bob 2.4s ease-in-out 1.8s infinite}
@@ -126,9 +126,9 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .scroll-cue--down:hover svg{animation-play-state:paused;transform:translateY(3px)}
 .scroll-cue--up:hover svg{transform:translateY(-3px)}
 .scroll-cue.gone{opacity:0!important;pointer-events:none}
-@keyframes cue-in{to{opacity:.55}}
+@keyframes cue-in{to{opacity:.85}}
 @keyframes cue-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
-@media(prefers-reduced-motion:reduce){.scroll-cue{animation:none;opacity:.55}.scroll-cue--down svg{animation:none}}
+@media(prefers-reduced-motion:reduce){.scroll-cue{animation:none;opacity:.85}.scroll-cue--down svg{animation:none}}
 @media(max-width:700px){.hero{min-height:88vh}.htitle{padding:clamp(12px,2vh,24px) 22px}.htitle .gpsa{margin:0 0 clamp(14px,2.4vh,26px)}.htitle h1{font-size:clamp(34px,10vw,52px);max-width:none}}
 
 .svcbody{color:var(--dim);font-size:14.5px}
@@ -182,6 +182,12 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .mail-icon:hover{color:#9FB2D8}
 .mail-text{font-family:'Fraunces',Georgia,serif;font-size:19px;color:#fff;border-bottom:1px solid var(--line2);padding-bottom:2px;transition:border-color .2s,opacity .2s}
 .mail-text:hover{border-color:#fff;opacity:.9}
+/* Contact: copy and form left, the materials photo right. The photo's own
+   background matches --bg so it sits flush, no border. */
+.contact .wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,.92fr);gap:clamp(26px,4vw,58px);align-items:center}
+.contact-col,.contact-shot{min-width:0}
+.contact-shot img{display:block;width:100%;height:auto;border-radius:14px;mix-blend-mode:lighten}
+@media(max-width:900px){.contact .wrap{grid-template-columns:1fr;gap:30px}}
 }
 
 /* ===== Modal ===== */
@@ -235,21 +241,12 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
    light up with a slow band of white travelling left to right, then settle
    at full white. Driven by the observer below; .lit is re-added on re-entry. */
 .hd-sweep{background:linear-gradient(90deg,#fff 0%,#fff 36%,#E6EEFF 44%,#fff 50%,rgba(255,255,255,.5) 58%,rgba(255,255,255,.5) 100%);background-size:260% 100%;background-position:0 0;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;text-shadow:none;opacity:1!important;transform:none!important}
-.hd-sweep.lit{animation:hd-sweep 2.6s ease-in-out both}
+.hd-sweep.lit{animation:hd-sweep 3s ease-in-out both}
 @keyframes hd-sweep{from{background-position:100% 0}to{background-position:0 0}}
 @media(prefers-reduced-motion:reduce){.hd-sweep.lit{animation:none}}
 @media(prefers-reduced-motion:reduce){.trole:hover b,.trole.sweep b{animation:none}}
 .trole p{color:var(--dim);font-size:14px;margin:0}
 @media(max-width:900px){.tgrid{grid-template-columns:1fr}}
-/* Our Team: the specialist list reads down the left, the materials sit beside
-   it. The photo's own background matches --bg, so a hairline gives it an edge. */
-.team-split{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:clamp(26px,4vw,56px);align-items:start}
-.tlist{display:grid;gap:14px;min-width:0}
-.team-shot{min-width:0;position:sticky;top:120px}
-.team-shot img{display:block;width:100%;height:auto;border-radius:14px}
-@media(max-width:900px){
-  .team-split{grid-template-columns:1fr;gap:28px}
-  .team-shot{position:static}
 }
 </style>
 <link rel="stylesheet" href="agp/assets/news-feed.css">
@@ -281,8 +278,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   </div>
 </section>
 
-<a class="scroll-cue scroll-cue--up gone" href="#top" aria-label="Scroll to the previous section"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M12 19V6M6 11l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
-<a class="scroll-cue scroll-cue--down" href="#services" aria-label="Scroll to the next section"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M12 5v13M6 13l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+<a class="scroll-cue scroll-cue--up gone" href="#top" aria-label="Scroll to the previous section"><svg viewBox="0 0 28 24" width="38" height="34" aria-hidden="true"><path d="M14 20V5M4 13l10-9 10 9" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+<a class="scroll-cue scroll-cue--down" href="#services" aria-label="Scroll to the next section"><svg viewBox="0 0 28 24" width="38" height="34" aria-hidden="true"><path d="M14 4v15M4 11l10 9 10-9" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
 
 <!-- ===== Acuity public-sector news feed (data: agp/assets/feed.json) ===== -->
 <section class="nf rv" id="news-feed" aria-labelledby="nf-heading">
@@ -423,8 +420,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   <div class="wrap">
     <p class="label rv">Our Team</p>
     <p class="team-lead rv">Acuity works as one team. A multidisciplinary bench of public sector specialists carries each engagement, from entry strategy to a running division.</p>
-    <div class="team-split">
-      <div class="tlist rv">
+    <div class="tgrid rv">
       <div class="trole"><b>Federal Go-to-Market Strategists</b><p>Procurement strategy, capture discipline, and federal sales architecture for market entry.</p></div>
       <div class="trole"><b>Partnership and Channel Builders</b><p>Primes, integrators, and resellers that carry emerging technology onto contract vehicles.</p></div>
       <div class="trole"><b>Compliance and Regulatory Advisors</b><p>Contracting, certifications, and compliance program design under U.S. oversight regimes.</p></div>
@@ -432,15 +428,12 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <div class="trole"><b>Policy and Legislative Strategists</b><p>Policy design, legislative strategy, and program navigation across federal environments.</p></div>
       <div class="trole"><b>Public Sector Talent</b><p>Sourcing the operators who run and grow federal businesses.</p></div>
       <div class="trole"><b>Vetting and Due Diligence Specialists</b><p>Investigative screening of partners, investments, and key hires.</p></div></div>
-      <div class="team-shot rv">
-        <img src="agp/assets/agp-materials.jpg" alt="Acuity Global Partners presentation folder, capability one-pagers, and business cards" loading="lazy" width="1240" height="974">
-      </div>
-    </div>
   </div>
 </section>
 
 <section id="contact" class="contact">
   <div class="wrap">
+    <div class="contact-col">
     <p class="label rv">Contact</p>
     <h2 class="t rv">Discuss an <em>engagement.</em></h2>
     <p class="modal-sub rv" style="font-size:16px;max-width:540px;margin-bottom:8px">We handle every inquiry with the utmost discretion and confidentiality.</p>
@@ -462,6 +455,10 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <label>Message<textarea name="message" rows="4"></textarea></label>
       <button type="submit" class="modal-send">Send</button>
     </form>
+    </div>
+    <div class="contact-shot rv">
+      <img src="agp/assets/agp-materials.jpg" alt="Acuity Global Partners presentation folder, capability one-pagers, and business cards" loading="lazy" width="1240" height="974">
+    </div>
   </div>
 </section>
 
@@ -522,14 +519,22 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
   update();
 })();
 
-/* section headers: slow white sweep on every entry into view */
+/* section headers: 5 seconds after a section comes into view, its headers
+   sweep white left to right over 3 seconds; repeats every 8 seconds while
+   the section stays in view. Timers clear the moment it leaves. */
 (function(){
   var hs=document.querySelectorAll('.label, .svc-detail h3, #contact h2.t');
   if(!hs.length||!('IntersectionObserver' in window))return;
   hs.forEach(function(h){h.classList.add('hd-sweep')});
+  var timers=new Map();
+  function flash(h){h.classList.remove('lit');void h.offsetWidth;h.classList.add('lit');}
+  function stop(h){var t=timers.get(h);if(t){clearTimeout(t.d);clearInterval(t.i);timers.delete(h);}}
   var io=new IntersectionObserver(function(es){es.forEach(function(e){
-    if(e.isIntersecting){e.target.classList.remove('lit');void e.target.offsetWidth;e.target.classList.add('lit');}
-  })},{threshold:.9});
+    var h=e.target;
+    if(e.isIntersecting){ if(timers.has(h))return;
+      var t={};t.d=setTimeout(function(){flash(h);t.i=setInterval(function(){flash(h)},8000);},5000);timers.set(h,t);
+    } else { stop(h); h.classList.remove('lit'); }
+  })},{threshold:.6});
   hs.forEach(function(h){io.observe(h)});
 })();
 
