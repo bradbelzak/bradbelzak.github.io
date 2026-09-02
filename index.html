@@ -114,17 +114,19 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .htitle .gpsa{font-size:clamp(16px,2vw,25px);font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:#fff;opacity:.94;margin:0 0 clamp(16px,3vh,34px);text-shadow:0 2px 22px rgba(0,0,0,.6)}
 .htitle h1{font-size:clamp(38px,6vw,82px);color:#fff;text-shadow:0 4px 30px rgba(0,0,0,.6);max-width:17ch;margin:0;line-height:1.03;letter-spacing:-.012em}
 .htitle .hsub{font-size:clamp(14px,1.35vw,17.5px);color:#E4ECFB;margin:22px 0 0;max-width:560px;line-height:1.5;text-shadow:0 2px 20px rgba(0,0,0,.6)}
-/* Scroll cue: pinned to the bottom of the screen on every section. A ring
-   with a heavy chevron and a small label. Always points at the next section
-   (the script keeps the href current) and hides once Contact is reached. */
-.scroll-cue{position:fixed;left:50%;bottom:clamp(18px,3.5vh,34px);z-index:115;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:9px;color:#fff;opacity:0;animation:cue-in .9s ease-out .9s forwards;transition:opacity .35s}
-.scroll-cue-ring{display:grid;place-items:center;width:48px;height:48px;border-radius:50%;border:1.5px solid #fff;background:rgba(255,255,255,.14);backdrop-filter:blur(6px);box-shadow:0 0 0 0 rgba(255,255,255,.35),0 6px 24px rgba(0,0,0,.5);animation:cue-bob 2.2s ease-in-out 1.8s infinite;transition:background .2s,transform .2s}
-.scroll-cue:hover .scroll-cue-ring{background:#fff;color:#0A1440;animation-play-state:paused;transform:translateY(3px)}
-.scroll-cue.gone{opacity:0!important;pointer-events:none}
+/* Scroll cues: pinned bottom-centre on every section. Two bare chevrons,
+   no ring: up goes to the previous section, down to the next. The script
+   keeps both hrefs current; up hides on the hero, down hides at Contact. */
+.scroll-cues{position:fixed;left:50%;bottom:clamp(14px,3vh,28px);z-index:115;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center;gap:2px;opacity:0;animation:cue-in .9s ease-out .9s forwards}
+.scroll-cue{display:grid;place-items:center;width:44px;height:40px;color:#fff;filter:drop-shadow(0 2px 10px rgba(0,0,0,.75));transition:opacity .3s,transform .2s,color .2s}
+.scroll-cue--down svg{animation:cue-bob 2.2s ease-in-out 1.8s infinite}
+.scroll-cue:hover{color:#BFD6FF}
+.scroll-cue--down:hover svg{animation-play-state:paused;transform:translateY(3px)}
+.scroll-cue--up:hover svg{transform:translateY(-3px)}
+.scroll-cue.gone{opacity:0;pointer-events:none;height:0;overflow:hidden}
 @keyframes cue-in{to{opacity:1}}
-@keyframes cue-bob{0%,100%{transform:translateY(0);box-shadow:0 0 0 0 rgba(255,255,255,.35),0 6px 24px rgba(0,0,0,.5)}50%{transform:translateY(7px);box-shadow:0 0 0 8px rgba(255,255,255,0),0 6px 24px rgba(0,0,0,.5)}}
-@media(prefers-reduced-motion:reduce){.scroll-cue{animation:none;opacity:1}.scroll-cue-ring{animation:none}}
-@media(max-width:700px){.scroll-cue-ring{width:44px;height:44px}}
+@keyframes cue-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}
+@media(prefers-reduced-motion:reduce){.scroll-cues{animation:none;opacity:1}.scroll-cue--down svg{animation:none}}
 @media(max-width:700px){.hero{min-height:88vh}.htitle{padding:clamp(12px,2vh,24px) 22px}.htitle .gpsa{margin:0 0 clamp(14px,2.4vh,26px)}.htitle h1{font-size:clamp(34px,10vw,52px);max-width:none}}
 
 .svcbody{color:var(--dim);font-size:14.5px}
@@ -270,9 +272,10 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   </div>
 </section>
 
-<a class="scroll-cue" href="#services" aria-label="Scroll to the next section">
-  <span class="scroll-cue-ring" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><path d="M12 5v13M6 13l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
-</a>
+<div class="scroll-cues" aria-label="Section navigation">
+  <a class="scroll-cue scroll-cue--up gone" href="#top" aria-label="Scroll to the previous section"><svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="M12 19V6M6 11l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+  <a class="scroll-cue scroll-cue--down" href="#services" aria-label="Scroll to the next section"><svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="M12 5v13M6 13l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></a>
+</div>
 
 <!-- ===== Acuity public-sector news feed (data: agp/assets/feed.json) ===== -->
 <section class="nf rv" id="news-feed" aria-labelledby="nf-heading">
@@ -490,24 +493,23 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
   if(document.fonts&&document.fonts.ready)document.fonts.ready.then(setPad);
 })();
 
-/* scroll cue: always points at the next section; hides at Contact */
+/* scroll cues: down points at the next section (hidden at Contact); up at the previous (hidden on the hero) */
 (function(){
-  var cue=document.querySelector('.scroll-cue');
-  if(!cue)return;
+  var down=document.querySelector('.scroll-cue--down'),up=document.querySelector('.scroll-cue--up');
+  if(!down||!up)return;
   var ids=['top','services','deliver','who','about','team','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
   function chrome(){return parseInt(getComputedStyle(document.documentElement).getPropertyValue('--agp-chrome'))||110}
-  function next(){
-    var y=window.scrollY+chrome()+48;
-    for(var i=0;i<secs.length;i++){var t=secs[i].getBoundingClientRect().top+window.scrollY;if(t>y)return secs[i];}
-    return null;
-  }
+  function tops(){return secs.map(function(s){return s.getBoundingClientRect().top+window.scrollY})}
+  function next(){var y=window.scrollY+chrome()+48,t=tops();for(var i=0;i<secs.length;i++){if(t[i]>y)return secs[i];}return null;}
+  function prev(){var y=window.scrollY+chrome()-48,t=tops(),p=null;for(var i=0;i<secs.length;i++){if(t[i]<y)p=secs[i];}return p;}
   function update(){
-    var n=next(),atEnd=window.innerHeight+window.scrollY>=document.documentElement.scrollHeight-40;
-    cue.classList.toggle('gone',!n||atEnd);
-    if(n)cue.setAttribute('href','#'+n.id);
+    var n=next(),pv=prev(),atEnd=window.innerHeight+window.scrollY>=document.documentElement.scrollHeight-40;
+    down.classList.toggle('gone',!n||atEnd); if(n)down.setAttribute('href','#'+n.id);
+    up.classList.toggle('gone',!pv); if(pv)up.setAttribute('href','#'+pv.id);
   }
-  cue.addEventListener('click',function(e){var n=next();if(n){e.preventDefault();n.scrollIntoView({behavior:'smooth',block:'start'});}});
+  down.addEventListener('click',function(e){var n=next();if(n){e.preventDefault();n.scrollIntoView({behavior:'smooth',block:'start'});}});
+  up.addEventListener('click',function(e){var pv=prev();if(pv){e.preventDefault();pv.scrollIntoView({behavior:'smooth',block:'start'});}});
   window.addEventListener('scroll',update,{passive:true});
   window.addEventListener('resize',update);
   update();
