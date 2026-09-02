@@ -63,7 +63,7 @@
 <style>
 :root{--bg:#050D28;--fg:#FFFFFF;--dim:#D7E2F7;--line:rgba(190,215,255,.13);--line2:rgba(255,255,255,.35);--sidebg:#040B22;--card:linear-gradient(170deg,#0A173F,transparent);--glow:rgba(255,255,255,.35)}
 *{margin:0;padding:0;box-sizing:border-box}
-html{scroll-behavior:smooth}
+html{scroll-behavior:smooth;overflow-x:clip}
 body{font-family:'Figtree',sans-serif;background:var(--bg);color:var(--fg);line-height:1.6;overflow-x:clip}
 h1,h2,h3{font-family:'Fraunces',Georgia,serif;font-weight:600;line-height:1.1}
 a{color:var(--fg);text-decoration:none}
@@ -104,6 +104,9 @@ h2.t em,.hero h1 em{font-style:italic}
 
 .col .k,.special .k{font-size:11px;font-weight:700;letter-spacing:.24em;text-transform:uppercase;color:var(--fg);opacity:.85}
 .contact{background:var(--card);border-top:1px solid var(--line)}
+/* Last section: tall enough that the arrow can bring its top to the top of
+   the screen instead of stalling at the page end */
+#contact{min-height:calc(100svh - var(--agp-chrome,156px));box-sizing:border-box}
 footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-size:12px}
 
 /* ===== Hero (single) ===== */
@@ -240,9 +243,12 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 /* Section headers: each time a section comes into view its label and title
    light up with a slow band of white travelling left to right, then settle
    at full white. Driven by the observer below; .lit is re-added on re-entry. */
-.hd-sweep{background:linear-gradient(90deg,#fff 0%,#fff 36%,#E6EEFF 44%,#fff 50%,rgba(255,255,255,.5) 58%,rgba(255,255,255,.5) 100%);background-size:260% 100%;background-position:0 0;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;text-shadow:none;opacity:1!important;transform:none!important}
-.hd-sweep.lit{animation:hd-sweep 3s ease-in-out both}
-@keyframes hd-sweep{from{background-position:100% 0}to{background-position:0 0}}
+.hd-sweep{display:inline-block;transform-origin:left center;background:linear-gradient(90deg,#fff 0%,#fff 36%,#E6EEFF 44%,#fff 50%,rgba(255,255,255,.5) 58%,rgba(255,255,255,.5) 100%);background-size:260% 100%;background-position:0 0;-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;text-shadow:none;opacity:1!important}
+.hd-sweep.lit{animation:hd-sweep 5s ease-in-out both}
+/* five seconds total: the light crosses the words while they grow to 108
+   percent and settle back to size */
+@keyframes hd-sweep{0%{background-position:100% 0;transform:scale(1)}50%{transform:scale(1.08)}100%{background-position:0 0;transform:scale(1)}}
+@media(max-width:700px){.hd-sweep{max-width:100%}@keyframes hd-sweep{0%{background-position:100% 0;transform:scale(1)}50%{transform:scale(1.04)}100%{background-position:0 0;transform:scale(1)}}}
 @media(prefers-reduced-motion:reduce){.hd-sweep.lit{animation:none}}
 @media(prefers-reduced-motion:reduce){.trole:hover b,.trole.sweep b{animation:none}}
 .trole p{color:var(--dim);font-size:14px;margin:0}
@@ -501,7 +507,8 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
 (function(){
   var down=document.querySelector('.scroll-cue--down'),up=document.querySelector('.scroll-cue--up');
   if(!down||!up)return;
-  var ids=['top','services','deliver','who','about','team','contact'];
+  /* How We Deliver is short and reads as the tail of Expertise, so it is not a stop */
+  var ids=['top','services','who','about','team','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
   function chrome(){return parseInt(getComputedStyle(document.documentElement).getPropertyValue('--agp-chrome'))||110}
   function tops(){return secs.map(function(s){return s.getBoundingClientRect().top+window.scrollY})}
@@ -532,7 +539,7 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
   var io=new IntersectionObserver(function(es){es.forEach(function(e){
     var h=e.target;
     if(e.isIntersecting){ if(timers.has(h))return;
-      var t={};t.d=setTimeout(function(){flash(h);t.i=setInterval(function(){flash(h)},8000);},5000);timers.set(h,t);
+      var t={};t.d=setTimeout(function(){flash(h);t.i=setInterval(function(){flash(h)},10000);},5000);timers.set(h,t);
     } else { stop(h); h.classList.remove('lit'); }
   })},{threshold:.6});
   hs.forEach(function(h){io.observe(h)});
