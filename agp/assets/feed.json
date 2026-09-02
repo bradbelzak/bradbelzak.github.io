@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-09-01T23:15:12.542837Z",
+ "updatedAt": "2026-09-02T15:04:15.736072Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "3 Companies Secure $400M Air Force IDIQ for Pacific Theater Civil Engineering Support",
+   "url": "https://www.govconwire.com/articles/usaf-civil-engineering-multi-award-idiq-pacific",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T08:52:08Z",
+   "why": "Cherokee Nation Government Solutions, SSE BB&E JV and KIRA Services will compete for task orders to be carried out in the Pacific."
+  },
+  {
+   "title": "NASA Picks Blue Origin to Build Mars Communications Orbiter",
+   "url": "https://www.govconwire.com/articles/nasa-blue-origin-700m-mars-communications-orbiter-award",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T08:51:34Z",
+   "why": "The firm-fixed-price award covers a Mars orbiter for relaying science data, imagery and navigation information."
+  },
   {
    "title": "CR extends cyber info sharing law through December",
    "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/cr-extends-cyber-info-sharing-law-through-december/",
@@ -13,7 +29,15 @@
    "why": "Industry groups were concerned the law would lapse again amid hacks into water systems and recent advancements in AI."
   },
   {
-   "title": "CUI sprawl — The hidden driver of CMMC risk",
+   "title": "How the new stopgap funding bill affects the Defense Department",
+   "url": "https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-01T20:58:12Z",
+   "why": "The new continuing resolution keeps the government open, but it also comes with certain restrictions on spending."
+  },
+  {
+   "title": "CUI sprawl: The hidden driver of CMMC risk",
    "url": "https://federalnewsnetwork.com/commentary/2026/09/cui-sprawl-the-hidden-driver-of-cmmc-risk/",
    "source": "Federal News Network",
    "category": "Compliance and Security",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-01T19:25:00Z",
    "why": "The new solicitation comes weeks after the Army awarded Hanwha Defense USA a deal up to $233 million to deliver wheeled K9 mobile howitzer prototypes."
-  },
-  {
-   "title": "The defense intelligence community’s AI and cyber view forward",
-   "url": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward/",
-   "source": "Breaking Defense",
-   "category": "Compliance and Security",
-   "published": "2026-09-01T17:49:50Z",
-   "why": "From AI adoption and agentic systems to Zero Trust and cyber resilience, Breaking Defense’s latest eBook brings together key reporting from DoDIIS 2026 on the..."
-  },
-  {
-   "title": "Dataminr AI tech to go live on NATO Maven system: CEO",
-   "url": "https://breakingdefense.com/2026/09/dataminr-ai-tech-to-go-live-on-nato-maven-system-ceo/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-01T15:49:12Z",
-   "why": "The company also recently nabbed a $318 million “situational awareness” contract with the Pentagon."
-  },
-  {
-   "title": "Increase of Monetary Thresholds and Other Matters Related to Cost Accounting Standards Program Requirements",
-   "url": "https://www.federalregister.gov/documents/2026/09/01/2026-17901/increase-of-monetary-thresholds-and-other-matters-related-to-cost-accounting-standards-program",
-   "source": "Federal Register - Management and Budget Office",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-01T12:00:00Z",
-   "why": "The Office of Management and Budget (OMB), Cost Accounting Standards Board (Board), is publishing a final rule to increase the Cost Accounting Standards (CAS)..."
   }
  ]
 }
