@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-02T15:04:15.736072Z",
+ "updatedAt": "2026-09-02T19:21:26.892473Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army awards first-ever laser production contract to AV, with $465M value",
+   "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T19:14:29Z",
+   "why": "“One of the key exciting components of this particular production program is introducing production-directed energy for the first time in the nation’s..."
+  },
+  {
+   "title": "When the government blackballs your sub, CICA is no help",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/when-government-blackballs-your-sub-cica-no-help/415780/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T18:57:59Z",
+   "why": "A dismissed protest shows how little recourse subs have when an agency knocks them out of a teaming agreement."
+  },
+  {
+   "title": "Army awards AeroVironment nearly $500M contract for laser weapons",
+   "url": "https://defensescoop.com/2026/09/02/army-awards-aerovironment-nearly-500m-contract-laser-weapons/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-02T18:54:59Z",
+   "why": "“The Enduring High Energy Laser Program is historically significant,” said Mary Clum, president of AV’s space, cyber and directed energy program."
+  },
+  {
+   "title": "Pentagon cyber strategy expected as soon as next week, sources say",
+   "url": "https://www.nextgov.com/cybersecurity/2026/09/pentagon-cyber-strategy-expected-soon-next-week-sources-say/415778/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-02T16:56:00Z",
+   "why": "Officials have previewed a blueprint emphasizing offensive operations, AI adoption and closer industry ties as the military reorganizes its cyber forces."
+  },
+  {
+   "title": "Microsoft Fabric integration platform launches for select federal customers",
+   "url": "https://www.nextgov.com/acquisition/2026/09/microsoft-fabric-integration-platform-launches-select-federal-customers/415730/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-02T16:00:00Z",
+   "why": "The platform is now available on a preview basis for Government Community Cloud High environments and is designed to support the needs of agentic AI tools."
+  },
   {
    "title": "3 Companies Secure $400M Air Force IDIQ for Pacific Theater Civil Engineering Support",
    "url": "https://www.govconwire.com/articles/usaf-civil-engineering-multi-award-idiq-pacific",
@@ -27,46 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-01T22:16:36Z",
    "why": "Industry groups were concerned the law would lapse again amid hacks into water systems and recent advancements in AI."
-  },
-  {
-   "title": "How the new stopgap funding bill affects the Defense Department",
-   "url": "https://breakingdefense.com/2026/09/how-the-new-stopgap-funding-bill-affects-the-defense-department/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-01T20:58:12Z",
-   "why": "The new continuing resolution keeps the government open, but it also comes with certain restrictions on spending."
-  },
-  {
-   "title": "CUI sprawl: The hidden driver of CMMC risk",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/cui-sprawl-the-hidden-driver-of-cmmc-risk/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-01T20:51:13Z",
-   "why": "An analysis of how controlled unclassified information spreads beyond formal systems and contracts."
-  },
-  {
-   "title": "DISA sends mixed signals on combatant command network migration",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/disa-sends-mixed-signals-combatant-command-network-migration/415759/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-01T20:40:31Z",
-   "why": "After a protest, two RFIs, and a one-day comment window, the path forward is still unclear."
-  },
-  {
-   "title": "Navy kicks off search for first increment of CCA drones",
-   "url": "https://defensescoop.com/2026/09/01/navy-kicks-off-search-for-first-increment-of-cca-drones/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-01T19:31:17Z",
-   "why": "The Navy’s request for information outlines a carrier-capable CCA drone that can be demonstrated and certified within three years of an award."
-  },
-  {
-   "title": "Army seeks tracked howitzer candidates following award for wheeled platforms",
-   "url": "https://breakingdefense.com/2026/09/army-seeks-tracked-howitzer-candidates-following-award-for-wheeled-platforms/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-01T19:25:00Z",
-   "why": "The new solicitation comes weeks after the Army awarded Hanwha Defense USA a deal up to $233 million to deliver wheeled K9 mobile howitzer prototypes."
   }
  ]
 }
