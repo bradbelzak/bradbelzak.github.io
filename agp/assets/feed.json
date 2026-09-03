@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-02T23:16:00.096663Z",
+ "updatedAt": "2026-09-03T14:58:14.603368Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Estonian defense minister resigns following Ukrainian ammo procurement controversy",
+   "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-03T11:55:37Z",
+   "why": "Hanno Pevkur said on Estonian TV that while he wasn’t personally responsible for the contracts in question, “a leader must have both the courage and stature to..."
+  },
+  {
+   "title": "New CR Blocks New Defense Production Starts",
+   "url": "https://www.govconwire.com/articles/continuing-resolution-fy2027-funding-signed",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-03T08:46:37Z",
+   "why": "The measure extends the Technology Modernization Fund and cybersecurity information-sharing authorities to Dec."
+  },
+  {
+   "title": "MANTECH Secures $345M Task Order for Navy Cyber, C3I R&D",
+   "url": "https://www.govconwire.com/articles/mantech-345m-navy-crane-cyber-c3i-task-order",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-03T08:45:35Z",
+   "why": "The award under the Information Analysis Center vehicle covers electronic warfare, expeditionary warfare and defensive cyber work."
+  },
+  {
+   "title": "Xpect Solutions Acquires Amivero to Expand National Security Tech Capabilities",
+   "url": "https://www.govconwire.com/articles/xpect-solutions-acquires-amivero-national-security",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-03T08:44:52Z",
+   "why": "Xpect Solutions has acquired Amivero to broaden its AI, cyber and digital modernization capabilities for national security agencies."
+  },
   {
    "title": "House committee votes to subpoena Oracle after fiery hearing on VA’s $27B EHRM contract",
    "url": "https://fedscoop.com/oracle-subpoena-house-hearing-va-27b-ehrm-contract/",
@@ -29,44 +61,12 @@
    "why": "The House Veterans Affairs Committee unanimously approved the motion to compel Oracle leaders to testify after the software giant pulled out of the hearing."
   },
   {
-   "title": "Forget the budget; the government’s tech gap is about capacity",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/forget-the-budget-the-governments-tech-gap-is-about-capacity/",
-   "source": "Federal News Network",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-02T21:38:38Z",
-   "why": "Erika Dinnie, the vice president of federal strategy and planning at MetTel, explains why outsourcing to U.S.-based firms is a viable option for agencies."
-  },
-  {
    "title": "GSA terminates hundreds of security clearances after review",
    "url": "https://federalnewsnetwork.com/workforce/2026/09/gsa-terminates-hundreds-of-security-clearances-after-review/",
    "source": "Federal News Network",
    "category": "Compliance and Security",
    "published": "2026-09-02T20:53:19Z",
    "why": "GSA terminated the security clearances of several hundred employees after an audit to ensure clearances \"are strictly aligned with operational necessity.\""
-  },
-  {
-   "title": "Army awards first-ever laser production contract to AV, with $465M value",
-   "url": "https://breakingdefense.com/2026/09/army-awards-first-ever-laser-production-contract-to-av-with-465m-value/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T19:14:29Z",
-   "why": "“One of the key exciting components of this particular production program is introducing production-directed energy for the first time in the nation’s..."
-  },
-  {
-   "title": "When the government blackballs your sub, CICA is no help",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/when-government-blackballs-your-sub-cica-no-help/415780/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T18:57:59Z",
-   "why": "A dismissed protest shows how little recourse subs have when an agency knocks them out of a teaming agreement."
-  },
-  {
-   "title": "Army awards AeroVironment nearly $500M contract for laser weapons",
-   "url": "https://defensescoop.com/2026/09/02/army-awards-aerovironment-nearly-500m-contract-laser-weapons/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T18:54:59Z",
-   "why": "“The Enduring High Energy Laser Program is historically significant,” said Mary Clum, president of AV’s space, cyber and directed energy program."
   }
  ]
 }
