@@ -132,6 +132,13 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 @keyframes cue-in{to{opacity:.85}}
 @keyframes cue-bob{0%,100%{transform:translateY(0)}50%{transform:translateY(6px)}}
 @media(prefers-reduced-motion:reduce){.scroll-cue{animation:none;opacity:.85}.scroll-cue--down svg{animation:none}}
+/* Arrow stops: clear the sticky chrome, and give each stop enough height that
+   landing on it shows the block rather than just its heading. */
+#federal,#build,#global{scroll-margin-top:calc(var(--agp-chrome,110px) + 18px)}
+#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-chrome,110px) - 34px)}
+#build{padding-bottom:8px}
+.deliver{min-height:calc(100svh - var(--agp-chrome,110px));display:flex;align-items:center}
+@media(max-width:900px){.deliver{min-height:0;display:block}}
 @media(max-width:700px){.hero{min-height:88vh}.htitle{padding:clamp(12px,2vh,24px) 22px}.htitle .gpsa{margin:0 0 clamp(14px,2.4vh,26px)}.htitle h1{font-size:clamp(34px,10vw,52px);max-width:none}}
 
 .svcbody{color:var(--dim);font-size:14.5px}
@@ -228,6 +235,65 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .bcell p{color:var(--dim);font-size:14px;margin:0}
 .bcell--wide{grid-column:1 / -1}
 @media(max-width:900px){.bgrid{grid-template-columns:1fr}}
+/* ===== What We Build: the layered build loop ===== */
+.wb{position:relative;border-radius:16px;overflow:hidden;border:1px solid var(--line);background:#000;aspect-ratio:16/9}
+.wb video{display:block;width:100%;height:100%;object-fit:cover;transform:translateZ(0);backface-visibility:hidden}
+.wbcaps{position:absolute;right:0;top:0;bottom:0;width:42%;min-width:280px;display:grid;align-content:center;align-items:center;padding:0 4% 0 3%;pointer-events:none;background:linear-gradient(90deg,rgba(6,14,38,0),rgba(6,14,38,.72) 22%,rgba(6,14,38,.92))}
+.wbcap{grid-area:1 / 1;align-self:center;opacity:0;transform:translateY(10px);transition:opacity .5s ease,transform .6s cubic-bezier(.16,1,.3,1)}
+.wbcap.on{opacity:1;transform:none}
+.wbcap .n{font-family:'Fraunces',Georgia,serif;font-size:clamp(34px,4.4vw,58px);font-weight:600;color:#8FB4FF;line-height:1;letter-spacing:-.02em;text-shadow:0 2px 20px rgba(0,0,0,.75);margin:0}
+.wbcap .n.all{color:#5BE49B}
+.wbcap h4{font-family:'Fraunces',Georgia,serif;font-size:clamp(18px,2.2vw,27px);font-weight:600;line-height:1.1;margin:8px 0 6px;color:#fff;text-shadow:0 2px 16px rgba(0,0,0,.75)}
+.wbcap>p{color:#EAF1FF;font-size:clamp(13.5px,1.3vw,15.5px);line-height:1.5;max-width:34ch;margin:0;text-shadow:0 2px 14px rgba(0,0,0,.9)}
+.wbcap ul{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:5px}
+.wbcap li{position:relative;padding-left:13px;font-size:clamp(12px,1.1vw,13.5px);line-height:1.45;color:#D7E2F7;text-shadow:0 2px 14px rgba(0,0,0,.9)}
+.wbcap li::before{content:"";position:absolute;left:0;top:.55em;width:5px;height:5px;border-radius:50%;background:#8FB4FF}
+.wbcap li b{color:#fff;font-weight:600}
+.wbcap .s{display:block;margin-top:8px;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#8FB4FF}
+.wbtrack{position:relative;height:32px;margin-top:14px;cursor:ew-resize;touch-action:none;overflow:hidden}
+.wbtrack .bar{position:absolute;left:0;right:0;top:14px;height:3px;border-radius:2px;background:var(--line)}
+.wbtrack .fill{position:absolute;left:0;top:14px;height:3px;border-radius:2px;background:#8FB4FF;width:0;transition:background .4s}
+.wbtrack.done .fill{background:#5BE49B}
+.wbtrack .mk{position:absolute;top:8px;width:15px;height:15px;margin-left:-7.5px;border-radius:50%;border:2px solid rgba(255,255,255,.34);background:var(--bg);transition:border-color .3s,background .3s,transform .2s}
+.wbtrack .mk.on{border-color:#8FB4FF;background:#8FB4FF;transform:scale(1.15)}
+.wbtrack .mk.done{border-color:#5BE49B;background:#5BE49B}
+.wbtrack .head{position:absolute;top:6px;width:19px;height:19px;margin-left:-9.5px;border-radius:50%;background:#fff;border:3px solid #8FB4FF;box-shadow:0 4px 14px rgba(0,0,0,.55);pointer-events:none;transition:border-color .4s}
+.wbtrack.done .head{border-color:#5BE49B}
+.wbrail{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-top:6px}
+.wbrail button{font:inherit;text-align:left;background:none;cursor:pointer;border:0;border-top:2px solid var(--line);padding:7px 4px 4px 0;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--dim);transition:border-color .35s,color .35s}
+.wbrail button b{display:block;font-size:11.5px;color:var(--dim);letter-spacing:.04em;text-transform:none;font-weight:600;transition:color .35s}
+.wbrail button:hover{color:#fff}.wbrail button:hover b{color:#fff}
+.wbrail button.on{border-top-color:#8FB4FF}.wbrail button.on b{color:#fff}
+.wbrail button.done{border-top-color:#5BE49B}
+.wbrail button.pinned{border-top-color:#fff}.wbrail button.pinned b{color:#fff}
+.wbhint{margin:12px 0 0;font-size:12.5px;color:var(--dim)}
+.wbnote{margin:14px 0 0;font-size:14px;color:var(--dim);border-top:1px solid var(--line);padding-top:13px}
+.wbnote b{color:#fff;font-weight:600}
+/* Static fallback: shown when the clip cannot play, or the visitor asks for
+   reduced motion. Same five pieces, no movement. */
+.bgrid{display:none}
+.build.novideo .wb,.build.novideo .wbtrack,.build.novideo .wbrail,.build.novideo .wbhint{display:none}
+.build.novideo .bgrid{display:grid}
+@media(prefers-reduced-motion:reduce){
+  .wb,.wbtrack,.wbrail,.wbhint{display:none}
+  .bgrid{display:grid}
+}
+@media(max-width:900px){.wbcaps{width:48%;min-width:0;padding:0 4% 0 2%}}
+@media(max-width:760px){
+  .wb{aspect-ratio:auto;overflow:visible;border:0;background:none;border-radius:0}
+  .wb video{aspect-ratio:16/9;border-radius:12px;border:1px solid var(--line)}
+  .wbcaps{position:static;width:auto;min-width:0;padding:16px 2px 0;background:none;display:block;min-height:296px}
+  .wbcap{display:none;transform:none}
+  .wbcap.on{display:block}
+  .wbcap .n{font-size:38px}
+  .wbcap h4{font-size:21px}
+  .wbcap>p{font-size:15px;max-width:none;text-shadow:none}
+  .wbcap li{font-size:13.5px;text-shadow:none}
+  .wbrail{grid-template-columns:1fr 1fr}
+  .wbtrack{height:40px}
+  .wbtrack .mk{width:18px;height:18px;margin-left:-9px;top:7px}
+  .wbtrack .head{width:22px;height:22px;margin-left:-11px;top:5px}
+}
 
 /* ===== Our Team ===== */
 .team-lead{color:var(--dim);font-size:17px;line-height:1.6;max-width:820px;margin-bottom:26px}
@@ -313,7 +379,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   <div class="wrap">
     <p class="label rv">Expertise</p>
 
-    <div class="svc-detail rv">
+    <div class="svc-detail rv" id="federal">
       <p class="k">Washington, DC</p>
       <h3>Federal Go-to-Market for Startups</h3>
       <p class="one">We help pre-seed to Series A startups win their first government customers and build the company to support them.</p>
@@ -336,9 +402,53 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       </div>
     </div>
 
-    <div class="build rv">
+    <div class="build rv" id="build">
       <p class="label">What We Build</p>
       <p class="ledex">Everything a startup needs to win government business, built in this order and handed over running. Engage us for the full build or the one piece you are missing.</p>
+      <div class="wb" id="wb">
+        <video id="wb-v" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/hf_20260903_050441_37bcdff2-76c8-4c5e-a2c1-afb5e67d45c1.mp4" muted loop playsinline autoplay preload="auto" aria-label="A public sector division being built floor by floor over eight sprints"></video>
+        <div class="wbcaps" id="wb-caps">
+          <div class="wbcap" data-at="0"><p class="n">00</p><h4>Foundation poured.</h4><p>Founders want the division overnight. We build it in sprints, in this order.</p></div>
+          <div class="wbcap" data-at="2.6"><p class="n">01</p><h4>Go-to-Market</h4><p>Who buys, how they buy, and what has to be true first.</p><ul>
+            <li><b>Target agencies:</b> who actually buys what you built</li>
+            <li><b>Capture strategy:</b> how a deal is won before it is posted</li>
+            <li><b>Registrations and pricing:</b> SAM.gov, CAGE, NAICS, and rates that pass review</li>
+            <li><b>Compliance:</b> CMMC and FedRAMP, the gates startups hit late</li>
+          </ul><span class="s">Phase One</span></div>
+          <div class="wbcap" data-at="5.2"><p class="n">02</p><h4>Product Strategy</h4><p>What you built, made buyable by a government customer.</p><ul>
+            <li><b>Requirements mapping:</b> your roadmap against what agencies are required to buy</li>
+            <li><b>Authorization path:</b> FedRAMP, ATO, IL levels; which one, and what it costs you</li>
+            <li><b>Pilot to program:</b> designing the first pilot so it can become a program of record</li>
+            <li><b>Differentiation:</b> the claims that survive a source-selection board</li>
+          </ul><span class="s">Phase Two</span></div>
+          <div class="wbcap" data-at="7.8"><p class="n">03</p><h4>Partnerships</h4><p>Most federal revenue reaches a startup through somebody else&#8217;s contract.</p><ul>
+            <li><b>Primes and integrators:</b> who already holds the vehicles you need</li>
+            <li><b>Teaming agreements:</b> signed, with scope and exclusivity defined up front</li>
+            <li><b>Vehicles and set-asides:</b> GSA, GWACs, OTAs, SBIR; the fastest route in</li>
+            <li><b>Channel economics:</b> margin, pass-through, and who owns the customer</li>
+          </ul><span class="s">Phase Three</span></div>
+          <div class="wbcap" data-at="10.2"><p class="n">04</p><h4>Vetted Talent</h4><p>A division is people. We put the right ones in seat.</p><ul>
+            <li><b>Capture and BD leads:</b> operators who have run the play before</li>
+            <li><b>Cleared personnel:</b> where the work requires it, sourced and processed</li>
+            <li><b>Contracts and compliance:</b> the back office that keeps you eligible</li>
+            <li><b>Interim leadership:</b> we run the seat until your hire is ready</li>
+          </ul><span class="s">Phase Four</span></div>
+          <div class="wbcap" data-at="12.2"><p class="n">05</p><h4>Government Affairs Strategy</h4><p>The campaign that turns one contract into a market.</p><ul>
+            <li><b>Hill and agency engagement:</b> authorizers, appropriators, program offices</li>
+            <li><b>Budget and policy:</b> getting your capability into the line items that fund it</li>
+            <li><b>Coalitions and associations:</b> allies who carry the argument when you cannot</li>
+            <li><b>International:</b> allied governments, FMS, and export controls when you scale abroad</li>
+          </ul><span class="s">Phase Five</span></div>
+          <div class="wbcap" data-at="14.2"><p class="n all">All five</p><h4>Handed over running.</h4><p>A public sector division that runs without us.</p></div>
+        </div>
+      </div>
+      <div class="wbtrack" id="wb-track" role="slider" tabindex="0" aria-label="Move through the build" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0">
+        <div class="bar"></div><div class="fill" id="wb-fill"></div><div class="head" id="wb-head"></div>
+      </div>
+      <div class="wbrail" id="wb-rail">
+        <button type="button"><b>01 Go-to-Market</b>Phase One</button><button type="button"><b>02 Product</b>Phase Two</button><button type="button"><b>03 Partnerships</b>Phase Three</button><button type="button"><b>04 Talent</b>Phase Four</button><button type="button"><b>05 Gov Affairs</b>Phase Five</button>
+      </div>
+      <p class="wbhint">Hover or tap a phase to hold it. Drag the line to move through the build.</p>
       <div class="bgrid">
         <div class="bcell"><p class="bn">01</p><div><b>Go-to-Market</b><p>Strategy grounded in how agencies actually buy: capture and pipeline discipline, compliance and contracting foundations, back-office setup, and pricing for the federal buyer.</p></div></div>
         <div class="bcell"><p class="bn">02</p><div><b>Product Strategy</b><p>Roadmaps shaped for government requirements, certifications, and procurement reality, so the product is buyable when the opening comes.</p></div></div>
@@ -346,9 +456,10 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
         <div class="bcell"><p class="bn">04</p><div><b>Vetted Talent</b><p>The operators who run public sector, including cleared talent; sourced, vetted, and accountable.</p></div></div>
         <div class="bcell bcell--wide"><p class="bn">05</p><div><b>Government Affairs Strategy</b><p>The national or international campaign that follows a first contract, created and executed with the client: the agencies, committees, primes, and allied buyers to engage and in what sequence, introductions to technology business incubators and accelerators, and representation as brand ambassador at conferences, meetings, and industry events. The goal is a repeatable public sector business.</p></div></div>
       </div>
+      <p class="wbnote">Take <b>all five</b>, or the <b>one or two pieces</b> you are missing. Any set is scoped and priced as a single engagement.</p>
     </div>
 
-    <div class="svc-detail rv">
+    <div class="svc-detail rv" id="global">
       <p class="k">Worldwide</p>
       <h3>Allied Governments and Multilateral Organizations</h3>
       <p class="one">Five Eyes to frontier &#8212; for companies and investors expanding beyond the U.S. into allied, emerging, and contested markets.</p>
@@ -507,13 +618,21 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
 (function(){
   var down=document.querySelector('.scroll-cue--down'),up=document.querySelector('.scroll-cue--up');
   if(!down||!up)return;
-  /* How We Deliver is short and reads as the tail of Expertise, so it is not a stop */
-  var ids=['top','services','who','about','team','contact'];
+  /* Every block the reader should land on, in document order. The three
+     sub-blocks inside Expertise (federal detail, What We Build, worldwide
+     detail) are their own stops, so the arrow no longer jumps Expertise
+     straight to Clients. */
+  var ids=['top','services','build','global','deliver','who','about','team','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
   function chrome(){return parseInt(getComputedStyle(document.documentElement).getPropertyValue('--agp-chrome'))||110}
   function tops(){return secs.map(function(s){return s.getBoundingClientRect().top+window.scrollY})}
-  function next(){var y=window.scrollY+chrome()+48,t=tops();for(var i=0;i<secs.length;i++){if(t[i]>y)return secs[i];}return null;}
-  function prev(){var y=window.scrollY+chrome()-48,t=tops(),p=null;for(var i=0;i<secs.length;i++){if(t[i]<y)p=secs[i];}return p;}
+  /* Step by index, not by pixel threshold. Whichever stop the reader is
+     standing in, the arrow moves exactly one stop: no repeats, no skips. */
+  function here(){var y=window.scrollY+chrome()+72,t=tops(),i=0;
+    for(var k=0;k<secs.length;k++){ if(t[k]<=y) i=k; }
+    return i;}
+  function next(){var i=here();return i+1<secs.length?secs[i+1]:null;}
+  function prev(){var i=here();return i-1>=0?secs[i-1]:null;}
   function update(){
     var n=next(),pv=prev(),atEnd=window.innerHeight+window.scrollY>=document.documentElement.scrollHeight-40;
     down.classList.toggle('gone',!n||atEnd); if(n)down.setAttribute('href','#'+n.id);
@@ -600,5 +719,74 @@ window.AGP_FEED_CONFIG = {
 };
 </script>
 <script src="agp/assets/news-feed.js" defer></script>
+<script>
+/* ===== What We Build: the layered build loop =====
+   One continuous pass, no per-layer pauses. SPEED holds each layer long enough
+   to read the four points beside it; the source clip is 2K so slowing it does
+   not soften the stacking. If the clip cannot play, the section falls back to
+   the static five-piece grid already in the markup. */
+(function(){
+  var build=document.querySelector('.build'), v=document.getElementById('wb-v');
+  if(!build||!v) return;
+  var SPEED=0.6;
+  var caps=[].slice.call(document.querySelectorAll('.wbcap')),
+      railBtns=[].slice.call(document.querySelectorAll('#wb-rail button')),
+      track=document.getElementById('wb-track'), fill=document.getElementById('wb-fill'), head=document.getElementById('wb-head');
+  var STOPS=caps.map(function(c){return parseFloat(c.dataset.at)});
+  var pinned=-1, scrubbing=false, dur=15;
+
+  function fallback(){ build.classList.add('novideo'); }
+  v.addEventListener('error',fallback);
+  setTimeout(function(){ if(!v.videoWidth && v.readyState<2) fallback(); },9000);
+
+  v.playbackRate=SPEED;
+  v.addEventListener('loadedmetadata',function(){ dur=v.duration||15; v.playbackRate=SPEED; layout(); paint(); });
+
+  function layout(){
+    [].forEach.call(track.querySelectorAll('.mk'),function(m){m.remove()});
+    STOPS.forEach(function(t,i){ if(i===0)return; var m=document.createElement('div'); m.className='mk'; m.style.left=Math.max(0,Math.min(100,t/dur*100))+'%'; m.dataset.i=i; track.appendChild(m); });
+  }
+  function idxAt(t){ var idx=0; STOPS.forEach(function(s,i){ if(t>=s) idx=i; }); return idx; }
+  function paint(){
+    var t=v.currentTime, idx=idxAt(t), done=idx===caps.length-1;
+    caps.forEach(function(c,i){ c.classList.toggle('on',i===idx); });
+    railBtns.forEach(function(b,i){ b.classList.toggle('on',i+1===idx&&!done); b.classList.toggle('done',done||i+1<idx); b.classList.toggle('pinned',pinned===i); });
+    var pct=Math.max(0,Math.min(100,t/dur*100));
+    fill.style.width=pct+'%'; head.style.left=pct+'%';
+    track.classList.toggle('done',done);
+    track.setAttribute('aria-valuenow',idx);
+    [].forEach.call(track.querySelectorAll('.mk'),function(m){ var i=+m.dataset.i; m.classList.toggle('on',i===idx&&!done); m.classList.toggle('done',done||i<idx); });
+  }
+  v.addEventListener('timeupdate',paint);
+
+  function goTo(t,hold){ v.currentTime=Math.max(0,Math.min(dur-0.05,t)); paint(); if(hold) v.pause(); }
+  function resume(){ if(pinned<0) v.play().catch(function(){}); }
+
+  railBtns.forEach(function(b,i){
+    b.addEventListener('mouseenter',function(){ if(pinned>-1)return; goTo(STOPS[i+1]+0.15,true); });
+    b.addEventListener('mouseleave',function(){ if(pinned>-1)return; resume(); });
+    b.addEventListener('click',function(){ if(pinned===i){ pinned=-1; resume(); } else { pinned=i; goTo(STOPS[i+1]+0.15,true); } paint(); });
+  });
+
+  function fromEvent(e){ var r=track.getBoundingClientRect(); return Math.max(0,Math.min(1,(e.clientX-r.left)/r.width))*dur; }
+  track.addEventListener('pointerdown',function(e){ scrubbing=true; try{track.setPointerCapture(e.pointerId)}catch(err){} pinned=-1; goTo(fromEvent(e),true); });
+  track.addEventListener('pointermove',function(e){ if(scrubbing) goTo(fromEvent(e),true); });
+  track.addEventListener('pointerup',function(){ scrubbing=false; resume(); });
+  track.addEventListener('pointercancel',function(){ scrubbing=false; resume(); });
+  track.addEventListener('keydown',function(e){
+    var i=idxAt(v.currentTime);
+    if(e.key==='ArrowRight'){ e.preventDefault(); goTo(STOPS[Math.min(STOPS.length-1,i+1)]+0.15,true); }
+    else if(e.key==='ArrowLeft'){ e.preventDefault(); goTo(STOPS[Math.max(0,i-1)]+0.15,true); }
+    else if(e.key===' '||e.key==='Enter'){ e.preventDefault(); v.paused?resume():v.pause(); }
+  });
+
+  /* only run the clip while the section is on screen */
+  if('IntersectionObserver' in window){
+    new IntersectionObserver(function(es){ es.forEach(function(en){
+      if(en.isIntersecting){ if(pinned<0) v.play().catch(function(){}); } else { v.pause(); }
+    })},{threshold:.25}).observe(build);
+  }
+})();
+</script>
 </body>
 </html>
