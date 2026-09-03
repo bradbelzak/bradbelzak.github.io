@@ -134,11 +134,14 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 @media(prefers-reduced-motion:reduce){.scroll-cue{animation:none;opacity:.85}.scroll-cue--down svg{animation:none}}
 /* Arrow stops: clear the sticky chrome, and give each stop enough height that
    landing on it shows the block rather than just its heading. */
-#federal,#build,#global{scroll-margin-top:calc(var(--agp-chrome,110px) + 18px)}
-#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-chrome,110px) - 34px)}
+#federal,#build,#global{scroll-margin-top:calc(var(--agp-chrome,110px) + 14px)}
+/* full sections carry 82px of top padding, so pull the anchor up by it and the
+   heading lands just under the header instead of a screen of empty space */
+#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-chrome,110px) + 14px - 82px)}
+@media(max-width:900px){#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-chrome,110px) + 10px - 56px)}}
 #build{padding-bottom:8px}
-.deliver{min-height:calc(100svh - var(--agp-chrome,110px));display:flex;align-items:center}
-@media(max-width:900px){.deliver{min-height:0;display:block}}
+.deliver{min-height:calc(100svh - var(--agp-chrome,110px))}
+@media(max-width:900px){.deliver{min-height:0}}
 @media(max-width:700px){.hero{min-height:88vh}.htitle{padding:clamp(12px,2vh,24px) 22px}.htitle .gpsa{margin:0 0 clamp(14px,2.4vh,26px)}.htitle h1{font-size:clamp(34px,10vw,52px);max-width:none}}
 
 .svcbody{color:var(--dim);font-size:14.5px}
@@ -280,16 +283,26 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 }
 @media(max-width:900px){.wbcaps{width:48%;min-width:0;padding:0 4% 0 2%}}
 @media(max-width:760px){
+  /* Phone: the captions come out from over the video and sit under it at full
+     reading size. The clip is cropped to 4:3 so the building is large enough
+     to read on a small screen. */
   .wb{aspect-ratio:auto;overflow:visible;border:0;background:none;border-radius:0}
-  .wb video{aspect-ratio:16/9;border-radius:12px;border:1px solid var(--line)}
-  .wbcaps{position:static;width:auto;min-width:0;padding:16px 2px 0;background:none;display:block;min-height:296px}
+  .wb video{aspect-ratio:4/3;border-radius:12px;border:1px solid var(--line);object-fit:cover}
+  .wbcaps{position:static;width:auto;min-width:0;padding:18px 0 0;background:none;display:block;min-height:350px}
   .wbcap{display:none;transform:none}
   .wbcap.on{display:block}
-  .wbcap .n{font-size:38px}
-  .wbcap h4{font-size:21px}
-  .wbcap>p{font-size:15px;max-width:none;text-shadow:none}
-  .wbcap li{font-size:13.5px;text-shadow:none}
-  .wbrail{grid-template-columns:1fr 1fr}
+  .wbcap .n{font-size:44px}
+  .wbcap h4{font-size:24px;margin:6px 0 8px}
+  .wbcap>p{font-size:16.5px;line-height:1.55;max-width:none;text-shadow:none;color:#F2F7FF}
+  .wbcap ul{gap:9px;margin-top:13px}
+  .wbcap li{font-size:15.5px;line-height:1.5;padding-left:16px;text-shadow:none;color:#E4EDFF}
+  .wbcap li::before{width:6px;height:6px;top:.6em}
+  .wbcap .s{font-size:12px;margin-top:12px}
+  .wbrail{grid-template-columns:1fr 1fr;gap:8px}
+  .wbrail button{font-size:11px}
+  .wbrail button b{font-size:13px}
+  .wbhint{font-size:13.5px}
+  .wbnote{font-size:15px}
   .wbtrack{height:40px}
   .wbtrack .mk{width:18px;height:18px;margin-left:-9px;top:7px}
   .wbtrack .head{width:22px;height:22px;margin-left:-11px;top:5px}
@@ -434,7 +447,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
             <li><b>Interim leadership:</b> we run the seat until your hire is ready</li>
           </ul><span class="s">Phase Four</span></div>
           <div class="wbcap" data-at="12.2"><p class="n">05</p><h4>Government Affairs Strategy</h4><p>The campaign that turns one contract into a market.</p><ul>
-            <li><b>Hill and agency engagement:</b> authorizers, appropriators, program offices</li>
+            <li><b>Agency engagement:</b> program offices, contracting shops, and the people who write requirements</li>
             <li><b>Budget and policy:</b> getting your capability into the line items that fund it</li>
             <li><b>Coalitions and associations:</b> allies who carry the argument when you cannot</li>
             <li><b>International:</b> allied governments, FMS, and export controls when you scale abroad</li>
@@ -448,13 +461,13 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <div class="wbrail" id="wb-rail">
         <button type="button"><b>01 Go-to-Market</b>Phase One</button><button type="button"><b>02 Product</b>Phase Two</button><button type="button"><b>03 Partnerships</b>Phase Three</button><button type="button"><b>04 Talent</b>Phase Four</button><button type="button"><b>05 Gov Affairs</b>Phase Five</button>
       </div>
-      <p class="wbhint">Hover or tap a phase to hold it. Drag the line to move through the build.</p>
+      <p class="wbhint">Tap or hover a phase to hold it. Drag the line to move through the build.</p>
       <div class="bgrid">
         <div class="bcell"><p class="bn">01</p><div><b>Go-to-Market</b><p>Strategy grounded in how agencies actually buy: capture and pipeline discipline, compliance and contracting foundations, back-office setup, and pricing for the federal buyer.</p></div></div>
         <div class="bcell"><p class="bn">02</p><div><b>Product Strategy</b><p>Roadmaps shaped for government requirements, certifications, and procurement reality, so the product is buyable when the opening comes.</p></div></div>
         <div class="bcell"><p class="bn">03</p><div><b>Partnerships</b><p>Primes, integrators, and channel; the teaming that gets early-stage technology onto contract vehicles without giving away the deal.</p></div></div>
         <div class="bcell"><p class="bn">04</p><div><b>Vetted Talent</b><p>The operators who run public sector, including cleared talent; sourced, vetted, and accountable.</p></div></div>
-        <div class="bcell bcell--wide"><p class="bn">05</p><div><b>Government Affairs Strategy</b><p>The national or international campaign that follows a first contract, created and executed with the client: the agencies, committees, primes, and allied buyers to engage and in what sequence, introductions to technology business incubators and accelerators, and representation as brand ambassador at conferences, meetings, and industry events. The goal is a repeatable public sector business.</p></div></div>
+        <div class="bcell bcell--wide"><p class="bn">05</p><div><b>Government Affairs Strategy</b><p>The national or international campaign that follows a first contract, created and executed with the client: the agencies, primes, and allied buyers to engage and in what sequence, introductions to technology business incubators and accelerators, and representation as brand ambassador at conferences, meetings, and industry events. The goal is a repeatable public sector business.</p></div></div>
       </div>
       <p class="wbnote">Take <b>all five</b>, or the <b>one or two pieces</b> you are missing. Any set is scoped and priced as a single engagement.</p>
     </div>
@@ -624,11 +637,24 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
      straight to Clients. */
   var ids=['top','services','build','global','deliver','who','about','team','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
-  function chrome(){return parseInt(getComputedStyle(document.documentElement).getPropertyValue('--agp-chrome'))||110}
-  function tops(){return secs.map(function(s){return s.getBoundingClientRect().top+window.scrollY})}
-  /* Step by index, not by pixel threshold. Whichever stop the reader is
-     standing in, the arrow moves exactly one stop: no repeats, no skips. */
-  function here(){var y=window.scrollY+chrome()+72,t=tops(),i=0;
+  /* Height of whatever is actually stuck across the top right now. */
+  function stuckHeight(){
+    var bar=document.querySelector('.topbar'), h=bar?bar.getBoundingClientRect().height:0;
+    var nf=document.querySelector('.nf');
+    if(nf){var r=nf.getBoundingClientRect(); if(r.top<=h&&r.bottom>h) h=r.bottom;}
+    return h;
+  }
+  /* A stop begins at its first line of content, not at the top of its padding.
+     Measured with offsetTop, not getBoundingClientRect: blocks that have not
+     revealed yet are still translated down 50px, and measuring that shifted
+     position lands the reader 50px too far once the reveal finishes. */
+  function docTop(el){var y=0;while(el){y+=el.offsetTop;el=el.offsetParent;}return y;}
+  function startOf(el){
+    return docTop(el)+(parseFloat(getComputedStyle(el).paddingTop)||0);
+  }
+  function tops(){return secs.map(startOf)}
+  /* Step by index, not by pixel threshold: exactly one stop per click. */
+  function here(){var y=window.scrollY+stuckHeight()+40,t=tops(),i=0;
     for(var k=0;k<secs.length;k++){ if(t[k]<=y) i=k; }
     return i;}
   function next(){var i=here();return i+1<secs.length?secs[i+1]:null;}
@@ -638,8 +664,18 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
     down.classList.toggle('gone',!n||atEnd); if(n)down.setAttribute('href','#'+n.id);
     up.classList.toggle('gone',!pv); if(pv)up.setAttribute('href','#'+pv.id);
   }
-  down.addEventListener('click',function(e){var n=next();if(n){e.preventDefault();n.scrollIntoView({behavior:'smooth',block:'start'});}});
-  up.addEventListener('click',function(e){var pv=prev();if(pv){e.preventDefault();pv.scrollIntoView({behavior:'smooth',block:'start'});}});
+  /* Land the stop's first line just under the stuck header, so the reader sees
+     the section title at the top of the screen rather than a screen of padding. */
+  function land(el){
+    /* reveal the target and anything inside it before moving, so nothing
+       shifts under the reader after the scroll settles */
+    if(el.classList.contains('rv'))el.classList.add('go');
+    [].forEach.call(el.querySelectorAll('.rv'),function(r){r.classList.add('go')});
+    var y=startOf(el)-stuckHeight()-14;
+    window.scrollTo({top:Math.max(0,y),behavior:'smooth'});
+  }
+  down.addEventListener('click',function(e){var n=next();if(n){e.preventDefault();land(n);}});
+  up.addEventListener('click',function(e){var pv=prev();if(pv){e.preventDefault();land(pv);}});
   window.addEventListener('scroll',update,{passive:true});
   window.addEventListener('resize',update);
   update();
