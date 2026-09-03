@@ -2,7 +2,7 @@
    v3: the long-form card section under the hero was retired 2026-07-30 at
    Brad's direction. This script now (1) removes that legacy section if its
    markup is still present in index.html, and (2) renders the scrolling
-   headline ticker between the sticky header and the hero. Every failure
+   headline ticker between the header and the hero, part of the landing screen. Every failure
    path degrades to "no ticker" — the page never breaks. */
 (function () {
   "use strict";
@@ -53,16 +53,15 @@
           '<span class="nf-tdot" aria-hidden="true"></span><span>Public Sector News</span></span>' +
         '<div class="nf-ticker-viewport"><div class="nf-ticker-track" id="nf-tick-track"></div></div>';
       hero.parentNode.insertBefore(bar, hero);
-      /* Pin the ticker directly under the sticky topbar so it stays visible
-         while scrolling every section. Anchor jumps account for its height. */
-      var pin = function () {
+      /* Not pinned. The ticker belongs to the landing screen and scrolls away
+         with it, so only the topbar covers content further down. Anchor jumps
+         clear the topbar alone. */
+      var pad = function () {
         var tb = document.querySelector(".topbar");
-        var h = tb ? tb.offsetHeight : 0;
-        bar.style.top = h + "px";
-        document.documentElement.style.scrollPaddingTop = (h + bar.offsetHeight + 8) + "px";
+        document.documentElement.style.scrollPaddingTop = ((tb ? tb.offsetHeight : 0) + 8) + "px";
       };
-      pin();
-      window.addEventListener("resize", pin);
+      pad();
+      window.addEventListener("resize", pad);
     }
     var html = list.map(function (s) {
       return '<a class="nf-ticker-item" href="' + esc(safeHref(s.url)) + '" target="_blank" rel="noopener noreferrer nofollow">' +
