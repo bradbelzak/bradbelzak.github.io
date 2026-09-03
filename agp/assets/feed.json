@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-03T19:16:02.621573Z",
+ "updatedAt": "2026-09-03T23:13:42.106341Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Pentagon plans fleet of portable SCIFs",
+   "url": "https://federalnewsnetwork.com/defense-main/2026/09/pentagon-plans-fleet-of-portable-scifs/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-03T22:21:22Z",
+   "why": "The initiative may allow more nontraditional contractors to contribute to national security, collaborate with government teams and compete for classified work."
+  },
+  {
+   "title": "Lawmakers with ‘deep concerns’ press Army leadership about decision to terminate unit’s Ukraine-informed drone mission",
+   "url": "https://defensescoop.com/2026/09/03/lawmakers-press-army-about-decision-to-terminate-units-drone-mission/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-09-03T21:26:10Z",
+   "why": "Following an exercise in Germany set to end this month, the battalion will stop its specialized drone mission and return to its core task as an airborne..."
+  },
+  {
+   "title": "Agencies now have to pay to use USAi",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/agencies-now-have-pay-use-usai/415816/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-09-03T21:02:00Z",
+   "why": "A GSA official familiar with the matter said the fee “is based on an agency's expected workload, approximated by agency size.”"
+  },
+  {
+   "title": "DOGE, DHS axed IT contracts to save money. Watchdog says it didn’t work",
+   "url": "https://fedscoop.com/dhs-doge-it-contracts-cut-costs-gao-report/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-03T20:33:54Z",
+   "why": "The contract audit conducted by the Government Accountability Office is part of a forthcoming series of reports that aim to uncover the impact of last year’s..."
+  },
+  {
+   "title": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
+   "url": "https://www.washingtontechnology.com/companies/2026/09/xpect-solutions-buys-amivero-bulk-ai-automation-capabilities/415809/",
+   "source": "Washington Technology",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-03T19:02:50Z",
+   "why": "The deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack."
+  },
   {
    "title": "Financial regulators would get more authority over tech providers under House bill",
    "url": "https://fedscoop.com/ncua-fhfa-tech-providers-regulatory-authorities/",
@@ -27,46 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-03T16:04:00Z",
    "why": "The office tasked with helping agencies deploy the federal EHR is looking to move toward cloud infrastructure, enhance interoperability and scale an artificial..."
-  },
-  {
-   "title": "Estonian defense minister resigns following Ukrainian ammo procurement controversy",
-   "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-03T11:55:37Z",
-   "why": "Hanno Pevkur said on Estonian TV that while he wasn’t personally responsible for the contracts in question, “a leader must have both the courage and stature to..."
-  },
-  {
-   "title": "New CR Blocks New Defense Production Starts",
-   "url": "https://www.govconwire.com/articles/continuing-resolution-fy2027-funding-signed",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-03T08:46:37Z",
-   "why": "The measure extends the Technology Modernization Fund and cybersecurity information-sharing authorities to Dec."
-  },
-  {
-   "title": "MANTECH Secures $345M Task Order for Navy Cyber, C3I R&D",
-   "url": "https://www.govconwire.com/articles/mantech-345m-navy-crane-cyber-c3i-task-order",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-03T08:45:35Z",
-   "why": "The award under the Information Analysis Center vehicle covers electronic warfare, expeditionary warfare and defensive cyber work."
-  },
-  {
-   "title": "Xpect Solutions Acquires Amivero to Expand National Security Tech Capabilities",
-   "url": "https://www.govconwire.com/articles/xpect-solutions-acquires-amivero-national-security",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-03T08:44:52Z",
-   "why": "Xpect Solutions has acquired Amivero to broaden its AI, cyber and digital modernization capabilities for national security agencies."
-  },
-  {
-   "title": "House committee votes to subpoena Oracle after fiery hearing on VA’s $27B EHRM contract",
-   "url": "https://fedscoop.com/oracle-subpoena-house-hearing-va-27b-ehrm-contract/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T22:23:35Z",
-   "why": "Across the aisle, lawmakers expressed outrage over the recent contract ceiling hike after Oracle’s CEO told Congress four years ago that the company would not..."
   }
  ]
 }
