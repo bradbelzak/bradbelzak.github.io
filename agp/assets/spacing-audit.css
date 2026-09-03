@@ -34,13 +34,10 @@ footer{ padding: clamp(20px,2.5vw,30px) var(--sp-gutter); }
 @supports not (height: 100svh){
   .hero{ min-height: min(calc(100vh - var(--agp-chrome, 104px)), 1040px); }
 }
-/* Short laptop screens: the 82px headline alone fills the first screen and
-   leaves nothing to breathe. Scale the hero type to the viewport's height,
-   not just its width. */
-@media (max-height: 820px){
-  .htitle h1{ font-size: clamp(32px, 4.6vw, 60px); }
-  .htitle .gpsa{ font-size: clamp(14px, 1.5vw, 19px); }
-}
+/* Hero type is sized on width only. It used to scale on viewport HEIGHT,
+   which meant the headline resized mid-scroll on phones: hiding the URL bar
+   changes the height and flipped the media query. The cap below is low enough
+   that the first screen still breathes on a short laptop. */
 @media (max-height: 620px){ .hero{ min-height: auto; padding: 46px 0 42px; } }
 
 .hero + .nf{ border-top: 0; padding-top: clamp(40px, 5.5vw, 84px); }
