@@ -106,7 +106,7 @@ h2.t em,.hero h1 em{font-style:italic}
 .contact{background:var(--card);border-top:1px solid var(--line)}
 /* Last section: tall enough that the arrow can bring its top to the top of
    the screen instead of stalling at the page end */
-#contact{min-height:calc(100svh - var(--agp-chrome,156px));box-sizing:border-box}
+#contact{min-height:calc(100svh - var(--agp-stuck,110px));box-sizing:border-box}
 footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-size:12px}
 
 /* ===== Hero (single) ===== */
@@ -114,16 +114,20 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .hero video.bg{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(1.03)}
 .hero .tint{position:absolute;inset:0;background:linear-gradient(95deg,rgba(4,10,32,.9) 0%,rgba(5,13,40,.62) 46%,rgba(5,13,40,.32) 100%)}
 .htitle{position:relative;z-index:3;text-align:left;padding:clamp(14px,2.4vh,34px) 6.5vw;max-width:1180px}
-.htitle .gpsa{font-size:clamp(16px,2vw,25px);font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:#fff;opacity:.94;margin:0 0 clamp(16px,3vh,34px);text-shadow:0 2px 22px rgba(0,0,0,.6)}
-.htitle h1{font-size:clamp(38px,6vw,82px);color:#fff;text-shadow:0 4px 30px rgba(0,0,0,.6);max-width:17ch;margin:0;line-height:1.03;letter-spacing:-.012em}
+.htitle .gpsa{font-size:clamp(15px,1.75vw,21px);font-weight:700;letter-spacing:.3em;text-transform:uppercase;color:#fff;opacity:.94;margin:0 0 clamp(16px,1.9vw,30px);text-shadow:0 2px 22px rgba(0,0,0,.6)}
+.htitle h1{font-size:clamp(36px,5.1vw,70px);color:#fff;text-shadow:0 4px 30px rgba(0,0,0,.6);max-width:17ch;margin:0;line-height:1.03;letter-spacing:-.012em}
 .htitle .hsub{font-size:clamp(14px,1.35vw,17.5px);color:#E4ECFB;margin:22px 0 0;max-width:560px;line-height:1.5;text-shadow:0 2px 20px rgba(0,0,0,.6)}
 /* Scroll cues: two bare chevrons that float at the screen edges. Up sits
    just under the news ticker and goes to the previous section (hidden on
    the hero); down sits at the bottom and goes to the next (hidden at
    Contact). Kept dim so they guide without pulling the eye off the copy. */
+/* The floating arrows are retired; the header links land each section the
+   same way. The elements stay in the markup only so the landing logic
+   (which shares their code) keeps running. */
+.scroll-cue{display:none!important}
 .scroll-cue{position:fixed;left:50%;transform:translateX(-50%);z-index:115;display:grid;place-items:center;width:56px;height:46px;color:#fff;opacity:0;filter:drop-shadow(0 2px 8px rgba(0,0,0,.7));animation:cue-in .9s ease-out .9s forwards;transition:opacity .3s,color .2s}
 .scroll-cue--down{bottom:clamp(12px,2.5vh,24px)}
-.scroll-cue--up{top:calc(var(--agp-chrome,156px) + 8px)}
+.scroll-cue--up{top:calc(var(--agp-stuck,110px) + 8px)}
 .scroll-cue--down svg{animation:cue-bob 2.4s ease-in-out 1.8s infinite}
 .scroll-cue:hover{opacity:1!important;color:#fff}
 .scroll-cue--down:hover svg{animation-play-state:paused;transform:translateY(3px)}
@@ -134,15 +138,15 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 @media(prefers-reduced-motion:reduce){.scroll-cue{animation:none;opacity:.85}.scroll-cue--down svg{animation:none}}
 /* Arrow stops: clear the sticky chrome, and give each stop enough height that
    landing on it shows the block rather than just its heading. */
-#federal,#build,#global{scroll-margin-top:calc(var(--agp-chrome,110px) + 14px)}
+#federal,#build,#global{scroll-margin-top:calc(var(--agp-stuck,110px) + 14px)}
 /* full sections carry 82px of top padding, so pull the anchor up by it and the
    heading lands just under the header instead of a screen of empty space */
-#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-chrome,110px) + 14px - 82px)}
-@media(max-width:900px){#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-chrome,110px) + 10px - 56px)}}
+#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-stuck,110px) + 14px - 82px)}
+@media(max-width:900px){#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-stuck,110px) + 10px - 56px)}}
 #build{padding-bottom:8px}
-.deliver{min-height:calc(100svh - var(--agp-chrome,110px))}
+.deliver{min-height:calc(100svh - var(--agp-stuck,110px))}
 @media(max-width:900px){.deliver{min-height:0}}
-@media(max-width:700px){.hero{min-height:88vh}.htitle{padding:clamp(12px,2vh,24px) 22px}.htitle .gpsa{margin:0 0 clamp(14px,2.4vh,26px)}.htitle h1{font-size:clamp(34px,10vw,52px);max-width:none}}
+@media(max-width:700px){.hero{min-height:88svh}.htitle{padding:20px 22px}.htitle .gpsa{margin:0 0 20px}.htitle h1{font-size:clamp(34px,9.2vw,50px);max-width:none}}
 
 .svcbody{color:var(--dim);font-size:14.5px}
 .ledex{color:var(--dim);max-width:760px;font-size:16.5px;margin-top:10px}
@@ -239,17 +243,21 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .bcell--wide{grid-column:1 / -1}
 @media(max-width:900px){.bgrid{grid-template-columns:1fr}}
 /* ===== What We Build: the layered build loop ===== */
-.wb{position:relative;border-radius:16px;overflow:hidden;border:1px solid var(--line);background:#000;aspect-ratio:16/9}
-.wb video{display:block;width:100%;height:100%;object-fit:cover;transform:translateZ(0);backface-visibility:hidden}
-.wbcaps{position:absolute;right:0;top:0;bottom:0;width:42%;min-width:280px;display:grid;align-content:center;align-items:center;padding:0 4% 0 3%;pointer-events:none;background:linear-gradient(90deg,rgba(6,14,38,0),rgba(6,14,38,.72) 22%,rgba(6,14,38,.92))}
-.wbcap{grid-area:1 / 1;align-self:center;opacity:0;transform:translateY(10px);transition:opacity .5s ease,transform .6s cubic-bezier(.16,1,.3,1)}
+/* The clip sits in its own box on the left, cropped to 4:3 from the left edge
+   so the building fills the frame; the captions stand beside it in their own
+   column, starting at the top, so the number and heading are readable without
+   the video filling the screen. */
+.wb{position:relative;display:grid;grid-template-columns:minmax(0,1.08fr) minmax(280px,.92fr);gap:28px;align-items:start}
+.wb video{display:block;width:100%;aspect-ratio:4/3;max-height:min(58vh,540px);object-fit:cover;object-position:left center;border-radius:16px;border:1px solid var(--line);background:#000;transform:translateZ(0);backface-visibility:hidden}
+.wbcaps{position:relative;display:grid;align-content:start;align-items:start;padding:2px 0 0;pointer-events:none;min-height:0}
+.wbcap{grid-area:1 / 1;align-self:start;opacity:0;transform:translateY(10px);transition:opacity .5s ease,transform .6s cubic-bezier(.16,1,.3,1)}
 .wbcap.on{opacity:1;transform:none}
-.wbcap .n{font-family:'Fraunces',Georgia,serif;font-size:clamp(34px,4.4vw,58px);font-weight:600;color:#8FB4FF;line-height:1;letter-spacing:-.02em;text-shadow:0 2px 20px rgba(0,0,0,.75);margin:0}
+.wbcap .n{font-family:'Fraunces',Georgia,serif;font-size:clamp(30px,3.6vw,48px);font-weight:600;color:#8FB4FF;line-height:1;letter-spacing:-.02em;margin:0}
 .wbcap .n.all{color:#5BE49B}
-.wbcap h4{font-family:'Fraunces',Georgia,serif;font-size:clamp(18px,2.2vw,27px);font-weight:600;line-height:1.1;margin:8px 0 6px;color:#fff;text-shadow:0 2px 16px rgba(0,0,0,.75)}
-.wbcap>p{color:#EAF1FF;font-size:clamp(13.5px,1.3vw,15.5px);line-height:1.5;max-width:34ch;margin:0;text-shadow:0 2px 14px rgba(0,0,0,.9)}
-.wbcap ul{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:5px}
-.wbcap li{position:relative;padding-left:13px;font-size:clamp(12px,1.1vw,13.5px);line-height:1.45;color:#D7E2F7;text-shadow:0 2px 14px rgba(0,0,0,.9)}
+.wbcap h4{font-family:'Fraunces',Georgia,serif;font-size:clamp(19px,2.1vw,26px);font-weight:600;line-height:1.1;margin:8px 0 6px;color:#fff}
+.wbcap>p{color:#EAF1FF;font-size:clamp(14px,1.25vw,15.5px);line-height:1.5;max-width:38ch;margin:0}
+.wbcap ul{list-style:none;margin:10px 0 0;padding:0;display:grid;gap:6px}
+.wbcap li{position:relative;padding-left:13px;font-size:clamp(12.5px,1.05vw,14px);line-height:1.45;color:#D7E2F7}
 .wbcap li::before{content:"";position:absolute;left:0;top:.55em;width:5px;height:5px;border-radius:50%;background:#8FB4FF}
 .wbcap li b{color:#fff;font-weight:600}
 .wbcap .s{display:block;margin-top:8px;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#8FB4FF}
@@ -291,21 +299,20 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   .wb,.wbtrack,.wbrail,.wbhint{display:none}
   .bgrid{display:grid}
 }
-@media(max-width:900px){.wbcaps{width:48%;min-width:0;padding:0 4% 0 2%}}
+@media(max-width:900px){.wb{grid-template-columns:1fr 1fr;gap:18px}}
 @media(max-width:760px){
-  /* Phone: the captions come out from over the video and sit under it at full
-     reading size. The clip is cropped to 4:3 so the building is large enough
-     to read on a small screen. */
-  .wb{aspect-ratio:auto;overflow:visible;border:0;background:none;border-radius:0}
-  .wb video{aspect-ratio:4/3;border-radius:12px;border:1px solid var(--line);object-fit:cover}
-  .wbcaps{position:static;width:auto;min-width:0;padding:18px 0 0;background:none;display:block;min-height:350px}
+  /* Phone: the clip on top, kept short enough that the caption starts on the
+     same screen; the captions under it at full reading size. */
+  .wb{display:block}
+  .wb video{aspect-ratio:4/3;max-height:40svh;border-radius:12px}
+  .wbcaps{position:static;width:auto;min-width:0;padding:16px 0 0;display:block;min-height:340px}
   .wbcap{display:none;transform:none}
   .wbcap.on{display:block}
   .wbcap .n{font-size:44px}
   .wbcap h4{font-size:24px;margin:6px 0 8px}
-  .wbcap>p{font-size:16.5px;line-height:1.55;max-width:none;text-shadow:none;color:#F2F7FF}
+  .wbcap>p{font-size:16.5px;line-height:1.55;max-width:none;color:#F2F7FF}
   .wbcap ul{gap:9px;margin-top:13px}
-  .wbcap li{font-size:15.5px;line-height:1.5;padding-left:16px;text-shadow:none;color:#E4EDFF}
+  .wbcap li{font-size:15.5px;line-height:1.5;padding-left:16px;color:#E4EDFF}
   .wbcap li::before{width:6px;height:6px;top:.6em}
   .wbcap .s{font-size:12px;margin-top:12px}
   .wbrail{grid-template-columns:1fr 1fr;gap:8px}
@@ -346,8 +353,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .vx-seam{position:absolute;left:50%;top:0;bottom:0;width:1px;background:linear-gradient(180deg,transparent,rgba(255,255,255,.6),transparent);z-index:4;transform:scaleY(0);transition:transform .45s ease}
 .vx.in .vx-seam{transform:scaleY(1)}
 .vx-hub{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:6;text-align:center;width:210px}
-.vx-stack{width:120px;height:120px;margin:0 auto 6px;display:block;overflow:visible;filter:drop-shadow(0 10px 22px rgba(0,0,0,.6))}
-.vx-name{font-family:'Fraunces',Georgia,serif;font-size:15.5px;font-weight:600;line-height:1.1;background:var(--bg);display:inline-block;padding:7px 13px;border-radius:99px;border:1px solid rgba(255,255,255,.3);opacity:0;transform:translateY(4px);transition:opacity .45s ease 2.05s,transform .45s ease 2.05s,border-color .6s ease 2.3s,color .6s ease 2.3s}
+.vx-stack{width:120px;height:120px;margin:0 auto 10px;display:block;overflow:visible;filter:drop-shadow(0 10px 22px rgba(0,0,0,.6))}
+.vx-name{font-family:'Fraunces',Georgia,serif;font-size:16px;font-weight:600;line-height:1.1;white-space:nowrap;background:var(--bg);display:inline-block;padding:7px 13px;border-radius:99px;border:1px solid rgba(255,255,255,.3);opacity:0;transform:translateY(4px);transition:opacity .45s ease 2.05s,transform .45s ease 2.05s,border-color .6s ease 2.3s,color .6s ease 2.3s}
 .vx-name small{display:block;font-family:'Figtree',sans-serif;font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:#8FB4FF;font-weight:700;margin-top:2px;white-space:nowrap;transition:color .6s ease 2.3s}
 .vx.in .vx-name{opacity:1;transform:none;border-color:#5BE49B;color:#5BE49B}
 .vx.in .vx-name small{color:#5BE49B}
@@ -401,8 +408,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 @media(max-width:900px){.tgrid{grid-template-columns:1fr}}
 }
 </style>
-<link rel="stylesheet" href="agp/assets/news-feed.css">
-<link rel="stylesheet" href="agp/assets/spacing-audit.css">
+<link rel="stylesheet" href="agp/assets/news-feed.css?v=2">
+<link rel="stylesheet" href="agp/assets/spacing-audit.css?v=2">
 </head>
 <body>
 
@@ -460,7 +467,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
     <p class="label rv">Expertise</p>
 
     <!-- Two verticals: the plate parts and Your Startup stacks up on the seam -->
-    <p class="ledex vx-lede rv">Built here. <b>Scaled there.</b></p>
+    <p class="ledex vx-lede rv">The federal market, and the allied markets that buy like it. <b>Two lines of work, one team.</b></p>
     <div class="vx" id="verticals" data-anim>
       <div class="vx-plate l"></div><div class="vx-plate r"></div><div class="vx-seam"></div>
       <div class="vx-hub">
@@ -469,7 +476,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
           <path d="M14 96 L60 119 L106 96 L60 73 Z" fill="#0A1636" stroke="#3D5C9E" stroke-opacity=".5"/>
           <g class="vx-lyr l1"><path class="lf" d="M22 84 L60 103 L60 116 L22 97 Z"/><path class="rt" d="M60 103 L98 84 L98 97 L60 116 Z"/><path class="top" d="M60 65 L98 84 L60 103 L22 84 Z"/><rect class="win" x="30" y="88.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 88.0"/><rect class="win" x="39" y="92.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 92.6"/><rect class="win" x="48" y="97.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 97.2"/><rect class="win" x="67" y="100.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 100.0"/><rect class="win" x="76" y="95.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 95.4"/><rect class="win" x="85" y="90.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 90.8"/></g><g class="vx-lyr l2"><path class="lf" d="M22 71 L60 90 L60 103 L22 84 Z"/><path class="rt" d="M60 90 L98 71 L98 84 L60 103 Z"/><path class="top" d="M60 52 L98 71 L60 90 L22 71 Z"/><rect class="win" x="30" y="75.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 75.0"/><rect class="win" x="39" y="79.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 79.6"/><rect class="win" x="48" y="84.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 84.2"/><rect class="win" x="67" y="87.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 87.0"/><rect class="win" x="76" y="82.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 82.4"/><rect class="win" x="85" y="77.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 77.8"/></g><g class="vx-lyr l3"><path class="lf" d="M22 58 L60 77 L60 90 L22 71 Z"/><path class="rt" d="M60 77 L98 58 L98 71 L60 90 Z"/><path class="top" d="M60 39 L98 58 L60 77 L22 58 Z"/><rect class="win" x="30" y="62.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 62.0"/><rect class="win" x="39" y="66.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 66.6"/><rect class="win" x="48" y="71.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 71.2"/><rect class="win" x="67" y="74.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 74.0"/><rect class="win" x="76" y="69.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 69.4"/><rect class="win" x="85" y="64.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 64.8"/></g><g class="vx-lyr l4"><path class="lf" d="M22 45 L60 64 L60 77 L22 58 Z"/><path class="rt" d="M60 64 L98 45 L98 58 L60 77 Z"/><path class="top" d="M60 26 L98 45 L60 64 L22 45 Z"/><rect class="win" x="30" y="49.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 49.0"/><rect class="win" x="39" y="53.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 53.6"/><rect class="win" x="48" y="58.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 58.2"/><rect class="win" x="67" y="61.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 61.0"/><rect class="win" x="76" y="56.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 56.4"/><rect class="win" x="85" y="51.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 51.8"/></g><g class="vx-lyr l5"><path class="lf" d="M22 32 L60 51 L60 64 L22 45 Z"/><path class="rt" d="M60 51 L98 32 L98 45 L60 64 Z"/><path class="top" d="M60 13 L98 32 L60 51 L22 32 Z"/><rect class="win" x="30" y="36.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 36.0"/><rect class="win" x="39" y="40.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 40.6"/><rect class="win" x="48" y="45.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 45.2"/><rect class="win" x="67" y="48.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 48.0"/><rect class="win" x="76" y="43.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 43.4"/><rect class="win" x="85" y="38.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 38.8"/></g><g class="vx-lyr roof"><path class="lf" d="M22 20 L60 39 L60 52 L22 33 Z"/><path class="rt" d="M60 39 L98 20 L98 33 L60 52 Z"/><path class="top" d="M60 1 L98 20 L60 39 L22 20 Z"/></g>
         </svg>
-        <div class="vx-name">Your Startup<small>Built here. Scaled there.</small></div>
+        <div class="vx-name">Your Startup</div>
       </div>
       <div class="vx-halves">
         <div class="vx-half l" id="federal">
@@ -663,8 +670,13 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
      screen ends at the fold instead of running past it. */
   function setChrome(){
     var t=document.getElementById('nf-ticker');
-    var h=Math.round(bar.getBoundingClientRect().height)+(t?Math.round(t.getBoundingClientRect().height):0);
+    var b=Math.round(bar.getBoundingClientRect().height);
+    var h=b+(t?Math.round(t.getBoundingClientRect().height):0);
+    /* --agp-chrome: header plus ticker, so the first screen ends at the fold.
+       --agp-stuck: header only, which is all that stays pinned once the
+       ticker has scrolled away with the landing screen. */
     document.documentElement.style.setProperty('--agp-chrome',h+'px');
+    document.documentElement.style.setProperty('--agp-stuck',b+'px');
   }
   setChrome();
   window.addEventListener('resize',setChrome);
@@ -700,7 +712,8 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
      the page already measures for header plus ticker; take the larger of that
      and the header's own box so this stays right if either changes. */
   function stuckHeight(){
-    var h=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--agp-chrome'))||0;
+    /* only the header stays pinned now; the ticker scrolls away with the hero */
+    var h=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--agp-stuck'))||0;
     var bar=document.querySelector('.topbar');
     if(bar){ var r=bar.getBoundingClientRect(); if(r.bottom>h) h=r.bottom; }
     return h;
@@ -732,13 +745,31 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
        shifts under the reader after the scroll settles */
     if(el.classList.contains('rv'))el.classList.add('go');
     [].forEach.call(el.querySelectorAll('.rv'),function(r){r.classList.add('go')});
-    /* landing on Expertise by arrow replays the plate and the startup */
+    /* landing on Expertise starts the plate and the startup if it has not run yet */
     var vx=el.querySelector('.vx'); if(vx&&window.agpReveal) setTimeout(function(){window.agpReveal(vx)},350);
     var y=startOf(el)-stuckHeight()-14;
     window.scrollTo({top:Math.max(0,y),behavior:'smooth'});
   }
   down.addEventListener('click',function(e){var n=next();if(n){e.preventDefault();land(n);}});
   up.addEventListener('click',function(e){var pv=prev();if(pv){e.preventDefault();land(pv);}});
+  /* Header links and the ticker button land the same way the arrows do: the
+     section title just under the header, not the top of the section's padding
+     plus the browser's own anchor offset. */
+  function jump(id){
+    var el=document.getElementById(id); if(!el) return false;
+    if(id==='top'){ window.scrollTo({top:0,behavior:'smooth'}); } else { land(el); }
+    if(history.replaceState){ try{ history.replaceState(null,'','#'+id); }catch(err){} }
+    return true;
+  }
+  [].forEach.call(document.querySelectorAll('#primary-nav a[href^="#"], .brand[href^="#"], #nf-cta-btn[href^="#"]'),function(a){
+    a.addEventListener('click',function(e){ if(jump(a.getAttribute('href').slice(1))) e.preventDefault(); });
+  });
+  /* arriving on a deep link (…/#services) lands the same way */
+  if(location.hash&&location.hash.length>1){
+    var hid=location.hash.slice(1);
+    window.addEventListener('load',function(){ setTimeout(function(){ jump(hid); },120); });
+  }
+  window.agpLand=land;
   window.addEventListener('scroll',update,{passive:true});
   window.addEventListener('resize',update);
   update();
@@ -817,7 +848,7 @@ window.AGP_FEED_CONFIG = {
   ctaHref: "#contact"
 };
 </script>
-<script src="agp/assets/news-feed.js" defer></script>
+<script src="agp/assets/news-feed.js?v=2" defer></script>
 <script>
 /* ===== What We Build: the layered build loop =====
    One continuous pass, no per-layer pauses. The clip is 15 seconds and runs at
@@ -844,6 +875,8 @@ window.AGP_FEED_CONFIG = {
 
   v.playbackRate=SPEED;
   v.addEventListener('loadedmetadata',function(){ dur=v.duration||15; v.playbackRate=SPEED; layout(); paint(); });
+  /* show the first caption while the clip is still loading */
+  paint();
 
   function layout(){
     [].forEach.call(track.querySelectorAll('.mk'),function(m){m.remove()});
@@ -908,16 +941,16 @@ window.AGP_FEED_CONFIG = {
   }
 })();
 
-/* Two verticals: the plate parts and Your Startup stacks when the block
-   arrives. Runs once per arrival; scrolling well past and back replays it. */
+/* Two verticals: the plate parts and Your Startup stacks the first time the
+   block arrives. Once per page load; it does not replay on the way back. */
 (function(){
   var vx=document.querySelector('.vx'); if(!vx) return;
-  window.agpReveal=function(el){ el.classList.remove('in'); void el.offsetWidth; el.classList.add('in'); };
+  window.agpReveal=function(el){ el.classList.add('in'); };
   if(!('IntersectionObserver' in window)){ vx.classList.add('in'); return; }
-  new IntersectionObserver(function(es){ es.forEach(function(e){
-    if(e.isIntersecting){ if(!vx.classList.contains('in')) vx.classList.add('in'); }
-    else if(e.boundingClientRect.top>window.innerHeight*1.2||e.boundingClientRect.bottom<-window.innerHeight*.2){ vx.classList.remove('in'); }
-  }) },{threshold:.3}).observe(vx);
+  var io=new IntersectionObserver(function(es){ es.forEach(function(e){
+    if(e.isIntersecting){ vx.classList.add('in'); io.unobserve(vx); }
+  }) },{threshold:.3});
+  io.observe(vx);
 })();
 
 /* Hero clip: a touch slower than real time so the city reads as a backdrop
