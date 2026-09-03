@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-03T14:58:14.603368Z",
+ "updatedAt": "2026-09-03T19:16:02.621573Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Financial regulators would get more authority over tech providers under House bill",
+   "url": "https://fedscoop.com/ncua-fhfa-tech-providers-regulatory-authorities/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-09-03T18:46:47Z",
+   "why": "The Strengthening Oversight for the Financial Sector Act puts the NCUA and FHFA on a more level playing field with other federal financial agencies with regard..."
+  },
+  {
+   "title": "Former CISA employee pleads guilty to defrauding government with secret contractor jobs",
+   "url": "https://www.nextgov.com/people/2026/09/former-cisa-employee-pleads-guilty-defrauding-government-secret-contractor-jobs/415803/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-03T16:46:00Z",
+   "why": "Prosecutors say Richeline Fung secretly held contractor jobs tied to six agencies and claimed up to 33-hour workdays while working full time for the federal..."
+  },
+  {
+   "title": "14 organizations are looking to join federal electronic health record program",
+   "url": "https://www.nextgov.com/digital-government/2026/09/14-organizations-are-looking-join-federal-electronic-health-record-program/415801/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-03T16:04:00Z",
+   "why": "The office tasked with helping agencies deploy the federal EHR is looking to move toward cloud infrastructure, enhance interoperability and scale an artificial..."
+  },
   {
    "title": "Estonian defense minister resigns following Ukrainian ammo procurement controversy",
    "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal/",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-02T22:23:35Z",
    "why": "Across the aisle, lawmakers expressed outrage over the recent contract ceiling hike after Oracle’s CEO told Congress four years ago that the company would not..."
-  },
-  {
-   "title": "House panel subpoenas Oracle heads over VA health record overhaul’s ballooning costs",
-   "url": "https://www.nextgov.com/modernization/2026/09/house-panel-subpoenas-oracle-heads-over-va-health-record-overhauls-ballooning-costs/415791/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T22:09:00Z",
-   "why": "The House Veterans’ Affairs Committee voted 19-0 to subpoena Oracle Chairman and Co-founder Larry Ellison and Oracle CEO Mike Sicilia after VA announced plans..."
-  },
-  {
-   "title": "House VA lawmakers to subpoena Oracle over EHR contract",
-   "url": "https://federalnewsnetwork.com/veterans-affairs/2026/09/house-va-lawmakers-to-subpoena-oracle-over-ehr-contract/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-02T21:52:51Z",
-   "why": "The House Veterans Affairs Committee unanimously approved the motion to compel Oracle leaders to testify after the software giant pulled out of the hearing."
-  },
-  {
-   "title": "GSA terminates hundreds of security clearances after review",
-   "url": "https://federalnewsnetwork.com/workforce/2026/09/gsa-terminates-hundreds-of-security-clearances-after-review/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-02T20:53:19Z",
-   "why": "GSA terminated the security clearances of several hundred employees after an audit to ensure clearances \"are strictly aligned with operational necessity.\""
   }
  ]
 }
