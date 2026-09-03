@@ -279,7 +279,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .wbtrack .mk.done{border-color:#5BE49B;background:#5BE49B}
 .wbtrack .head{position:absolute;top:6px;width:19px;height:19px;margin-left:-9.5px;border-radius:50%;background:#fff;border:3px solid #8FB4FF;box-shadow:0 4px 14px rgba(0,0,0,.55);pointer-events:none;transition:border-color .4s}
 .wbtrack.done .head{border-color:#5BE49B}
-.wbrail{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-top:6px}
+.wbrail{display:grid;grid-template-columns:repeat(6,1fr);gap:6px;margin-top:6px}
 .wbrail button{font:inherit;text-align:left;background:none;cursor:pointer;border:0;border-top:2px solid var(--line);padding:7px 4px 4px 0;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--dim);transition:border-color .35s,color .35s}
 .wbrail button b{display:block;font-size:11.5px;color:var(--dim);letter-spacing:.04em;text-transform:none;font-weight:600;transition:color .35s}
 .wbrail button:hover{color:#fff}.wbrail button:hover b{color:#fff}
@@ -287,7 +287,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .wbrail button.done{border-top-color:#5BE49B}
 .wbrail button.pinned{border-top-color:#fff}.wbrail button.pinned b{color:#fff}
 .wbhint{margin:12px 0 0;font-size:12.5px;color:var(--dim)}
-.wbnote{margin:14px 0 0;font-size:14px;color:var(--dim);border-top:1px solid var(--line);padding-top:13px}
+.wbl{min-width:0}
+.wbnote{margin:14px 0 0;font-size:14px;line-height:1.5;color:var(--dim)}
 .wbnote b{color:#fff;font-weight:600}
 /* Green is the finish line, not a progress colour. Until the building turns
    green in the footage everything on the page stays blue; at that moment the
@@ -312,7 +313,9 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 @media(max-width:760px){
   /* Phone: the clip on top, kept short enough that the caption starts on the
      same screen; the captions under it at full reading size. */
-  .wb{display:block}
+  .wb{display:flex;flex-direction:column}
+  .wbl{display:contents}
+  .wbnote{order:3;margin-top:18px}
   .wb video{aspect-ratio:4/3;max-height:40svh;border-radius:12px}
   .wbcaps{position:static;width:auto;min-width:0;padding:16px 0 0;display:block;min-height:340px}
   .wbcap{display:none;transform:none}
@@ -520,58 +523,61 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <p class="label">What We Build</p>
       <p class="ledex">Everything a startup needs to win government business, built in this order and handed over running. Engage us for the full build or the one piece you are missing.</p>
       <div class="wb" id="wb">
-        <video id="wb-v" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/hf_20260903_050441_37bcdff2-76c8-4c5e-a2c1-afb5e67d45c1.mp4" muted playsinline autoplay preload="metadata" aria-label="A public sector division being built floor by floor over eight sprints"></video>
+        <div class="wbl"><video id="wb-v" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/hf_20260903_234658_c3b2d851-23c3-4880-b310-7cee334946aa.mp4" muted playsinline autoplay preload="metadata" aria-label="A six-story public sector division being built floor by floor, one phase per floor"></video>
+        <p class="wbnote">Take <b>all six</b>, or the <b>one or two pieces</b> you are missing. Any set is scoped and priced as a single engagement.</p></div>
         <div class="wbcaps" id="wb-caps">
-          <div class="wbcap" data-at="0"><p class="n">00</p><h4>Foundation poured.</h4><p>Founders want the division overnight. We build it in sprints, in this order.</p></div>
-          <div class="wbcap" data-at="1.7"><p class="n">01</p><h4>Go-to-Market</h4><p>Who buys, how they buy, and what has to be true first.</p><ul>
+          <div class="wbcap" data-at="0"><p class="n">00</p><h4>Ground broken.</h4><p>Founders want the division overnight. We build it in six phases, in this order, and each one has to hold before the next goes on.</p></div>
+          <div class="wbcap" data-at="1.6"><p class="n">01</p><h4>Administrative Foundation</h4><p>The back office that lets a small team run a federal business.</p><ul>
+            <li><b>AI-powered operations dashboard:</b> pipeline, contracts, cash, and compliance deadlines on one screen</li>
+            <li><b>Agents on the daily work:</b> proposals drafted, invoices out, registrations kept current</li>
+            <li><b>Lean staffing model:</b> the few people you hire, and what the agents carry instead</li>
+            <li><b>Finance and compliance rails:</b> DCAA-ready accounting, timekeeping, and policies from day one</li>
+          </ul><span class="s">Phase One</span></div>
+          <div class="wbcap" data-at="4.0"><p class="n">02</p><h4>Go-to-Market</h4><p>Who buys, how they buy, and what has to be true first.</p><ul>
             <li><b>Target agencies:</b> who actually buys what you built</li>
             <li><b>Capture strategy:</b> how a deal is won before it is posted</li>
             <li><b>Registrations and pricing:</b> SAM.gov, CAGE, NAICS, and rates that pass review</li>
             <li><b>Compliance:</b> CMMC and FedRAMP, the gates startups hit late</li>
-          </ul><span class="s">Phase One</span></div>
-          <div class="wbcap" data-at="4"><p class="n">02</p><h4>Product Strategy</h4><p>What you built, made buyable by a government customer.</p><ul>
+          </ul><span class="s">Phase Two</span></div>
+          <div class="wbcap" data-at="5.8"><p class="n">03</p><h4>Product Strategy</h4><p>What you built, made buyable by a government customer.</p><ul>
             <li><b>Requirements mapping:</b> your roadmap against what agencies are required to buy</li>
             <li><b>Authorization path:</b> FedRAMP, ATO, IL levels; which one, and what it costs you</li>
             <li><b>Pilot to program:</b> designing the first pilot so it can become a program of record</li>
             <li><b>Differentiation:</b> the claims that survive a source-selection board</li>
-          </ul><span class="s">Phase Two</span></div>
-          <div class="wbcap" data-at="6.3"><p class="n">03</p><h4>Partnerships</h4><p>Most federal revenue reaches a startup through somebody else&#8217;s contract.</p><ul>
+          </ul><span class="s">Phase Three</span></div>
+          <div class="wbcap" data-at="7.4"><p class="n">04</p><h4>Partnerships</h4><p>Most federal revenue reaches a startup through somebody else&#8217;s contract.</p><ul>
             <li><b>Primes and integrators:</b> who already holds the vehicles you need</li>
             <li><b>Teaming agreements:</b> signed, with scope and exclusivity defined up front</li>
             <li><b>Vehicles and set-asides:</b> GSA, GWACs, OTAs, SBIR; the fastest route in</li>
             <li><b>Channel economics:</b> margin, pass-through, and who owns the customer</li>
-          </ul><span class="s">Phase Three</span></div>
-          <div class="wbcap" data-at="8.6"><p class="n">04</p><h4>Vetted Talent</h4><p>A division is people. We put the right ones in seat.</p><ul>
+          </ul><span class="s">Phase Four</span></div>
+          <div class="wbcap" data-at="8.9"><p class="n">05</p><h4>Vetted Talent</h4><p>A division is people. We put the right ones in seat.</p><ul>
             <li><b>Capture and BD leads:</b> operators who have run the play before</li>
             <li><b>Cleared personnel:</b> where the work requires it, sourced and processed</li>
             <li><b>Contracts and compliance:</b> the back office that keeps you eligible</li>
             <li><b>Interim leadership:</b> we run the seat until your hire is ready</li>
-          </ul><span class="s">Phase Four</span></div>
-          <div class="wbcap" data-at="10.9"><p class="n">05</p><h4>Government Affairs Strategy</h4><p>The campaign that turns one contract into a market.</p><ul>
+          </ul><span class="s">Phase Five</span></div>
+          <div class="wbcap" data-at="10.4"><p class="n">06</p><h4>Government Affairs Strategy</h4><p>The campaign that turns one contract into a market.</p><ul>
             <li><b>Agency engagement:</b> program offices, contracting shops, and the people who write requirements</li>
             <li><b>Budget and policy:</b> getting your capability into the line items that fund it</li>
             <li><b>Coalitions and associations:</b> allies who carry the argument when you cannot</li>
             <li><b>International:</b> allied governments, FMS, and export controls when you scale abroad</li>
-          </ul><span class="s">Phase Five</span></div>
-          <div class="wbcap" data-at="13.05"><p class="n all">All five</p><h4>Handed over running.</h4><p>A public sector division that runs without us.</p></div>
+          </ul><span class="s">Phase Six</span></div>
+          <div class="wbcap" data-at="13.0"><p class="n all">All six</p><h4>Handed over running.</h4><p>A public sector division that runs without us.</p></div>
           <button type="button" class="wbreplay" id="wb-replay" aria-label="Replay the build"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>Replay</button>
         </div>
       </div>
-      <div class="wbtrack" id="wb-track" role="slider" tabindex="0" aria-label="Move through the build" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0">
+      <div class="wbtrack" id="wb-track" role="slider" tabindex="0" aria-label="Move through the build" aria-valuemin="0" aria-valuemax="6" aria-valuenow="0">
         <div class="bar"></div><div class="fill" id="wb-fill"></div><div class="head" id="wb-head"></div>
       </div>
-      <div class="wbrail" id="wb-rail">
-        <button type="button"><b>01 Go-to-Market</b>Phase One</button><button type="button"><b>02 Product</b>Phase Two</button><button type="button"><b>03 Partnerships</b>Phase Three</button><button type="button"><b>04 Talent</b>Phase Four</button><button type="button"><b>05 Gov Affairs</b>Phase Five</button>
-      </div>
-      <p class="wbhint">Tap or hover a phase to hold it.</p>
       <div class="bgrid">
-        <div class="bcell"><p class="bn">01</p><div><b>Go-to-Market</b><p>Strategy grounded in how agencies actually buy: capture and pipeline discipline, compliance and contracting foundations, back-office setup, and pricing for the federal buyer.</p></div></div>
-        <div class="bcell"><p class="bn">02</p><div><b>Product Strategy</b><p>Roadmaps shaped for government requirements, certifications, and procurement reality, so the product is buyable when the opening comes.</p></div></div>
-        <div class="bcell"><p class="bn">03</p><div><b>Partnerships</b><p>Primes, integrators, and channel; the teaming that gets early-stage technology onto contract vehicles without giving away the deal.</p></div></div>
-        <div class="bcell"><p class="bn">04</p><div><b>Vetted Talent</b><p>The operators who run public sector, including cleared talent; sourced, vetted, and accountable.</p></div></div>
-        <div class="bcell bcell--wide"><p class="bn">05</p><div><b>Government Affairs Strategy</b><p>The national or international campaign that follows a first contract, created and executed with the client: the agencies, primes, and allied buyers to engage and in what sequence, introductions to technology business incubators and accelerators, and representation as brand ambassador at conferences, meetings, and industry events. The goal is a repeatable public sector business.</p></div></div>
+        <div class="bcell"><p class="bn">01</p><div><b>Administrative Foundation</b><p>The back office that lets a small team run a federal business: an AI-powered operations dashboard, agents on the daily work, a lean staffing model, and DCAA-ready finance and compliance rails from day one.</p></div></div>
+        <div class="bcell"><p class="bn">02</p><div><b>Go-to-Market</b><p>Strategy grounded in how agencies actually buy: capture and pipeline discipline, compliance and contracting foundations, and pricing for the federal buyer.</p></div></div>
+        <div class="bcell"><p class="bn">03</p><div><b>Product Strategy</b><p>Roadmaps shaped for government requirements, certifications, and procurement reality, so the product is buyable when the opening comes.</p></div></div>
+        <div class="bcell"><p class="bn">04</p><div><b>Partnerships</b><p>Primes, integrators, and channel; the teaming that gets early-stage technology onto contract vehicles without giving away the deal.</p></div></div>
+        <div class="bcell"><p class="bn">05</p><div><b>Vetted Talent</b><p>The operators who run public sector, including cleared talent; sourced, vetted, and accountable.</p></div></div>
+        <div class="bcell"><p class="bn">06</p><div><b>Government Affairs Strategy</b><p>The national or international campaign that follows a first contract: the agencies, primes, and allied buyers to engage and in what sequence, and representation where the market gathers. The goal is a repeatable public sector business.</p></div></div>
       </div>
-      <p class="wbnote">Take <b>all five</b>, or the <b>one or two pieces</b> you are missing. Any set is scoped and priced as a single engagement.</p>
     </div>
 
   </div>
@@ -873,7 +879,11 @@ window.AGP_FEED_CONFIG = {
 (function(){
   var build=document.querySelector('.build'), v=document.getElementById('wb-v');
   if(!build||!v) return;
-  var SPEED=0.5, GREEN_AT=13.05, HOLD_SECONDS=6;
+  var GREEN_AT=13.0, HOLD_SECONDS=6;
+  /* Floors land about every second between 5s and 11s of the clip, so the
+     footage runs slower there and the captions get an even read time. */
+  function speedAt(t){ return (t>=4.6&&t<11)?0.4:0.5; }
+  var SPEED=speedAt(0);
   var caps=[].slice.call(document.querySelectorAll('.wbcap')),
       railBtns=[].slice.call(document.querySelectorAll('#wb-rail button')),
       track=document.getElementById('wb-track'), fill=document.getElementById('wb-fill'), head=document.getElementById('wb-head');
@@ -885,7 +895,7 @@ window.AGP_FEED_CONFIG = {
   setTimeout(function(){ if(!v.videoWidth && v.readyState<2) fallback(); },9000);
 
   v.playbackRate=SPEED;
-  v.addEventListener('loadedmetadata',function(){ dur=v.duration||15; v.playbackRate=SPEED; layout(); paint(); });
+  v.addEventListener('loadedmetadata',function(){ dur=v.duration||15; v.playbackRate=speedAt(v.currentTime); layout(); paint(); });
   /* show the first caption while the clip is still loading */
   paint();
 
@@ -896,6 +906,7 @@ window.AGP_FEED_CONFIG = {
   function idxAt(t){ var idx=0; STOPS.forEach(function(s,i){ if(t>=s) idx=i; }); return idx; }
   function paint(){
     var t=v.currentTime, idx=idxAt(t);
+    var sp=speedAt(t); if(Math.abs(v.playbackRate-sp)>0.01){ try{ v.playbackRate=sp; }catch(e){} }
     /* Green is reserved for one moment: the building itself turning green in
        the footage. Completed phases stay blue until then, so the page and the
        clip change colour together rather than the markers running ahead. */
