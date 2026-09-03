@@ -429,7 +429,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <p class="label">What We Build</p>
       <p class="ledex">Everything a startup needs to win government business, built in this order and handed over running. Engage us for the full build or the one piece you are missing.</p>
       <div class="wb" id="wb">
-        <video id="wb-v" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/hf_20260903_050441_37bcdff2-76c8-4c5e-a2c1-afb5e67d45c1.mp4" muted playsinline autoplay preload="auto" aria-label="A public sector division being built floor by floor over eight sprints"></video>
+        <video id="wb-v" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/hf_20260903_050441_37bcdff2-76c8-4c5e-a2c1-afb5e67d45c1.mp4" muted playsinline autoplay preload="metadata" aria-label="A public sector division being built floor by floor over eight sprints"></video>
         <div class="wbcaps" id="wb-caps">
           <div class="wbcap" data-at="0"><p class="n">00</p><h4>Foundation poured.</h4><p>Founders want the division overnight. We build it in sprints, in this order.</p></div>
           <div class="wbcap" data-at="1.7"><p class="n">01</p><h4>Go-to-Market</h4><p>Who buys, how they buy, and what has to be true first.</p><ul>
@@ -647,11 +647,15 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
      straight to Clients. */
   var ids=['top','services','build','global','deliver','who','about','team','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
-  /* Height of whatever is actually stuck across the top right now. */
+  /* Height of everything pinned across the top. The news ticker stays stuck
+     under the header at every scroll position, so a stop measured against the
+     header alone lands its title behind the ticker. --agp-chrome is the value
+     the page already measures for header plus ticker; take the larger of that
+     and the header's own box so this stays right if either changes. */
   function stuckHeight(){
-    var bar=document.querySelector('.topbar'), h=bar?bar.getBoundingClientRect().height:0;
-    var nf=document.querySelector('.nf');
-    if(nf){var r=nf.getBoundingClientRect(); if(r.top<=h&&r.bottom>h) h=r.bottom;}
+    var h=parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--agp-chrome'))||0;
+    var bar=document.querySelector('.topbar');
+    if(bar){ var r=bar.getBoundingClientRect(); if(r.bottom>h) h=r.bottom; }
     return h;
   }
   /* A stop begins at its first line of content, not at the top of its padding.
