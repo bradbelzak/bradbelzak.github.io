@@ -272,6 +272,16 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .wbhint{margin:12px 0 0;font-size:12.5px;color:var(--dim)}
 .wbnote{margin:14px 0 0;font-size:14px;color:var(--dim);border-top:1px solid var(--line);padding-top:13px}
 .wbnote b{color:#fff;font-weight:600}
+/* Green is the finish line, not a progress colour. Until the building turns
+   green in the footage everything on the page stays blue; at that moment the
+   number, the heading, the track and the phase rail all cross over together,
+   on the same 1.1s ramp the clip uses. */
+.wbcap .n.all{color:#8FB4FF;transition:color 1.1s ease}
+.build.finished .wbcap .n.all{color:#5BE49B}
+.wbcap h4{transition:color 1.1s ease}
+.build.finished .wbcap.on h4{color:#5BE49B}
+.wbtrack .fill,.wbtrack .head{transition:background 1.1s ease,border-color 1.1s ease}
+.wbrail button,.wbrail button b{transition:border-color 1.1s ease,color .35s}
 /* Static fallback: shown when the clip cannot play, or the visitor asks for
    reduced motion. Same five pieces, no movement. */
 .bgrid{display:none}
@@ -355,7 +365,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 </header>
 
 <section class="hero" id="top">
-  <video class="bg" src="agp/assets/hero-dc.mp4?v=1" autoplay loop muted playsinline></video>
+  <video class="bg" src="agp/assets/hero-dc.mp4?v=1" autoplay loop muted playsinline data-rate="0.72"></video>
   <div class="tint"></div>
   <div class="htitle">
     <p class="gpsa">US Public Sector Advisory</p>
@@ -419,40 +429,40 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <p class="label">What We Build</p>
       <p class="ledex">Everything a startup needs to win government business, built in this order and handed over running. Engage us for the full build or the one piece you are missing.</p>
       <div class="wb" id="wb">
-        <video id="wb-v" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/hf_20260903_050441_37bcdff2-76c8-4c5e-a2c1-afb5e67d45c1.mp4" muted loop playsinline autoplay preload="auto" aria-label="A public sector division being built floor by floor over eight sprints"></video>
+        <video id="wb-v" src="https://d8j0ntlcm91z4.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/hf_20260903_050441_37bcdff2-76c8-4c5e-a2c1-afb5e67d45c1.mp4" muted playsinline autoplay preload="auto" aria-label="A public sector division being built floor by floor over eight sprints"></video>
         <div class="wbcaps" id="wb-caps">
           <div class="wbcap" data-at="0"><p class="n">00</p><h4>Foundation poured.</h4><p>Founders want the division overnight. We build it in sprints, in this order.</p></div>
-          <div class="wbcap" data-at="2.6"><p class="n">01</p><h4>Go-to-Market</h4><p>Who buys, how they buy, and what has to be true first.</p><ul>
+          <div class="wbcap" data-at="1.7"><p class="n">01</p><h4>Go-to-Market</h4><p>Who buys, how they buy, and what has to be true first.</p><ul>
             <li><b>Target agencies:</b> who actually buys what you built</li>
             <li><b>Capture strategy:</b> how a deal is won before it is posted</li>
             <li><b>Registrations and pricing:</b> SAM.gov, CAGE, NAICS, and rates that pass review</li>
             <li><b>Compliance:</b> CMMC and FedRAMP, the gates startups hit late</li>
           </ul><span class="s">Phase One</span></div>
-          <div class="wbcap" data-at="5.2"><p class="n">02</p><h4>Product Strategy</h4><p>What you built, made buyable by a government customer.</p><ul>
+          <div class="wbcap" data-at="4"><p class="n">02</p><h4>Product Strategy</h4><p>What you built, made buyable by a government customer.</p><ul>
             <li><b>Requirements mapping:</b> your roadmap against what agencies are required to buy</li>
             <li><b>Authorization path:</b> FedRAMP, ATO, IL levels; which one, and what it costs you</li>
             <li><b>Pilot to program:</b> designing the first pilot so it can become a program of record</li>
             <li><b>Differentiation:</b> the claims that survive a source-selection board</li>
           </ul><span class="s">Phase Two</span></div>
-          <div class="wbcap" data-at="7.8"><p class="n">03</p><h4>Partnerships</h4><p>Most federal revenue reaches a startup through somebody else&#8217;s contract.</p><ul>
+          <div class="wbcap" data-at="6.3"><p class="n">03</p><h4>Partnerships</h4><p>Most federal revenue reaches a startup through somebody else&#8217;s contract.</p><ul>
             <li><b>Primes and integrators:</b> who already holds the vehicles you need</li>
             <li><b>Teaming agreements:</b> signed, with scope and exclusivity defined up front</li>
             <li><b>Vehicles and set-asides:</b> GSA, GWACs, OTAs, SBIR; the fastest route in</li>
             <li><b>Channel economics:</b> margin, pass-through, and who owns the customer</li>
           </ul><span class="s">Phase Three</span></div>
-          <div class="wbcap" data-at="10.2"><p class="n">04</p><h4>Vetted Talent</h4><p>A division is people. We put the right ones in seat.</p><ul>
+          <div class="wbcap" data-at="8.6"><p class="n">04</p><h4>Vetted Talent</h4><p>A division is people. We put the right ones in seat.</p><ul>
             <li><b>Capture and BD leads:</b> operators who have run the play before</li>
             <li><b>Cleared personnel:</b> where the work requires it, sourced and processed</li>
             <li><b>Contracts and compliance:</b> the back office that keeps you eligible</li>
             <li><b>Interim leadership:</b> we run the seat until your hire is ready</li>
           </ul><span class="s">Phase Four</span></div>
-          <div class="wbcap" data-at="12.2"><p class="n">05</p><h4>Government Affairs Strategy</h4><p>The campaign that turns one contract into a market.</p><ul>
+          <div class="wbcap" data-at="10.9"><p class="n">05</p><h4>Government Affairs Strategy</h4><p>The campaign that turns one contract into a market.</p><ul>
             <li><b>Agency engagement:</b> program offices, contracting shops, and the people who write requirements</li>
             <li><b>Budget and policy:</b> getting your capability into the line items that fund it</li>
             <li><b>Coalitions and associations:</b> allies who carry the argument when you cannot</li>
             <li><b>International:</b> allied governments, FMS, and export controls when you scale abroad</li>
           </ul><span class="s">Phase Five</span></div>
-          <div class="wbcap" data-at="14.2"><p class="n all">All five</p><h4>Handed over running.</h4><p>A public sector division that runs without us.</p></div>
+          <div class="wbcap" data-at="13.05"><p class="n all">All five</p><h4>Handed over running.</h4><p>A public sector division that runs without us.</p></div>
         </div>
       </div>
       <div class="wbtrack" id="wb-track" role="slider" tabindex="0" aria-label="Move through the build" aria-valuemin="0" aria-valuemax="5" aria-valuenow="0">
@@ -757,14 +767,18 @@ window.AGP_FEED_CONFIG = {
 <script src="agp/assets/news-feed.js" defer></script>
 <script>
 /* ===== What We Build: the layered build loop =====
-   One continuous pass, no per-layer pauses. SPEED holds each layer long enough
-   to read the four points beside it; the source clip is 2K so slowing it does
-   not soften the stacking. If the clip cannot play, the section falls back to
-   the static five-piece grid already in the markup. */
+   One continuous pass, no per-layer pauses. The clip is 15 seconds and runs at
+   SPEED, which sets how long each layer is on screen. GREEN_AT is the second
+   the building itself starts turning green in the footage, measured from the
+   file: nothing on the page goes green before it. HOLD_SECONDS is the pause on
+   the finished company before the loop restarts. The video must not carry the
+   loop attribute; with it the ended event never fires and the finished company
+   flashes past. If the clip cannot play, the section falls back to the static
+   five-piece grid already in the markup. */
 (function(){
   var build=document.querySelector('.build'), v=document.getElementById('wb-v');
   if(!build||!v) return;
-  var SPEED=0.6;
+  var SPEED=0.5, GREEN_AT=13.05, HOLD_SECONDS=6;
   var caps=[].slice.call(document.querySelectorAll('.wbcap')),
       railBtns=[].slice.call(document.querySelectorAll('#wb-rail button')),
       track=document.getElementById('wb-track'), fill=document.getElementById('wb-fill'), head=document.getElementById('wb-head');
@@ -784,16 +798,33 @@ window.AGP_FEED_CONFIG = {
   }
   function idxAt(t){ var idx=0; STOPS.forEach(function(s,i){ if(t>=s) idx=i; }); return idx; }
   function paint(){
-    var t=v.currentTime, idx=idxAt(t), done=idx===caps.length-1;
+    var t=v.currentTime, idx=idxAt(t);
+    /* Green is reserved for one moment: the building itself turning green in
+       the footage. Completed phases stay blue until then, so the page and the
+       clip change colour together rather than the markers running ahead. */
+    var done = t>=GREEN_AT;
     caps.forEach(function(c,i){ c.classList.toggle('on',i===idx); });
-    railBtns.forEach(function(b,i){ b.classList.toggle('on',i+1===idx&&!done); b.classList.toggle('done',done||i+1<idx); b.classList.toggle('pinned',pinned===i); });
+    build.classList.toggle('finished',done);
+    railBtns.forEach(function(b,i){ b.classList.toggle('on',i+1===idx&&!done); b.classList.toggle('done',done); b.classList.toggle('pinned',pinned===i); });
     var pct=Math.max(0,Math.min(100,t/dur*100));
     fill.style.width=pct+'%'; head.style.left=pct+'%';
     track.classList.toggle('done',done);
     track.setAttribute('aria-valuenow',idx);
-    [].forEach.call(track.querySelectorAll('.mk'),function(m){ var i=+m.dataset.i; m.classList.toggle('on',i===idx&&!done); m.classList.toggle('done',done||i<idx); });
+    [].forEach.call(track.querySelectorAll('.mk'),function(m){ var i=+m.dataset.i; m.classList.toggle('on',i===idx&&!done); m.classList.toggle('done',done); });
   }
   v.addEventListener('timeupdate',paint);
+
+  /* Hold on the finished green company long enough to read the last card,
+     then start the build again. */
+  var holdTimer=null;
+  v.addEventListener('ended',function(){
+    paint();
+    clearTimeout(holdTimer);
+    holdTimer=setTimeout(function(){
+      if(pinned>-1||scrubbing) return;
+      v.currentTime=0; paint(); v.play().catch(function(){});
+    },HOLD_SECONDS*1000);
+  });
 
   function goTo(t,hold){ v.currentTime=Math.max(0,Math.min(dur-0.05,t)); paint(); if(hold) v.pause(); }
   function resume(){ if(pinned<0) v.play().catch(function(){}); }
@@ -822,6 +853,15 @@ window.AGP_FEED_CONFIG = {
       if(en.isIntersecting){ if(pinned<0) v.play().catch(function(){}); } else { v.pause(); }
     })},{threshold:.25}).observe(build);
   }
+})();
+
+/* Hero clip: a touch slower than real time so the city reads as a backdrop
+   rather than motion competing with the headline. */
+(function(){
+  var v=document.querySelector('.hero video.bg'); if(!v) return;
+  var r=parseFloat(v.dataset.rate)||0.72;
+  function set(){ try{ v.playbackRate=r; }catch(e){} }
+  set(); v.addEventListener('loadedmetadata',set); v.addEventListener('play',set);
 })();
 </script>
 </body>
