@@ -481,7 +481,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
     <p class="label rv">Expertise</p>
 
     <!-- Two verticals: the plate parts and Your Startup stacks up on the seam -->
-    <p class="ledex vx-lede rv">We do two things: get startups into the US federal market, and take established companies into allied government markets. <b>One team runs both.</b></p>
+    <p class="ledex vx-lede rv"><b>Two verticals, one team.</b> Startups entering the US federal market, and established companies expanding into allied government and multilateral markets.</p>
     <div class="vx" id="verticals" data-anim>
       <div class="vx-plate l"></div><div class="vx-plate r"></div><div class="vx-seam"></div>
       <div class="vx-hub">
@@ -877,10 +877,10 @@ window.AGP_FEED_CONFIG = {
 (function(){
   var build=document.querySelector('.build'), v=document.getElementById('wb-v');
   if(!build||!v) return;
-  var GREEN_AT=13.0, HOLD_SECONDS=4;
+  var GREEN_AT=13.0, HOLD_SECONDS=3;
   /* Floors land about every second between 5s and 11s of the clip, so the
      footage runs slower there and the captions get an even read time. */
-  function speedAt(t){ return (t>=4.6&&t<11)?0.6:0.75; }
+  function speedAt(t){ return (t>=4.6&&t<11)?0.85:1.0; }
   var SPEED=speedAt(0);
   var caps=[].slice.call(document.querySelectorAll('.wbcap')),
       railBtns=[].slice.call(document.querySelectorAll('#wb-rail button')),
@@ -976,11 +976,13 @@ window.AGP_FEED_CONFIG = {
      the timer stops the moment it leaves. */
   var LOOP_SECONDS=14, loop=null;
   function replay(){ vx.classList.remove('in'); void vx.offsetWidth; vx.classList.add('in'); }
+  /* Leaving the block resets it to the bare plates, so coming back from any
+     other section stacks the startup up again from the ground. */
   var io=new IntersectionObserver(function(es){ es.forEach(function(e){
     if(e.isIntersecting){
-      if(!vx.classList.contains('in')) vx.classList.add('in');
+      replay();
       clearInterval(loop); loop=setInterval(replay,LOOP_SECONDS*1000);
-    } else { clearInterval(loop); loop=null; }
+    } else { clearInterval(loop); loop=null; vx.classList.remove('in'); }
   }) },{threshold:.3});
   io.observe(vx);
 })();
