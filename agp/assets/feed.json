@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-03T23:13:42.106341Z",
+ "updatedAt": "2026-09-04T14:55:48.573601Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Why judgment is emerging as cybersecurity’s defining skill",
+   "url": "https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-04T10:00:00Z",
+   "why": "AI is getting better at much of what security teams have long spent time on: analyzing information, identifying patterns, and providing technically sound..."
+  },
+  {
+   "title": "Iran & US Adversaries Using AI-Generated Misinformation to Distort Conflicts",
+   "url": "https://www.govconwire.com/articles/ai-disinformation-deepfake-iran-conflict",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-04T09:20:51Z",
+   "why": "From fake USS Abraham Lincoln strike videos to AI F-35 photos, U.S."
+  },
+  {
+   "title": "Northrop Lands Potential $863M Army M1156 Guidance Kit Production IDIQ",
+   "url": "https://www.govconwire.com/articles/northrop-grumman-862m-army-m1156-pgk-production-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-04T09:18:22Z",
+   "why": "Northrop Grumman has received a potential $863 million Army IDIQ contract to produce M1156 precision guidance kits."
+  },
+  {
+   "title": "Valiant Secures $131M CISLANT Contract for Navy Aircrew Training",
+   "url": "https://www.govconwire.com/articles/valiant-cislant-navy-aircrew-training",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-04T09:17:58Z",
+   "why": "Valiant will provide flight and classroom instruction for naval aviators, flight officers and aircrew at four Atlantic Fleet locations."
+  },
   {
    "title": "Pentagon plans fleet of portable SCIFs",
    "url": "https://federalnewsnetwork.com/defense-main/2026/09/pentagon-plans-fleet-of-portable-scifs/",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-03T20:33:54Z",
    "why": "The contract audit conducted by the Government Accountability Office is part of a forthcoming series of reports that aim to uncover the impact of last year’s..."
-  },
-  {
-   "title": "Xpect Solutions buys Amivero to bulk up AI, automation capabilities",
-   "url": "https://www.washingtontechnology.com/companies/2026/09/xpect-solutions-buys-amivero-bulk-ai-automation-capabilities/415809/",
-   "source": "Washington Technology",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-03T19:02:50Z",
-   "why": "The deal bulks up Xpect's national security portfolio, as the NewSpring-backed company builds out its mission tech stack."
-  },
-  {
-   "title": "Financial regulators would get more authority over tech providers under House bill",
-   "url": "https://fedscoop.com/ncua-fhfa-tech-providers-regulatory-authorities/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-09-03T18:46:47Z",
-   "why": "The Strengthening Oversight for the Financial Sector Act puts the NCUA and FHFA on a more level playing field with other federal financial agencies with regard..."
-  },
-  {
-   "title": "Former CISA employee pleads guilty to defrauding government with secret contractor jobs",
-   "url": "https://www.nextgov.com/people/2026/09/former-cisa-employee-pleads-guilty-defrauding-government-secret-contractor-jobs/415803/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-03T16:46:00Z",
-   "why": "Prosecutors say Richeline Fung secretly held contractor jobs tied to six agencies and claimed up to 33-hour workdays while working full time for the federal..."
-  },
-  {
-   "title": "14 organizations are looking to join federal electronic health record program",
-   "url": "https://www.nextgov.com/digital-government/2026/09/14-organizations-are-looking-join-federal-electronic-health-record-program/415801/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-03T16:04:00Z",
-   "why": "The office tasked with helping agencies deploy the federal EHR is looking to move toward cloud infrastructure, enhance interoperability and scale an artificial..."
   }
  ]
 }
