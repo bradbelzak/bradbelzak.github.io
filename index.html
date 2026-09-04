@@ -367,23 +367,28 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 .vx-seam{position:absolute;left:50%;top:0;bottom:0;width:1px;background:linear-gradient(180deg,transparent,rgba(255,255,255,.6),transparent);z-index:4;transform:scaleY(0);transition:transform .45s ease}
 .vx.in .vx-seam{transform:scaleY(1)}
 .vx-hub{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:6;text-align:center;width:210px}
-.vx-stack{width:120px;height:120px;margin:0 auto 10px;display:block;overflow:visible;filter:drop-shadow(0 10px 22px rgba(0,0,0,.6))}
+.vx-stack{width:120px;height:120px;margin:0 auto 10px;display:block;overflow:visible;filter:drop-shadow(0 10px 22px rgba(0,0,0,.6));transition:filter .8s ease 2.3s}
+.vx.in .vx-stack{filter:drop-shadow(0 10px 22px rgba(0,0,0,.6)) drop-shadow(0 0 18px rgba(143,180,255,.55))}
 .vx-name{font-family:'Fraunces',Georgia,serif;font-size:16px;font-weight:600;line-height:1.1;white-space:nowrap;background:var(--bg);display:inline-block;padding:7px 13px;border-radius:99px;border:1px solid rgba(255,255,255,.3);opacity:0;transform:translateY(4px);transition:opacity .45s ease 2.05s,transform .45s ease 2.05s,border-color .6s ease 2.3s,color .6s ease 2.3s}
 .vx-name small{display:block;font-family:'Figtree',sans-serif;font-size:9.5px;letter-spacing:.16em;text-transform:uppercase;color:#8FB4FF;font-weight:700;margin-top:2px;white-space:nowrap;transition:color .6s ease 2.3s}
-.vx.in .vx-name{opacity:1;transform:none;border-color:#5BE49B;color:#5BE49B}
-.vx.in .vx-name small{color:#5BE49B}
+.vx.in .vx-name{opacity:1;transform:none;border-color:#fff;background:#fff;color:#071235;box-shadow:0 0 0 4px rgba(143,180,255,.22),0 10px 28px rgba(0,0,0,.45)}
+.vx.in .vx-name small{color:#2F5BD6}
+.vx-name{transition:opacity .45s ease 2.05s,transform .45s ease 2.05s,border-color .6s ease 2.3s,color .6s ease 2.3s,background .6s ease 2.3s,box-shadow .6s ease 2.3s}
 .vx-lyr{opacity:0;transform:translateY(-26px);transition:opacity .22s ease,transform .32s cubic-bezier(.2,.9,.3,1.25)}
 .vx.in .vx-lyr{opacity:1;transform:none}
 .vx.in .vx-lyr.l1{transition-delay:.90s}.vx.in .vx-lyr.l2{transition-delay:1.04s}.vx.in .vx-lyr.l3{transition-delay:1.18s}
 .vx.in .vx-lyr.l4{transition-delay:1.32s}.vx.in .vx-lyr.l5{transition-delay:1.46s}.vx.in .vx-lyr.roof{transition-delay:1.62s}
 .vx-lyr path{transition:fill .7s ease 2.25s}
 .vx-lyr .top{fill:#3D5C9E}.vx-lyr .lf{fill:#1E3363}.vx-lyr .rt{fill:#2A4685}
-.vx.in .vx-lyr .top{fill:#6FEFB3}.vx.in .vx-lyr .lf{fill:#1F7A57}.vx.in .vx-lyr .rt{fill:#34A877}
-.vx-lyr.roof .top{fill:#D8E4FA}.vx.in .vx-lyr.roof .top{fill:#B9FFDD}
+.vx.in .vx-lyr .top{fill:#A9C6FF}.vx.in .vx-lyr .lf{fill:#2F5BD6}.vx.in .vx-lyr .rt{fill:#4A7BFF}
+.vx-lyr.roof .top{fill:#D8E4FA}.vx.in .vx-lyr.roof .top{fill:#FFFFFF}
 .vx-glow{opacity:0;transition:opacity .8s ease 2.35s}
 .vx.in .vx-glow{opacity:1}
 .vx-lyr .win{fill:#BFD6FF;fill-opacity:.55;transition:fill .7s ease 2.25s,fill-opacity .7s ease 2.25s}
-.vx.in .vx-lyr .win{fill:#E8FFF3;fill-opacity:.95}
+.vx.in .vx-lyr .win{fill:#FFFFFF;fill-opacity:1}
+/* the finished stack lifts and settles once, so the moment reads */
+@keyframes vx-pop{0%{transform:scale(1)}45%{transform:scale(1.08)}100%{transform:scale(1)}}
+.vx.in .vx-stack{animation:vx-pop .7s cubic-bezier(.2,.9,.3,1.2) 2.3s both;transform-origin:50% 85%}
 @media(prefers-reduced-motion:reduce){.vx *{animation:none!important;transition:none!important;opacity:1!important;transform:none!important}.vx .vx-plate{display:none}}
 @media(max-width:760px){
   .vx-halves{grid-template-columns:1fr}
@@ -486,7 +491,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
       <div class="vx-plate l"></div><div class="vx-plate r"></div><div class="vx-seam"></div>
       <div class="vx-hub">
         <svg class="vx-stack" viewBox="0 0 120 120" aria-hidden="true">
-          <ellipse class="vx-glow" cx="60" cy="104" rx="46" ry="9" fill="#5BE49B" fill-opacity=".28"/>
+          <ellipse class="vx-glow" cx="60" cy="104" rx="48" ry="10" fill="#8FB4FF" fill-opacity=".45"/>
           <path d="M14 96 L60 119 L106 96 L60 73 Z" fill="#0A1636" stroke="#3D5C9E" stroke-opacity=".5"/>
           <g class="vx-lyr l1"><path class="lf" d="M22 84 L60 103 L60 116 L22 97 Z"/><path class="rt" d="M60 103 L98 84 L98 97 L60 116 Z"/><path class="top" d="M60 65 L98 84 L60 103 L22 84 Z"/><rect class="win" x="30" y="88.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 88.0"/><rect class="win" x="39" y="92.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 92.6"/><rect class="win" x="48" y="97.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 97.2"/><rect class="win" x="67" y="100.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 100.0"/><rect class="win" x="76" y="95.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 95.4"/><rect class="win" x="85" y="90.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 90.8"/></g><g class="vx-lyr l2"><path class="lf" d="M22 71 L60 90 L60 103 L22 84 Z"/><path class="rt" d="M60 90 L98 71 L98 84 L60 103 Z"/><path class="top" d="M60 52 L98 71 L60 90 L22 71 Z"/><rect class="win" x="30" y="75.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 75.0"/><rect class="win" x="39" y="79.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 79.6"/><rect class="win" x="48" y="84.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 84.2"/><rect class="win" x="67" y="87.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 87.0"/><rect class="win" x="76" y="82.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 82.4"/><rect class="win" x="85" y="77.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 77.8"/></g><g class="vx-lyr l3"><path class="lf" d="M22 58 L60 77 L60 90 L22 71 Z"/><path class="rt" d="M60 77 L98 58 L98 71 L60 90 Z"/><path class="top" d="M60 39 L98 58 L60 77 L22 58 Z"/><rect class="win" x="30" y="62.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 62.0"/><rect class="win" x="39" y="66.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 66.6"/><rect class="win" x="48" y="71.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 71.2"/><rect class="win" x="67" y="74.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 74.0"/><rect class="win" x="76" y="69.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 69.4"/><rect class="win" x="85" y="64.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 64.8"/></g><g class="vx-lyr l4"><path class="lf" d="M22 45 L60 64 L60 77 L22 58 Z"/><path class="rt" d="M60 64 L98 45 L98 58 L60 77 Z"/><path class="top" d="M60 26 L98 45 L60 64 L22 45 Z"/><rect class="win" x="30" y="49.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 49.0"/><rect class="win" x="39" y="53.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 53.6"/><rect class="win" x="48" y="58.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 58.2"/><rect class="win" x="67" y="61.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 61.0"/><rect class="win" x="76" y="56.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 56.4"/><rect class="win" x="85" y="51.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 51.8"/></g><g class="vx-lyr l5"><path class="lf" d="M22 32 L60 51 L60 64 L22 45 Z"/><path class="rt" d="M60 51 L98 32 L98 45 L60 64 Z"/><path class="top" d="M60 13 L98 32 L60 51 L22 32 Z"/><rect class="win" x="30" y="36.0" width="4" height="3" transform="skewY(26.6)" transform-origin="30 36.0"/><rect class="win" x="39" y="40.6" width="4" height="3" transform="skewY(26.6)" transform-origin="39 40.6"/><rect class="win" x="48" y="45.2" width="4" height="3" transform="skewY(26.6)" transform-origin="48 45.2"/><rect class="win" x="67" y="48.0" width="4" height="3" transform="skewY(-26.6)" transform-origin="67 48.0"/><rect class="win" x="76" y="43.4" width="4" height="3" transform="skewY(-26.6)" transform-origin="76 43.4"/><rect class="win" x="85" y="38.8" width="4" height="3" transform="skewY(-26.6)" transform-origin="85 38.8"/></g><g class="vx-lyr roof"><path class="lf" d="M22 20 L60 39 L60 52 L22 33 Z"/><path class="rt" d="M60 39 L98 20 L98 33 L60 52 Z"/><path class="top" d="M60 1 L98 20 L60 39 L22 20 Z"/></g>
         </svg>
