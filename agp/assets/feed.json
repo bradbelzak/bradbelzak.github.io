@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-04T14:55:48.573601Z",
+ "updatedAt": "2026-09-04T18:58:04.945269Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Can the tech to defend military bases from drones keep up with the evolving threat?",
+   "url": "https://federalnewsnetwork.com/defense-main/2026/09/can-the-tech-to-defend-military-bases-from-drones-keep-up-with-the-evolving-threat/",
+   "source": "Federal News Network",
+   "category": "Defense and National Security",
+   "published": "2026-09-04T17:57:08Z",
+   "why": "\"What we are seeing now is more of a machine to machine capability that really transcends the human's ability to act quickly enough,\" Bill Ostrowski."
+  },
+  {
+   "title": "Contractors want more data on ‘continuous vetting’ clearance model",
+   "url": "https://federalnewsnetwork.com/hiring-retention/2026/09/contractors-want-more-data-on-continuous-vetting-clearance-model/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-04T17:42:29Z",
+   "why": "Industry says the time it takes for DCSA to adjudicate some CV alerts has led to delays in getting cleared employees working on contracts."
+  },
+  {
+   "title": "F-35 costs jump in latest production lots",
+   "url": "https://breakingdefense.com/2026/09/f-35-costs-jump-in-latest-production-lots/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-04T17:32:41Z",
+   "why": "Compared to recent contracts, the average flyaway cost of an F-35A and F-35B rose by over 11 percent, while the price of an F-35C climbed over 8 percent..."
+  },
   {
    "title": "Why judgment is emerging as cybersecurity’s defining skill",
    "url": "https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-03T22:21:22Z",
    "why": "The initiative may allow more nontraditional contractors to contribute to national security, collaborate with government teams and compete for classified work."
-  },
-  {
-   "title": "Lawmakers with ‘deep concerns’ press Army leadership about decision to terminate unit’s Ukraine-informed drone mission",
-   "url": "https://defensescoop.com/2026/09/03/lawmakers-press-army-about-decision-to-terminate-units-drone-mission/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-09-03T21:26:10Z",
-   "why": "Following an exercise in Germany set to end this month, the battalion will stop its specialized drone mission and return to its core task as an airborne..."
-  },
-  {
-   "title": "Agencies now have to pay to use USAi",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/agencies-now-have-pay-use-usai/415816/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-09-03T21:02:00Z",
-   "why": "A GSA official familiar with the matter said the fee “is based on an agency's expected workload, approximated by agency size.”"
-  },
-  {
-   "title": "DOGE, DHS axed IT contracts to save money. Watchdog says it didn’t work",
-   "url": "https://fedscoop.com/dhs-doge-it-contracts-cut-costs-gao-report/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-03T20:33:54Z",
-   "why": "The contract audit conducted by the Government Accountability Office is part of a forthcoming series of reports that aim to uncover the impact of last year’s..."
   }
  ]
 }
