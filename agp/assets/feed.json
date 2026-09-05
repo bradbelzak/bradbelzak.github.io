@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-04T22:59:53.559449Z",
+ "updatedAt": "2026-09-05T15:59:56.869734Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
@@ -19,6 +19,14 @@
    "category": "Defense and National Security",
    "published": "2026-09-04T20:12:31Z",
    "why": "The Pentagon’s Emil Michael said the Claude maker is still designated a supply chain risk after Commerce Secretary Lutnick indicated Anthropic and Trump were..."
+  },
+  {
+   "title": "July’s breakout at OpenAI was far more complex than initially realized",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/AI-breakout-openai-complex/415826/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-04T20:10:55Z",
+   "why": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
   },
   {
    "title": "U.S. Navy, Quad partners move to ‘fingerprint’ dark fleets in the Pacific with Vantor’s AI",
@@ -59,14 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-09-04T15:57:25Z",
    "why": "Textron plans to provide its Aerosonde Mk."
-  },
-  {
-   "title": "Why judgment is emerging as cybersecurity’s defining skill",
-   "url": "https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-04T10:00:00Z",
-   "why": "AI is getting better at much of what security teams have long spent time on: analyzing information, identifying patterns, and providing technically sound..."
   }
  ]
 }
