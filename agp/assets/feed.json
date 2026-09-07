@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-09-05T15:59:56.869734Z",
+ "updatedAt": "2026-09-07T19:52:21.141425Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Sweden signs HIMARS deal, forges rocket artillery pact with Finland",
+   "url": "https://breakingdefense.com/2026/09/sweden-signed-himars-deal-forges-rocket-artillery-pact-with-finland/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-07T19:08:52Z",
+   "why": "The $732 million acquisition comprises “just over” ten launchers together with a “substantial quantity” of ammunition, Defense Minister Pål Jonson said."
+  },
   {
    "title": "US clears $5B in JDAMs for Saudi Arabia, other Middle East deals",
    "url": "https://breakingdefense.com/2026/09/us-clears-5b-in-jdams-for-saudi-arabia-other-middle-east-deals/",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-04T17:32:41Z",
    "why": "Compared to recent contracts, the average flyaway cost of an F-35A and F-35B rose by over 11 percent, while the price of an F-35C climbed over 8 percent..."
-  },
-  {
-   "title": "Textron wins Navy task orders for drone ISR services to support 7th Fleet, other forces",
-   "url": "https://defensescoop.com/2026/09/04/textron-wins-navy-task-orders-for-uas-isr-services/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-09-04T15:57:25Z",
-   "why": "Textron plans to provide its Aerosonde Mk."
   }
  ]
 }
