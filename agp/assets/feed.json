@@ -1,24 +1,48 @@
 {
- "updatedAt": "2026-09-08T15:03:54.634665Z",
+ "updatedAt": "2026-09-08T19:24:25.785249Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Air Force braces for new era of AI-powered hacking, plus unpacking the Mecca pact",
-   "url": "https://breakingdefense.com/2026/09/air-force-braces-for-new-era-of-ai-powered-hacking-plus-unpacking-the-mecca-pact/",
-   "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-08T14:43:44Z",
-   "why": "The proliferation of AI is forcing the USAF to rethink cyber defense, and a new regional defense pact could shake up arms sales in the Middle East."
+   "title": "TMF adds new board members from DOJ, EPA, GSA, OMB",
+   "url": "https://fedscoop.com/tmf-adds-new-board-members-from-doj-epa-gsa-omb/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-09-08T19:01:55Z",
+   "why": "The Technology Modernization Fund Board decides which government modernization projects will receive funding and monitors their progress."
   },
   {
-   "title": "Microsoft brings AI vulnerability-hunting tool to government cloud",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/microsoft-brings-ai-vulnerability-hunting-tool-government-cloud/415834/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-08T14:35:00Z",
-   "why": "Select agencies and partners can preview MDASH, which uses teams of AI agents to find software flaws and test whether attackers could exploit them."
+   "title": "SSA launches IT services contract recompete",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/ssa-launches-it-services-contract-recompete/415840/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-08T18:56:49Z",
+   "why": "Self-service and artificial intelligence technologies are a priority area for the Social Security Administration in this iteration of the contract that counts..."
+  },
+  {
+   "title": "Pentagon unveils first of two solicitations for its next big cloud contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/pentagon-unveils-first-two-solicitations-its-next-big-cloud-contract/415839/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-08T18:54:13Z",
+   "why": "The hyperscalers can now start working on proposals for their portion of the Joint Warfighter Cloud Capability recompete, while a second contract is..."
+  },
+  {
+   "title": "DHS gives Anduril a second shot at counter-drone contract track",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/dhs-gives-anduril-second-shot-counter-drone-contract-track/415842/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-08T18:53:57Z",
+   "why": "The Homeland Security Department agrees to re-evaluate Anduril’s bid for the $1.5 billion vehicle's product portion."
+  },
+  {
+   "title": "Lawmakers call on Elon Musk to explain lack of DOGE claimed DHS savings",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/09/lawmakers-call-on-elon-musk-to-explain-lack-of-doge-claimed-dhs-savings/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-08T15:33:38Z",
+   "why": "DOGE's alleged savings were mostly from IT contracts that it cancelled, but DHS continues to buy these services through other acquisition vehicles."
   },
   {
    "title": "Space Force Taps GDMS for $99M MUOS Ground Segment Upgrade",
@@ -43,30 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-08T09:31:34Z",
    "why": "Brooks Consulting's Chuck Brooks, a GovCon Expert, examines how AI, quantum and cybersecurity are reshaping U.S."
-  },
-  {
-   "title": "July’s breakout at OpenAI was far more complex than initially realized",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/AI-breakout-openai-complex/415826/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-04T20:10:55Z",
-   "why": "Hundreds of AI agents collaborated to escape their containers, disguising their actions and even sacrificing themselves."
-  },
-  {
-   "title": "U.S. Navy, Quad partners move to ‘fingerprint’ dark fleets in the Pacific with Vantor’s AI",
-   "url": "https://defensescoop.com/2026/09/04/us-navy-quad-partners-fingerprint-dark-fleets-pacific-vantor-ai/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-04T19:47:33Z",
-   "why": "DefenseScoop got new details on Naval Information Warfare Center Pacific’s recent contract award to the company that grew out of Maxar."
-  },
-  {
-   "title": "Contractors want more data on ‘continuous vetting’ clearance model",
-   "url": "https://federalnewsnetwork.com/hiring-retention/2026/09/contractors-want-more-data-on-continuous-vetting-clearance-model/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-04T17:42:29Z",
-   "why": "Industry says the time it takes for DCSA to adjudicate some CV alerts has led to delays in getting cleared employees working on contracts."
   }
  ]
 }
