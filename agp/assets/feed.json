@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-08T19:24:25.785249Z",
+ "updatedAt": "2026-09-08T23:20:07.259117Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
+   "url": "https://cyberscoop.com/microsoft-patch-tuesday-september-2026/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-08T22:50:41Z",
+   "why": "While the vendor hit another monthly record, it hasn’t resulted in a flood of active exploits."
+  },
+  {
+   "title": "CIA eyes ‘more technical’ workforce amid cyber, AI challenges",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/cia-eyes-more-technical-workforce-amid-cyber-ai-challenges/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-08T22:50:40Z",
+   "why": "CIA Deputy Director Michael Ellis also touted how the agency hit its hiring goals this year, after a big wave of retirements in 2025."
+  },
+  {
+   "title": "How the Pentagon is undermining Trump executive orders",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/how-the-pentagon-is-undermining-trump-executive-orders/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-08T21:51:35Z",
+   "why": "David Berteau, a former DoD executive and procurement expert, explains why the Pentagon’s recent cost and pricing memo is problematic and unnecessary."
+  },
+  {
+   "title": "Compliance doesn’t win wars",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/compliance-doesnt-win-wars/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-08T21:08:42Z",
+   "why": "Every military capability is ultimately judged by its contribution to combat effectiveness."
+  },
+  {
+   "title": "Pentagon unveils first of two solicitations for its next big cloud contract",
+   "url": "https://www.nextgov.com/acquisition/2026/09/pentagon-unveils-first-two-solicitations-its-next-big-cloud-contract/415846/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-08T21:00:00Z",
+   "why": "The hyperscalers can now start working on proposals for their portion of the Joint Warfighter Cloud Capability recompete, while a second contract is..."
+  },
   {
    "title": "TMF adds new board members from DOJ, EPA, GSA, OMB",
    "url": "https://fedscoop.com/tmf-adds-new-board-members-from-doj-epa-gsa-omb/",
@@ -21,52 +61,12 @@
    "why": "Self-service and artificial intelligence technologies are a priority area for the Social Security Administration in this iteration of the contract that counts..."
   },
   {
-   "title": "Pentagon unveils first of two solicitations for its next big cloud contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/pentagon-unveils-first-two-solicitations-its-next-big-cloud-contract/415839/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T18:54:13Z",
-   "why": "The hyperscalers can now start working on proposals for their portion of the Joint Warfighter Cloud Capability recompete, while a second contract is..."
-  },
-  {
    "title": "DHS gives Anduril a second shot at counter-drone contract track",
    "url": "https://www.washingtontechnology.com/contracts/2026/09/dhs-gives-anduril-second-shot-counter-drone-contract-track/415842/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
    "published": "2026-09-08T18:53:57Z",
    "why": "The Homeland Security Department agrees to re-evaluate Anduril’s bid for the $1.5 billion vehicle's product portion."
-  },
-  {
-   "title": "Lawmakers call on Elon Musk to explain lack of DOGE claimed DHS savings",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/09/lawmakers-call-on-elon-musk-to-explain-lack-of-doge-claimed-dhs-savings/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T15:33:38Z",
-   "why": "DOGE's alleged savings were mostly from IT contracts that it cancelled, but DHS continues to buy these services through other acquisition vehicles."
-  },
-  {
-   "title": "Space Force Taps GDMS for $99M MUOS Ground Segment Upgrade",
-   "url": "https://www.govconwire.com/articles/gdms-99m-muos-ground-upgrade-space-force",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T09:32:39Z",
-   "why": "The Space Force awarded the sole-source, cost-plus-award-fee task order covering design, upgrade and integration work."
-  },
-  {
-   "title": "Northrop Books $508M MDA Follow-On Contract for Ballistic Missile Test Support",
-   "url": "https://www.govconwire.com/articles/northrop-508m-mda-follow-on-ballistic-missile-flight-test-contract",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T09:32:00Z",
-   "why": "Northrop Grumman has received a potential $508 million MDA contract for ballistic missile flight test and logistics support."
-  },
-  {
-   "title": "Securing the High Frontier: The White House & the Space Force’s Priorities for Exploration & Defense in a Contested Domain",
-   "url": "https://www.govconwire.com/articles/chuck-brooks-us-space-security-ai-quantum-cybersecurity-resilient-infrastructure",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-08T09:31:34Z",
-   "why": "Brooks Consulting's Chuck Brooks, a GovCon Expert, examines how AI, quantum and cybersecurity are reshaping U.S."
   }
  ]
 }
