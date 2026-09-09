@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-09T19:14:26.318213Z",
+ "updatedAt": "2026-09-09T23:09:49.659710Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "CMMC's Phase 2 suspension locked in with binding regulation",
+   "url": "https://www.nextgov.com/acquisition/2026/09/cmmcs-phase-2-suspension-locked-binding-regulation/415890/",
+   "source": "Nextgov",
+   "category": "Compliance and Security",
+   "published": "2026-09-09T21:10:00Z",
+   "why": "A new class deviation moves the pause on third-party assessments for this security standard from policy to an enforceable rule."
+  },
+  {
+   "title": "What is defending our warfighters actually worth?",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/what-is-defending-our-warfighters-actually-worth/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-09T20:57:23Z",
+   "why": "Stacy Bostjanick, a former DoD executive and Tara Lemieux, an Army veteran, electronic warfare signals intelligence officer, explain why CMMC needs to continue."
+  },
+  {
+   "title": "Nuclear agency’s top IT official: ‘Industry has not done enough’ on security",
+   "url": "https://fedscoop.com/nnsa-cio-industry-vendor-management/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-09T20:26:02Z",
+   "why": "NNSA CIO James Wolff said he’s planning to add AI into vendor-vetting processes and that technology providers should aim to produce tools that are more secure."
+  },
+  {
+   "title": "Covenant unveils ‘deep precision strike’ missile it plans to build by the thousands",
+   "url": "https://defensescoop.com/2026/09/09/covenant-unveils-deep-precision-strike-missile/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T20:19:00Z",
+   "why": "The head of Army fires acquisition said Wednesday he was impressed with the company’s system and that it's in the mix of capabilities the service is looking..."
+  },
+  {
+   "title": "GSA and CMS continue Medicaid tech vendor collaboration, but its impact is likely limited, experts say",
+   "url": "https://www.nextgov.com/acquisition/2026/09/gsa-and-cms-continue-medicaid-tech-vendor-collaboration-its-impact-likely-limited-experts-say/415878/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-09-09T19:10:00Z",
+   "why": "The partnership is part of the broader CMS effort to help states comply with Medicaid work requirements enacted by the One Big Beautiful Bill Act."
+  },
   {
    "title": "NASA starts to craft engineering, tech services recompete",
    "url": "https://www.washingtontechnology.com/contracts/2026/09/nasa-starts-craft-engineering-tech-services-recompete/415870/",
@@ -21,52 +61,12 @@
    "why": "Input from contractors is expected to inform the department's reforms to the Cybersecurity Maturity Model Certification program."
   },
   {
-   "title": "Lockheed Martin secures $950M Australian air battle management contract",
-   "url": "https://breakingdefense.com/2026/09/lockheed-martin-secures-950m-australian-air-battle-management-contract/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T17:30:00Z",
-   "why": "Lockheed Martin says the enhancements under Australia’s Project AIR6500 Tranche 2B will establish a “scalable path” for future improvements and integration of..."
-  },
-  {
-   "title": "Trump signs veterans benefits order calling for improved data sharing",
-   "url": "https://www.nextgov.com/digital-government/2026/09/trump-signs-veterans-benefits-order-calling-improved-data-sharing/415872/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T15:56:00Z",
-   "why": "The order instructs the departments of Veterans Affairs and Defense to conduct a broad review of information technology-related contracts to ensure greater..."
-  },
-  {
-   "title": "US finalizes $4 billion military financing loan for Poland",
-   "url": "https://breakingdefense.com/2026/09/us-finalizes-4-billion-military-financing-loan-for-poland/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T15:52:22Z",
-   "why": "Though Warsaw did not disclose how the new money will be spent, it could be put toward an acquisition of 32 additional F-35s, in support of an air superiority..."
-  },
-  {
-   "title": "Pentagon partners with venture studio to pilot shared services contract model via $100M OTA",
+   "title": "Pentagon partners with venture studio to pilot shared savings contract model via $100M OTA",
    "url": "https://defensescoop.com/2026/09/09/pentagon-red-cell-pilot-shared-services-contract-model/",
    "source": "DefenseScoop",
    "category": "Acquisition and Contracting",
    "published": "2026-09-09T12:52:38Z",
    "why": "This unique agreement is designed to demonstrate a new framework where vendors are paid only for the costs they eliminate for DOD."
-  },
-  {
-   "title": "Northrop Grumman Lands $4.8B Army Contract for CIRCM Missile Defense Systems",
-   "url": "https://www.govconwire.com/articles/northrop-grumman-army-circm-systems",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T09:41:36Z",
-   "why": "Northrop Grumman’s CIRCM system uses a dual-jammer configuration to protect Army aircraft from infrared-guided missile threats."
-  },
-  {
-   "title": "DISA Seeks Offers for $21.6B Joint Warfighting Cloud Capability UCM Core IDIQ",
-   "url": "https://www.govconwire.com/articles/disa-jwcc-ucm-core-21-6b-cloud-idiq-solicitation",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T09:41:11Z",
-   "why": "The Defense Information Systems Agency has requested offers for the potential $21.6 billion JWCC UCM Core cloud IDIQ contract."
   }
  ]
 }
