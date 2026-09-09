@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-08T23:20:07.259117Z",
+ "updatedAt": "2026-09-09T15:05:12.651407Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Serco hires Supplee to lead North American arm",
+   "url": "https://www.washingtontechnology.com/companies/2026/09/serco-hires-supplee-lead-north-american-arm/415867/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T14:04:55Z",
+   "why": "Barbara Supplee will now lead Serco North America's strategy centered around areas like autonomy and modernization, among others."
+  },
+  {
+   "title": "FBI officials say AI is bolstering adversaries, emphasizing need to focus on cyber basics, patching",
+   "url": "https://cyberscoop.com/fbi-cyber-strategy-ai-threats-patching/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-09T13:00:00Z",
+   "why": "The remarks, to both CyberScoop and at the Billington CyberSecurity Summit, dovetail with the release of a new bureau cyber strategy."
+  },
+  {
+   "title": "Pentagon partners with venture studio to pilot shared services contract model via $100M OTA",
+   "url": "https://defensescoop.com/2026/09/09/pentagon-red-cell-pilot-shared-services-contract-model/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T12:52:38Z",
+   "why": "This unique agreement is designed to demonstrate a new framework where vendors are paid only for the costs they eliminate for DOD."
+  },
+  {
+   "title": "Northrop Grumman Lands $4.8B Army Contract for CIRCM Missile Defense Systems",
+   "url": "https://www.govconwire.com/articles/northrop-grumman-army-circm-systems",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T09:41:36Z",
+   "why": "Northrop Grumman’s CIRCM system uses a dual-jammer configuration to protect Army aircraft from infrared-guided missile threats."
+  },
+  {
+   "title": "DISA Seeks Offers for $21.6B Joint Warfighting Cloud Capability UCM Core IDIQ",
+   "url": "https://www.govconwire.com/articles/disa-jwcc-ucm-core-21-6b-cloud-idiq-solicitation",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T09:41:11Z",
+   "why": "The Defense Information Systems Agency has requested offers for the potential $21.6 billion JWCC UCM Core cloud IDIQ contract."
+  },
   {
    "title": "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
    "url": "https://cyberscoop.com/microsoft-patch-tuesday-september-2026/",
@@ -11,22 +51,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-08T22:50:41Z",
    "why": "While the vendor hit another monthly record, it hasn’t resulted in a flood of active exploits."
-  },
-  {
-   "title": "CIA eyes ‘more technical’ workforce amid cyber, AI challenges",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/cia-eyes-more-technical-workforce-amid-cyber-ai-challenges/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-08T22:50:40Z",
-   "why": "CIA Deputy Director Michael Ellis also touted how the agency hit its hiring goals this year, after a big wave of retirements in 2025."
-  },
-  {
-   "title": "How the Pentagon is undermining Trump executive orders",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/how-the-pentagon-is-undermining-trump-executive-orders/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T21:51:35Z",
-   "why": "David Berteau, a former DoD executive and procurement expert, explains why the Pentagon’s recent cost and pricing memo is problematic and unnecessary."
   },
   {
    "title": "Compliance doesn’t win wars",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-08T21:00:00Z",
    "why": "The hyperscalers can now start working on proposals for their portion of the Joint Warfighter Cloud Capability recompete, while a second contract is..."
-  },
-  {
-   "title": "TMF adds new board members from DOJ, EPA, GSA, OMB",
-   "url": "https://fedscoop.com/tmf-adds-new-board-members-from-doj-epa-gsa-omb/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-09-08T19:01:55Z",
-   "why": "The Technology Modernization Fund Board decides which government modernization projects will receive funding and monitors their progress."
-  },
-  {
-   "title": "SSA launches IT services contract recompete",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/ssa-launches-it-services-contract-recompete/415840/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T18:56:49Z",
-   "why": "Self-service and artificial intelligence technologies are a priority area for the Social Security Administration in this iteration of the contract that counts..."
-  },
-  {
-   "title": "DHS gives Anduril a second shot at counter-drone contract track",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/dhs-gives-anduril-second-shot-counter-drone-contract-track/415842/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T18:53:57Z",
-   "why": "The Homeland Security Department agrees to re-evaluate Anduril’s bid for the $1.5 billion vehicle's product portion."
   }
  ]
 }
