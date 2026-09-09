@@ -1,24 +1,48 @@
 {
- "updatedAt": "2026-09-09T15:05:12.651407Z",
+ "updatedAt": "2026-09-09T19:14:26.318213Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Serco hires Supplee to lead North American arm",
-   "url": "https://www.washingtontechnology.com/companies/2026/09/serco-hires-supplee-lead-north-american-arm/415867/",
+   "title": "NASA starts to craft engineering, tech services recompete",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/nasa-starts-craft-engineering-tech-services-recompete/415870/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
-   "published": "2026-09-09T14:04:55Z",
-   "why": "Barbara Supplee will now lead Serco North America's strategy centered around areas like autonomy and modernization, among others."
+   "published": "2026-09-09T17:51:37Z",
+   "why": "The space agency is aptly calling this new contract ORBIT and using industry feedback to structure the competition."
   },
   {
-   "title": "FBI officials say AI is bolstering adversaries, emphasizing need to focus on cyber basics, patching",
-   "url": "https://cyberscoop.com/fbi-cyber-strategy-ai-threats-patching/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-09T13:00:00Z",
-   "why": "The remarks, to both CyberScoop and at the Billington CyberSecurity Summit, dovetail with the release of a new bureau cyber strategy."
+   "title": "Pentagon pores over heaps of industry feedback on CMMC reform",
+   "url": "https://defensescoop.com/2026/09/09/pentagon-pores-over-heaps-of-industry-feedback-on-cmmc-reform/",
+   "source": "DefenseScoop",
+   "category": "Compliance and Security",
+   "published": "2026-09-09T17:46:00Z",
+   "why": "Input from contractors is expected to inform the department's reforms to the Cybersecurity Maturity Model Certification program."
+  },
+  {
+   "title": "Lockheed Martin secures $950M Australian air battle management contract",
+   "url": "https://breakingdefense.com/2026/09/lockheed-martin-secures-950m-australian-air-battle-management-contract/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T17:30:00Z",
+   "why": "Lockheed Martin says the enhancements under Australia’s Project AIR6500 Tranche 2B will establish a “scalable path” for future improvements and integration of..."
+  },
+  {
+   "title": "Trump signs veterans benefits order calling for improved data sharing",
+   "url": "https://www.nextgov.com/digital-government/2026/09/trump-signs-veterans-benefits-order-calling-improved-data-sharing/415872/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T15:56:00Z",
+   "why": "The order instructs the departments of Veterans Affairs and Defense to conduct a broad review of information technology-related contracts to ensure greater..."
+  },
+  {
+   "title": "US finalizes $4 billion military financing loan for Poland",
+   "url": "https://breakingdefense.com/2026/09/us-finalizes-4-billion-military-financing-loan-for-poland/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-09T15:52:22Z",
+   "why": "Though Warsaw did not disclose how the new money will be spent, it could be put toward an acquisition of 32 additional F-35s, in support of an air superiority..."
   },
   {
    "title": "Pentagon partners with venture studio to pilot shared services contract model via $100M OTA",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-09T09:41:11Z",
    "why": "The Defense Information Systems Agency has requested offers for the potential $21.6 billion JWCC UCM Core cloud IDIQ contract."
-  },
-  {
-   "title": "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
-   "url": "https://cyberscoop.com/microsoft-patch-tuesday-september-2026/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-08T22:50:41Z",
-   "why": "While the vendor hit another monthly record, it hasn’t resulted in a flood of active exploits."
-  },
-  {
-   "title": "Compliance doesn’t win wars",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/compliance-doesnt-win-wars/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-08T21:08:42Z",
-   "why": "Every military capability is ultimately judged by its contribution to combat effectiveness."
-  },
-  {
-   "title": "Pentagon unveils first of two solicitations for its next big cloud contract",
-   "url": "https://www.nextgov.com/acquisition/2026/09/pentagon-unveils-first-two-solicitations-its-next-big-cloud-contract/415846/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-08T21:00:00Z",
-   "why": "The hyperscalers can now start working on proposals for their portion of the Joint Warfighter Cloud Capability recompete, while a second contract is..."
   }
  ]
 }
