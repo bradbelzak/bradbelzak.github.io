@@ -1,24 +1,64 @@
 {
- "updatedAt": "2026-09-10T19:05:42.090775Z",
+ "updatedAt": "2026-09-10T23:05:51.251576Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Israeli military creates new branch focused on AI, drones and robotics",
-   "url": "https://breakingdefense.com/2026/09/israeli-military-creates-new-branch-focused-on-ai-drones-and-robotics/",
-   "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T18:30:00Z",
-   "why": "“The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt."
+   "title": "DIU is speeding up security clearance process for startups",
+   "url": "https://federalnewsnetwork.com/defense-main/2026/09/diu-is-speeding-up-security-clearance-process-for-startups/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-10T23:01:13Z",
+   "why": "“Our hope is that the vendors can then gain access to some of the classified conversations that they need to be at the table in,” Sarah Pearson said."
   },
   {
-   "title": "CISA tees up cyber hygiene recompete",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/cisa-tees-cyber-hygiene-recompete/415906/",
+   "title": "DIU moves to prototype new contract model that will fast-track security clearances for startups",
+   "url": "https://defensescoop.com/2026/09/10/diu-moves-to-prototype-new-contract-model-that-will-fast-track-security-clearances-for-startups/",
+   "source": "DefenseScoop",
+   "category": "Compliance and Security",
+   "published": "2026-09-10T21:34:42Z",
+   "why": "Senior officials unveiled the plan and impending solicitation, which was developed under DIU’s new Bridge Program."
+  },
+  {
+   "title": "DHS plans $440M governmentwide investment in biometric capture devices",
+   "url": "https://fedscoop.com/dhs-biometric-technologies-federal-government-procurement/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-10T21:03:40Z",
+   "why": "The government plans to award at least three indefinite delivery, indefinite quantity contracts for each of its identified tracks: fingerprint, face, iris..."
+  },
+  {
+   "title": "Nobody failed CMMC. We just skipped the change management",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/nobody-failed-cmmc-we-just-skipped-the-change-management/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-10T20:55:45Z",
+   "why": "Shawn James, the president and CEO of Transformation Systems, Inc., offers some ideas for how DoD can improve the CMMC process."
+  },
+  {
+   "title": "You own 100% of the growth number but control none of the people who decide it",
+   "url": "https://www.washingtontechnology.com/opinion/2026/09/you-own-100-growth-number-control-none-people-who-decide-it/415918/",
    "source": "Washington Technology",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T16:25:11Z",
-   "why": "The Cybersecurity and Infrastructure Security Agency is setting up what it calls a “unified, scalable, and modernized mission support vehicle.\""
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-10T20:54:15Z",
+   "why": "Recompetes and on-contract growth make up most of what GovCon companies pursue, but the people who hear the earliest signals report to the COO, not the CGO."
+  },
+  {
+   "title": "Testing plan sinks QinetiQ’s bid for a Polish aerostat surveillance system",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/testing-plan-sinks-qinetiqs-bid-polish-aerostat-surveillance-system/415917/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-10T20:41:31Z",
+   "why": "A newly-released protest decision shows how a dispute over implied testing requirements and NATO's urgency doomed QinetiQ's argument."
+  },
+  {
+   "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
+   "url": "https://breakingdefense.com/2026/09/why-the-pentagon-picked-an-indiana-navy-base-to-host-a-nuclear-microreactor/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-10T20:31:57Z",
+   "why": "The program is driving hard to meet President Trump’s 2028 deadline, officials said, but they have yet to release a formal solicitation, let alone pick a..."
   },
   {
    "title": "Army starts market research for training product support contract",
@@ -27,46 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-10T16:24:22Z",
    "why": "The Army is eyeing this contract as part of efforts to continue the evolution of its Live Training Transformation product line."
-  },
-  {
-   "title": "GSA unveils new, token-based OneGov discount with OpenAI",
-   "url": "https://www.nextgov.com/acquisition/2026/09/gsa-unveils-new-token-based-onegov-discount-openai/415908/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T15:58:00Z",
-   "why": "OpenAI’s move from offering a flat fee to a usage-based approach comes as agreements with other AI companies like Anthropic and Gemini are set to expire at the..."
-  },
-  {
-   "title": "OpenAI, GSA strike OneGov deal for ChatGPT through 2028",
-   "url": "https://fedscoop.com/openai-gsa-reach-onegov-deal-chatgpt-2028/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T15:07:47Z",
-   "why": "It was one of three artificial intelligence deals set to expire at the end of the month, and will now be based on consumption."
-  },
-  {
-   "title": "White House plans to take water cyber pilot into other sectors",
-   "url": "https://www.nextgov.com/cybersecurity/2026/09/white-house-plans-take-water-cyber-pilot-other-sectors/415903/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T14:51:00Z",
-   "why": "Sean Cairncross also outlined plans for a cyber academy that would combine venture capital and other private sector initiatives with a service component."
-  },
-  {
-   "title": "Governments ‘buying time’ in race between innovation, security, national cyber director says",
-   "url": "https://cyberscoop.com/national-cyber-director-ai-cybersecurity-threats/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T13:53:55Z",
-   "why": "Sean Cairncross also said AI has shown long-standing issues in cyber rather than creating new ones."
-  },
-  {
-   "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
-   "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-10T13:29:15Z",
-   "why": "The Saigak APC features an active protection system that the company says can defeat up to 20 First Person View (FPV) drones, amid a proliferation of the..."
   }
  ]
 }
