@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-10T14:57:31.590864Z",
+ "updatedAt": "2026-09-10T19:05:42.090775Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Israeli military creates new branch focused on AI, drones and robotics",
+   "url": "https://breakingdefense.com/2026/09/israeli-military-creates-new-branch-focused-on-ai-drones-and-robotics/",
+   "source": "Breaking Defense",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T18:30:00Z",
+   "why": "“The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt."
+  },
+  {
+   "title": "CISA tees up cyber hygiene recompete",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/cisa-tees-cyber-hygiene-recompete/415906/",
+   "source": "Washington Technology",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T16:25:11Z",
+   "why": "The Cybersecurity and Infrastructure Security Agency is setting up what it calls a “unified, scalable, and modernized mission support vehicle.\""
+  },
+  {
+   "title": "Army starts market research for training product support contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/army-starts-market-research-training-product-support-contract/415907/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-10T16:24:22Z",
+   "why": "The Army is eyeing this contract as part of efforts to continue the evolution of its Live Training Transformation product line."
+  },
+  {
+   "title": "GSA unveils new, token-based OneGov discount with OpenAI",
+   "url": "https://www.nextgov.com/acquisition/2026/09/gsa-unveils-new-token-based-onegov-discount-openai/415908/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T15:58:00Z",
+   "why": "OpenAI’s move from offering a flat fee to a usage-based approach comes as agreements with other AI companies like Anthropic and Gemini are set to expire at the..."
+  },
+  {
+   "title": "OpenAI, GSA strike OneGov deal for ChatGPT through 2028",
+   "url": "https://fedscoop.com/openai-gsa-reach-onegov-deal-chatgpt-2028/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T15:07:47Z",
+   "why": "It was one of three artificial intelligence deals set to expire at the end of the month, and will now be based on consumption."
+  },
   {
    "title": "White House plans to take water cyber pilot into other sectors",
    "url": "https://www.nextgov.com/cybersecurity/2026/09/white-house-plans-take-water-cyber-pilot-other-sectors/415903/",
@@ -27,46 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-09-10T13:29:15Z",
    "why": "The Saigak APC features an active protection system that the company says can defeat up to 20 First Person View (FPV) drones, amid a proliferation of the..."
-  },
-  {
-   "title": "‘We have to throw technology at the cyber problem,’ Pentagon CIO says",
-   "url": "https://www.nextgov.com/defense/2026/09/we-have-throw-technology-cyber-problem-pentagon-cio-says/415894/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T13:00:00Z",
-   "why": "Defense Department Chief Information Officer Kirsten Davies said the Pentagon has to focus on “leveraging the fantastically skilled people that we have in a..."
-  },
-  {
-   "title": "Aethon Security Introduces CMMC Level 2 Service for Defense Contractors",
-   "url": "https://www.govconwire.com/articles/aethon-security-cmmc-level-2-service",
-   "source": "GovConWire",
-   "category": "Compliance and Security",
-   "published": "2026-09-10T09:53:13Z",
-   "why": "Aethon Guide uses AvePoint and IntelliGRC with internally developed automation to support compliance workflows and evidence management."
-  },
-  {
-   "title": "CISA Unveils Plan for Follow-On Integrated Cyber Assessment Support Contract",
-   "url": "https://www.govconwire.com/articles/cisa-follow-on-integrated-cyber-assessment-contract",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-10T09:51:56Z",
-   "why": "CISA has disclosed plans to launch a follow-on procurement for integrated cybersecurity assessment and hygiene support services."
-  },
-  {
-   "title": "‘Truly concerns me’: DAWG director warns funding lapse could kill ‘momentum’",
-   "url": "https://breakingdefense.com/2026/09/truly-concerns-me-dawg-director-warns-funding-lapse-could-kill-momentum/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-09T22:02:35Z",
-   "why": "DAWG is Trump administration initiative that essentially absorbed the Biden-era Replicator initiative designed to acquire thousands of low-cost “attritable”..."
-  },
-  {
-   "title": "CMMC's Phase 2 suspension locked in with binding regulation",
-   "url": "https://www.nextgov.com/acquisition/2026/09/cmmcs-phase-2-suspension-locked-binding-regulation/415890/",
-   "source": "Nextgov",
-   "category": "Compliance and Security",
-   "published": "2026-09-09T21:10:00Z",
-   "why": "A new class deviation moves the pause on third-party assessments for this security standard from policy to an enforceable rule."
   }
  ]
 }
