@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-09-09T23:09:49.659710Z",
+ "updatedAt": "2026-09-10T14:57:31.590864Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "White House plans to take water cyber pilot into other sectors",
+   "url": "https://www.nextgov.com/cybersecurity/2026/09/white-house-plans-take-water-cyber-pilot-other-sectors/415903/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T14:51:00Z",
+   "why": "Sean Cairncross also outlined plans for a cyber academy that would combine venture capital and other private sector initiatives with a service component."
+  },
+  {
+   "title": "Governments ‘buying time’ in race between innovation, security, national cyber director says",
+   "url": "https://cyberscoop.com/national-cyber-director-ai-cybersecurity-threats/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T13:53:55Z",
+   "why": "Sean Cairncross also said AI has shown long-standing issues in cyber rather than creating new ones."
+  },
+  {
+   "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
+   "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-10T13:29:15Z",
+   "why": "The Saigak APC features an active protection system that the company says can defeat up to 20 First Person View (FPV) drones, amid a proliferation of the..."
+  },
+  {
+   "title": "‘We have to throw technology at the cyber problem,’ Pentagon CIO says",
+   "url": "https://www.nextgov.com/defense/2026/09/we-have-throw-technology-cyber-problem-pentagon-cio-says/415894/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T13:00:00Z",
+   "why": "Defense Department Chief Information Officer Kirsten Davies said the Pentagon has to focus on “leveraging the fantastically skilled people that we have in a..."
+  },
+  {
+   "title": "Aethon Security Introduces CMMC Level 2 Service for Defense Contractors",
+   "url": "https://www.govconwire.com/articles/aethon-security-cmmc-level-2-service",
+   "source": "GovConWire",
+   "category": "Compliance and Security",
+   "published": "2026-09-10T09:53:13Z",
+   "why": "Aethon Guide uses AvePoint and IntelliGRC with internally developed automation to support compliance workflows and evidence management."
+  },
+  {
+   "title": "CISA Unveils Plan for Follow-On Integrated Cyber Assessment Support Contract",
+   "url": "https://www.govconwire.com/articles/cisa-follow-on-integrated-cyber-assessment-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-10T09:51:56Z",
+   "why": "CISA has disclosed plans to launch a follow-on procurement for integrated cybersecurity assessment and hygiene support services."
+  },
+  {
+   "title": "‘Truly concerns me’: DAWG director warns funding lapse could kill ‘momentum’",
+   "url": "https://breakingdefense.com/2026/09/truly-concerns-me-dawg-director-warns-funding-lapse-could-kill-momentum/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-09T22:02:35Z",
+   "why": "DAWG is Trump administration initiative that essentially absorbed the Biden-era Replicator initiative designed to acquire thousands of low-cost “attritable”..."
+  },
   {
    "title": "CMMC's Phase 2 suspension locked in with binding regulation",
    "url": "https://www.nextgov.com/acquisition/2026/09/cmmcs-phase-2-suspension-locked-binding-regulation/415890/",
@@ -11,62 +67,6 @@
    "category": "Compliance and Security",
    "published": "2026-09-09T21:10:00Z",
    "why": "A new class deviation moves the pause on third-party assessments for this security standard from policy to an enforceable rule."
-  },
-  {
-   "title": "What is defending our warfighters actually worth?",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/what-is-defending-our-warfighters-actually-worth/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-09T20:57:23Z",
-   "why": "Stacy Bostjanick, a former DoD executive and Tara Lemieux, an Army veteran, electronic warfare signals intelligence officer, explain why CMMC needs to continue."
-  },
-  {
-   "title": "Nuclear agency’s top IT official: ‘Industry has not done enough’ on security",
-   "url": "https://fedscoop.com/nnsa-cio-industry-vendor-management/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-09T20:26:02Z",
-   "why": "NNSA CIO James Wolff said he’s planning to add AI into vendor-vetting processes and that technology providers should aim to produce tools that are more secure."
-  },
-  {
-   "title": "Covenant unveils ‘deep precision strike’ missile it plans to build by the thousands",
-   "url": "https://defensescoop.com/2026/09/09/covenant-unveils-deep-precision-strike-missile/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T20:19:00Z",
-   "why": "The head of Army fires acquisition said Wednesday he was impressed with the company’s system and that it's in the mix of capabilities the service is looking..."
-  },
-  {
-   "title": "GSA and CMS continue Medicaid tech vendor collaboration, but its impact is likely limited, experts say",
-   "url": "https://www.nextgov.com/acquisition/2026/09/gsa-and-cms-continue-medicaid-tech-vendor-collaboration-its-impact-likely-limited-experts-say/415878/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-09-09T19:10:00Z",
-   "why": "The partnership is part of the broader CMS effort to help states comply with Medicaid work requirements enacted by the One Big Beautiful Bill Act."
-  },
-  {
-   "title": "NASA starts to craft engineering, tech services recompete",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/nasa-starts-craft-engineering-tech-services-recompete/415870/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T17:51:37Z",
-   "why": "The space agency is aptly calling this new contract ORBIT and using industry feedback to structure the competition."
-  },
-  {
-   "title": "Pentagon pores over heaps of industry feedback on CMMC reform",
-   "url": "https://defensescoop.com/2026/09/09/pentagon-pores-over-heaps-of-industry-feedback-on-cmmc-reform/",
-   "source": "DefenseScoop",
-   "category": "Compliance and Security",
-   "published": "2026-09-09T17:46:00Z",
-   "why": "Input from contractors is expected to inform the department's reforms to the Cybersecurity Maturity Model Certification program."
-  },
-  {
-   "title": "Pentagon partners with venture studio to pilot shared savings contract model via $100M OTA",
-   "url": "https://defensescoop.com/2026/09/09/pentagon-red-cell-pilot-shared-services-contract-model/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-09T12:52:38Z",
-   "why": "This unique agreement is designed to demonstrate a new framework where vendors are paid only for the costs they eliminate for DOD."
   }
  ]
 }
