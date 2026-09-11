@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-10T23:05:51.251576Z",
+ "updatedAt": "2026-09-11T14:58:26.059243Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "5 DOT Contract Opportunities: From Aviation Infrastructure to Cooperative Driving Automation",
+   "url": "https://www.govconwire.com/articles/dot-contract-opportunities-faa-fta",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-11T09:08:15Z",
+   "why": "Contracting opportunities at the Department of Transportation include architectural and engineering services to driving automation."
+  },
+  {
+   "title": "Accenture Federal Services Wins Potential $480M Army JETMS Contract",
+   "url": "https://www.govconwire.com/articles/accenture-federal-services-480m-army-jetms-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-11T09:06:38Z",
+   "why": "Accenture Federal Services has won a potential $480.4 million Army contract to develop the AI-enabled JETMS task management platform."
+  },
+  {
+   "title": "DHS Opens Bidding on $441M Biometric Device Multiple-Award Contract",
+   "url": "https://www.govconwire.com/articles/dhs-biometric-capture-device-solicitation",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-11T09:04:14Z",
+   "why": "DHS is seeking proposals for a government-wide multiple-award biometric capture device contract with a $440.7 million ceiling."
+  },
   {
    "title": "DIU is speeding up security clearance process for startups",
    "url": "https://federalnewsnetwork.com/defense-main/2026/09/diu-is-speeding-up-security-clearance-process-for-startups/",
@@ -11,6 +35,14 @@
    "category": "Compliance and Security",
    "published": "2026-09-10T23:01:13Z",
    "why": "“Our hope is that the vendors can then gain access to some of the classified conversations that they need to be at the table in,” Sarah Pearson said."
+  },
+  {
+   "title": "NIH seeks to engage patients as it scales use of AI with Bio Genesis Mission",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/nih-seeks-engage-patients-it-scales-use-ai-bio-genesis-mission/415923/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-10T21:42:00Z",
+   "why": "The agency is in the early stages of determining how exactly it will collaborate with other agencies on the Bio Genesis Mission it announced in July."
   },
   {
    "title": "DIU moves to prototype new contract model that will fast-track security clearances for startups",
@@ -21,52 +53,20 @@
    "why": "Senior officials unveiled the plan and impending solicitation, which was developed under DIU’s new Bridge Program."
   },
   {
+   "title": "Software acquisition must meet the speed of development",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/software-acquisition-must-meet-the-speed-of-development/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-10T21:22:22Z",
+   "why": "The gap between how fast software can be built and how fast it can be acquired is widening."
+  },
+  {
    "title": "DHS plans $440M governmentwide investment in biometric capture devices",
    "url": "https://fedscoop.com/dhs-biometric-technologies-federal-government-procurement/",
    "source": "FedScoop",
    "category": "Acquisition and Contracting",
    "published": "2026-09-10T21:03:40Z",
    "why": "The government plans to award at least three indefinite delivery, indefinite quantity contracts for each of its identified tracks: fingerprint, face, iris..."
-  },
-  {
-   "title": "Nobody failed CMMC. We just skipped the change management",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/nobody-failed-cmmc-we-just-skipped-the-change-management/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-10T20:55:45Z",
-   "why": "Shawn James, the president and CEO of Transformation Systems, Inc., offers some ideas for how DoD can improve the CMMC process."
-  },
-  {
-   "title": "You own 100% of the growth number but control none of the people who decide it",
-   "url": "https://www.washingtontechnology.com/opinion/2026/09/you-own-100-growth-number-control-none-people-who-decide-it/415918/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-10T20:54:15Z",
-   "why": "Recompetes and on-contract growth make up most of what GovCon companies pursue, but the people who hear the earliest signals report to the COO, not the CGO."
-  },
-  {
-   "title": "Testing plan sinks QinetiQ’s bid for a Polish aerostat surveillance system",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/testing-plan-sinks-qinetiqs-bid-polish-aerostat-surveillance-system/415917/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-10T20:41:31Z",
-   "why": "A newly-released protest decision shows how a dispute over implied testing requirements and NATO's urgency doomed QinetiQ's argument."
-  },
-  {
-   "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
-   "url": "https://breakingdefense.com/2026/09/why-the-pentagon-picked-an-indiana-navy-base-to-host-a-nuclear-microreactor/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-10T20:31:57Z",
-   "why": "The program is driving hard to meet President Trump’s 2028 deadline, officials said, but they have yet to release a formal solicitation, let alone pick a..."
-  },
-  {
-   "title": "Army starts market research for training product support contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/army-starts-market-research-training-product-support-contract/415907/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-10T16:24:22Z",
-   "why": "The Army is eyeing this contract as part of efforts to continue the evolution of its Live Training Transformation product line."
   }
  ]
 }
