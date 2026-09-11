@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-09-11T14:58:26.059243Z",
+ "updatedAt": "2026-09-11T19:07:48.315138Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "GitLab’s critical flaw is already drawing internet-wide probes",
+   "url": "https://cyberscoop.com/gitlab-critical-flaws-path-traversal-scans/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-11T18:41:52Z",
+   "why": "One flaw allows an unauthenticated attacker to read files from the server."
+  },
+  {
+   "title": "Federal AI needs an authority ladder before agents get the keys",
+   "url": "https://fedscoop.com/federal-ai-authority-ladder-agents/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-11T18:20:50Z",
+   "why": "The Hugging Face intrusion offers a good lesson on the importance of certain boundaries."
+  },
+  {
+   "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
+   "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-11T17:41:00Z",
+   "why": "[Sponsored] Manufacturing scale, global sustainment, and next-gen tech are becoming inseparable."
+  },
+  {
+   "title": "Canada, Ukraine to jointly produce defense tech, part of ‘100-year partnership’",
+   "url": "https://breakingdefense.com/2026/09/canada-ukraine-to-jointly-produce-defense-tech-part-of-100-year-partnership/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-11T16:26:08Z",
+   "why": "Ottawa also pledged to invest approximately $350 million to purchase air defense interceptors via the Joint Ukraine Multinational Program, also known as..."
+  },
+  {
+   "title": "Accenture's federal arm wins $480M Army task management system contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/accentures-federal-arm-wins-480m-army-task-management-system-contract/415938/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-11T15:58:26Z",
+   "why": "Pentagon and Army leaders see the future Joint Enterprise Task Management System as heavily leaning on artificial intelligence and eventually being able to..."
+  },
+  {
+   "title": "DHS starts the bidding for $441M biometric tech contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/dhs-starts-bidding-441m-biometric-tech-contract/415937/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-11T15:54:27Z",
+   "why": "The Homeland Security Department will use this contract to buy fingerprint, facial, iris, palmprint and multi-modal devices for component agencies."
+  },
+  {
+   "title": "SBA fast tracks 8(a) applicants in defense-critical industries",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/sba-fast-tracks-8-applicants-defense-critical-industries/415940/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-11T15:38:24Z",
+   "why": "Only 1.2% of active 8(a) firms are registered in the 10 NAICS codes prioritized by the Small Business Administration, though pending reforms could expand the..."
+  },
   {
    "title": "5 DOT Contract Opportunities: From Aviation Infrastructure to Cooperative Driving Automation",
    "url": "https://www.govconwire.com/articles/dot-contract-opportunities-faa-fta",
@@ -11,62 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-11T09:08:15Z",
    "why": "Contracting opportunities at the Department of Transportation include architectural and engineering services to driving automation."
-  },
-  {
-   "title": "Accenture Federal Services Wins Potential $480M Army JETMS Contract",
-   "url": "https://www.govconwire.com/articles/accenture-federal-services-480m-army-jetms-contract",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-11T09:06:38Z",
-   "why": "Accenture Federal Services has won a potential $480.4 million Army contract to develop the AI-enabled JETMS task management platform."
-  },
-  {
-   "title": "DHS Opens Bidding on $441M Biometric Device Multiple-Award Contract",
-   "url": "https://www.govconwire.com/articles/dhs-biometric-capture-device-solicitation",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-11T09:04:14Z",
-   "why": "DHS is seeking proposals for a government-wide multiple-award biometric capture device contract with a $440.7 million ceiling."
-  },
-  {
-   "title": "DIU is speeding up security clearance process for startups",
-   "url": "https://federalnewsnetwork.com/defense-main/2026/09/diu-is-speeding-up-security-clearance-process-for-startups/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-10T23:01:13Z",
-   "why": "“Our hope is that the vendors can then gain access to some of the classified conversations that they need to be at the table in,” Sarah Pearson said."
-  },
-  {
-   "title": "NIH seeks to engage patients as it scales use of AI with Bio Genesis Mission",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/nih-seeks-engage-patients-it-scales-use-ai-bio-genesis-mission/415923/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-10T21:42:00Z",
-   "why": "The agency is in the early stages of determining how exactly it will collaborate with other agencies on the Bio Genesis Mission it announced in July."
-  },
-  {
-   "title": "DIU moves to prototype new contract model that will fast-track security clearances for startups",
-   "url": "https://defensescoop.com/2026/09/10/diu-moves-to-prototype-new-contract-model-that-will-fast-track-security-clearances-for-startups/",
-   "source": "DefenseScoop",
-   "category": "Compliance and Security",
-   "published": "2026-09-10T21:34:42Z",
-   "why": "Senior officials unveiled the plan and impending solicitation, which was developed under DIU’s new Bridge Program."
-  },
-  {
-   "title": "Software acquisition must meet the speed of development",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/software-acquisition-must-meet-the-speed-of-development/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-10T21:22:22Z",
-   "why": "The gap between how fast software can be built and how fast it can be acquired is widening."
-  },
-  {
-   "title": "DHS plans $440M governmentwide investment in biometric capture devices",
-   "url": "https://fedscoop.com/dhs-biometric-technologies-federal-government-procurement/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-10T21:03:40Z",
-   "why": "The government plans to award at least three indefinite delivery, indefinite quantity contracts for each of its identified tracks: fingerprint, face, iris..."
   }
  ]
 }
