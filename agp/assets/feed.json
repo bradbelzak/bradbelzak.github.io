@@ -1,40 +1,48 @@
 {
- "updatedAt": "2026-09-11T19:07:48.315138Z",
+ "updatedAt": "2026-09-11T23:11:55.452738Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "GitLab’s critical flaw is already drawing internet-wide probes",
-   "url": "https://cyberscoop.com/gitlab-critical-flaws-path-traversal-scans/",
-   "source": "CyberScoop",
+   "title": "The time is now: Incentivize AI companies to share critical security information",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/the-time-is-now-incentivize-ai-companies-to-share-critical-security-information/",
+   "source": "Federal News Network",
    "category": "AI and Cybersecurity",
-   "published": "2026-09-11T18:41:52Z",
-   "why": "One flaw allows an unauthenticated attacker to read files from the server."
+   "published": "2026-09-11T21:45:01Z",
+   "why": "With CISA 2015 set to expire in September 2026, Congress has an opportunity to extend the statute beyond cyber to cover AI-related threats and mitigations."
   },
   {
-   "title": "Federal AI needs an authority ladder before agents get the keys",
-   "url": "https://fedscoop.com/federal-ai-authority-ladder-agents/",
-   "source": "FedScoop",
+   "title": "Tech bills of the week: Community protection from data centers; AI labs for education; and more",
+   "url": "https://www.nextgov.com/policy/2026/09/tech-bills-week-community-protection-data-centers-ai-labs-education-and-more/415951/",
+   "source": "Nextgov",
    "category": "AI and Cybersecurity",
-   "published": "2026-09-11T18:20:50Z",
-   "why": "The Hugging Face intrusion offers a good lesson on the importance of certain boundaries."
+   "published": "2026-09-11T21:43:00Z",
+   "why": "Recent proposals look to address data center concerns and establish grant programs to bolster students and educators’ AI and data science skills."
   },
   {
-   "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
-   "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-11T17:41:00Z",
-   "why": "[Sponsored] Manufacturing scale, global sustainment, and next-gen tech are becoming inseparable."
+   "title": "DOD poised to move all classified AI workloads off Anthropic by October",
+   "url": "https://defensescoop.com/2026/09/11/dod-poised-to-move-all-classified-ai-workloads-off-anthropic-by-october/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-11T21:41:14Z",
+   "why": "U.S."
   },
   {
-   "title": "Canada, Ukraine to jointly produce defense tech, part of ‘100-year partnership’",
-   "url": "https://breakingdefense.com/2026/09/canada-ukraine-to-jointly-produce-defense-tech-part-of-100-year-partnership/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-11T16:26:08Z",
-   "why": "Ottawa also pledged to invest approximately $350 million to purchase air defense interceptors via the Joint Ukraine Multinational Program, also known as..."
+   "title": "‘Digital employees’ are coming to the Defense Logistics Agency",
+   "url": "https://www.nextgov.com/defense/2026/09/digital-employees-are-coming-defense-logistics-agency/415950/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-11T21:40:00Z",
+   "why": "Nearly 200 agentic-AI bots are already running autonomously as the combat support agency pushes ahead with AI-powered tools, CIO says."
+  },
+  {
+   "title": "Army awards $196M for sensors in first production contracts under EW-focused call for solutions",
+   "url": "https://defensescoop.com/2026/09/11/army-awards-196m-sensor-production-contracts-electronic-warfare/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-11T21:11:09Z",
+   "why": "The contracts stem from the Army’s Rapid Electromagnetic Warfare and Signals Intelligence (REWSI) call for solutions, which was announced in April."
   },
   {
    "title": "Accenture's federal arm wins $480M Army task management system contract",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-11T15:38:24Z",
    "why": "Only 1.2% of active 8(a) firms are registered in the 10 NAICS codes prioritized by the Small Business Administration, though pending reforms could expand the..."
-  },
-  {
-   "title": "5 DOT Contract Opportunities: From Aviation Infrastructure to Cooperative Driving Automation",
-   "url": "https://www.govconwire.com/articles/dot-contract-opportunities-faa-fta",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-11T09:08:15Z",
-   "why": "Contracting opportunities at the Department of Transportation include architectural and engineering services to driving automation."
   }
  ]
 }
