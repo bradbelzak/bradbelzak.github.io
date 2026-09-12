@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-09-11T23:11:55.452738Z",
+ "updatedAt": "2026-09-12T16:14:14.983913Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Sport Pilot Practical Test Standards Alignment",
+   "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18776/sport-pilot-practical-test-standards-alignment",
+   "source": "Federal Register - Transportation Department",
+   "category": "Compliance and Security",
+   "published": "2026-09-14T12:00:00Z",
+   "why": "FAA revises certain regulations governing airman certification and incorporates three updated sport pilot practical test standards (PTS) by reference."
+  },
+  {
+   "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems",
+   "url": "https://cyberscoop.com/openai-agents-malicious-rubygems-packages/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-12T01:50:30Z",
+   "why": "OpenAI confirmed their agents were behind a campaign in May that researchers say flooded the popular online code repository with malicious software packages."
+  },
   {
    "title": "The time is now: Incentivize AI companies to share critical security information",
    "url": "https://federalnewsnetwork.com/commentary/2026/09/the-time-is-now-incentivize-ai-companies-to-share-critical-security-information/",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-11T15:58:26Z",
    "why": "Pentagon and Army leaders see the future Joint Enterprise Task Management System as heavily leaning on artificial intelligence and eventually being able to..."
-  },
-  {
-   "title": "DHS starts the bidding for $441M biometric tech contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/dhs-starts-bidding-441m-biometric-tech-contract/415937/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-11T15:54:27Z",
-   "why": "The Homeland Security Department will use this contract to buy fingerprint, facial, iris, palmprint and multi-modal devices for component agencies."
-  },
-  {
-   "title": "SBA fast tracks 8(a) applicants in defense-critical industries",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/sba-fast-tracks-8-applicants-defense-critical-industries/415940/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-11T15:38:24Z",
-   "why": "Only 1.2% of active 8(a) firms are registered in the 10 NAICS codes prioritized by the Small Business Administration, though pending reforms could expand the..."
   }
  ]
 }
