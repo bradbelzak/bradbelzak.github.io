@@ -1,24 +1,64 @@
 {
- "updatedAt": "2026-09-12T16:14:14.983913Z",
+ "updatedAt": "2026-09-14T16:56:37.156459Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Sport Pilot Practical Test Standards Alignment",
-   "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18776/sport-pilot-practical-test-standards-alignment",
-   "source": "Federal Register - Transportation Department",
-   "category": "Compliance and Security",
-   "published": "2026-09-14T12:00:00Z",
-   "why": "FAA revises certain regulations governing airman certification and incorporates three updated sport pilot practical test standards (PTS) by reference."
+   "title": "Air Force plans to field 500 CCA drones by 2032",
+   "url": "https://defensescoop.com/2026/09/14/air-force-plans-to-field-500-cca-drones-by-2032/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-09-14T14:51:29Z",
+   "why": "General Atomics’ platform is now known as the FQ-42A Vengeance, while Anduril’s has been officially designated the FQ-44A Fury, SECAF Troy Meink said Monday."
   },
   {
-   "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems",
-   "url": "https://cyberscoop.com/openai-agents-malicious-rubygems-packages/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-12T01:50:30Z",
-   "why": "OpenAI confirmed their agents were behind a campaign in May that researchers say flooded the popular online code repository with malicious software packages."
+   "title": "Swarm Aero debuts Gamera drone in bid to succeed Reaper",
+   "url": "https://breakingdefense.com/2026/09/swarm-aero-debuts-gamera-drone-in-bid-to-succeed-reaper/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-14T13:00:00Z",
+   "why": "“What we’ve done cuts against the conventional wisdom,” Swarm co-founder and chief revenue officer Oliver Palmer told Breaking Defense."
+  },
+  {
+   "title": "Lockheed boosts bet on Skunk Works’ Vectis stealth drone",
+   "url": "https://breakingdefense.com/2026/09/lockheed-boosts-bet-on-skunk-works-vectis-stealth-drone/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-14T10:01:00Z",
+   "why": "Lockheed now plans to build five Vectis prototypes, with the first on track to fly in 2027."
+  },
+  {
+   "title": "WT 360: Digital Infuzion and its shepherding approach to transformation",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/wt-360-digital-infuzion-and-its-shepherding-approach-transformation/415939/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-14T10:00:00Z",
+   "why": "Hemant Virkar, founder and chief executive of Digital Infuzion, goes over how the company has extended beyond its initial healthcare roots and still leans on..."
+  },
+  {
+   "title": "ITC Federal Acquires Capgemini Government Solutions, Forms ITC Digital Solutions",
+   "url": "https://www.govconwire.com/articles/itc-federal-acquires-capgemini-government-solutions",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-14T09:22:07Z",
+   "why": "ITC Federal has acquired Capgemini Government Solutions, forming ITC Digital Solutions to expand digital modernization capabilities."
+  },
+  {
+   "title": "Boeing Lands $13.4B Air Force KC-46 FMS Contract Modification",
+   "url": "https://www.govconwire.com/articles/boeing-13-4b-air-force-kc-46-fms-contract-modification",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-14T09:21:38Z",
+   "why": "Boeing has received a $13.4 billion Air Force contract modification to add FMS scope for the KC-46 aircraft."
+  },
+  {
+   "title": "ICE Forecasts $100M Intelligence Analyst Support Requirement",
+   "url": "https://www.govconwire.com/articles/ice-ero-100m-intelligence-research-specialists-forecast",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-14T09:17:18Z",
+   "why": "The planned OASIS+ order would run through February 2032, with a solicitation estimated for December and an award expected in FY 2027."
   },
   {
    "title": "The time is now: Incentivize AI companies to share critical security information",
@@ -27,46 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-11T21:45:01Z",
    "why": "With CISA 2015 set to expire in September 2026, Congress has an opportunity to extend the statute beyond cyber to cover AI-related threats and mitigations."
-  },
-  {
-   "title": "Tech bills of the week: Community protection from data centers; AI labs for education; and more",
-   "url": "https://www.nextgov.com/policy/2026/09/tech-bills-week-community-protection-data-centers-ai-labs-education-and-more/415951/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-11T21:43:00Z",
-   "why": "Recent proposals look to address data center concerns and establish grant programs to bolster students and educators’ AI and data science skills."
-  },
-  {
-   "title": "DOD poised to move all classified AI workloads off Anthropic by October",
-   "url": "https://defensescoop.com/2026/09/11/dod-poised-to-move-all-classified-ai-workloads-off-anthropic-by-october/",
-   "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-11T21:41:14Z",
-   "why": "U.S."
-  },
-  {
-   "title": "‘Digital employees’ are coming to the Defense Logistics Agency",
-   "url": "https://www.nextgov.com/defense/2026/09/digital-employees-are-coming-defense-logistics-agency/415950/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-11T21:40:00Z",
-   "why": "Nearly 200 agentic-AI bots are already running autonomously as the combat support agency pushes ahead with AI-powered tools, CIO says."
-  },
-  {
-   "title": "Army awards $196M for sensors in first production contracts under EW-focused call for solutions",
-   "url": "https://defensescoop.com/2026/09/11/army-awards-196m-sensor-production-contracts-electronic-warfare/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-11T21:11:09Z",
-   "why": "The contracts stem from the Army’s Rapid Electromagnetic Warfare and Signals Intelligence (REWSI) call for solutions, which was announced in April."
-  },
-  {
-   "title": "Accenture's federal arm wins $480M Army task management system contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/accentures-federal-arm-wins-480m-army-task-management-system-contract/415938/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-11T15:58:26Z",
-   "why": "Pentagon and Army leaders see the future Joint Enterprise Task Management System as heavily leaning on artificial intelligence and eventually being able to..."
   }
  ]
 }
