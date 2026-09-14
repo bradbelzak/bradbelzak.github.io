@@ -1,16 +1,24 @@
 {
- "updatedAt": "2026-09-14T20:16:39.608462Z",
+ "updatedAt": "2026-09-14T23:50:00.693139Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "ITC Federal to buy Capgemini's US federal subsidiary",
-   "url": "https://www.washingtontechnology.com/companies/2026/09/itc-federal-buy-capgeminis-us-federal-subsidiary/415965/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-14T19:49:12Z",
-   "why": "ITC Federal is bringing in a business that specializes in Salesforce and ServiceNow implementation efforts."
+   "title": "NSA plans major reorganization with new AI, China and cyber centers",
+   "url": "https://www.nextgov.com/modernization/2026/09/nsa-plans-major-reorganization-new-ai-china-and-cyber-centers/415984/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-14T22:11:00Z",
+   "why": "The overhaul would create five mission centers, with implementation expected to begin in October."
+  },
+  {
+   "title": "Amid AI hype, cyber officials urge focus on ‘fundamentals’",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/amid-ai-hype-cyber-officials-urge-focus-on-fundamentals/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-14T21:34:07Z",
+   "why": "While AI fears dominate headlines, cybersecurity leaders say \"you don't necessarily need the newest, sexiest tool\" to address the risks."
   },
   {
    "title": "Judge halts new Polaris awards over GSA’s ‘unequal treatment’ of bidders",
@@ -37,7 +45,7 @@
    "why": "The National Science Foundation did not consider the impact of KBR’s spinning off the business that will manage the massive Antarctica research contract, the..."
   },
   {
-   "title": "Cyber AB’s Matt Travis on CMMC reform",
+   "title": "Cyber AB’s Matthew Travis on CMMC reform",
    "url": "https://federalnewsnetwork.com/technology-main/2026/09/cyber-abs-matt-travis-on-cmmc-reform/",
    "source": "Federal News Network",
    "category": "Compliance and Security",
@@ -59,14 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-09-14T13:00:00Z",
    "why": "“What we’ve done cuts against the conventional wisdom,” Swarm co-founder and chief revenue officer Oliver Palmer told Breaking Defense."
-  },
-  {
-   "title": "Lockheed boosts bet on Skunk Works’ Vectis stealth drone",
-   "url": "https://breakingdefense.com/2026/09/lockheed-boosts-bet-on-skunk-works-vectis-stealth-drone/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-14T10:01:00Z",
-   "why": "Lockheed now plans to build five Vectis prototypes, with the first on track to fly in 2027."
   }
  ]
 }
