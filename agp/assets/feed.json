@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-15T15:32:20.121926Z",
+ "updatedAt": "2026-09-15T19:40:00.009329Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Space Force creates office to accelerate innovative tech acquisition",
+   "url": "https://defensescoop.com/2026/09/15/space-force-creates-office-to-accelerate-innovative-tech-acquisition/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-15T18:57:12Z",
+   "why": "“It will be empowered just as the PAEs, it will be a peer to the PAEs and it will be 100% focused on that valley of death,” Erich Hernandez-Baquero said."
+  },
+  {
+   "title": "VA starts its search for health systems tech integrator",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/va-starts-its-search-health-systems-tech-integrator/415993/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-15T16:55:26Z",
+   "why": "The Veterans Affairs Department wants a contractor to help establish enterprise integration and data capabilities for operating across different systems."
+  },
+  {
+   "title": "DHS signs Cumulus cloud contract with Google",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-15T16:52:13Z",
+   "why": "The Homeland Security Department has almost wrapped up awards for the hyperscaler-focused portion of this centralized cloud program with Microsoft's contract..."
+  },
+  {
+   "title": "As the Pentagon rethinks CMMC, cybersecurity isn’t pausing",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/as-the-pentagon-rethinks-cmmc-cybersecurity-isnt-pausing/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-15T16:46:14Z",
+   "why": "\"This is not the death knell of CMMC."
+  },
+  {
+   "title": "Budget impasse imperils 1 in 10 Space Force programs, new chief says",
+   "url": "https://breakingdefense.com/2026/09/budget-impasse-imperils-1-in-10-space-force-programs-new-chief-says/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-15T15:53:11Z",
+   "why": "“We’re thankful that we have a [continuing resolution] going into October [1], but I would really be more thankful if we had a budget,” said Chief of Space..."
+  },
   {
    "title": "Army awards Lockheed $1.2B contract for PrSM Inc 2 system",
    "url": "https://breakingdefense.com/2026/09/army-awards-lockheed-1-2b-contract-for-prsm-inc-2-system/",
@@ -11,22 +51,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-15T14:03:48Z",
    "why": "Monday’s announcement comes after Lockheed successfully launched its first PrSM Increment 2 missile in February."
-  },
-  {
-   "title": "EXCLUSIVE: Pratt licenses Hermeus to build F100 fighter jet engine",
-   "url": "https://breakingdefense.com/2026/09/exclusive-pratt-licenses-hermeus-to-build-f100-fighter-jet-engine/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-15T11:45:00Z",
-   "why": "Hermeus CEO Zach Shore told Breaking Defense the company can now vertically integrate production of its Quarterhorse drone and serve as a second source of..."
-  },
-  {
-   "title": "Former Booz Allen Executive Graham Evans Joins LMI as President of National Security",
-   "url": "https://www.govconwire.com/articles/graham-evans-lmi-president-natl-security",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-15T09:47:26Z",
-   "why": "Graham Evans spent more than 16 years at Booz Allen Hamilton, leading AI and platform work in its defense technology group."
   },
   {
    "title": "Leidos Secures $875M Navy Contract for Enterprise Network Support",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-15T09:31:07Z",
    "why": "Google Public Sector has won the potential $876 million DHS Cumulus contract to provide departmentwide commercial cloud services."
-  },
-  {
-   "title": "The gap between AI pilots and AI that survives federal compliance reviews",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/the-gap-between-ai-pilots-and-ai-that-survives-federal-compliance-reviews/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-14T23:14:09Z",
-   "why": "What I see repeatedly is not a technology problem."
-  },
-  {
-   "title": "NSA plans major reorganization with new AI, China and cyber centers",
-   "url": "https://www.nextgov.com/modernization/2026/09/nsa-plans-major-reorganization-new-ai-china-and-cyber-centers/415984/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-14T22:11:00Z",
-   "why": "The overhaul would create five mission centers, with implementation expected to begin in October."
-  },
-  {
-   "title": "Amid AI hype, cyber officials urge focus on ‘fundamentals’",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/amid-ai-hype-cyber-officials-urge-focus-on-fundamentals/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-14T21:34:07Z",
-   "why": "While AI fears dominate headlines, cybersecurity leaders say \"you don't necessarily need the newest, sexiest tool\" to address the risks."
   }
  ]
 }
