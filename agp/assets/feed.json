@@ -1,9 +1,57 @@
 {
- "updatedAt": "2026-09-14T23:50:00.693139Z",
+ "updatedAt": "2026-09-15T15:32:20.121926Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army awards Lockheed $1.2B contract for PrSM Inc 2 system",
+   "url": "https://breakingdefense.com/2026/09/army-awards-lockheed-1-2b-contract-for-prsm-inc-2-system/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-15T14:03:48Z",
+   "why": "Monday’s announcement comes after Lockheed successfully launched its first PrSM Increment 2 missile in February."
+  },
+  {
+   "title": "EXCLUSIVE: Pratt licenses Hermeus to build F100 fighter jet engine",
+   "url": "https://breakingdefense.com/2026/09/exclusive-pratt-licenses-hermeus-to-build-f100-fighter-jet-engine/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-15T11:45:00Z",
+   "why": "Hermeus CEO Zach Shore told Breaking Defense the company can now vertically integrate production of its Quarterhorse drone and serve as a second source of..."
+  },
+  {
+   "title": "Former Booz Allen Executive Graham Evans Joins LMI as President of National Security",
+   "url": "https://www.govconwire.com/articles/graham-evans-lmi-president-natl-security",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-15T09:47:26Z",
+   "why": "Graham Evans spent more than 16 years at Booz Allen Hamilton, leading AI and platform work in its defense technology group."
+  },
+  {
+   "title": "Leidos Secures $875M Navy Contract for Enterprise Network Support",
+   "url": "https://www.govconwire.com/articles/leidos-navy-enterprise-network-support",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-15T09:46:45Z",
+   "why": "Leidos has used automation to accelerate patch delivery to network devices by 93 percent and enterprise-wide patching by 94 percent."
+  },
+  {
+   "title": "Google Public Sector Lands Potential $876M DHS Cumulus Cloud Contract",
+   "url": "https://www.govconwire.com/articles/google-public-sector-876m-dhs-cumulus-cloud-contract-award",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-15T09:31:07Z",
+   "why": "Google Public Sector has won the potential $876 million DHS Cumulus contract to provide departmentwide commercial cloud services."
+  },
+  {
+   "title": "The gap between AI pilots and AI that survives federal compliance reviews",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/the-gap-between-ai-pilots-and-ai-that-survives-federal-compliance-reviews/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-14T23:14:09Z",
+   "why": "What I see repeatedly is not a technology problem."
+  },
   {
    "title": "NSA plans major reorganization with new AI, China and cyber centers",
    "url": "https://www.nextgov.com/modernization/2026/09/nsa-plans-major-reorganization-new-ai-china-and-cyber-centers/415984/",
@@ -19,54 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-14T21:34:07Z",
    "why": "While AI fears dominate headlines, cybersecurity leaders say \"you don't necessarily need the newest, sexiest tool\" to address the risks."
-  },
-  {
-   "title": "Judge halts new Polaris awards over GSA’s ‘unequal treatment’ of bidders",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/judge-halts-new-polaris-awards-over-gsas-unequal-treatment-bidders/415978/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-14T19:48:55Z",
-   "why": "Two protesters win their arguments as the court orders the General Services Administration to fix errors before moving forward with the vehicle."
-  },
-  {
-   "title": "VA to gradually expand medical AI scribe following successful pilots",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/va-gradually-expand-medical-ai-scribe-following-successful-pilots/415971/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-14T17:59:00Z",
-   "why": "The department is seeking to expand providers’ use of the technology with an enterprise contract in 2026."
-  },
-  {
-   "title": "GAO tells NSF to re-evaluate $8B Antarctica award",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/gao-tells-nsf-re-evaluate-8b-antarctica-award/415968/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-14T17:28:09Z",
-   "why": "The National Science Foundation did not consider the impact of KBR’s spinning off the business that will manage the massive Antarctica research contract, the..."
-  },
-  {
-   "title": "Cyber AB’s Matthew Travis on CMMC reform",
-   "url": "https://federalnewsnetwork.com/technology-main/2026/09/cyber-abs-matt-travis-on-cmmc-reform/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-14T16:32:23Z",
-   "why": "As the Pentagon rethinks CMMC, the Cyber AB is calling for a transition plan that continues the momentum of the program."
-  },
-  {
-   "title": "Air Force plans to field 500 CCA drones by 2032",
-   "url": "https://defensescoop.com/2026/09/14/air-force-plans-to-field-500-cca-drones-by-2032/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-09-14T14:51:29Z",
-   "why": "General Atomics’ platform is now known as the FQ-42A Vengeance, while Anduril’s has been officially designated the FQ-44A Fury, SECAF Troy Meink said Monday."
-  },
-  {
-   "title": "Swarm Aero debuts Gamera drone in bid to succeed Reaper",
-   "url": "https://breakingdefense.com/2026/09/swarm-aero-debuts-gamera-drone-in-bid-to-succeed-reaper/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-14T13:00:00Z",
-   "why": "“What we’ve done cuts against the conventional wisdom,” Swarm co-founder and chief revenue officer Oliver Palmer told Breaking Defense."
   }
  ]
 }
