@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-15T23:30:15.503894Z",
+ "updatedAt": "2026-09-16T15:24:33.271115Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Rocket Lab Completes $1.9B ATM Offering to Fund Iridium Acquisition",
+   "url": "https://www.govconwire.com/articles/rocket-lab-1-94b-atm-offering-iridium-acquisition",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T08:40:15Z",
+   "why": "Rocket Lab has completed a $1.94 billion at-the-market offering, fully financing its pending acquisition of Iridium."
+  },
+  {
+   "title": "Tom Watson Named Cherokee Federal President",
+   "url": "https://www.govconwire.com/articles/cherokee-federal-named-tom-watson-president",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T08:36:49Z",
+   "why": "Watson joined a tribally owned federal contracting business with more than $1 billion in annual revenue and over 5,000 employees."
+  },
+  {
+   "title": "DHS Forecasts Recompete of Financial Systems Contract",
+   "url": "https://www.govconwire.com/articles/dhs-trio-financial-systems-recompete-forecast",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T08:33:15Z",
+   "why": "The planned SEWP V task order covers financial management, procurement and asset management systems serving DHS components."
+  },
+  {
+   "title": "A surprise engine team up, plus a budget warning from space",
+   "url": "https://breakingdefense.com/2026/09/a-surprise-engine-team-up-plus-a-budget-warning-from-space/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-16T01:39:31Z",
+   "why": "We recap top news from the second day of AFA 2026."
+  },
   {
    "title": "FBI needs access to latest models to police AI-driven cybercrime, director says",
    "url": "https://www.nextgov.com/artificial-intelligence/2026/09/fbi-needs-access-latest-models-police-ai-driven-cybercrime-director-says/416011/",
@@ -21,52 +53,20 @@
    "why": "House and Senate Democrats optimistic about the outcome of year's midterm elections outlined their plans on Tuesday to stop the Education Department from..."
   },
   {
+   "title": "NGA official assumes top AI role at Cyber Command",
+   "url": "https://www.nextgov.com/people/2026/09/nga-official-assumes-top-ai-role-cyber-command/416008/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-15T21:50:00Z",
+   "why": "Ronzelle Green steps into the chief artificial intelligence officer role previously held by Reid Novotny, who worked to expand the combatant command’s embrace..."
+  },
+  {
    "title": "The federal government can’t buy cybersecurity at the speed of a cyber attack",
    "url": "https://federalnewsnetwork.com/commentary/2026/09/the-federal-government-cant-buy-cybersecurity-at-the-speed-of-a-cyber-attack/",
    "source": "Federal News Network",
    "category": "Acquisition and Contracting",
    "published": "2026-09-15T21:34:28Z",
    "why": "AI has shortened the distance between discovery and exploitation considerably, and the acquisition system has not kept pace."
-  },
-  {
-   "title": "Anduril officials say company can’t start on CCA production contract without FY27 budget",
-   "url": "https://breakingdefense.com/2026/09/anduril-officials-say-company-cant-start-on-cca-production-contract-without-fy27-budget/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-15T20:42:54Z",
-   "why": "“We will not have a cold start to start production in [20]27."
-  },
-  {
-   "title": "VA starts its search for health systems tech integrator",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/va-starts-its-search-health-systems-tech-integrator/415993/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-15T16:55:26Z",
-   "why": "The Veterans Affairs Department wants a contractor to help establish enterprise integration and data capabilities for operating across different systems."
-  },
-  {
-   "title": "DHS signs Cumulus cloud contract with Google",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/dhs-signs-cumulus-cloud-contract-google/415994/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-15T16:52:13Z",
-   "why": "The Homeland Security Department has almost wrapped up awards for the hyperscaler-focused portion of this centralized cloud program with Microsoft's contract..."
-  },
-  {
-   "title": "As the Pentagon rethinks CMMC, cybersecurity isn’t pausing",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/09/as-the-pentagon-rethinks-cmmc-cybersecurity-isnt-pausing/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-15T16:46:14Z",
-   "why": "\"This is not the death knell of CMMC."
-  },
-  {
-   "title": "Army awards Lockheed $1.2B contract for PrSM Inc 2 system",
-   "url": "https://breakingdefense.com/2026/09/army-awards-lockheed-1-2b-contract-for-prsm-inc-2-system/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-15T14:03:48Z",
-   "why": "Monday’s announcement comes after Lockheed successfully launched its first PrSM Increment 2 missile in February."
   }
  ]
 }
