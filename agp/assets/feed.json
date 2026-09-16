@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-16T19:30:58.920031Z",
+ "updatedAt": "2026-09-16T23:37:56.424421Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "CIO-SP4 post-mortem: GWAC was not longer relevant, needed",
+   "url": "https://federalnewsnetwork.com/contractsawards/2026/09/cio-sp4-post-mortem-gwac-was-not-longer-relevant-needed/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T22:39:00Z",
+   "why": "In his first interview since CIO-SP4 was cancelled, Ricky Clark, the director of NITAAC, said a review found a high duplication of services, contractors."
+  },
+  {
+   "title": "GSA’s web design system head replaced with Treasury AI engineer",
+   "url": "https://www.nextgov.com/people/2026/09/gsas-web-design-system-head-replaced-treasury-ai-engineer/416035/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-16T21:38:00Z",
+   "why": "The U.S."
+  },
+  {
+   "title": "Salesforce expands Missionforce with new AI capabilities, OpenAI partnership",
+   "url": "https://www.nextgov.com/acquisition/2026/09/salesforce-expands-missionforce-new-ai-capabilities-openai-partnership/416031/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-16T20:29:00Z",
+   "why": "The company recently announced it will also bring NVIDIA Nemotron-based models and accelerated computing into Missionforce, an agentic platform for agencies."
+  },
+  {
+   "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
+   "url": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T20:28:18Z",
+   "why": "Separately, the Space Force plans to issue the first operational contracts for space domain awareness to commercial firms “very soon,” according to Space Force..."
+  },
+  {
+   "title": "Anduril now covers both halves of $1.5B DHS counter-UAS contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/anduril-now-covers-both-halves-15b-dhs-counter-uas-contract/416027/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T20:18:47Z",
+   "why": "Leidos is the only other company competing for work in both the product and services portions of the five-year counter-unmanned aircraft systems contract"
+  },
   {
    "title": "AI agents are getting better at cybersecurity. That cuts both ways.",
    "url": "https://www.nextgov.com/cybersecurity/2026/09/ai-agents-are-getting-better-cybersecurity-cuts-both-ways/416025/",
@@ -27,46 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-16T18:22:02Z",
    "why": "The Service to the Citizen award recognizes public servants at the federal, state and local levels as well as contractors."
-  },
-  {
-   "title": "House passes bill to give financial agencies a technology boost",
-   "url": "https://fedscoop.com/house-passes-futures-act-modernize-financial-agencies/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T15:57:42Z",
-   "why": "The FUTURES Act aims to close “talent gaps, procurement barriers, or technological blind spots” at the federal financial regulators, the bill’s Republican..."
-  },
-  {
-   "title": "Rocket Lab Completes $1.9B ATM Offering to Fund Iridium Acquisition",
-   "url": "https://www.govconwire.com/articles/rocket-lab-1-94b-atm-offering-iridium-acquisition",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T08:40:15Z",
-   "why": "Rocket Lab has completed a $1.94 billion at-the-market offering, fully financing its pending acquisition of Iridium."
-  },
-  {
-   "title": "Tom Watson Named Cherokee Federal President",
-   "url": "https://www.govconwire.com/articles/cherokee-federal-named-tom-watson-president",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T08:36:49Z",
-   "why": "Watson joined a tribally owned federal contracting business with more than $1 billion in annual revenue and over 5,000 employees."
-  },
-  {
-   "title": "DHS Forecasts Recompete of Financial Systems Contract",
-   "url": "https://www.govconwire.com/articles/dhs-trio-financial-systems-recompete-forecast",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T08:33:15Z",
-   "why": "The planned SEWP V task order covers financial management, procurement and asset management systems serving DHS components."
-  },
-  {
-   "title": "A surprise engine team up, plus a budget warning from space",
-   "url": "https://breakingdefense.com/2026/09/a-surprise-engine-team-up-plus-a-budget-warning-from-space/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-16T01:39:31Z",
-   "why": "We recap top news from the second day of AFA 2026."
   }
  ]
 }
