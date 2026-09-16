@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-16T15:24:33.271115Z",
+ "updatedAt": "2026-09-16T19:30:58.920031Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "AI agents are getting better at cybersecurity. That cuts both ways.",
+   "url": "https://www.nextgov.com/cybersecurity/2026/09/ai-agents-are-getting-better-cybersecurity-cuts-both-ways/416025/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-16T18:41:00Z",
+   "why": "NIST is testing agentic AI to help enrich the National Vulnerability Database, even as increasingly capable models demonstrate why cyber autonomy needs careful..."
+  },
+  {
+   "title": "Air Force establishing ‘Megatron’ IDIQ to fast-track DAF Battle Network acquisitions",
+   "url": "https://defensescoop.com/2026/09/16/air-force-megatron-idiq-fast-track-daf-battle-network-acquisitions/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T18:29:03Z",
+   "why": "“We want industry to understand the mission problem, bring their best ideas, and be prepared to deliver interoperable and adaptive capability,\" Brig."
+  },
+  {
+   "title": "‘I love to solve problems’: Awards program honors feds who improved the delivery of public services",
+   "url": "https://www.govexec.com/management/2026/09/i-love-solve-problems-awards-program-honors-feds-who-improved-delivery-public-services/416024/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T18:22:02Z",
+   "why": "The Service to the Citizen award recognizes public servants at the federal, state and local levels as well as contractors."
+  },
+  {
+   "title": "House passes bill to give financial agencies a technology boost",
+   "url": "https://fedscoop.com/house-passes-futures-act-modernize-financial-agencies/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T15:57:42Z",
+   "why": "The FUTURES Act aims to close “talent gaps, procurement barriers, or technological blind spots” at the federal financial regulators, the bill’s Republican..."
+  },
   {
    "title": "Rocket Lab Completes $1.9B ATM Offering to Fund Iridium Acquisition",
    "url": "https://www.govconwire.com/articles/rocket-lab-1-94b-atm-offering-iridium-acquisition",
@@ -35,38 +67,6 @@
    "category": "Budget and Appropriations",
    "published": "2026-09-16T01:39:31Z",
    "why": "We recap top news from the second day of AFA 2026."
-  },
-  {
-   "title": "FBI needs access to latest models to police AI-driven cybercrime, director says",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/fbi-needs-access-latest-models-police-ai-driven-cybercrime-director-says/416011/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-15T22:26:00Z",
-   "why": "Federal Bureau of Investigation Director Kash Patel spoke about how he thinks the bureau can best police new AI-related criminal activity, beginning with model..."
-  },
-  {
-   "title": "Education Department shutdown plans face a new hurdle",
-   "url": "https://www.govexec.com/management/2026/09/education-department-shutdown-plans-face-new-hurdle/416003/",
-   "source": "Government Executive",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-15T21:57:16Z",
-   "why": "House and Senate Democrats optimistic about the outcome of year's midterm elections outlined their plans on Tuesday to stop the Education Department from..."
-  },
-  {
-   "title": "NGA official assumes top AI role at Cyber Command",
-   "url": "https://www.nextgov.com/people/2026/09/nga-official-assumes-top-ai-role-cyber-command/416008/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-15T21:50:00Z",
-   "why": "Ronzelle Green steps into the chief artificial intelligence officer role previously held by Reid Novotny, who worked to expand the combatant command’s embrace..."
-  },
-  {
-   "title": "The federal government can’t buy cybersecurity at the speed of a cyber attack",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/the-federal-government-cant-buy-cybersecurity-at-the-speed-of-a-cyber-attack/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-15T21:34:28Z",
-   "why": "AI has shortened the distance between discovery and exploitation considerably, and the acquisition system has not kept pace."
   }
  ]
 }
