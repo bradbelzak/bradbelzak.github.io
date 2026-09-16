@@ -141,8 +141,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 #federal,#build,#global{scroll-margin-top:calc(var(--agp-stuck,110px) + 14px)}
 /* full sections carry 82px of top padding, so pull the anchor up by it and the
    heading lands just under the header instead of a screen of empty space */
-#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-stuck,110px) + 14px - 82px)}
-@media(max-width:900px){#services,#deliver,#who,#about,#team,#contact{scroll-margin-top:calc(var(--agp-stuck,110px) + 10px - 56px)}}
+#services,#deliver,#who,#about,#team,#press,#contact{scroll-margin-top:calc(var(--agp-stuck,110px) + 14px - 82px)}
+@media(max-width:900px){#services,#deliver,#who,#about,#team,#press,#contact{scroll-margin-top:calc(var(--agp-stuck,110px) + 10px - 56px)}}
 #build{padding-bottom:8px}
 
 @media(max-width:900px){.deliver{min-height:0}}
@@ -416,6 +416,27 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 @media(prefers-reduced-motion:reduce){.trole:hover b,.trole.sweep b{animation:none}}
 .trole p{color:var(--dim);font-size:14px;margin:0}
 @media(max-width:900px){.tgrid{grid-template-columns:1fr}}
+
+/* ===== In the News ===== */
+.press{display:grid;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:16px;overflow:hidden;margin-top:6px}
+.pitem{background:var(--bg);display:grid;grid-template-columns:172px 1fr;gap:26px;padding:26px 28px;align-items:start;transition:background .25s}
+.pitem:hover{background:#0A1738}
+.pmeta{display:grid;gap:5px;align-content:start}
+.pout{font-family:'Fraunces',Georgia,serif;font-size:19px;font-weight:600;color:#fff;line-height:1.1}
+.pdate{font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#8FB4FF}
+.pbody h3{margin:0 0 9px;font-weight:600;line-height:1.22}
+.plink{font-family:'Fraunces',Georgia,serif;font-size:clamp(18px,1.85vw,22px);font-weight:600;line-height:1.22;color:var(--fg);text-decoration:none;border-bottom:1px solid transparent;transition:color .2s,border-color .2s}
+.plink:hover{color:#8FB4FF;border-bottom-color:#8FB4FF}
+.plink .parrow{display:inline-block;margin-left:7px;font-size:.78em;transform:translateY(-1px);transition:transform .2s}
+.plink:hover .parrow{transform:translate(3px,-1px)}
+.psum{color:var(--dim);font-size:15px;line-height:1.55;margin:0;max-width:74ch}
+.psum b{color:#EAF1FF;font-weight:600}
+@media(max-width:760px){
+  .pitem{grid-template-columns:1fr;gap:12px;padding:22px 20px}
+  .pmeta{grid-auto-flow:column;justify-content:start;align-items:baseline;gap:12px}
+  .pout{font-size:17px}
+  .psum{font-size:15.5px}
+}
 }
 </style>
 <link rel="stylesheet" href="agp/assets/news-feed.css?v=2">
@@ -434,6 +455,7 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
     <a href="#services">Expertise</a>
     <a href="#who">Clients</a>
     <a href="#about">Leadership</a>
+    <a href="#press">News</a>
     <a href="#contact">Contact</a>
   </nav>
 </header>
@@ -593,6 +615,24 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
   </div>
 </section>
 
+<section id="press" style="padding-top:56px">
+  <div class="wrap">
+    <p class="label rv">In the News</p>
+    <div class="press rv">
+      <div class="pitem">
+        <div class="pmeta">
+          <p class="pout">CIO</p>
+          <p class="pdate">September 2026</p>
+        </div>
+        <div class="pbody">
+          <h3><a class="plink" href="https://www.cio.com/article/4218852/it-consulting-has-a-big-ai-problem.html" target="_blank" rel="noopener">IT consulting has a big AI problem<span class="parrow" aria-hidden="true">&#8599;</span></a></h3>
+          <p class="psum">Founder <b>Brad Belzak</b> on the collapse of the consulting pyramid: frontier models absorbed the work generalists used to do, and the premium now sits with people who can take messy data, structure it, and turn it into an answer. On the multi-year transformation: <b>&#8220;If your roadmap takes three years, the tools you scoped in month one are obsolete by month 18.&#8221;</b></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 <section id="contact" class="contact">
   <div class="wrap">
     <div class="contact-col">
@@ -669,7 +709,7 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
      sub-blocks inside Expertise (federal detail, What We Build, worldwide
      detail) are their own stops, so the arrow no longer jumps Expertise
      straight to Clients. */
-  var ids=['top','services','build','deliver','who','about','team','contact'];
+  var ids=['top','services','build','deliver','who','about','team','press','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
   /* Height of everything pinned across the top. The news ticker stays stuck
      under the header at every scroll position, so a stop measured against the
@@ -783,7 +823,7 @@ document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
 
 /* scrollspy */
 (function(){
-  var ids=['top','services','deliver','who','about','contact'];
+  var ids=['top','services','deliver','who','about','press','contact'];
   var secs=ids.map(function(id){return document.getElementById(id)}).filter(Boolean);
   function setActive(id){document.querySelectorAll('#primary-nav a').forEach(function(a){a.classList.toggle('active',a.getAttribute('href')==='#'+id)})}
   var spy=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting)setActive(e.target.id)})},{rootMargin:'-45% 0px -50% 0px',threshold:0});
