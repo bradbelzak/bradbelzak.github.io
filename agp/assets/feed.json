@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-09-17T19:41:37.313148Z",
+ "updatedAt": "2026-09-17T23:30:53.287015Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Cleared talent retention: A national security imperative",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/cleared-talent-retention-a-national-security-imperative/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-09-17T22:30:13Z",
+   "why": "Retention needs to be viewed for what it is: a strategic issue with direct implications for national security."
+  },
+  {
+   "title": "Democrats warn OPM’s health data collection plan goes too far",
+   "url": "https://federalnewsnetwork.com/pay-benefits/2026/09/democrats-warn-opms-health-data-collection-plan-goes-too-far/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-09-17T22:28:16Z",
+   "why": "Democrats doubled down on concerns that the administration’s plan to collect detailed federal employee health data poses security risks and legal questions."
+  },
+  {
+   "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
+   "url": "https://breakingdefense.com/2026/09/army-adds-234m-in-undefinitized-contract-funding-for-black-hawk-deal/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-17T22:20:54Z",
+   "why": "The news comes as Sikorsky’s 10th multiyear deal, awarded in 2022 by the Army, is set to conclude by the end of next calendar year."
+  },
+  {
+   "title": "DIU is now the Pentagon’s one door for drone tech – here’s how to walk through",
+   "url": "https://www.washingtontechnology.com/opinion/2026/09/dui-now-pentagons-one-door-drone-tech-heres-how-walk-through/416060/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-17T20:47:25Z",
+   "why": "DOD has consolidated unmanned systems programs under one office with the Defense Innovation Unit as the commercial gateway."
+  },
+  {
+   "title": "Army has enough drones for each unit, now it needs to train soldiers to use them",
+   "url": "https://breakingdefense.com/2026/09/army-has-enough-drones-for-each-unit-now-it-needs-to-train-soldiers-to-use-them/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-17T20:16:22Z",
+   "why": "“Where we still have some work to do candidly is getting everybody trained at the appropriate level,” Col."
+  },
+  {
+   "title": "DHS sets fast-track schedule for network, cloud and cyber consolidation vehicle",
+   "url": "https://www.nextgov.com/acquisition/2026/09/dhs-sets-fast-track-schedule-network-cloud-and-cyber-consolidation-vehicle/416059/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-17T20:11:57Z",
+   "why": "The Homeland Security Department is working against a compressed timeline to make awards for this contract to centralize IT operations at headquarters and..."
+  },
+  {
+   "title": "Winning a government contract may not end scrutiny of what a bidder claimed in its proposal",
+   "url": "https://federalnewsnetwork.com/litigation/2026/09/winning-a-government-contract-may-not-end-scrutiny-of-what-a-bidder-claimed-in-its-proposal/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-17T19:54:49Z",
+   "why": "\"Be mindful of this distinction between issues with the agency's evaluation and issues with the bidder's material misrepresentation,\" said Zach Prince."
+  },
   {
    "title": "The AI hacking apocalypse is not inevitable",
    "url": "https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity/",
@@ -11,62 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-17T19:18:07Z",
    "why": "While large language models present real risks to society, experts say they can be tested and largely controlled using well-worn cybersecurity and policy..."
-  },
-  {
-   "title": "Anthropic extends its GSA OneGov deal for Claude by one month",
-   "url": "https://fedscoop.com/anthropic-extends-gsa-onegov-deal-for-claude-by-one-month/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-09-17T16:45:48Z",
-   "why": "The $1 per user deal will now be available until Oct."
-  },
-  {
-   "title": "TSA preps industry for operational testing recompete",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/tsa-preps-industry-operational-testing-recompete/416046/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-17T16:37:42Z",
-   "why": "The Transportation Security Agency will use this $100 million-plus blanket purchase agreement to verify systems as effective and suitable for use."
-  },
-  {
-   "title": "DOE CIO Dawn Zimmer to Keynote 2026 FedCiv Summit",
-   "url": "https://www.govconwire.com/articles/dawn-zimmer-2026-fedciv-summit-keynote-doe-ai",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-17T09:40:12Z",
-   "why": "Wash100 winner and DOE CIO Dawn Zimmer will keynote POC's 2026 FedCiv Summit on Oct."
-  },
-  {
-   "title": "CACI Lands Potential $1.5B Contract for USCENTCOM Operations Support",
-   "url": "https://www.govconwire.com/articles/caci-uscentcom-operations-support",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-17T09:37:16Z",
-   "why": "CACI's Apollo program is intended to help USCENTCOM make faster decisions and coordinate more effectively across commands and partners."
-  },
-  {
-   "title": "TSA Eyes Potential $100M Follow-On Test & Evaluation Support BPA",
-   "url": "https://www.govconwire.com/articles/tsa-100m-follow-on-operational-test-evaluation-support-bpa",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-17T09:32:29Z",
-   "why": "TSA has unveiled plans for a follow-on test and evaluation support BPA solicitation, which is expected in March 2027."
-  },
-  {
-   "title": "DoD moves to replace government-unique accounting standards with GAAP",
-   "url": "https://federalnewsnetwork.com/acquisition-policy/2026/09/dod-moves-to-replace-government-unique-accounting-standards-with-gaap/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T23:42:01Z",
-   "why": "“This is a huge step, but it's going to be a long journey between this memo and actually implementing it in contracts,” David Berteau said."
-  },
-  {
-   "title": "CIO-SP4 post-mortem: GWAC was no longer relevant, needed",
-   "url": "https://federalnewsnetwork.com/contractsawards/2026/09/cio-sp4-post-mortem-gwac-was-not-longer-relevant-needed/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T22:39:00Z",
-   "why": "In his first interview since CIO-SP4 was cancelled, Ricky Clark, the director of NITAAC, said a review found a high duplication of services, contractors."
   }
  ]
 }
