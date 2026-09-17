@@ -1,11 +1,43 @@
 {
- "updatedAt": "2026-09-16T23:37:56.424421Z",
+ "updatedAt": "2026-09-17T15:31:26.060233Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "CIO-SP4 post-mortem: GWAC was not longer relevant, needed",
+   "title": "DOE CIO Dawn Zimmer to Keynote 2026 FedCiv Summit",
+   "url": "https://www.govconwire.com/articles/dawn-zimmer-2026-fedciv-summit-keynote-doe-ai",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-17T09:40:12Z",
+   "why": "Wash100 winner and DOE CIO Dawn Zimmer will keynote POC's 2026 FedCiv Summit on Oct."
+  },
+  {
+   "title": "CACI Lands Potential $1.5B Contract for USCENTCOM Operations Support",
+   "url": "https://www.govconwire.com/articles/caci-uscentcom-operations-support",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-17T09:37:16Z",
+   "why": "CACI's Apollo program is intended to help USCENTCOM make faster decisions and coordinate more effectively across commands and partners."
+  },
+  {
+   "title": "TSA Eyes Potential $100M Follow-On Test & Evaluation Support BPA",
+   "url": "https://www.govconwire.com/articles/tsa-100m-follow-on-operational-test-evaluation-support-bpa",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-17T09:32:29Z",
+   "why": "TSA has unveiled plans for a follow-on test and evaluation support BPA solicitation, which is expected in March 2027."
+  },
+  {
+   "title": "DoD moves to replace government-unique accounting standards with GAAP",
+   "url": "https://federalnewsnetwork.com/acquisition-policy/2026/09/dod-moves-to-replace-government-unique-accounting-standards-with-gaap/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-16T23:42:01Z",
+   "why": "“This is a huge step, but it's going to be a long journey between this memo and actually implementing it in contracts,” David Berteau said."
+  },
+  {
+   "title": "CIO-SP4 post-mortem: GWAC was no longer relevant, needed",
    "url": "https://federalnewsnetwork.com/contractsawards/2026/09/cio-sp4-post-mortem-gwac-was-not-longer-relevant-needed/",
    "source": "Federal News Network",
    "category": "Acquisition and Contracting",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-16T20:28:18Z",
    "why": "Separately, the Space Force plans to issue the first operational contracts for space domain awareness to commercial firms “very soon,” according to Space Force..."
-  },
-  {
-   "title": "Anduril now covers both halves of $1.5B DHS counter-UAS contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/anduril-now-covers-both-halves-15b-dhs-counter-uas-contract/416027/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T20:18:47Z",
-   "why": "Leidos is the only other company competing for work in both the product and services portions of the five-year counter-unmanned aircraft systems contract"
-  },
-  {
-   "title": "AI agents are getting better at cybersecurity. That cuts both ways.",
-   "url": "https://www.nextgov.com/cybersecurity/2026/09/ai-agents-are-getting-better-cybersecurity-cuts-both-ways/416025/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-16T18:41:00Z",
-   "why": "NIST is testing agentic AI to help enrich the National Vulnerability Database, even as increasingly capable models demonstrate why cyber autonomy needs careful..."
-  },
-  {
-   "title": "Air Force establishing ‘Megatron’ IDIQ to fast-track DAF Battle Network acquisitions",
-   "url": "https://defensescoop.com/2026/09/16/air-force-megatron-idiq-fast-track-daf-battle-network-acquisitions/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T18:29:03Z",
-   "why": "“We want industry to understand the mission problem, bring their best ideas, and be prepared to deliver interoperable and adaptive capability,\" Brig."
-  },
-  {
-   "title": "‘I love to solve problems’: Awards program honors feds who improved the delivery of public services",
-   "url": "https://www.govexec.com/management/2026/09/i-love-solve-problems-awards-program-honors-feds-who-improved-delivery-public-services/416024/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T18:22:02Z",
-   "why": "The Service to the Citizen award recognizes public servants at the federal, state and local levels as well as contractors."
   }
  ]
 }
