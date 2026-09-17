@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-17T15:31:26.060233Z",
+ "updatedAt": "2026-09-17T19:41:37.313148Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "The AI hacking apocalypse is not inevitable",
+   "url": "https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-17T19:18:07Z",
+   "why": "While large language models present real risks to society, experts say they can be tested and largely controlled using well-worn cybersecurity and policy..."
+  },
+  {
+   "title": "Anthropic extends its GSA OneGov deal for Claude by one month",
+   "url": "https://fedscoop.com/anthropic-extends-gsa-onegov-deal-for-claude-by-one-month/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-09-17T16:45:48Z",
+   "why": "The $1 per user deal will now be available until Oct."
+  },
+  {
+   "title": "TSA preps industry for operational testing recompete",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/tsa-preps-industry-operational-testing-recompete/416046/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-17T16:37:42Z",
+   "why": "The Transportation Security Agency will use this $100 million-plus blanket purchase agreement to verify systems as effective and suitable for use."
+  },
   {
    "title": "DOE CIO Dawn Zimmer to Keynote 2026 FedCiv Summit",
    "url": "https://www.govconwire.com/articles/dawn-zimmer-2026-fedciv-summit-keynote-doe-ai",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-16T22:39:00Z",
    "why": "In his first interview since CIO-SP4 was cancelled, Ricky Clark, the director of NITAAC, said a review found a high duplication of services, contractors."
-  },
-  {
-   "title": "GSA’s web design system head replaced with Treasury AI engineer",
-   "url": "https://www.nextgov.com/people/2026/09/gsas-web-design-system-head-replaced-treasury-ai-engineer/416035/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-16T21:38:00Z",
-   "why": "The U.S."
-  },
-  {
-   "title": "Salesforce expands Missionforce with new AI capabilities, OpenAI partnership",
-   "url": "https://www.nextgov.com/acquisition/2026/09/salesforce-expands-missionforce-new-ai-capabilities-openai-partnership/416031/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-16T20:29:00Z",
-   "why": "The company recently announced it will also bring NVIDIA Nemotron-based models and accelerated computing into Missionforce, an agentic platform for agencies."
-  },
-  {
-   "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
-   "url": "https://breakingdefense.com/2026/09/space-forces-gmti-program-gets-a-name-with-northrop-as-prime-general/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-16T20:28:18Z",
-   "why": "Separately, the Space Force plans to issue the first operational contracts for space domain awareness to commercial firms “very soon,” according to Space Force..."
   }
  ]
 }
