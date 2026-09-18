@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-18T14:57:08.133805Z",
+ "updatedAt": "2026-09-18T18:59:50.083760Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Researchers use AI to find widespread software decoder flaw",
+   "url": "https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-18T17:19:49Z",
+   "why": "The bug, since patched, gave attackers remote code execution privileges and access to user accounts and production environments, including Meta’s core product..."
+  },
+  {
+   "title": "Why the ‘right to repair’ matters to the Pentagon",
+   "url": "https://breakingdefense.com/2026/09/why-the-right-to-repair-matters-to-the-pentagon/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T16:58:59Z",
+   "why": "The US military wants authorization to repair its systems without contractor support, which at the moment is easier said than done."
+  },
+  {
+   "title": "Pentagon unveils top performers in latest ‘Gauntlet’ for Drone Dominance Program",
+   "url": "https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-09-18T15:54:48Z",
+   "why": "The department now plans to purchase a total of about 60,000 drones from those UAS vendors."
+  },
   {
    "title": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
    "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19162/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51",
@@ -37,36 +61,12 @@
    "why": "The in-space mobility company holds a position on the Space Force's NSSL Phase 3 Lane 1 contract."
   },
   {
-   "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
-   "url": "https://breakingdefense.com/2026/09/army-adds-234m-in-undefinitized-contract-funding-for-black-hawk-deal/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-17T22:20:54Z",
-   "why": "The news comes as Sikorsky’s 10th multiyear deal, awarded in 2022 by the Army, is set to conclude by the end of next calendar year."
-  },
-  {
    "title": "DIU is now the Pentagon’s one door for drone tech – here’s how to walk through",
    "url": "https://www.washingtontechnology.com/opinion/2026/09/dui-now-pentagons-one-door-drone-tech-heres-how-walk-through/416060/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
    "published": "2026-09-17T20:47:25Z",
    "why": "DOD has consolidated unmanned systems programs under one office with the Defense Innovation Unit as the commercial gateway."
-  },
-  {
-   "title": "DHS sets fast-track schedule for network, cloud and cyber consolidation vehicle",
-   "url": "https://www.nextgov.com/acquisition/2026/09/dhs-sets-fast-track-schedule-network-cloud-and-cyber-consolidation-vehicle/416059/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-17T20:11:57Z",
-   "why": "The Homeland Security Department is working against a compressed timeline to make awards for this contract to centralize IT operations at headquarters and..."
-  },
-  {
-   "title": "Winning a government contract may not end scrutiny of what a bidder claimed in its proposal",
-   "url": "https://federalnewsnetwork.com/litigation/2026/09/winning-a-government-contract-may-not-end-scrutiny-of-what-a-bidder-claimed-in-its-proposal/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-17T19:54:49Z",
-   "why": "\"Be mindful of this distinction between issues with the agency's evaluation and issues with the bidder's material misrepresentation,\" said Zach Prince."
   }
  ]
 }
