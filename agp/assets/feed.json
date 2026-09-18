@@ -1,16 +1,48 @@
 {
- "updatedAt": "2026-09-18T18:59:50.083760Z",
+ "updatedAt": "2026-09-18T23:13:43.112301Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Researchers use AI to find widespread software decoder flaw",
-   "url": "https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-18T17:19:49Z",
-   "why": "The bug, since patched, gave attackers remote code execution privileges and access to user accounts and production environments, including Meta’s core product..."
+   "title": "Space Force looks for service members from across the military to fill its ranks",
+   "url": "https://federalnewsnetwork.com/space-operations/2026/09/space-force-looks-for-service-members-from-across-the-military-to-fill-its-ranks/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T21:58:56Z",
+   "why": "The service is looking for service members with backgrounds in cyber, intelligence, acquisition and engineering."
+  },
+  {
+   "title": "Network isolation: Why CI Fortify’s new guidance presents both risks and opportunities for federal agencies and contractors",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/network-isolation-why-ci-fortifys-new-guidance-presents-both-risks-and-opportunities-for-federal-agencies-and-contractors/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T21:15:35Z",
+   "why": "The ability to and capacity for CI operators to meaningfully isolate critical systems can be decisive, allowing IT teams to cut off attacker's actions."
+  },
+  {
+   "title": "Oasis protests Army C-UAS contract win by Parsons Corp",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/oasis-claims-conflicts-armys-c-uas-award-parsons/416086/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T20:21:36Z",
+   "why": "The GAO complaint claims evaluation flaws and an unresolved conflict of interest tied to Parsons making the systems it could potentially be testing."
+  },
+  {
+   "title": "Interior to use facial recognition AI for missing and murdered persons, human trafficking cases",
+   "url": "https://fedscoop.com/interior-clearview-ai-contract-missing-persons/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T19:15:22Z",
+   "why": "The agency’s Missing and Murdered Unit will use Clearview AI tools to “rapidly identify and locate missing persons, crime victims, and suspects nationwide,”..."
+  },
+  {
+   "title": "FAR Overhaul targets commercial buying and negotiations in newest rewrite",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/far-overhaul-targets-commercial-buying-and-negotiations-newest-rewrite/416084/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T19:01:53Z",
+   "why": "Parts 12 and 15 have revisions ready for industry to read, while two other parts of the Federal Acquisition Regulation are deleted entirely in a push to..."
   },
   {
    "title": "Why the ‘right to repair’ matters to the Pentagon",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-18T12:00:00Z",
    "why": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council or FAR Council) are proposing to amend the Federal Acquisition..."
-  },
-  {
-   "title": "Empower AI Lands Potential $205M DCSA Task Order for IT Customer Support",
-   "url": "https://www.govconwire.com/articles/empower-ai-it-dcsa-customer-support-task-order",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-18T08:38:33Z",
-   "why": "Empower AI received a task order with a $36.9 million face value, running through June 2027."
-  },
-  {
-   "title": "World Wide Technology Secures Potential $500M USPS Telecom Contract",
-   "url": "https://www.govconwire.com/articles/world-wide-technology-500m-usps-telecom-contract",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T08:37:22Z",
-   "why": "WWT has received a potential $500 million USPS contract to provide telecommunications hardware, software and network support."
-  },
-  {
-   "title": "Impulse Space Raises $308M Series D Extension",
-   "url": "https://www.govconwire.com/articles/impulse-space-308m-series-d-extension",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T08:35:39Z",
-   "why": "The in-space mobility company holds a position on the Space Force's NSSL Phase 3 Lane 1 contract."
-  },
-  {
-   "title": "DIU is now the Pentagon’s one door for drone tech – here’s how to walk through",
-   "url": "https://www.washingtontechnology.com/opinion/2026/09/dui-now-pentagons-one-door-drone-tech-heres-how-walk-through/416060/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-17T20:47:25Z",
-   "why": "DOD has consolidated unmanned systems programs under one office with the Defense Innovation Unit as the commercial gateway."
   }
  ]
 }
