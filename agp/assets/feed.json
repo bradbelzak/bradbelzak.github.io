@@ -1,24 +1,40 @@
 {
- "updatedAt": "2026-09-17T23:30:53.287015Z",
+ "updatedAt": "2026-09-18T14:57:08.133805Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Cleared talent retention: A national security imperative",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/cleared-talent-retention-a-national-security-imperative/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-09-17T22:30:13Z",
-   "why": "Retention needs to be viewed for what it is: a strategic issue with direct implications for national security."
+   "title": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
+   "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19162/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51",
+   "source": "Federal Register - Management and Budget Office",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T12:00:00Z",
+   "why": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council or FAR Council) are proposing to amend the Federal Acquisition..."
   },
   {
-   "title": "Democrats warn OPM’s health data collection plan goes too far",
-   "url": "https://federalnewsnetwork.com/pay-benefits/2026/09/democrats-warn-opms-health-data-collection-plan-goes-too-far/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-09-17T22:28:16Z",
-   "why": "Democrats doubled down on concerns that the administration’s plan to collect detailed federal employee health data poses security risks and legal questions."
+   "title": "Empower AI Lands Potential $205M DCSA Task Order for IT Customer Support",
+   "url": "https://www.govconwire.com/articles/empower-ai-it-dcsa-customer-support-task-order",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-18T08:38:33Z",
+   "why": "Empower AI received a task order with a $36.9 million face value, running through June 2027."
+  },
+  {
+   "title": "World Wide Technology Secures Potential $500M USPS Telecom Contract",
+   "url": "https://www.govconwire.com/articles/world-wide-technology-500m-usps-telecom-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T08:37:22Z",
+   "why": "WWT has received a potential $500 million USPS contract to provide telecommunications hardware, software and network support."
+  },
+  {
+   "title": "Impulse Space Raises $308M Series D Extension",
+   "url": "https://www.govconwire.com/articles/impulse-space-308m-series-d-extension",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-18T08:35:39Z",
+   "why": "The in-space mobility company holds a position on the Space Force's NSSL Phase 3 Lane 1 contract."
   },
   {
    "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
@@ -37,14 +53,6 @@
    "why": "DOD has consolidated unmanned systems programs under one office with the Defense Innovation Unit as the commercial gateway."
   },
   {
-   "title": "Army has enough drones for each unit, now it needs to train soldiers to use them",
-   "url": "https://breakingdefense.com/2026/09/army-has-enough-drones-for-each-unit-now-it-needs-to-train-soldiers-to-use-them/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-17T20:16:22Z",
-   "why": "“Where we still have some work to do candidly is getting everybody trained at the appropriate level,” Col."
-  },
-  {
    "title": "DHS sets fast-track schedule for network, cloud and cyber consolidation vehicle",
    "url": "https://www.nextgov.com/acquisition/2026/09/dhs-sets-fast-track-schedule-network-cloud-and-cyber-consolidation-vehicle/416059/",
    "source": "Nextgov",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-17T19:54:49Z",
    "why": "\"Be mindful of this distinction between issues with the agency's evaluation and issues with the bidder's material misrepresentation,\" said Zach Prince."
-  },
-  {
-   "title": "The AI hacking apocalypse is not inevitable",
-   "url": "https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-17T19:18:07Z",
-   "why": "While large language models present real risks to society, experts say they can be tested and largely controlled using well-worn cybersecurity and policy..."
   }
  ]
 }
