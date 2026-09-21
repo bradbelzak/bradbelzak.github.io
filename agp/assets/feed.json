@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-21T17:00:04.888986Z",
+ "updatedAt": "2026-09-21T20:23:49.404532Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "How agentic systems are reshaping government contracting",
+   "url": "https://www.washingtontechnology.com/opinion/2026/09/how-agentic-systems-are-reshaping-government-contracting/416115/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T19:10:24Z",
+   "why": "Treat autonomy as a dial, not a switch: start narrow, log everything and let AI agents earn trust overtime, writes Atul Arya, founder and CEO of Blackstraw AI."
+  },
+  {
+   "title": "FAR Overhaul gives contracting officers more flexibility on contract type",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/far-overhaul-gives-contracting-officers-more-flexibility-contract-type/416110/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T17:33:32Z",
+   "why": "The proposed rule rewrites shift to a permissive framework and incorporate Trump’s fixed-price contracting executive order."
+  },
+  {
+   "title": "Pentagon taps Northrop Grumman, True Anomaly for recon satellites that can monitor other space systems",
+   "url": "https://defensescoop.com/2026/09/21/ghostr-satellite-program-contract-awards-northrop-grumman-true-anomaly/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T17:14:39Z",
+   "why": "The contract awards will support the GHOST-R initiative."
+  },
   {
    "title": "FAR Overhaul targets commercial buying and negotiations in newest rewrite",
    "url": "https://www.nextgov.com/acquisition/2026/09/far-overhaul-targets-commercial-buying-and-negotiations-newest-rewrite/416109/",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-21T09:27:19Z",
    "why": "The base requirement covers four aircraft for the Coast Guard and CBP, with a solicitation estimated for July 2027."
-  },
-  {
-   "title": "Space Force looks for service members from across the military to fill its ranks",
-   "url": "https://federalnewsnetwork.com/space-operations/2026/09/space-force-looks-for-service-members-from-across-the-military-to-fill-its-ranks/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T21:58:56Z",
-   "why": "The service is looking for service members with backgrounds in cyber, intelligence, acquisition and engineering."
-  },
-  {
-   "title": "Network isolation: Why CI Fortify’s new guidance presents both risks and opportunities for federal agencies and contractors",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/network-isolation-why-ci-fortifys-new-guidance-presents-both-risks-and-opportunities-for-federal-agencies-and-contractors/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T21:15:35Z",
-   "why": "The ability to and capacity for CI operators to meaningfully isolate critical systems can be decisive, allowing IT teams to cut off attacker's actions."
-  },
-  {
-   "title": "Oasis protests Army C-UAS contract win by Parsons Corp",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/oasis-claims-conflicts-armys-c-uas-award-parsons/416086/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T20:21:36Z",
-   "why": "The GAO complaint claims evaluation flaws and an unresolved conflict of interest tied to Parsons making the systems it could potentially be testing."
   }
  ]
 }
