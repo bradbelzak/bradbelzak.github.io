@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-09-18T23:13:43.112301Z",
+ "updatedAt": "2026-09-21T17:00:04.888986Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "FAR Overhaul targets commercial buying and negotiations in newest rewrite",
+   "url": "https://www.nextgov.com/acquisition/2026/09/far-overhaul-targets-commercial-buying-and-negotiations-newest-rewrite/416109/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T16:31:00Z",
+   "why": "Parts 12 and 15 have revisions ready for industry to read, while two other parts of the Federal Acquisition Regulation are deleted entirely in a push to..."
+  },
+  {
+   "title": "WT 360: Small businesses face ‘seismic’ change to their rules of the road",
+   "url": "https://www.washingtontechnology.com/podcasts/2026/09/wt-360-small-businesses-face-seismic-change-their-rules-road/416076/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T10:00:00Z",
+   "why": "Stephanie Kostro, president of the Professional Services Council, explains to Nick and Ross why that word “seismic” reflects how the Small Business..."
+  },
+  {
+   "title": "TRSS Wins $125M ICE Data Analytics BPA After Sole-Source Reversal",
+   "url": "https://www.govconwire.com/articles/trss-ice-data-analytic-support-services-bpa-win",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T09:31:15Z",
+   "why": "The award follows ICE's August withdrawal of a plan to give the same work to TRSS without competition after industry feedback."
+  },
+  {
+   "title": "SpaceX Books $946M NASA Contract Modification for 3 More ISS Crewed Missions",
+   "url": "https://www.govconwire.com/articles/spacex-946m-nasa-contract-modification-iss-crew-missions",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T09:29:54Z",
+   "why": "SpaceX has secured a $946 million CCtCap contract modification from NASA for three additional crew missions to the space station."
+  },
+  {
+   "title": "Coast Guard Forecasts Follow-On for HC-130J Aircraft Missionization",
+   "url": "https://www.govconwire.com/articles/coast-guard-hc-130j-missionization-follow-on-forecast",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T09:27:19Z",
+   "why": "The base requirement covers four aircraft for the Coast Guard and CBP, with a solicitation estimated for July 2027."
+  },
   {
    "title": "Space Force looks for service members from across the military to fill its ranks",
    "url": "https://federalnewsnetwork.com/space-operations/2026/09/space-force-looks-for-service-members-from-across-the-military-to-fill-its-ranks/",
@@ -27,46 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-18T20:21:36Z",
    "why": "The GAO complaint claims evaluation flaws and an unresolved conflict of interest tied to Parsons making the systems it could potentially be testing."
-  },
-  {
-   "title": "Interior to use facial recognition AI for missing and murdered persons, human trafficking cases",
-   "url": "https://fedscoop.com/interior-clearview-ai-contract-missing-persons/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T19:15:22Z",
-   "why": "The agency’s Missing and Murdered Unit will use Clearview AI tools to “rapidly identify and locate missing persons, crime victims, and suspects nationwide,”..."
-  },
-  {
-   "title": "FAR Overhaul targets commercial buying and negotiations in newest rewrite",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/far-overhaul-targets-commercial-buying-and-negotiations-newest-rewrite/416084/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T19:01:53Z",
-   "why": "Parts 12 and 15 have revisions ready for industry to read, while two other parts of the Federal Acquisition Regulation are deleted entirely in a push to..."
-  },
-  {
-   "title": "Why the ‘right to repair’ matters to the Pentagon",
-   "url": "https://breakingdefense.com/2026/09/why-the-right-to-repair-matters-to-the-pentagon/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T16:58:59Z",
-   "why": "The US military wants authorization to repair its systems without contractor support, which at the moment is easier said than done."
-  },
-  {
-   "title": "Pentagon unveils top performers in latest ‘Gauntlet’ for Drone Dominance Program",
-   "url": "https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-09-18T15:54:48Z",
-   "why": "The department now plans to purchase a total of about 60,000 drones from those UAS vendors."
-  },
-  {
-   "title": "Federal Acquisition Regulation: Revolutionary FAR Overhaul Parts 8, 12, 13, 15, 38, 44, and 51",
-   "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19162/federal-acquisition-regulation-revolutionary-far-overhaul-parts-8-12-13-15-38-44-and-51",
-   "source": "Federal Register - Management and Budget Office",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-18T12:00:00Z",
-   "why": "OFPP, DoD, GSA, and NASA (collectively referred to as the Federal Acquisition Regulatory Council or FAR Council) are proposing to amend the Federal Acquisition..."
   }
  ]
 }
