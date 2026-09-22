@@ -1,32 +1,56 @@
 {
- "updatedAt": "2026-09-22T15:30:10.175150Z",
+ "updatedAt": "2026-09-22T19:42:44.443770Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Citing China, President Trump doubles down on hands-off approach to AI regulation",
-   "url": "https://cyberscoop.com/trump-hands-off-ai-regulation-china-race/",
-   "source": "CyberScoop",
+   "title": "New report urges defense agencies to adopt unified data observability",
+   "url": "https://defensescoop.com/2026/09/22/defense-unified-data-observability-report/",
+   "source": "DefenseScoop",
    "category": "AI and Cybersecurity",
-   "published": "2026-09-22T15:16:35Z",
-   "why": "Following a series of chaotic agentic hacks, Trump and administration officials have consistently expressed fears of Chinese AI dominance in pushing for fewer..."
+   "published": "2026-09-22T19:30:00Z",
+   "why": "Technology leaders warn that legacy monitoring tools create critical blind spots across complex cloud architectures and are no longer sustainable to support..."
   },
   {
-   "title": "Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud",
-   "url": "https://cyberscoop.com/microsoft-eviltokens-cybercrime-service-takedown/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-22T15:00:00Z",
-   "why": "The popular phishing-as-a-service platform used AI throughout the attack chain, allowing cybercriminals to steal tokens for account takeover and business email..."
+   "title": "The government is looking for ways to take friction out of the acquisition system without losing accountability",
+   "url": "https://federalnewsnetwork.com/contracting/2026/09/the-government-is-looking-for-ways-to-take-friction-out-of-the-acquisition-system-without-losing-accountability/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T18:46:29Z",
+   "why": "\"They're building some flexibility in, at the same time, they're trying to say we're going to stay commercial,\" said Emily Murphy."
   },
   {
-   "title": "The Army’s Digital Transformation: Inside TechNet Augusta 2026",
-   "url": "https://breakingdefense.com/2026/09/the-armys-digital-transformation-inside-technet-augusta-2026/",
-   "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-22T13:48:21Z",
-   "why": "AI is reshaping the Army’s approach to cyber, electronic warfare and command and control."
+   "title": "VA selects Abridge ambient scribe under new enterprise contract",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T18:04:00Z",
+   "why": "The department plans to expand the technology to select outpatient care providers."
+  },
+  {
+   "title": "SBA reopens size standard comment period, slashes estimates of its impacts",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/sba-reopens-size-standard-comment-period-slashes-estimates-its-impacts/416136/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T17:31:50Z",
+   "why": "The Small Business Administration's Office of Advocacy now says only 4,000 to 6,000 companies would become small businesses, not the 115,000 originally..."
+  },
+  {
+   "title": "NOAA unveils first blueprint for mobile device management contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/noaa-unveils-first-blueprint-mobile-device-management-contract/416133/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T17:30:46Z",
+   "why": "The National Oceanic and Atmospheric Administration wants a cloud-hosted offering to manage its inventory of devices that run off the Apple, Microsoft and..."
+  },
+  {
+   "title": "Some government requirements exist for a reason. Others can end up consuming more effort than risk.",
+   "url": "https://federalnewsnetwork.com/contracting/2026/09/some-government-requirements-exist-for-a-reason-others-can-end-up-consuming-more-effort-than-risk/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T16:38:51Z",
+   "why": "\"This is a really meaningful change for a lot contractors, particularly mid-tier contractors,\" said Dan Ramish."
   },
   {
    "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Federal Supply Schedule Ordering Procedures",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-22T09:29:03Z",
    "why": "Intelligent Waves' GRAYPATH, Phantom and STRIKE products support programs across the Department of War and special operations forces."
-  },
-  {
-   "title": "Former Leidos Executive Kim Denver Named KBR Contracts, Supply Chain SVP",
-   "url": "https://www.govconwire.com/articles/kbr-named-kim-denver-svp-contracts-supply-chain",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T09:28:48Z",
-   "why": "Denver previously served as deputy assistant secretary of the Army for procurement."
-  },
-  {
-   "title": "Fixed Price Is the New Federal Default. Is Your Margin Ready?",
-   "url": "https://www.govconwire.com/articles/chris-crowder-unanet-govcon-expert-fixed-price-contracts-risk-margin-management",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T09:27:51Z",
-   "why": "Unanet's Chris Crowder, a GovCon Expert, examines how the fixed-price contracting push is shifting cost risk onto defense contractors."
-  },
-  {
-   "title": "How agentic systems are reshaping government contracting",
-   "url": "https://www.washingtontechnology.com/opinion/2026/09/how-agentic-systems-are-reshaping-government-contracting/416115/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T19:10:24Z",
-   "why": "Treat autonomy as a dial, not a switch: start narrow, log everything and let AI agents earn trust overtime, writes Atul Arya, founder and CEO of Blackstraw AI."
   }
  ]
 }
