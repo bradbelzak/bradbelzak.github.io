@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-09-21T20:23:49.404532Z",
+ "updatedAt": "2026-09-22T00:02:15.609057Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Winning the contract is only step one. Financial strategy seals the deal.",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/winning-the-contract-is-only-step-one-financial-strategy-seals-the-deal/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T20:24:18Z",
+   "why": "Preparation begins with understanding whether the organization can support rapid growth before opportunity arrives."
+  },
   {
    "title": "How agentic systems are reshaping government contracting",
    "url": "https://www.washingtontechnology.com/opinion/2026/09/how-agentic-systems-are-reshaping-government-contracting/416115/",
@@ -19,6 +27,14 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-21T17:33:32Z",
    "why": "The proposed rule rewrites shift to a permissive framework and incorporate Trump’s fixed-price contracting executive order."
+  },
+  {
+   "title": "Feinberg’s closed-door meeting on the Hill",
+   "url": "https://breakingdefense.com/2026/09/feinbergs-closed-door-meeting-on-the-hill/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-21T17:30:00Z",
+   "why": "Republicans are still pushing for a record-setting $1.5 trillion defense budget, but the way ahead on Capitol Hill is not yet clear."
   },
   {
    "title": "Pentagon taps Northrop Grumman, True Anomaly for recon satellites that can monitor other space systems",
@@ -37,36 +53,20 @@
    "why": "Parts 12 and 15 have revisions ready for industry to read, while two other parts of the Federal Acquisition Regulation are deleted entirely in a push to..."
   },
   {
+   "title": "Inside the bipartisan backlash to the $27 billion VA-Oracle EHRM contract blindsiding Congress",
+   "url": "https://fedscoop.com/bipartisan-backlash-27-billion-va-oracle-ehrm-contract/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-21T15:54:05Z",
+   "why": "Billions of dollars, dozens of hearings, three administrations and no answers."
+  },
+  {
    "title": "WT 360: Small businesses face ‘seismic’ change to their rules of the road",
    "url": "https://www.washingtontechnology.com/podcasts/2026/09/wt-360-small-businesses-face-seismic-change-their-rules-road/416076/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
    "published": "2026-09-21T10:00:00Z",
    "why": "Stephanie Kostro, president of the Professional Services Council, explains to Nick and Ross why that word “seismic” reflects how the Small Business..."
-  },
-  {
-   "title": "TRSS Wins $125M ICE Data Analytics BPA After Sole-Source Reversal",
-   "url": "https://www.govconwire.com/articles/trss-ice-data-analytic-support-services-bpa-win",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T09:31:15Z",
-   "why": "The award follows ICE's August withdrawal of a plan to give the same work to TRSS without competition after industry feedback."
-  },
-  {
-   "title": "SpaceX Books $946M NASA Contract Modification for 3 More ISS Crewed Missions",
-   "url": "https://www.govconwire.com/articles/spacex-946m-nasa-contract-modification-iss-crew-missions",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T09:29:54Z",
-   "why": "SpaceX has secured a $946 million CCtCap contract modification from NASA for three additional crew missions to the space station."
-  },
-  {
-   "title": "Coast Guard Forecasts Follow-On for HC-130J Aircraft Missionization",
-   "url": "https://www.govconwire.com/articles/coast-guard-hc-130j-missionization-follow-on-forecast",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T09:27:19Z",
-   "why": "The base requirement covers four aircraft for the Coast Guard and CBP, with a solicitation estimated for July 2027."
   }
  ]
 }
