@@ -1,27 +1,51 @@
 {
- "updatedAt": "2026-09-22T19:42:44.443770Z",
+ "updatedAt": "2026-09-22T23:34:48.317665Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "New report urges defense agencies to adopt unified data observability",
-   "url": "https://defensescoop.com/2026/09/22/defense-unified-data-observability-report/",
-   "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-22T19:30:00Z",
-   "why": "Technology leaders warn that legacy monitoring tools create critical blind spots across complex cloud architectures and are no longer sustainable to support..."
+   "title": "Navigating the hidden False Claims Act trap in CMMC self-attestation",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/navigating-the-hidden-false-claims-act-trap-in-cmmc-self-attestation/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-22T22:44:17Z",
+   "why": "Dylan Berger, a digital content consultant for CBIZ Pivot Point Security, explains how vendors can reduce risk and maintain confidence in compliance efforts."
   },
   {
-   "title": "The government is looking for ways to take friction out of the acquisition system without losing accountability",
-   "url": "https://federalnewsnetwork.com/contracting/2026/09/the-government-is-looking-for-ways-to-take-friction-out-of-the-acquisition-system-without-losing-accountability/",
+   "title": "Some government requirements exist for a reason. Others can end up consuming more effort than risk.",
+   "url": "https://federalnewsnetwork.com/contracting/2026/09/some-government-requirements-exist-for-a-reason-others-can-end-up-consuming-more-effort-than-risk/",
    "source": "Federal News Network",
    "category": "Acquisition and Contracting",
-   "published": "2026-09-22T18:46:29Z",
-   "why": "\"They're building some flexibility in, at the same time, they're trying to say we're going to stay commercial,\" said Emily Murphy."
+   "published": "2026-09-22T22:30:14Z",
+   "why": "\"This is a really meaningful change for a lot contractors, particularly mid-tier contractors,\" said Dan Ramish"
   },
   {
-   "title": "VA selects Abridge ambient scribe under new enterprise contract",
+   "title": "FAA administrator defends withholding part of ATC pay raise",
+   "url": "https://www.govexec.com/workforce/2026/09/faa-administrator-defends-withholding-part-atc-pay-raise/416147/",
+   "source": "Government Executive",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-22T21:49:00Z",
+   "why": "Democrats on a House appropriations subcommittee accused FAA Administrator Bryan Bedford of trying to “squeeze” the already overstretched air traffic..."
+  },
+  {
+   "title": "After water attacks, Capitol Hill offers its own proposal for an AI-cyber test program",
+   "url": "https://cyberscoop.com/gottheimer-ai-cyber-defense-act-cisa-pilot/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-22T21:14:32Z",
+   "why": "A key House Democrat and his bipartisan sponsors want to see a $100 million DHS pilot to help critical infrastructure owners and operators — separate from..."
+  },
+  {
+   "title": "Mobile driver’s licenses now widely accepted at Login-dot-gov for ID verification",
+   "url": "https://fedscoop.com/mobile-drivers-licenses-login-dot-gov-identity-verification/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-22T20:16:55Z",
+   "why": "Google and Samsung Wallet users can use the licenses to verify their identity, GSA announced, in an effort to combat artificial intelligence-generated..."
+  },
+  {
+   "title": "Abridge selected for VA ambient AI enterprise contract",
    "url": "https://www.nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140/",
    "source": "Nextgov",
    "category": "Acquisition and Contracting",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-22T17:30:46Z",
    "why": "The National Oceanic and Atmospheric Administration wants a cloud-hosted offering to manage its inventory of devices that run off the Apple, Microsoft and..."
-  },
-  {
-   "title": "Some government requirements exist for a reason. Others can end up consuming more effort than risk.",
-   "url": "https://federalnewsnetwork.com/contracting/2026/09/some-government-requirements-exist-for-a-reason-others-can-end-up-consuming-more-effort-than-risk/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T16:38:51Z",
-   "why": "\"This is a really meaningful change for a lot contractors, particularly mid-tier contractors,\" said Dan Ramish."
-  },
-  {
-   "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Federal Supply Schedule Ordering Procedures",
-   "url": "https://www.federalregister.gov/documents/2026/09/22/2026-19331/general-services-administration-acquisition-regulation-gsar-implementation-of-executive-order-14275",
-   "source": "Federal Register - General Services Administration",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T12:00:00Z",
-   "why": "GSA is proposing to amend the General Services Administration Acquisition Regulation (GSAR) to move Federal Supply Schedule (FSS) ordering procedures from the..."
-  },
-  {
-   "title": "B&A Completes Intelligent Waves Acquisition",
-   "url": "https://www.govconwire.com/articles/ba-intelligent-waves-defense-cyber-acquisition",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T09:29:03Z",
-   "why": "Intelligent Waves' GRAYPATH, Phantom and STRIKE products support programs across the Department of War and special operations forces."
   }
  ]
 }
