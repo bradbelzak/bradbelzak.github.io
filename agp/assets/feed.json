@@ -1,16 +1,64 @@
 {
- "updatedAt": "2026-09-22T00:02:15.609057Z",
+ "updatedAt": "2026-09-22T15:30:10.175150Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Winning the contract is only step one. Financial strategy seals the deal.",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/winning-the-contract-is-only-step-one-financial-strategy-seals-the-deal/",
-   "source": "Federal News Network",
+   "title": "Citing China, President Trump doubles down on hands-off approach to AI regulation",
+   "url": "https://cyberscoop.com/trump-hands-off-ai-regulation-china-race/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-22T15:16:35Z",
+   "why": "Following a series of chaotic agentic hacks, Trump and administration officials have consistently expressed fears of Chinese AI dominance in pushing for fewer..."
+  },
+  {
+   "title": "Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud",
+   "url": "https://cyberscoop.com/microsoft-eviltokens-cybercrime-service-takedown/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-22T15:00:00Z",
+   "why": "The popular phishing-as-a-service platform used AI throughout the attack chain, allowing cybercriminals to steal tokens for account takeover and business email..."
+  },
+  {
+   "title": "The Army’s Digital Transformation: Inside TechNet Augusta 2026",
+   "url": "https://breakingdefense.com/2026/09/the-armys-digital-transformation-inside-technet-augusta-2026/",
+   "source": "Breaking Defense",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-22T13:48:21Z",
+   "why": "AI is reshaping the Army’s approach to cyber, electronic warfare and command and control."
+  },
+  {
+   "title": "General Services Administration Acquisition Regulation; GSAR Implementation of Executive Order 14275, Federal Supply Schedule Ordering Procedures",
+   "url": "https://www.federalregister.gov/documents/2026/09/22/2026-19331/general-services-administration-acquisition-regulation-gsar-implementation-of-executive-order-14275",
+   "source": "Federal Register - General Services Administration",
    "category": "Acquisition and Contracting",
-   "published": "2026-09-21T20:24:18Z",
-   "why": "Preparation begins with understanding whether the organization can support rapid growth before opportunity arrives."
+   "published": "2026-09-22T12:00:00Z",
+   "why": "GSA is proposing to amend the General Services Administration Acquisition Regulation (GSAR) to move Federal Supply Schedule (FSS) ordering procedures from the..."
+  },
+  {
+   "title": "B&A Completes Intelligent Waves Acquisition",
+   "url": "https://www.govconwire.com/articles/ba-intelligent-waves-defense-cyber-acquisition",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T09:29:03Z",
+   "why": "Intelligent Waves' GRAYPATH, Phantom and STRIKE products support programs across the Department of War and special operations forces."
+  },
+  {
+   "title": "Former Leidos Executive Kim Denver Named KBR Contracts, Supply Chain SVP",
+   "url": "https://www.govconwire.com/articles/kbr-named-kim-denver-svp-contracts-supply-chain",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T09:28:48Z",
+   "why": "Denver previously served as deputy assistant secretary of the Army for procurement."
+  },
+  {
+   "title": "Fixed Price Is the New Federal Default. Is Your Margin Ready?",
+   "url": "https://www.govconwire.com/articles/chris-crowder-unanet-govcon-expert-fixed-price-contracts-risk-margin-management",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-22T09:27:51Z",
+   "why": "Unanet's Chris Crowder, a GovCon Expert, examines how the fixed-price contracting push is shifting cost risk onto defense contractors."
   },
   {
    "title": "How agentic systems are reshaping government contracting",
@@ -19,54 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-21T19:10:24Z",
    "why": "Treat autonomy as a dial, not a switch: start narrow, log everything and let AI agents earn trust overtime, writes Atul Arya, founder and CEO of Blackstraw AI."
-  },
-  {
-   "title": "FAR Overhaul gives contracting officers more flexibility on contract type",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/far-overhaul-gives-contracting-officers-more-flexibility-contract-type/416110/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T17:33:32Z",
-   "why": "The proposed rule rewrites shift to a permissive framework and incorporate Trump’s fixed-price contracting executive order."
-  },
-  {
-   "title": "Feinberg’s closed-door meeting on the Hill",
-   "url": "https://breakingdefense.com/2026/09/feinbergs-closed-door-meeting-on-the-hill/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-21T17:30:00Z",
-   "why": "Republicans are still pushing for a record-setting $1.5 trillion defense budget, but the way ahead on Capitol Hill is not yet clear."
-  },
-  {
-   "title": "Pentagon taps Northrop Grumman, True Anomaly for recon satellites that can monitor other space systems",
-   "url": "https://defensescoop.com/2026/09/21/ghostr-satellite-program-contract-awards-northrop-grumman-true-anomaly/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T17:14:39Z",
-   "why": "The contract awards will support the GHOST-R initiative."
-  },
-  {
-   "title": "FAR Overhaul targets commercial buying and negotiations in newest rewrite",
-   "url": "https://www.nextgov.com/acquisition/2026/09/far-overhaul-targets-commercial-buying-and-negotiations-newest-rewrite/416109/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T16:31:00Z",
-   "why": "Parts 12 and 15 have revisions ready for industry to read, while two other parts of the Federal Acquisition Regulation are deleted entirely in a push to..."
-  },
-  {
-   "title": "Inside the bipartisan backlash to the $27 billion VA-Oracle EHRM contract blindsiding Congress",
-   "url": "https://fedscoop.com/bipartisan-backlash-27-billion-va-oracle-ehrm-contract/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T15:54:05Z",
-   "why": "Billions of dollars, dozens of hearings, three administrations and no answers."
-  },
-  {
-   "title": "WT 360: Small businesses face ‘seismic’ change to their rules of the road",
-   "url": "https://www.washingtontechnology.com/podcasts/2026/09/wt-360-small-businesses-face-seismic-change-their-rules-road/416076/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-21T10:00:00Z",
-   "why": "Stephanie Kostro, president of the Professional Services Council, explains to Nick and Ross why that word “seismic” reflects how the Small Business..."
   }
  ]
 }
