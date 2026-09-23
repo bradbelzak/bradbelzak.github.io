@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-23T15:26:00.867055Z",
+ "updatedAt": "2026-09-23T19:38:22.458391Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "The still-formidable F-16 will be even more capable with better electronic warfare",
+   "url": "https://breakingdefense.com/2026/09/the-still-formidable-f-16-will-be-even-more-capable-with-better-electronic-warfare/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-23T19:09:52Z",
+   "why": "[Sponsored] A Viper modernization that includes EW, radar, EO/IR, and navigation."
+  },
+  {
+   "title": "GenAI.mil attracts about half a million ‘power users’ as Pentagon pushes forward with frontier models",
+   "url": "https://defensescoop.com/2026/09/23/genai-mil-pentagon-frontier-models-defensetalks/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-23T18:25:18Z",
+   "why": "Senior defense officials provided an update on the department’s adoption of AI at DefenseTalks."
+  },
+  {
+   "title": "Pentagon cyber chief: The demand far exceeds supply",
+   "url": "https://cyberscoop.com/pentagon-cyber-operations-demand-exceeds-supply-defensetalks-2026/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-23T18:10:42Z",
+   "why": "At DefenseTalks on Tuesday, Katie Sutton said the Pentagon now receives far more requests to use cyber operations than its forces can fulfill, eight years..."
+  },
+  {
+   "title": "What’s unique about Northcom’s Falcon Peak 26.2 counter-drone exercise",
+   "url": "https://defensescoop.com/2026/09/23/northern-command-falcon-peak-26-2-counter-drone-exercise/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-09-23T15:32:42Z",
+   "why": "Anduril’s autonomous command-and-control software platform Lattice brings something new to this series of demonstrations."
+  },
   {
    "title": "The president has called for AI leadership. Here’s the mission.",
    "url": "https://cyberscoop.com/president-ai-leadership-mission-critical-infrastructure-op-ed/",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-23T08:49:47Z",
    "why": "Johns Hopkins APL has received a $390 million Air Force IDIQ contract for space, re-entry test bed and combat systems research."
-  },
-  {
-   "title": "Navigating the hidden False Claims Act trap in CMMC self-attestation",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/navigating-the-hidden-false-claims-act-trap-in-cmmc-self-attestation/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-22T22:44:17Z",
-   "why": "Dylan Berger, a digital content consultant for CBIZ Pivot Point Security, explains how vendors can reduce risk and maintain confidence in compliance efforts."
-  },
-  {
-   "title": "Some government requirements exist for a reason. Others can end up consuming more effort than risk.",
-   "url": "https://federalnewsnetwork.com/contracting/2026/09/some-government-requirements-exist-for-a-reason-others-can-end-up-consuming-more-effort-than-risk/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T22:30:14Z",
-   "why": "\"This is a really meaningful change for a lot contractors, particularly mid-tier contractors,\" said Dan Ramish"
-  },
-  {
-   "title": "FAA administrator defends withholding part of ATC pay raise",
-   "url": "https://www.govexec.com/workforce/2026/09/faa-administrator-defends-withholding-part-atc-pay-raise/416147/",
-   "source": "Government Executive",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-22T21:49:00Z",
-   "why": "Democrats on a House appropriations subcommittee accused FAA Administrator Bryan Bedford of trying to “squeeze” the already overstretched air traffic..."
-  },
-  {
-   "title": "After water attacks, Capitol Hill offers its own proposal for an AI-cyber test program",
-   "url": "https://cyberscoop.com/gottheimer-ai-cyber-defense-act-cisa-pilot/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-22T21:14:32Z",
-   "why": "A key House Democrat and his bipartisan sponsors want to see a $100 million DHS pilot to help critical infrastructure owners and operators — separate from..."
   }
  ]
 }
