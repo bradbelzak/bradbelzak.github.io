@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-22T23:34:48.317665Z",
+ "updatedAt": "2026-09-23T15:26:00.867055Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "The president has called for AI leadership. Here’s the mission.",
+   "url": "https://cyberscoop.com/president-ai-leadership-mission-critical-infrastructure-op-ed/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-23T12:17:20Z",
+   "why": "An AI compact built around capability, control, and continuity can ensure the country stays safe and secure while also leading the world in the technology."
+  },
+  {
+   "title": "All About the DHS Program Executive Office Streamlining Drone & Counter-Drone Tech Procurement",
+   "url": "https://www.govconwire.com/articles/dhs-peo-drone-counter-drone-uas-willoughby",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-23T09:18:48Z",
+   "why": "DHS’ program executive office is coordinating drone and counter-drone technologies purchases and creating opportunities for industry."
+  },
+  {
+   "title": "Army Plans $129M Ceiling Increase for Training Support Contract",
+   "url": "https://www.govconwire.com/articles/army-mtccs-ii-129m-ceiling-increase",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-23T09:10:26Z",
+   "why": "Fourteen companies hold base contracts under the vehicle, which the Army awarded in 2023 with a potential value of $975 million."
+  },
+  {
+   "title": "Johns Hopkins APL Lands $390M Air Force Research Support IDIQ",
+   "url": "https://www.govconwire.com/articles/johns-hopkins-apl-390m-air-force-research-support-idiq",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-23T08:49:47Z",
+   "why": "Johns Hopkins APL has received a $390 million Air Force IDIQ contract for space, re-entry test bed and combat systems research."
+  },
   {
    "title": "Navigating the hidden False Claims Act trap in CMMC self-attestation",
    "url": "https://federalnewsnetwork.com/commentary/2026/09/navigating-the-hidden-false-claims-act-trap-in-cmmc-self-attestation/",
@@ -35,38 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-22T21:14:32Z",
    "why": "A key House Democrat and his bipartisan sponsors want to see a $100 million DHS pilot to help critical infrastructure owners and operators — separate from..."
-  },
-  {
-   "title": "Mobile driver’s licenses now widely accepted at Login-dot-gov for ID verification",
-   "url": "https://fedscoop.com/mobile-drivers-licenses-login-dot-gov-identity-verification/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-22T20:16:55Z",
-   "why": "Google and Samsung Wallet users can use the licenses to verify their identity, GSA announced, in an effort to combat artificial intelligence-generated..."
-  },
-  {
-   "title": "Abridge selected for VA ambient AI enterprise contract",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/va-selects-abridge-ambient-scribe-under-new-enterprise-contract/416140/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T18:04:00Z",
-   "why": "The department plans to expand the technology to select outpatient care providers."
-  },
-  {
-   "title": "SBA reopens size standard comment period, slashes estimates of its impacts",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/sba-reopens-size-standard-comment-period-slashes-estimates-its-impacts/416136/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T17:31:50Z",
-   "why": "The Small Business Administration's Office of Advocacy now says only 4,000 to 6,000 companies would become small businesses, not the 115,000 originally..."
-  },
-  {
-   "title": "NOAA unveils first blueprint for mobile device management contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/noaa-unveils-first-blueprint-mobile-device-management-contract/416133/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-22T17:30:46Z",
-   "why": "The National Oceanic and Atmospheric Administration wants a cloud-hosted offering to manage its inventory of devices that run off the Apple, Microsoft and..."
   }
  ]
 }
