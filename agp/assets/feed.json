@@ -1,24 +1,56 @@
 {
- "updatedAt": "2026-09-23T19:38:22.458391Z",
+ "updatedAt": "2026-09-23T23:36:59.350787Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "The still-formidable F-16 will be even more capable with better electronic warfare",
-   "url": "https://breakingdefense.com/2026/09/the-still-formidable-f-16-will-be-even-more-capable-with-better-electronic-warfare/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-09-23T19:09:52Z",
-   "why": "[Sponsored] A Viper modernization that includes EW, radar, EO/IR, and navigation."
+   "title": "When cell service disappears, a rescue beacon developed by NASA can summon help from space",
+   "url": "https://www.nextgov.com/emerging-tech/2026/09/when-cell-service-disappears-rescue-beacon-developed-nasa-can-summon-help-space/416179/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-09-23T22:35:00Z",
+   "why": "NASA-developed technology, now part of a federal and international satellite search-and-rescue network, can locate people in trouble far beyond the reach of..."
   },
   {
-   "title": "GenAI.mil attracts about half a million ‘power users’ as Pentagon pushes forward with frontier models",
-   "url": "https://defensescoop.com/2026/09/23/genai-mil-pentagon-frontier-models-defensetalks/",
-   "source": "DefenseScoop",
+   "title": "Ready to win more government contracts? Start by supercharging your capture process",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/ready-to-win-more-government-contracts-start-by-supercharging-your-capture-process/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-23T21:23:35Z",
+   "why": "The increasingly competitive bidding landscape for government projects makes a fine-tuned capture process essential to growth for contractors."
+  },
+  {
+   "title": "Booz Allen expands research work with $85M AFRL design contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/booz-allen-expands-research-work-85m-afrl-design-contract/416175/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-23T21:07:53Z",
+   "why": "The 10-year award focuses on integrated design of aircraft, propulsion and power systems."
+  },
+  {
+   "title": "Veterans Affairs previews timeline for enterprise AI services competition",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/veterans-affairs-previews-timeline-enterprise-ai-services-competition/416172/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-23T20:29:00Z",
+   "why": "A final solicitation for the potential three-year contract is just around the corner and will task the winner with rolling out artificial intelligence..."
+  },
+  {
+   "title": "GAO gives Battelle narrow reopening to win $8B Antarctica contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/gao-gives-battelle-narrow-reopening-win-8b-antarctica-contract/416170/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-23T20:25:05Z",
+   "why": "The Government Accountability Office rejected most of the challenges in Battelle's protest, but found the National Science Foundation improperly credited KBR..."
+  },
+  {
+   "title": "Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack",
+   "url": "https://cyberscoop.com/dhs-ig-report-federal-agencies-fail-cisa-cloud-security-directives/",
+   "source": "CyberScoop",
    "category": "AI and Cybersecurity",
-   "published": "2026-09-23T18:25:18Z",
-   "why": "Senior defense officials provided an update on the department’s adoption of AI at DefenseTalks."
+   "published": "2026-09-23T19:40:53Z",
+   "why": "The DHS inspector general said CISA lacks the power to compel agencies to implement its Binding Operational Directives."
   },
   {
    "title": "Pentagon cyber chief: The demand far exceeds supply",
@@ -29,44 +61,12 @@
    "why": "At DefenseTalks on Tuesday, Katie Sutton said the Pentagon now receives far more requests to use cyber operations than its forces can fulfill, eight years..."
   },
   {
-   "title": "What’s unique about Northcom’s Falcon Peak 26.2 counter-drone exercise",
-   "url": "https://defensescoop.com/2026/09/23/northern-command-falcon-peak-26-2-counter-drone-exercise/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-09-23T15:32:42Z",
-   "why": "Anduril’s autonomous command-and-control software platform Lattice brings something new to this series of demonstrations."
-  },
-  {
    "title": "The president has called for AI leadership. Here’s the mission.",
    "url": "https://cyberscoop.com/president-ai-leadership-mission-critical-infrastructure-op-ed/",
    "source": "CyberScoop",
    "category": "AI and Cybersecurity",
    "published": "2026-09-23T12:17:20Z",
    "why": "An AI compact built around capability, control, and continuity can ensure the country stays safe and secure while also leading the world in the technology."
-  },
-  {
-   "title": "All About the DHS Program Executive Office Streamlining Drone & Counter-Drone Tech Procurement",
-   "url": "https://www.govconwire.com/articles/dhs-peo-drone-counter-drone-uas-willoughby",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-23T09:18:48Z",
-   "why": "DHS’ program executive office is coordinating drone and counter-drone technologies purchases and creating opportunities for industry."
-  },
-  {
-   "title": "Army Plans $129M Ceiling Increase for Training Support Contract",
-   "url": "https://www.govconwire.com/articles/army-mtccs-ii-129m-ceiling-increase",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-23T09:10:26Z",
-   "why": "Fourteen companies hold base contracts under the vehicle, which the Army awarded in 2023 with a potential value of $975 million."
-  },
-  {
-   "title": "Johns Hopkins APL Lands $390M Air Force Research Support IDIQ",
-   "url": "https://www.govconwire.com/articles/johns-hopkins-apl-390m-air-force-research-support-idiq",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-23T08:49:47Z",
-   "why": "Johns Hopkins APL has received a $390 million Air Force IDIQ contract for space, re-entry test bed and combat systems research."
   }
  ]
 }
