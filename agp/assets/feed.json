@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-24T15:48:06.709809Z",
+ "updatedAt": "2026-09-24T19:57:45.052713Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "SBA formally reopens size standards comment period after portal lag",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/sba-formally-reopens-size-standards-comment-period-after-portal-lag/416204/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T18:55:47Z",
+   "why": "Both proposed rules now accept comments through Nov."
+  },
+  {
+   "title": "GSA claims it found $1.2B in suspected COVID-related contracting fraud",
+   "url": "https://www.nextgov.com/acquisition/2026/09/gsa-claims-it-found-12b-suspected-covid-related-contracting-fraud/416197/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T18:34:00Z",
+   "why": "The agency previously said it found $13 billion in suspected procurement-related fraud and is investigating other sources of potential fraud."
+  },
+  {
+   "title": "OCCAR awards $4.2B DDX destroyer contract to Fincantieri, Leonardo joint venture",
+   "url": "https://breakingdefense.com/2026/09/occar-awards-4-2b-ddx-destroyer-contract-to-fincantieri-leonardo-joint-venture/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T18:03:00Z",
+   "why": "“The DDX programme is set to redefine the Italian Navy’s capability profile in the field of air and missile defence” said the two Italian manufacturers in a..."
+  },
+  {
+   "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges",
+   "url": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
+   "source": "CyberScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T17:07:31Z",
+   "why": "The Justice Department said two leaders of the company have been arrested and face conspiracy to commit wire fraud."
+  },
   {
    "title": "Navy adds $876M to L3Harris Growler jammer award as production nears",
    "url": "https://www.washingtontechnology.com/contracts/2026/09/navy-adds-876m-l3harris-growler-jammer-award-production-nears/416191/",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-24T09:21:28Z",
    "why": "The Coast Guard plans a January 2027 solicitation through the OASIS+ contract vehicle."
-  },
-  {
-   "title": "Ready to win more government contracts? Start by supercharging your capture process",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/ready-to-win-more-government-contracts-start-by-supercharging-your-capture-process/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-23T21:23:35Z",
-   "why": "The increasingly competitive bidding landscape for government projects makes a fine-tuned capture process essential to growth for contractors."
-  },
-  {
-   "title": "Booz Allen expands research work with $85M AFRL design contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/booz-allen-expands-research-work-85m-afrl-design-contract/416175/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-23T21:07:53Z",
-   "why": "The 10-year award focuses on integrated design of aircraft, propulsion and power systems."
-  },
-  {
-   "title": "Veterans Affairs previews timeline for enterprise AI services competition",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/09/veterans-affairs-previews-timeline-enterprise-ai-services-competition/416172/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-23T20:29:00Z",
-   "why": "A final solicitation for the potential three-year contract is just around the corner and will task the winner with rolling out artificial intelligence..."
-  },
-  {
-   "title": "GAO gives Battelle narrow reopening to win $8B Antarctica contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/gao-gives-battelle-narrow-reopening-win-8b-antarctica-contract/416170/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-23T20:25:05Z",
-   "why": "The Government Accountability Office rejected most of the challenges in Battelle's protest, but found the National Science Foundation improperly credited KBR..."
   }
  ]
 }
