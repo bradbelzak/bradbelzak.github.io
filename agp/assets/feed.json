@@ -1,16 +1,40 @@
 {
- "updatedAt": "2026-09-23T23:36:59.350787Z",
+ "updatedAt": "2026-09-24T15:48:06.709809Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "When cell service disappears, a rescue beacon developed by NASA can summon help from space",
-   "url": "https://www.nextgov.com/emerging-tech/2026/09/when-cell-service-disappears-rescue-beacon-developed-nasa-can-summon-help-space/416179/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-09-23T22:35:00Z",
-   "why": "NASA-developed technology, now part of a federal and international satellite search-and-rescue network, can locate people in trouble far beyond the reach of..."
+   "title": "Navy adds $876M to L3Harris Growler jammer award as production nears",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/navy-adds-876m-l3harris-growler-jammer-award-production-nears/416191/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T15:05:34Z",
+   "why": "The added scope covers production tooling, more test pods and cybersecurity work for the U.S."
+  },
+  {
+   "title": "Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards",
+   "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19535/request-for-information-medicare-part-d-reasonable-and-relevant-pharmacy-contracting-standards",
+   "source": "Federal Register - Health and Human Services Department",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-24T12:00:00Z",
+   "why": "This request for information (RFI) solicits input from interested parties for purposes of establishing standards for reasonable and relevant pharmacy contract..."
+  },
+  {
+   "title": "L3Harris Awarded $876M Modification for Navy Low Band Jammer Work",
+   "url": "https://www.govconwire.com/articles/l3harris-876m-navy-next-generation-jammer-low-band-modification",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T09:23:58Z",
+   "why": "The undefinitized award covers test article pods and cybersecurity work for the Navy and the Royal Australian Air Force."
+  },
+  {
+   "title": "Coast Guard Forecasts $100M-Plus Surface Vessel Engineering Contract",
+   "url": "https://www.govconwire.com/articles/coast-guard-surface-vessel-engineering",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T09:21:28Z",
+   "why": "The Coast Guard plans a January 2027 solicitation through the OASIS+ contract vehicle."
   },
   {
    "title": "Ready to win more government contracts? Start by supercharging your capture process",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-23T20:25:05Z",
    "why": "The Government Accountability Office rejected most of the challenges in Battelle's protest, but found the National Science Foundation improperly credited KBR..."
-  },
-  {
-   "title": "Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack",
-   "url": "https://cyberscoop.com/dhs-ig-report-federal-agencies-fail-cisa-cloud-security-directives/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-23T19:40:53Z",
-   "why": "The DHS inspector general said CISA lacks the power to compel agencies to implement its Binding Operational Directives."
-  },
-  {
-   "title": "Pentagon cyber chief: The demand far exceeds supply",
-   "url": "https://cyberscoop.com/pentagon-cyber-operations-demand-exceeds-supply-defensetalks-2026/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-23T18:10:42Z",
-   "why": "At DefenseTalks on Tuesday, Katie Sutton said the Pentagon now receives far more requests to use cyber operations than its forces can fulfill, eight years..."
-  },
-  {
-   "title": "The president has called for AI leadership. Here’s the mission.",
-   "url": "https://cyberscoop.com/president-ai-leadership-mission-critical-infrastructure-op-ed/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-23T12:17:20Z",
-   "why": "An AI compact built around capability, control, and continuity can ensure the country stays safe and secure while also leading the world in the technology."
   }
  ]
 }
