@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-24T19:57:45.052713Z",
+ "updatedAt": "2026-09-24T23:50:52.248144Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "ICE awards contested, controversial surveillance contract to Thomson Reuters",
+   "url": "https://fedscoop.com/dhs-ice-surveillance-caci-thomson-reuters/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T22:22:14Z",
+   "why": "Documents shared exclusively with FedScoop offer insight into the initial contract awarded six years ago that acted as a critical building block in DHS’s..."
+  },
+  {
+   "title": "What is defending our warfighters actually worth?",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/what-is-defending-our-warfighters-actually-worth-2/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-24T21:48:53Z",
+   "why": "Stacy Bostjanick, a former DoD executive and Tara Lemieux, an Army veteran, electronic warfare signals intelligence officer, explain why CMMC needs to continue."
+  },
+  {
+   "title": "TRICARE’s new budget line needs the oversight infrastructure it never got",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/tricares-new-budget-line-needs-the-oversight-infrastructure-it-never-got/",
+   "source": "Federal News Network",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-24T21:40:31Z",
+   "why": "Three provisions Congress should add to this year's NDAA would close the gap without asking DHA to invent anything new."
+  },
+  {
+   "title": "Navy prepares to add new sea drones and vendors to online marketplace",
+   "url": "https://defensescoop.com/2026/09/24/navy-sea-drones-online-marketplace/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-09-24T20:44:57Z",
+   "why": "The sea service released a call for solutions as it pursues medium unmanned surface vessels."
+  },
   {
    "title": "SBA formally reopens size standards comment period after portal lag",
    "url": "https://www.washingtontechnology.com/contracts/2026/09/sba-formally-reopens-size-standards-comment-period-after-portal-lag/416204/",
@@ -29,44 +61,12 @@
    "why": "“The DDX programme is set to redefine the Italian Navy’s capability profile in the field of air and missile defence” said the two Italian manufacturers in a..."
   },
   {
-   "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges",
-   "url": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
-   "source": "CyberScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T17:07:31Z",
-   "why": "The Justice Department said two leaders of the company have been arrested and face conspiracy to commit wire fraud."
-  },
-  {
    "title": "Navy adds $876M to L3Harris Growler jammer award as production nears",
    "url": "https://www.washingtontechnology.com/contracts/2026/09/navy-adds-876m-l3harris-growler-jammer-award-production-nears/416191/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
    "published": "2026-09-24T15:05:34Z",
    "why": "The added scope covers production tooling, more test pods and cybersecurity work for the U.S."
-  },
-  {
-   "title": "Request for Information; Medicare Part D Reasonable and Relevant Pharmacy Contracting Standards",
-   "url": "https://www.federalregister.gov/documents/2026/09/24/2026-19535/request-for-information-medicare-part-d-reasonable-and-relevant-pharmacy-contracting-standards",
-   "source": "Federal Register - Health and Human Services Department",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-24T12:00:00Z",
-   "why": "This request for information (RFI) solicits input from interested parties for purposes of establishing standards for reasonable and relevant pharmacy contract..."
-  },
-  {
-   "title": "L3Harris Awarded $876M Modification for Navy Low Band Jammer Work",
-   "url": "https://www.govconwire.com/articles/l3harris-876m-navy-next-generation-jammer-low-band-modification",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T09:23:58Z",
-   "why": "The undefinitized award covers test article pods and cybersecurity work for the Navy and the Royal Australian Air Force."
-  },
-  {
-   "title": "Coast Guard Forecasts $100M-Plus Surface Vessel Engineering Contract",
-   "url": "https://www.govconwire.com/articles/coast-guard-surface-vessel-engineering",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T09:21:28Z",
-   "why": "The Coast Guard plans a January 2027 solicitation through the OASIS+ contract vehicle."
   }
  ]
 }
