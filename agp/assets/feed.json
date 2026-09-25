@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-09-25T19:59:22.698906Z",
+ "updatedAt": "2026-09-25T23:55:25.363588Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Tech bills of the week: Creating an AI-focused agency; Reviewing AI-assisted cyber attacks; and more",
+   "url": "https://www.nextgov.com/policy/2026/09/tech-bills-week-creating-ai-focused-agency-reviewing-ai-assisted-cyber-attacks-and-more/416253/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-25T22:00:00Z",
+   "why": "Lawmakers introduced a deluge of AI-focused measures this week in response to growing concerns about the capabilities of advanced models and to President..."
+  },
+  {
+   "title": "Shutdown mass-layoff policy rescinded as part of settlement with unions",
+   "url": "https://www.govexec.com/management/2026/09/shutdown-mass-firing-policy-rescinded-part-settlement-unions/416249/",
+   "source": "Government Executive",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-25T21:57:59Z",
+   "why": "The Trump administration sent reduction in force notices to thousands of employees during the 43-day government shutdown last fall."
+  },
   {
    "title": "Watchdog won’t discipline agencies over partisan shutdown posts but warns against ‘derogatory’ messaging",
    "url": "https://www.govexec.com/oversight/2026/09/watchdog-wont-discipline-agencies-over-partisan-shutdown-posts-warns-against-derogatory-messaging/416231/",
@@ -29,6 +45,14 @@
    "why": "The drone age did not end armored warfare."
   },
   {
+   "title": "Navy creates warfighting development center in Virginia to determine how the sea service will employ unmanned systems in future battles",
+   "url": "https://defensescoop.com/2026/09/25/navy-creates-robotic-autonomous-systems-warfighting-development-center/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-09-25T14:34:04Z",
+   "why": "The new organization will bring “operational coherence” to the service’s drone integration efforts, according to CNO Adm."
+  },
+  {
    "title": "CGI Federal, DLA team up to test quantum and agentic AI for logistics",
    "url": "https://www.washingtontechnology.com/contracts/2026/09/cgi-federal-dla-team-test-quantum-and-agentic-ai-logistics/416227/",
    "source": "Washington Technology",
@@ -37,36 +61,12 @@
    "why": "The Quantum Pathfinder effort with the University of Tennessee will target warehouse and supply chain challenges with a focus on improving resilience."
   },
   {
-   "title": "Iridium Stockholders Clear Rocket Lab Acquisition",
-   "url": "https://www.govconwire.com/articles/iridium-stockholders-approve-rocket-lab-acquisition",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T09:36:10Z",
-   "why": "Iridium stockholders approved the company's acquisition by Rocket Lab, with about 99.6 percent of votes cast in favor of the merger."
-  },
-  {
-   "title": "USDA Awards 25 Spots on $1B CPOC Cybersecurity Support BPA",
-   "url": "https://www.govconwire.com/articles/usda-1b-cpoc-cybersecurity-support-bpa-award",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T09:34:19Z",
-   "why": "USDA has awarded 25 companies spots on a potential five-year, $1 billion BPA for CPOC cybersecurity support."
-  },
-  {
-   "title": "NASA Goddard Seeks Industry Input on GSMO-4 Contract",
-   "url": "https://www.govconwire.com/articles/nasa-goddard-rfi-gsmo-4-mission-operations",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T09:33:17Z",
-   "why": "NASA Goddard has released an RFI to shape GSMO-4 contract and is weighing a shift to firm-fixed-price pricing for mission operations."
-  },
-  {
-   "title": "ICE awards contested, controversial surveillance contract to Thomson Reuters",
-   "url": "https://fedscoop.com/dhs-ice-surveillance-caci-thomson-reuters/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T22:22:14Z",
-   "why": "Documents shared exclusively with FedScoop offer insight into the initial contract awarded six years ago that acted as a critical building block in DHS’s..."
+   "title": "Northcom’s next counter-drone demo will be its first in an urban area",
+   "url": "https://defensescoop.com/2026/09/25/northern-command-counter-drone-demonstration-urban-area/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-09-25T12:55:52Z",
+   "why": "The recurring joint military tests refine rapidly maturing technologies that can sense, monitor, and mitigate rogue and hostile drones."
   }
  ]
 }
