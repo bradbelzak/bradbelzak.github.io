@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-25T15:47:58.121839Z",
+ "updatedAt": "2026-09-25T19:59:22.698906Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Watchdog won’t discipline agencies over partisan shutdown posts but warns against ‘derogatory’ messaging",
+   "url": "https://www.govexec.com/oversight/2026/09/watchdog-wont-discipline-agencies-over-partisan-shutdown-posts-warns-against-derogatory-messaging/416231/",
+   "source": "Government Executive",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-25T18:32:59Z",
+   "why": "Many departments blamed congressional Democrats for last year’s funding lapse by posting banners on agency websites and modifying furloughed employees’..."
+  },
+  {
+   "title": "GAO sustains protest against WidePoint's $3B DHS mobility win",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/gao-sustains-protest-widepoints-3b-dhs-mobility-win/416230/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-25T17:54:54Z",
+   "why": "Turning Point Global Solutions wins its challenge to the evaluation, but the Government Accountability Office rejects conflict-of-interest claims against the..."
+  },
+  {
+   "title": "How China is rethinking tank survival against FPVs and top-attack threats",
+   "url": "https://breakingdefense.com/2026/09/how-china-is-rethinking-tank-survival-against-fpvs-and-top-attack-threats/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-09-25T14:37:52Z",
+   "why": "The drone age did not end armored warfare."
+  },
   {
    "title": "CGI Federal, DLA team up to test quantum and agentic AI for logistics",
    "url": "https://www.washingtontechnology.com/contracts/2026/09/cgi-federal-dla-team-test-quantum-and-agentic-ai-logistics/416227/",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-24T22:22:14Z",
    "why": "Documents shared exclusively with FedScoop offer insight into the initial contract awarded six years ago that acted as a critical building block in DHS’s..."
-  },
-  {
-   "title": "VA’s contracting crackdown gave some staff hours to do hundreds of reviews",
-   "url": "https://www.govexec.com/management/2026/09/vas-contracting-crackdown-hours-hundreds-reviews/416219/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T22:11:15Z",
-   "why": "VA's watchdog office noted these reviews happened quickly under strict deadlines, but generally complied with requirements for terminating contracts."
-  },
-  {
-   "title": "What is defending our warfighters actually worth?",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/what-is-defending-our-warfighters-actually-worth-2/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-24T21:48:53Z",
-   "why": "Stacy Bostjanick, a former DoD executive and Tara Lemieux, an Army veteran, electronic warfare signals intelligence officer, explain why CMMC needs to continue."
-  },
-  {
-   "title": "TRICARE’s new budget line needs the oversight infrastructure it never got",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/tricares-new-budget-line-needs-the-oversight-infrastructure-it-never-got/",
-   "source": "Federal News Network",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-24T21:40:31Z",
-   "why": "Three provisions Congress should add to this year's NDAA would close the gap without asking DHA to invent anything new."
   }
  ]
 }
