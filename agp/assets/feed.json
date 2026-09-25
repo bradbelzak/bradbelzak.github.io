@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-24T23:50:52.248144Z",
+ "updatedAt": "2026-09-25T15:47:58.121839Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "CGI Federal, DLA team up to test quantum and agentic AI for logistics",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/cgi-federal-dla-team-test-quantum-and-agentic-ai-logistics/416227/",
+   "source": "Washington Technology",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-25T14:12:40Z",
+   "why": "The Quantum Pathfinder effort with the University of Tennessee will target warehouse and supply chain challenges with a focus on improving resilience."
+  },
+  {
+   "title": "Iridium Stockholders Clear Rocket Lab Acquisition",
+   "url": "https://www.govconwire.com/articles/iridium-stockholders-approve-rocket-lab-acquisition",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-25T09:36:10Z",
+   "why": "Iridium stockholders approved the company's acquisition by Rocket Lab, with about 99.6 percent of votes cast in favor of the merger."
+  },
+  {
+   "title": "USDA Awards 25 Spots on $1B CPOC Cybersecurity Support BPA",
+   "url": "https://www.govconwire.com/articles/usda-1b-cpoc-cybersecurity-support-bpa-award",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-25T09:34:19Z",
+   "why": "USDA has awarded 25 companies spots on a potential five-year, $1 billion BPA for CPOC cybersecurity support."
+  },
+  {
+   "title": "NASA Goddard Seeks Industry Input on GSMO-4 Contract",
+   "url": "https://www.govconwire.com/articles/nasa-goddard-rfi-gsmo-4-mission-operations",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-25T09:33:17Z",
+   "why": "NASA Goddard has released an RFI to shape GSMO-4 contract and is weighing a shift to firm-fixed-price pricing for mission operations."
+  },
   {
    "title": "ICE awards contested, controversial surveillance contract to Thomson Reuters",
    "url": "https://fedscoop.com/dhs-ice-surveillance-caci-thomson-reuters/",
@@ -11,6 +43,14 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-24T22:22:14Z",
    "why": "Documents shared exclusively with FedScoop offer insight into the initial contract awarded six years ago that acted as a critical building block in DHS’s..."
+  },
+  {
+   "title": "VA’s contracting crackdown gave some staff hours to do hundreds of reviews",
+   "url": "https://www.govexec.com/management/2026/09/vas-contracting-crackdown-hours-hundreds-reviews/416219/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-24T22:11:15Z",
+   "why": "VA's watchdog office noted these reviews happened quickly under strict deadlines, but generally complied with requirements for terminating contracts."
   },
   {
    "title": "What is defending our warfighters actually worth?",
@@ -27,46 +67,6 @@
    "category": "Budget and Appropriations",
    "published": "2026-09-24T21:40:31Z",
    "why": "Three provisions Congress should add to this year's NDAA would close the gap without asking DHA to invent anything new."
-  },
-  {
-   "title": "Navy prepares to add new sea drones and vendors to online marketplace",
-   "url": "https://defensescoop.com/2026/09/24/navy-sea-drones-online-marketplace/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-09-24T20:44:57Z",
-   "why": "The sea service released a call for solutions as it pursues medium unmanned surface vessels."
-  },
-  {
-   "title": "SBA formally reopens size standards comment period after portal lag",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/sba-formally-reopens-size-standards-comment-period-after-portal-lag/416204/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T18:55:47Z",
-   "why": "Both proposed rules now accept comments through Nov."
-  },
-  {
-   "title": "GSA claims it found $1.2B in suspected COVID-related contracting fraud",
-   "url": "https://www.nextgov.com/acquisition/2026/09/gsa-claims-it-found-12b-suspected-covid-related-contracting-fraud/416197/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T18:34:00Z",
-   "why": "The agency previously said it found $13 billion in suspected procurement-related fraud and is investigating other sources of potential fraud."
-  },
-  {
-   "title": "OCCAR awards $4.2B DDX destroyer contract to Fincantieri, Leonardo joint venture",
-   "url": "https://breakingdefense.com/2026/09/occar-awards-4-2b-ddx-destroyer-contract-to-fincantieri-leonardo-joint-venture/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T18:03:00Z",
-   "why": "“The DDX programme is set to redefine the Italian Navy’s capability profile in the field of air and missile defence” said the two Italian manufacturers in a..."
-  },
-  {
-   "title": "Navy adds $876M to L3Harris Growler jammer award as production nears",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/navy-adds-876m-l3harris-growler-jammer-award-production-nears/416191/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T15:05:34Z",
-   "why": "The added scope covers production tooling, more test pods and cybersecurity work for the U.S."
   }
  ]
 }
