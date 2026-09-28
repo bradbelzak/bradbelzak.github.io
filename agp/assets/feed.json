@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-09-26T17:06:16.803364Z",
+ "updatedAt": "2026-09-28T18:34:43.006857Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "As AI world debates security, NVIDIA releases open source tools for agents",
+   "url": "https://cyberscoop.com/nvidia-open-agent-safety-platform/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-28T18:22:53Z",
+   "why": "One expert told CyberScoop that the announcement reflects industry recognition that after years of training models to behave safely or ethically, more outside..."
+  },
+  {
+   "title": "Lawmaker warns intelligence contractors' Trump ballroom donations may be scrutinized",
+   "url": "https://www.nextgov.com/acquisition/2026/09/lawmaker-warns-intelligence-contractors-trump-ballroom-donations-may-be-scrutinized/416272/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T18:21:00Z",
+   "why": "Rep."
+  },
+  {
+   "title": "DHA embarks on health data management contract strategy",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/dha-embarks-health-data-management-contract-strategy/416268/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T17:44:33Z",
+   "why": "The Defense Health Agency wants industry's ideas for working with clinical, administrative, operational, financial, scheduling, encounter, assessment, document..."
+  },
+  {
+   "title": "Air Force unveils first draft of $2B base security tech recompete",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/air-force-unveils-first-draft-2b-base-security-tech-recompete/416270/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T17:43:52Z",
+   "why": "Air Force officials are setting up the multiple-award GUARD contract to aid the transition of the security systems to a modular open systems architecture."
+  },
+  {
+   "title": "TSA Forecasts Recompete for Airport Hazardous Materials Disposal Work",
+   "url": "https://www.govconwire.com/articles/tsa-hazardous-materials-disposal-recompete-forecast",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T09:26:55Z",
+   "why": "Leidos holds the incumbent contract covering roughly 430 airport locations."
+  },
+  {
+   "title": "Defense Unicorns Secures $350M Army Software Delivery Contract",
+   "url": "https://www.govconwire.com/articles/defense-unicorns-army-software-delivery",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T09:26:07Z",
+   "why": "The IDIQ is expected to run through Sept."
+  },
+  {
+   "title": "Air Force Issues Presolicitation for Potential $2B GUARD Base Defense IDIQ",
+   "url": "https://www.govconwire.com/articles/air-force-guard-base-defense-idiq-draft-rfp",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T09:24:48Z",
+   "why": "The Air Force has released a draft solicitation for the potential $2 billion GUARD IDIQ for integrated base defense security systems."
+  },
   {
    "title": "Tech bills of the week: Creating an AI-focused agency; Reviewing AI-assisted cyber attacks; and more",
    "url": "https://www.nextgov.com/policy/2026/09/tech-bills-week-creating-ai-focused-agency-reviewing-ai-assisted-cyber-attacks-and-more/416253/",
@@ -11,62 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-09-25T22:00:00Z",
    "why": "Lawmakers introduced a deluge of AI-focused measures this week in response to growing concerns about the capabilities of advanced models and to President..."
-  },
-  {
-   "title": "Federal Leader’s Guide to CAIO & CDO: HHS’ Jennifer Johnson on how acquisition teams are prepping to integrate AI tools, drive efficiencies",
-   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/09/federal-leaders-guide-to-caio-cdo-hhs-jennifer-johnson-on-how-acquisition-teams-are-prepping-to-integrate-ai-tools-drive-efficiencies/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T17:55:51Z",
-   "why": "The HHS deputy assistant secretary for acquisitions explains how a three-pronged effort is helping the agency prepare its workforce to use AI."
-  },
-  {
-   "title": "GAO sustains protest against WidePoint's $3B DHS mobility win",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/gao-sustains-protest-widepoints-3b-dhs-mobility-win/416230/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T17:54:54Z",
-   "why": "Turning Point Global Solutions wins its challenge to the evaluation, but the Government Accountability Office rejects conflict-of-interest claims against the..."
-  },
-  {
-   "title": "CGI Federal, DLA team up to test quantum and agentic AI for logistics",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/cgi-federal-dla-team-test-quantum-and-agentic-ai-logistics/416227/",
-   "source": "Washington Technology",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-25T14:12:40Z",
-   "why": "The Quantum Pathfinder effort with the University of Tennessee will target warehouse and supply chain challenges with a focus on improving resilience."
-  },
-  {
-   "title": "Iridium Stockholders Clear Rocket Lab Acquisition",
-   "url": "https://www.govconwire.com/articles/iridium-stockholders-approve-rocket-lab-acquisition",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T09:36:10Z",
-   "why": "Iridium stockholders approved the company's acquisition by Rocket Lab, with about 99.6 percent of votes cast in favor of the merger."
-  },
-  {
-   "title": "USDA Awards 25 Spots on $1B CPOC Cybersecurity Support BPA",
-   "url": "https://www.govconwire.com/articles/usda-1b-cpoc-cybersecurity-support-bpa-award",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T09:34:19Z",
-   "why": "USDA has awarded 25 companies spots on a potential five-year, $1 billion BPA for CPOC cybersecurity support."
-  },
-  {
-   "title": "NASA Goddard Seeks Industry Input on GSMO-4 Contract",
-   "url": "https://www.govconwire.com/articles/nasa-goddard-rfi-gsmo-4-mission-operations",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-25T09:33:17Z",
-   "why": "NASA Goddard has released an RFI to shape GSMO-4 contract and is weighing a shift to firm-fixed-price pricing for mission operations."
-  },
-  {
-   "title": "ICE awards contested, controversial surveillance contract to Thomson Reuters",
-   "url": "https://fedscoop.com/dhs-ice-surveillance-caci-thomson-reuters/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-24T22:22:14Z",
-   "why": "Documents shared exclusively with FedScoop offer insight into the initial contract awarded six years ago that acted as a critical building block in DHS’s..."
   }
  ]
 }
