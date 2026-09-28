@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-09-28T18:34:43.006857Z",
+ "updatedAt": "2026-09-28T21:52:08.289769Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Marine Corps awards Anduril nearly $16M for Pulsar-Lite EW system to counter drones",
+   "url": "https://defensescoop.com/2026/09/28/marine-corps-awards-anduril-nearly-16m-for-pulsar-lite-ew-system-to-counter-drones/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T20:21:32Z",
+   "why": "The Marine Corps plans to integrate an unspecified number of Pulsar-L systems into its Amphibious Combat Vehicle fleet at a time when armored vehicles have..."
+  },
+  {
+   "title": "Why every small GovCon needs a board of advisors",
+   "url": "https://www.washingtontechnology.com/opinion/2026/09/why-every-small-govcon-needs-board-advisors/416273/",
+   "source": "Washington Technology",
+   "category": "Compliance and Security",
+   "published": "2026-09-28T19:08:09Z",
+   "why": "Shifting budgets, tougher compliance rules and competition from big primes make it easy to get stuck in an echo chamber but an advisory board brings in..."
+  },
   {
    "title": "As AI world debates security, NVIDIA releases open source tools for agents",
    "url": "https://cyberscoop.com/nvidia-open-agent-safety-platform/",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-28T09:26:07Z",
    "why": "The IDIQ is expected to run through Sept."
-  },
-  {
-   "title": "Air Force Issues Presolicitation for Potential $2B GUARD Base Defense IDIQ",
-   "url": "https://www.govconwire.com/articles/air-force-guard-base-defense-idiq-draft-rfp",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T09:24:48Z",
-   "why": "The Air Force has released a draft solicitation for the potential $2 billion GUARD IDIQ for integrated base defense security systems."
-  },
-  {
-   "title": "Tech bills of the week: Creating an AI-focused agency; Reviewing AI-assisted cyber attacks; and more",
-   "url": "https://www.nextgov.com/policy/2026/09/tech-bills-week-creating-ai-focused-agency-reviewing-ai-assisted-cyber-attacks-and-more/416253/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-25T22:00:00Z",
-   "why": "Lawmakers introduced a deluge of AI-focused measures this week in response to growing concerns about the capabilities of advanced models and to President..."
   }
  ]
 }
