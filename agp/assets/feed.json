@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-09-29T16:52:24.368813Z",
+ "updatedAt": "2026-09-29T20:41:19.589280Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
+   "url": "https://breakingdefense.com/2026/09/army-awards-up-to-7b-in-sprawling-counter-drone-idiq/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T18:30:00Z",
+   "why": "The Army awarded 10 companies for a variety of counter-drone tech including sensors, effectors and C2 systems, Brent Ingraham, the head of ASA(ALT), told..."
+  },
+  {
+   "title": "ICE starts to explore AI, data strategy support contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/ice-starts-explore-ai-data-strategy-support-contract/416306/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T17:50:01Z",
+   "why": "Immigration and Customs Enforcement's production environment now needs ongoing operations-and-maintenance support and continued enhancement."
+  },
+  {
+   "title": "Amentum wins $572M NORAD warning system contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/amentum-wins-572m-norad-warning-system-contract/416308/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T17:49:00Z",
+   "why": "The North American Aerospace Defense Command uses this system to determine the nature of launches and attacks from adversaries."
+  },
+  {
+   "title": "General Dynamics IT keeps Army field support work with $510M award",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/general-dynamics-it-keeps-army-field-support-work-510m-award/416309/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T17:44:18Z",
+   "why": "The five-year task order covers logistics, sustainment and maintenance of Army command, control, communications, cyber, ISR and medical systems at 190..."
+  },
   {
    "title": "Kiteworks lifts shutdown advisory after ‘credible threat intelligence’ from federal authorities",
    "url": "https://cyberscoop.com/kiteworks-lifts-shutdown-advisory-after-credible-threat-intelligence-from-federal-authorities/",
@@ -11,14 +43,6 @@
    "category": "Budget and Appropriations",
    "published": "2026-09-29T14:11:43Z",
    "why": "The company said it found and patched a previously unknown critical vulnerability in one product during the weekend shutdown, and has no indication it was..."
-  },
-  {
-   "title": "Websites ‘in jeopardy’ amid U.S. Web Design System takeover, coalition tells GSA",
-   "url": "https://fedscoop.com/websites-jeopardy-amid-us-web-design-system-takeover-coalition-gsa/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-29T12:59:27Z",
-   "why": "The letter comes after administration officials changed leadership for the system, implemented new AI tooling, and shut out members of an open-source community."
   },
   {
    "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-29T09:53:24Z",
    "why": "The Navy's Strategic Systems Programs obligates at award $30.7M in funds for engineering work that runs through September 2028."
-  },
-  {
-   "title": "From Prototype to National Security Capability: The New Federal Innovation Imperative",
-   "url": "https://www.govconwire.com/articles/chuck-brooks-govcon-expert-innovation-velocity-national-security-ai-quantum",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T09:40:45Z",
-   "why": "Brooks Consulting's Chuck Brooks, a GovCon Expert, says acquisition speed and technology convergence are defining U.S."
-  },
-  {
-   "title": "Citrix patches actively exploited NetScaler zero-days after a weekend of unofficial warnings",
-   "url": "https://cyberscoop.com/citrix-zero-days-delayed-disclosure/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-29T00:58:15Z",
-   "why": "The vendor’s products are a common, recurring target for attackers, yet the official warning for some Citrix NetScaler customers was too late."
-  },
-  {
-   "title": "How to succeed in getting early career talent into government",
-   "url": "https://federalnewsnetwork.com/commentary/2026/09/how-to-succeed-in-getting-early-career-talent-into-government/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T21:21:23Z",
-   "why": "The federal government needs more early talent wins, especially to achieve the revolutionary acquisition reform the administration and Congress have directed."
   }
  ]
 }
