@@ -1,16 +1,64 @@
 {
- "updatedAt": "2026-09-29T00:56:51.756429Z",
+ "updatedAt": "2026-09-29T16:52:24.368813Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Agencies walking back and replacing essay question on federal job postings",
-   "url": "https://federalnewsnetwork.com/hiring-retention/2026/09/agencies-walking-back-and-replacing-essay-question-on-federal-job-postings/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-09-28T21:53:19Z",
-   "why": "So far, about 2,400 federal job announcements now contain a different essay question for applicants, at the direction of the Office of Personnel Management."
+   "title": "Kiteworks lifts shutdown advisory after ‘credible threat intelligence’ from federal authorities",
+   "url": "https://cyberscoop.com/kiteworks-lifts-shutdown-advisory-after-credible-threat-intelligence-from-federal-authorities/",
+   "source": "CyberScoop",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-29T14:11:43Z",
+   "why": "The company said it found and patched a previously unknown critical vulnerability in one product during the weekend shutdown, and has no indication it was..."
+  },
+  {
+   "title": "Websites ‘in jeopardy’ amid U.S. Web Design System takeover, coalition tells GSA",
+   "url": "https://fedscoop.com/websites-jeopardy-amid-us-web-design-system-takeover-coalition-gsa/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-29T12:59:27Z",
+   "why": "The letter comes after administration officials changed leadership for the system, implemented new AI tooling, and shut out members of an open-source community."
+  },
+  {
+   "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
+   "url": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T12:58:01Z",
+   "why": "Both firms are working under earlier Pentagon contracts to demonstrate rendezvous and proximity operators that could also support future orbital warfare."
+  },
+  {
+   "title": "Amentum Secures $572M NORAD Cheyenne Mountain Support Contract",
+   "url": "https://www.govconwire.com/articles/amentum-norad-cheyenne-mountain-support",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T09:57:43Z",
+   "why": "Amentum was the incumbent supporting NISSC II while the government prepared the follow-on NISSC III acquisition."
+  },
+  {
+   "title": "BAE Systems Lands $95M Navy Contract to Support Nuclear-Armed Sea-Launched Cruise Missile",
+   "url": "https://www.govconwire.com/articles/bae-systems-navy-slcm-n-cruise-missile-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T09:53:24Z",
+   "why": "The Navy's Strategic Systems Programs obligates at award $30.7M in funds for engineering work that runs through September 2028."
+  },
+  {
+   "title": "From Prototype to National Security Capability: The New Federal Innovation Imperative",
+   "url": "https://www.govconwire.com/articles/chuck-brooks-govcon-expert-innovation-velocity-national-security-ai-quantum",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T09:40:45Z",
+   "why": "Brooks Consulting's Chuck Brooks, a GovCon Expert, says acquisition speed and technology convergence are defining U.S."
+  },
+  {
+   "title": "Citrix patches actively exploited NetScaler zero-days after a weekend of unofficial warnings",
+   "url": "https://cyberscoop.com/citrix-zero-days-delayed-disclosure/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-29T00:58:15Z",
+   "why": "The vendor’s products are a common, recurring target for attackers, yet the official warning for some Citrix NetScaler customers was too late."
   },
   {
    "title": "How to succeed in getting early career talent into government",
@@ -19,54 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-28T21:21:23Z",
    "why": "The federal government needs more early talent wins, especially to achieve the revolutionary acquisition reform the administration and Congress have directed."
-  },
-  {
-   "title": "Marine Corps awards Anduril nearly $16M for Pulsar-Lite EW system to counter drones",
-   "url": "https://defensescoop.com/2026/09/28/marine-corps-awards-anduril-nearly-16m-for-pulsar-lite-ew-system-to-counter-drones/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T20:21:32Z",
-   "why": "The Marine Corps plans to integrate an unspecified number of Pulsar-L systems into its Amphibious Combat Vehicle fleet at a time when armored vehicles have..."
-  },
-  {
-   "title": "Why every small GovCon needs a board of advisors",
-   "url": "https://www.washingtontechnology.com/opinion/2026/09/why-every-small-govcon-needs-board-advisors/416273/",
-   "source": "Washington Technology",
-   "category": "Compliance and Security",
-   "published": "2026-09-28T19:08:09Z",
-   "why": "Shifting budgets, tougher compliance rules and competition from big primes make it easy to get stuck in an echo chamber but an advisory board brings in..."
-  },
-  {
-   "title": "As AI world debates security, NVIDIA releases open source tools for agents",
-   "url": "https://cyberscoop.com/nvidia-open-agent-safety-platform/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-28T18:22:53Z",
-   "why": "One expert told CyberScoop that the announcement reflects industry recognition that after years of training models to behave safely or ethically, more outside..."
-  },
-  {
-   "title": "Lawmaker warns intelligence contractors' Trump ballroom donations may be scrutinized",
-   "url": "https://www.nextgov.com/acquisition/2026/09/lawmaker-warns-intelligence-contractors-trump-ballroom-donations-may-be-scrutinized/416272/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T18:21:00Z",
-   "why": "Rep."
-  },
-  {
-   "title": "DHA embarks on health data management contract strategy",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/dha-embarks-health-data-management-contract-strategy/416268/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T17:44:33Z",
-   "why": "The Defense Health Agency wants industry's ideas for working with clinical, administrative, operational, financial, scheduling, encounter, assessment, document..."
-  },
-  {
-   "title": "Air Force unveils first draft of $2B base security tech recompete",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/air-force-unveils-first-draft-2b-base-security-tech-recompete/416270/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T17:43:52Z",
-   "why": "Air Force officials are setting up the multiple-award GUARD contract to aid the transition of the security systems to a modular open systems architecture."
   }
  ]
 }
