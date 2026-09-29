@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-09-28T21:52:08.289769Z",
+ "updatedAt": "2026-09-29T00:56:51.756429Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Agencies walking back and replacing essay question on federal job postings",
+   "url": "https://federalnewsnetwork.com/hiring-retention/2026/09/agencies-walking-back-and-replacing-essay-question-on-federal-job-postings/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-09-28T21:53:19Z",
+   "why": "So far, about 2,400 federal job announcements now contain a different essay question for applicants, at the direction of the Office of Personnel Management."
+  },
+  {
+   "title": "How to succeed in getting early career talent into government",
+   "url": "https://federalnewsnetwork.com/commentary/2026/09/how-to-succeed-in-getting-early-career-talent-into-government/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-28T21:21:23Z",
+   "why": "The federal government needs more early talent wins, especially to achieve the revolutionary acquisition reform the administration and Congress have directed."
+  },
   {
    "title": "Marine Corps awards Anduril nearly $16M for Pulsar-Lite EW system to counter drones",
    "url": "https://defensescoop.com/2026/09/28/marine-corps-awards-anduril-nearly-16m-for-pulsar-lite-ew-system-to-counter-drones/",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-28T17:43:52Z",
    "why": "Air Force officials are setting up the multiple-award GUARD contract to aid the transition of the security systems to a modular open systems architecture."
-  },
-  {
-   "title": "TSA Forecasts Recompete for Airport Hazardous Materials Disposal Work",
-   "url": "https://www.govconwire.com/articles/tsa-hazardous-materials-disposal-recompete-forecast",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T09:26:55Z",
-   "why": "Leidos holds the incumbent contract covering roughly 430 airport locations."
-  },
-  {
-   "title": "Defense Unicorns Secures $350M Army Software Delivery Contract",
-   "url": "https://www.govconwire.com/articles/defense-unicorns-army-software-delivery",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-28T09:26:07Z",
-   "why": "The IDIQ is expected to run through Sept."
   }
  ]
 }
