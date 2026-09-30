@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-09-29T20:41:19.589280Z",
+ "updatedAt": "2026-09-30T00:20:24.190660Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Pentagon task force, Army announce billions in counter-drone tech awards",
+   "url": "https://defensescoop.com/2026/09/29/pentagon-task-force-army-announce-billions-in-counter-drone-tech-awards/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T21:56:22Z",
+   "why": "So far, however, less than one percent — $50 million — of the ten new awards have been obligated, officials said, with the rest contingent on congressional..."
+  },
   {
    "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
    "url": "https://breakingdefense.com/2026/09/army-awards-up-to-7b-in-sprawling-counter-drone-idiq/",
@@ -11,6 +19,22 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-29T18:30:00Z",
    "why": "The Army awarded 10 companies for a variety of counter-drone tech including sensors, effectors and C2 systems, Brent Ingraham, the head of ASA(ALT), told..."
+  },
+  {
+   "title": "Many of the disability compliance measures federal contractors rely on are going away",
+   "url": "https://federalnewsnetwork.com/workforce/2026/09/many-of-the-disability-compliance-measures-federal-contractors-rely-on-are-going-away/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-09-29T18:16:03Z",
+   "why": "\"The administration had less leeway in this space because the affirmative action requirements here are based on statute,\" said Guy Brenner."
+  },
+  {
+   "title": "Top House Democrat puts defense contractors on notice",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/09/top-house-democrat-puts-defense-contractors-on-notice/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-29T17:59:41Z",
+   "why": "Rep."
   },
   {
    "title": "ICE starts to explore AI, data strategy support contract",
@@ -37,36 +61,12 @@
    "why": "The five-year task order covers logistics, sustainment and maintenance of Army command, control, communications, cyber, ISR and medical systems at 190..."
   },
   {
-   "title": "Kiteworks lifts shutdown advisory after ‘credible threat intelligence’ from federal authorities",
-   "url": "https://cyberscoop.com/kiteworks-lifts-shutdown-advisory-after-credible-threat-intelligence-from-federal-authorities/",
-   "source": "CyberScoop",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-29T14:11:43Z",
-   "why": "The company said it found and patched a previously unknown critical vulnerability in one product during the weekend shutdown, and has no indication it was..."
-  },
-  {
    "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
    "url": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
    "source": "Breaking Defense",
    "category": "Acquisition and Contracting",
    "published": "2026-09-29T12:58:01Z",
    "why": "Both firms are working under earlier Pentagon contracts to demonstrate rendezvous and proximity operators that could also support future orbital warfare."
-  },
-  {
-   "title": "Amentum Secures $572M NORAD Cheyenne Mountain Support Contract",
-   "url": "https://www.govconwire.com/articles/amentum-norad-cheyenne-mountain-support",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T09:57:43Z",
-   "why": "Amentum was the incumbent supporting NISSC II while the government prepared the follow-on NISSC III acquisition."
-  },
-  {
-   "title": "BAE Systems Lands $95M Navy Contract to Support Nuclear-Armed Sea-Launched Cruise Missile",
-   "url": "https://www.govconwire.com/articles/bae-systems-navy-slcm-n-cruise-missile-contract",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T09:53:24Z",
-   "why": "The Navy's Strategic Systems Programs obligates at award $30.7M in funds for engineering work that runs through September 2028."
   }
  ]
 }
