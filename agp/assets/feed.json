@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-09-30T00:20:24.190660Z",
+ "updatedAt": "2026-09-30T16:48:16.627544Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Boeing nabs $2.4 billion deal for more F-15EX fighters",
+   "url": "https://breakingdefense.com/2026/09/boeing-nabs-2-4-billion-deal-for-more-f-15ex-fighters/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T16:21:59Z",
+   "why": "The award came on the same day that the planemaker secured a contract to build a sixth-generation fighter jet for the US Navy."
+  },
+  {
+   "title": "GSA is losing a key digital modernization leader",
+   "url": "https://www.govexec.com/technology/2026/09/gsas-deputy-administrator-depart-government/416337/",
+   "source": "Government Executive",
+   "category": "Technology Modernization",
+   "published": "2026-09-30T14:38:16Z",
+   "why": "Michael Lynch joined the General Services Administration in January 2025 as a senior advisor and later became the agency’s deputy administrator."
+  },
+  {
+   "title": "Trax loses White Sands protest, but judge hits government over AI disclosures",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/trax-loses-white-sands-protest-judge-hits-government-over-ai-disclosures/416334/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T14:28:01Z",
+   "why": "The Army tested an artificial intelligence tool on the $450 million competition, and its outputs reached evaluators and the contracting officer."
+  },
+  {
+   "title": "Army awards counterdrone contracts worth more than $4B",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/army-awards-more-4-billion-counterdrone-contracts-putting-pentagons-new-drone-marketplace-test/416339/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T14:00:00Z",
+   "why": "But there’s room for more—up to $7 billion."
+  },
+  {
+   "title": "SAIC Wins $742M CBP Task Order for Traveler, Cargo Security Systems",
+   "url": "https://www.govconwire.com/articles/saic-742m-cbp-traveler-cargo-security-systems-task-order",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T09:53:30Z",
+   "why": "The five-year Alliant 2 award covers software development, operations and maintenance."
+  },
+  {
+   "title": "Tria Federal Books $120M VA Task Order for VHA Community Care Support",
+   "url": "https://www.govconwire.com/articles/tria-federal-va-vha-community-care",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T09:51:59Z",
+   "why": "Tria Federal will support new VHA health care contracts and alternative payment model development under the task order."
+  },
+  {
+   "title": "Army Awards 10 Counter-Drone IDIQs Worth $4.2B",
+   "url": "https://www.govconwire.com/articles/army-jiatf-401-counter-drone-idiq-awards-domestic-shield",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T09:51:31Z",
+   "why": "Allen Control Systems, Digital Force, DroneShield, L3Harris WESCAM, Napatree, RADA Technologies and SRC each received $500 million."
+  },
   {
    "title": "Pentagon task force, Army announce billions in counter-drone tech awards",
    "url": "https://defensescoop.com/2026/09/29/pentagon-task-force-army-announce-billions-in-counter-drone-tech-awards/",
@@ -11,62 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-29T21:56:22Z",
    "why": "So far, however, less than one percent — $50 million — of the ten new awards have been obligated, officials said, with the rest contingent on congressional..."
-  },
-  {
-   "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
-   "url": "https://breakingdefense.com/2026/09/army-awards-up-to-7b-in-sprawling-counter-drone-idiq/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T18:30:00Z",
-   "why": "The Army awarded 10 companies for a variety of counter-drone tech including sensors, effectors and C2 systems, Brent Ingraham, the head of ASA(ALT), told..."
-  },
-  {
-   "title": "Many of the disability compliance measures federal contractors rely on are going away",
-   "url": "https://federalnewsnetwork.com/workforce/2026/09/many-of-the-disability-compliance-measures-federal-contractors-rely-on-are-going-away/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-09-29T18:16:03Z",
-   "why": "\"The administration had less leeway in this space because the affirmative action requirements here are based on statute,\" said Guy Brenner."
-  },
-  {
-   "title": "Top House Democrat puts defense contractors on notice",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/09/top-house-democrat-puts-defense-contractors-on-notice/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T17:59:41Z",
-   "why": "Rep."
-  },
-  {
-   "title": "ICE starts to explore AI, data strategy support contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/ice-starts-explore-ai-data-strategy-support-contract/416306/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T17:50:01Z",
-   "why": "Immigration and Customs Enforcement's production environment now needs ongoing operations-and-maintenance support and continued enhancement."
-  },
-  {
-   "title": "Amentum wins $572M NORAD warning system contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/amentum-wins-572m-norad-warning-system-contract/416308/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T17:49:00Z",
-   "why": "The North American Aerospace Defense Command uses this system to determine the nature of launches and attacks from adversaries."
-  },
-  {
-   "title": "General Dynamics IT keeps Army field support work with $510M award",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/general-dynamics-it-keeps-army-field-support-work-510m-award/416309/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T17:44:18Z",
-   "why": "The five-year task order covers logistics, sustainment and maintenance of Army command, control, communications, cyber, ISR and medical systems at 190..."
-  },
-  {
-   "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
-   "url": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T12:58:01Z",
-   "why": "Both firms are working under earlier Pentagon contracts to demonstrate rendezvous and proximity operators that could also support future orbital warfare."
   }
  ]
 }
