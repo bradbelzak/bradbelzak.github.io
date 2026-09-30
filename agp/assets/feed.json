@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-09-30T16:48:16.627544Z",
+ "updatedAt": "2026-09-30T20:45:11.670045Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "ICE IT shop looks to build ‘agentic software factory’",
+   "url": "https://fedscoop.com/ice-ocio-agentic-software-factory-stella-platform-rfi/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-09-30T20:41:48Z",
+   "why": "The DHS unit is conducting market research to see how vendors could potentially help add AI agents to development workflows and expand its existing STELLA..."
+  },
+  {
+   "title": "Judge extends temporary pause in USDA relocations as he considers indefinite freeze",
+   "url": "https://www.govexec.com/management/2026/09/judge-extends-temporary-pause-usda-relocations-he-considers-indefinite-freeze/416349/",
+   "source": "Government Executive",
+   "category": "Budget and Appropriations",
+   "published": "2026-09-30T18:46:34Z",
+   "why": "A federal judge in San Francisco said it was \"significant\" that Congress included a provision in a fiscal 2026 spending package that blocked the Agriculture..."
+  },
+  {
+   "title": "GAO clears the protest deck for $50B Army MAPS vehicle",
+   "url": "https://www.washingtontechnology.com/contracts/2026/09/gao-clears-protest-deck-50b-army-maps-vehicle/416342/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T16:50:40Z",
+   "why": "The watchdog agency five remaining challenges, including a set of four that questioned the self-scoring process and consolidation of requirements for the..."
+  },
   {
    "title": "Boeing nabs $2.4 billion deal for more F-15EX fighters",
    "url": "https://breakingdefense.com/2026/09/boeing-nabs-2-4-billion-deal-for-more-f-15ex-fighters/",
@@ -11,6 +35,14 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-30T16:21:59Z",
    "why": "The award came on the same day that the planemaker secured a contract to build a sixth-generation fighter jet for the US Navy."
+  },
+  {
+   "title": "Google extends GSA OneGov deal for Gemini",
+   "url": "https://fedscoop.com/google-extends-gsa-onegov-deal-for-gemini/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-09-30T14:45:22Z",
+   "why": "The previous deal, which charged $0.47 per agency for one year for Gemini for Government, was set to expire on Wednesday."
   },
   {
    "title": "GSA is losing a key digital modernization leader",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-30T14:00:00Z",
    "why": "But there’s room for more—up to $7 billion."
-  },
-  {
-   "title": "SAIC Wins $742M CBP Task Order for Traveler, Cargo Security Systems",
-   "url": "https://www.govconwire.com/articles/saic-742m-cbp-traveler-cargo-security-systems-task-order",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-30T09:53:30Z",
-   "why": "The five-year Alliant 2 award covers software development, operations and maintenance."
-  },
-  {
-   "title": "Tria Federal Books $120M VA Task Order for VHA Community Care Support",
-   "url": "https://www.govconwire.com/articles/tria-federal-va-vha-community-care",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-30T09:51:59Z",
-   "why": "Tria Federal will support new VHA health care contracts and alternative payment model development under the task order."
-  },
-  {
-   "title": "Army Awards 10 Counter-Drone IDIQs Worth $4.2B",
-   "url": "https://www.govconwire.com/articles/army-jiatf-401-counter-drone-idiq-awards-domestic-shield",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-30T09:51:31Z",
-   "why": "Allen Control Systems, Digital Force, DroneShield, L3Harris WESCAM, Napatree, RADA Technologies and SRC each received $500 million."
-  },
-  {
-   "title": "Pentagon task force, Army announce billions in counter-drone tech awards",
-   "url": "https://defensescoop.com/2026/09/29/pentagon-task-force-army-announce-billions-in-counter-drone-tech-awards/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-29T21:56:22Z",
-   "why": "So far, however, less than one percent — $50 million — of the ten new awards have been obligated, officials said, with the rest contingent on congressional..."
   }
  ]
 }
