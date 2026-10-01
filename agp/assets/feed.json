@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-10-01T00:30:08.664930Z",
+ "updatedAt": "2026-10-01T17:21:01.800264Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "EPA union sues management over contract termination",
-   "url": "https://www.govexec.com/workforce/2026/09/epa-union-sues-management-over-contract-termination/416353/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-30T21:22:23Z",
-   "why": "AFGE accused EPA leadership of implementing President Trump’s executive order stripping many federal employees of their collective bargaining rights partly so..."
-  },
-  {
-   "title": "ICE IT shop looks to build ‘agentic software factory’",
-   "url": "https://fedscoop.com/ice-ocio-agentic-software-factory-stella-platform-rfi/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-09-30T20:41:48Z",
-   "why": "The DHS unit is conducting market research to see how vendors could potentially help add AI agents to development workflows and expand its existing STELLA..."
-  },
-  {
-   "title": "Judge extends temporary pause in USDA relocations as he considers indefinite freeze",
-   "url": "https://www.govexec.com/management/2026/09/judge-extends-temporary-pause-usda-relocations-he-considers-indefinite-freeze/416349/",
-   "source": "Government Executive",
-   "category": "Budget and Appropriations",
-   "published": "2026-09-30T18:46:34Z",
-   "why": "A federal judge in San Francisco said it was \"significant\" that Congress included a provision in a fiscal 2026 spending package that blocked the Agriculture..."
-  },
-  {
-   "title": "GAO clears the protest deck for $50B Army MAPS vehicle",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/gao-clears-protest-deck-50b-army-maps-vehicle/416342/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-09-30T16:50:40Z",
-   "why": "The watchdog agency five remaining challenges, including a set of four that questioned the self-scoring process and consolidation of requirements for the..."
-  },
-  {
-   "title": "Boeing nabs $2.4 billion deal for more F-15EX fighters",
-   "url": "https://breakingdefense.com/2026/09/boeing-nabs-2-4-billion-deal-for-more-f-15ex-fighters/",
+   "title": "DoD demo contract takes a step closer to beaming solar power from space",
+   "url": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space/",
    "source": "Breaking Defense",
    "category": "Acquisition and Contracting",
-   "published": "2026-09-30T16:21:59Z",
-   "why": "The award came on the same day that the planemaker secured a contract to build a sixth-generation fighter jet for the US Navy."
+   "published": "2026-10-01T16:55:27Z",
+   "why": "The Overview award is the second space-based solar power contract to be announced by the Pentagon’s Operational Energy Capability Improvement Fund in recent..."
   },
   {
-   "title": "GSA is losing a key digital modernization leader",
-   "url": "https://www.govexec.com/technology/2026/09/gsas-deputy-administrator-depart-government/416337/",
-   "source": "Government Executive",
-   "category": "Technology Modernization",
-   "published": "2026-09-30T14:38:16Z",
-   "why": "Michael Lynch joined the General Services Administration in January 2025 as a senior advisor and later became the agency’s deputy administrator."
+   "title": "The Oracle in the HR Room",
+   "url": "https://www.meritalk.com/the-oracle-in-the-hr-room/",
+   "source": "MeriTalk",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T15:14:34Z",
+   "why": "Nothing says “Federal IT modernization” quite like awarding Oracle a $395.8 million HR contract, while Oracle-related HR systems are making headlines for all..."
   },
   {
-   "title": "Trax loses White Sands protest, but judge hits government over AI disclosures",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/trax-loses-white-sands-protest-judge-hits-government-over-ai-disclosures/416334/",
+   "title": "Battling sand and wind, Pentagon evaluates counter-drone tech at southern border exercise",
+   "url": "https://breakingdefense.com/2026/10/battling-sand-and-wind-pentagon-evaluates-counter-drone-tech-at-southern-border-exercise/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T14:29:39Z",
+   "why": "A dozen vendors came to Yuma Proving Ground during Falcon Peak 26.2 to test their counter drone tech."
+  },
+  {
+   "title": "AI policy circles targeted in China-linked phishing operation",
+   "url": "https://cyberscoop.com/china-cyber-espionage-ta419-phishing-us-ai-policy-experts/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-01T14:06:19Z",
+   "why": "Cybersecurity firm Proofpoint said TA419 impersonated officials and AI industry figures in an effort to gain access to cloud accounts held by U.S."
+  },
+  {
+   "title": "DISA takes second shot at expanding Leidos' Enclave contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/disa-takes-second-shot-expanding-leidos-enclave-contract/416361/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
-   "published": "2026-09-30T14:28:01Z",
-   "why": "The Army tested an artificial intelligence tool on the $450 million competition, and its outputs reached evaluators and the contracting officer."
+   "published": "2026-10-01T13:53:49Z",
+   "why": "After a protest sank its first attempt, the Defense Information Systems Agency says two dozen companies responded to a market research notice and only Leidos..."
   },
   {
-   "title": "Army awards counterdrone contracts worth more than $4B",
-   "url": "https://www.washingtontechnology.com/contracts/2026/09/army-awards-more-4-billion-counterdrone-contracts-putting-pentagons-new-drone-marketplace-test/416339/",
-   "source": "Washington Technology",
+   "title": "How the Coast Guard Is Executing Force Design 2028: Leadership, Funding & Contract Awards",
+   "url": "https://www.govconwire.com/articles/coast-guard-force-design-2028-updates",
+   "source": "GovConWire",
    "category": "Acquisition and Contracting",
-   "published": "2026-09-30T14:00:00Z",
-   "why": "But there’s room for more—up to $7 billion."
+   "published": "2026-10-01T09:59:05Z",
+   "why": "The Coast Guard's Force Design 2028 execution is accelerating, with organizational changes completed and major contracts awarded."
+  },
+  {
+   "title": "Navy Awards 7 Spots on Potential $828M Business Management Support Contract",
+   "url": "https://www.govconwire.com/articles/navy-828m-business-management-support-idiq-award",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T09:57:58Z",
+   "why": "The Navy has awarded Booz Allen, CACI and five other companies spots on a potential $828 million IDIQ for business management support."
+  },
+  {
+   "title": "Leidos Wins $672M TSA Checkpoint Screening Deployment Contract",
+   "url": "https://www.govconwire.com/articles/tsa-leidos-672m-seds-ii-checkpoint-equipment-deployment-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T09:57:34Z",
+   "why": "The eight-year IDIQ covers installation, relocation and removal of imaging, X-ray and trace detection systems at checkpoints."
   }
  ]
 }
