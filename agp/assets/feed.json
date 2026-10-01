@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-01T17:21:01.800264Z",
+ "updatedAt": "2026-10-01T20:58:58.028886Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "How AI agents are informing JIATF-401’s procurement plans after Falcon Peak",
+   "url": "https://defensescoop.com/2026/10/01/ai-agents-jiatf-401-procurement-plans-falcon-peak/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T20:28:57Z",
+   "why": "Joint Interagency Task Force 401's director shared new details about the counter-drone hub’s new “tech arsenal.\" The post How AI agents are informing..."
+  },
+  {
+   "title": "How Hegseth envisions a new Autonomous Warfare Command",
+   "url": "https://breakingdefense.com/2026/10/how-hegseth-envisions-a-new-autonomous-warfare-command/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T20:15:00Z",
+   "why": "The Pentagon wants to combine drone procurement and operations under a new command, but Congress will have a say."
+  },
+  {
+   "title": "Leidos wins $672M airport security equipment recompete",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/leidos-wins-672m-airport-security-equipment-recompete/416363/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T17:15:00Z",
+   "why": "Leidos won the original iteration of this Transportation Security Administration contract in 2021."
+  },
   {
    "title": "DoD demo contract takes a step closer to beaming solar power from space",
    "url": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space/",
@@ -13,28 +37,12 @@
    "why": "The Overview award is the second space-based solar power contract to be announced by the Pentagon’s Operational Energy Capability Improvement Fund in recent..."
   },
   {
-   "title": "The Oracle in the HR Room",
-   "url": "https://www.meritalk.com/the-oracle-in-the-hr-room/",
-   "source": "MeriTalk",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T15:14:34Z",
-   "why": "Nothing says “Federal IT modernization” quite like awarding Oracle a $395.8 million HR contract, while Oracle-related HR systems are making headlines for all..."
-  },
-  {
    "title": "Battling sand and wind, Pentagon evaluates counter-drone tech at southern border exercise",
    "url": "https://breakingdefense.com/2026/10/battling-sand-and-wind-pentagon-evaluates-counter-drone-tech-at-southern-border-exercise/",
    "source": "Breaking Defense",
    "category": "Acquisition and Contracting",
    "published": "2026-10-01T14:29:39Z",
    "why": "A dozen vendors came to Yuma Proving Ground during Falcon Peak 26.2 to test their counter drone tech."
-  },
-  {
-   "title": "AI policy circles targeted in China-linked phishing operation",
-   "url": "https://cyberscoop.com/china-cyber-espionage-ta419-phishing-us-ai-policy-experts/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-01T14:06:19Z",
-   "why": "Cybersecurity firm Proofpoint said TA419 impersonated officials and AI industry figures in an effort to gain access to cloud accounts held by U.S."
   },
   {
    "title": "DISA takes second shot at expanding Leidos' Enclave contract",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-01T09:57:58Z",
    "why": "The Navy has awarded Booz Allen, CACI and five other companies spots on a potential $828 million IDIQ for business management support."
-  },
-  {
-   "title": "Leidos Wins $672M TSA Checkpoint Screening Deployment Contract",
-   "url": "https://www.govconwire.com/articles/tsa-leidos-672m-seds-ii-checkpoint-equipment-deployment-contract",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T09:57:34Z",
-   "why": "The eight-year IDIQ covers installation, relocation and removal of imaging, X-ray and trace detection systems at checkpoints."
   }
  ]
 }
