@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-09-30T20:45:11.670045Z",
+ "updatedAt": "2026-10-01T00:30:08.664930Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "EPA union sues management over contract termination",
+   "url": "https://www.govexec.com/workforce/2026/09/epa-union-sues-management-over-contract-termination/416353/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-09-30T21:22:23Z",
+   "why": "AFGE accused EPA leadership of implementing President Trump’s executive order stripping many federal employees of their collective bargaining rights partly so..."
+  },
   {
    "title": "ICE IT shop looks to build ‘agentic software factory’",
    "url": "https://fedscoop.com/ice-ocio-agentic-software-factory-stella-platform-rfi/",
@@ -35,14 +43,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-09-30T16:21:59Z",
    "why": "The award came on the same day that the planemaker secured a contract to build a sixth-generation fighter jet for the US Navy."
-  },
-  {
-   "title": "Google extends GSA OneGov deal for Gemini",
-   "url": "https://fedscoop.com/google-extends-gsa-onegov-deal-for-gemini/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-09-30T14:45:22Z",
-   "why": "The previous deal, which charged $0.47 per agency for one year for Gemini for Government, was set to expire on Wednesday."
   },
   {
    "title": "GSA is losing a key digital modernization leader",
