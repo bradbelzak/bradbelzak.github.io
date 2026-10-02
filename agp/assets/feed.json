@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-02T00:41:54.115851Z",
+ "updatedAt": "2026-10-02T16:36:40.537681Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Hope is not a plan: Get ready for SBA's new size standards now",
+   "url": "https://www.washingtontechnology.com/opinion/2026/10/hope-not-plan-get-ready-sbas-new-size-standards-now/416371/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T15:00:00Z",
+   "why": "File your comments but expect some version of the proposal to take effect in 2027."
+  },
+  {
+   "title": "SAP NS2 Awarded $903M DLA Cloud Services IDIQ",
+   "url": "https://www.govconwire.com/articles/sap-ns2-903m-dla-cloud-services-idiq-contract-award",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T09:46:53Z",
+   "why": "SAP NS2 has secured a seven-year, $903 million sole-source IDIQ contract from the Defense Logistics Agency for cloud services."
+  },
   {
    "title": "GSA memo to set AI-specific acquisition rules",
    "url": "https://www.nextgov.com/acquisition/2026/10/gsa-memo-set-ai-specific-acquisition-rules/416378/",
@@ -21,6 +37,22 @@
    "why": "Ahead of formal rulemaking, the General Services Administration issued an artificial intelligence acquisition regulation deviation that can be used..."
   },
   {
+   "title": "Why AI is making social engineering harder to spot",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/why-ai-is-making-social-engineering-harder-to-spot/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T21:38:59Z",
+   "why": "Unfortunately, no matter how well an agency or contractor trains its employees, there will inevitably be successful social engineering attacks sooner or later."
+  },
+  {
+   "title": "Why government contracting risk strategy needs to keep pace with the changing procurement landscape",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/why-government-contracting-risk-strategy-needs-to-keep-pace-with-the-changing-procurement-landscape/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T20:49:56Z",
+   "why": "Federal procurement reform gives contractors another reason to examine the financial side of risk."
+  },
+  {
    "title": "How AI agents are informing JIATF-401’s procurement plans after Falcon Peak",
    "url": "https://defensescoop.com/2026/10/01/ai-agents-jiatf-401-procurement-plans-falcon-peak/",
    "source": "DefenseScoop",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-01T20:15:00Z",
    "why": "The Pentagon wants to combine drone procurement and operations under a new command, but Congress will have a say."
-  },
-  {
-   "title": "Leidos wins $672M airport security equipment recompete",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/leidos-wins-672m-airport-security-equipment-recompete/416363/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T17:15:00Z",
-   "why": "Leidos won the original iteration of this Transportation Security Administration contract in 2021."
-  },
-  {
-   "title": "DoD demo contract takes a step closer to beaming solar power from space",
-   "url": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T16:55:27Z",
-   "why": "The Overview award is the second space-based solar power contract to be announced by the Pentagon’s Operational Energy Capability Improvement Fund in recent..."
-  },
-  {
-   "title": "Battling sand and wind, Pentagon evaluates counter-drone tech at southern border exercise",
-   "url": "https://breakingdefense.com/2026/10/battling-sand-and-wind-pentagon-evaluates-counter-drone-tech-at-southern-border-exercise/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T14:29:39Z",
-   "why": "A dozen vendors came to Yuma Proving Ground during Falcon Peak 26.2 to test their counter drone tech."
-  },
-  {
-   "title": "DISA takes second shot at expanding Leidos' Enclave contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/disa-takes-second-shot-expanding-leidos-enclave-contract/416361/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T13:53:49Z",
-   "why": "After a protest sank its first attempt, the Defense Information Systems Agency says two dozen companies responded to a market research notice and only Leidos..."
   }
  ]
 }
