@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-01T20:58:58.028886Z",
+ "updatedAt": "2026-10-02T00:41:54.115851Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "GSA memo to set AI-specific acquisition rules",
+   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-memo-set-ai-specific-acquisition-rules/416378/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T23:04:00Z",
+   "why": "The language includes changes some industry groups have requested through a public comment period and will go into effect Oct."
+  },
+  {
+   "title": "GSA issued an AI acquisition policy for new contracts. Here’s what it says.",
+   "url": "https://fedscoop.com/gsa-issued-an-ai-acquisition-policy-for-new-contracts-heres-what-it-says/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-01T21:50:55Z",
+   "why": "Ahead of formal rulemaking, the General Services Administration issued an artificial intelligence acquisition regulation deviation that can be used..."
+  },
   {
    "title": "How AI agents are informing JIATF-401’s procurement plans after Falcon Peak",
    "url": "https://defensescoop.com/2026/10/01/ai-agents-jiatf-401-procurement-plans-falcon-peak/",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-01T13:53:49Z",
    "why": "After a protest sank its first attempt, the Defense Information Systems Agency says two dozen companies responded to a market research notice and only Leidos..."
-  },
-  {
-   "title": "How the Coast Guard Is Executing Force Design 2028: Leadership, Funding & Contract Awards",
-   "url": "https://www.govconwire.com/articles/coast-guard-force-design-2028-updates",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T09:59:05Z",
-   "why": "The Coast Guard's Force Design 2028 execution is accelerating, with organizational changes completed and major contracts awarded."
-  },
-  {
-   "title": "Navy Awards 7 Spots on Potential $828M Business Management Support Contract",
-   "url": "https://www.govconwire.com/articles/navy-828m-business-management-support-idiq-award",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T09:57:58Z",
-   "why": "The Navy has awarded Booz Allen, CACI and five other companies spots on a potential $828 million IDIQ for business management support."
   }
  ]
 }
