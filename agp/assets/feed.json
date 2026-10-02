@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-02T16:36:40.537681Z",
+ "updatedAt": "2026-10-02T20:39:16.981913Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Watchdog: IRS skipped step meant to prevent ‘unnecessary spending’ on procurement hub",
+   "url": "https://fedscoop.com/irs-procurement-hub-defend-the-spend/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T20:18:11Z",
+   "why": "The agency’s “expedited” deployment of a platform to track costs as part of the Trump admin’s “defend the spend” initiative bypassed the market research phase..."
+  },
+  {
+   "title": "Housing finance agency chief moves to slash watchdog’s budget, leading Democrats to demand his resignation",
+   "url": "https://www.govexec.com/oversight/2026/10/housing-finance-agency-chief-moves-slash-watchdogs-budget-leading-democrats-demand-his-resignation/416397/",
+   "source": "Government Executive",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-02T19:06:58Z",
+   "why": "The Federal Housing Finance Agency inspector general said that budget cuts would force the office to reduce its staffing by up to 80% and effectively stop..."
+  },
+  {
+   "title": "Justice agrees to take another look at $1B asset forfeiture support contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/justice-agrees-take-another-look-1b-asset-forfeiture-support-contract/416376/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T18:00:00Z",
+   "why": "A joint venture of Amentum and Science Applications International Corp."
+  },
+  {
+   "title": "NASA makes 16 awards for $1.4B consolidated logistics pact",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/nasa-makes-16-awards-14b-consolidated-logistics-pact/416392/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T17:00:00Z",
+   "why": "The space agency set up this blanket purchase agreement to move away from 10 separate center-level contracts."
+  },
   {
    "title": "Hope is not a plan: Get ready for SBA's new size standards now",
    "url": "https://www.washingtontechnology.com/opinion/2026/10/hope-not-plan-get-ready-sbas-new-size-standards-now/416371/",
@@ -11,6 +43,14 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-02T15:00:00Z",
    "why": "File your comments but expect some version of the proposal to take effect in 2027."
+  },
+  {
+   "title": "16 Companies Capture NASA’s $1.4B Enterprise Logistics BPAs",
+   "url": "https://www.govconwire.com/articles/nasa-enterprise-logistics-support-services-16-companies",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T09:48:14Z",
+   "why": "The NASA logistics agreements run through GSA's OASIS+ vehicle, with a five-year base ordering period open through Sept."
   },
   {
    "title": "SAP NS2 Awarded $903M DLA Cloud Services IDIQ",
@@ -27,46 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-01T23:04:00Z",
    "why": "The language includes changes some industry groups have requested through a public comment period and will go into effect Oct."
-  },
-  {
-   "title": "GSA issued an AI acquisition policy for new contracts. Here’s what it says.",
-   "url": "https://fedscoop.com/gsa-issued-an-ai-acquisition-policy-for-new-contracts-heres-what-it-says/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T21:50:55Z",
-   "why": "Ahead of formal rulemaking, the General Services Administration issued an artificial intelligence acquisition regulation deviation that can be used..."
-  },
-  {
-   "title": "Why AI is making social engineering harder to spot",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/why-ai-is-making-social-engineering-harder-to-spot/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T21:38:59Z",
-   "why": "Unfortunately, no matter how well an agency or contractor trains its employees, there will inevitably be successful social engineering attacks sooner or later."
-  },
-  {
-   "title": "Why government contracting risk strategy needs to keep pace with the changing procurement landscape",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/why-government-contracting-risk-strategy-needs-to-keep-pace-with-the-changing-procurement-landscape/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T20:49:56Z",
-   "why": "Federal procurement reform gives contractors another reason to examine the financial side of risk."
-  },
-  {
-   "title": "How AI agents are informing JIATF-401’s procurement plans after Falcon Peak",
-   "url": "https://defensescoop.com/2026/10/01/ai-agents-jiatf-401-procurement-plans-falcon-peak/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T20:28:57Z",
-   "why": "Joint Interagency Task Force 401's director shared new details about the counter-drone hub’s new “tech arsenal.\" The post How AI agents are informing..."
-  },
-  {
-   "title": "How Hegseth envisions a new Autonomous Warfare Command",
-   "url": "https://breakingdefense.com/2026/10/how-hegseth-envisions-a-new-autonomous-warfare-command/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T20:15:00Z",
-   "why": "The Pentagon wants to combine drone procurement and operations under a new command, but Congress will have a say."
   }
  ]
 }
