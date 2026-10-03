@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T00:24:27.353751Z",
+ "updatedAt": "2026-10-03T17:13:11.574164Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
@@ -11,6 +11,30 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-02T21:46:37Z",
    "why": "The service’s new command will be called Army Futures and Autonomous Systems Command, or FASCOM, according to a memo signed by Acting Army Secretary Adam Telle."
+  },
+  {
+   "title": "DHS readies major cyber contract",
+   "url": "https://federalnewsnetwork.com/contractsawards/2026/10/dhs-readies-major-cyber-contract/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T21:20:06Z",
+   "why": "DHS expects to award the potential $626 million Network, Cloud and Cybersecurity Services 2.0 vehicle by late November."
+  },
+  {
+   "title": "Hegseth issues new directive to hasten U.S. military’s counter-drone pursuits",
+   "url": "https://defensescoop.com/2026/10/02/hegseth-issues-new-directive-to-hasten-counter-drone-pursuits/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-10-02T21:12:11Z",
+   "why": "The nation’s counter-drone task force “will not accept a slow-moving bureaucracy when faced with a fast-moving threat,” a spokesperson said."
+  },
+  {
+   "title": "Travis Metz to lead DIU as Owen West takes ‘leave of absence’ to help steer new AutoWarCom push",
+   "url": "https://defensescoop.com/2026/10/02/travis-metz-diu-owen-west-autowarcom-pete-hegseth/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-10-02T20:29:44Z",
+   "why": "Both West and Metz will report directly to Defense Secretary Pete Hegseth, a source told DefenseScoop."
   },
   {
    "title": "Watchdog: IRS skipped step meant to prevent ‘unnecessary spending’ on procurement hub",
@@ -29,44 +53,20 @@
    "why": "The Federal Housing Finance Agency inspector general said that budget cuts would force the office to reduce its staffing by up to 80% and effectively stop..."
   },
   {
-   "title": "Justice agrees to take another look at $1B asset forfeiture support contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/justice-agrees-take-another-look-1b-asset-forfeiture-support-contract/416376/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-02T18:00:00Z",
-   "why": "A joint venture of Amentum and Science Applications International Corp."
+   "title": "Agencies, critical infrastructure balance evolving cybersecurity risks",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/agencies-critical-infrastructure-balance-evolving-cybersecurity-risks/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-02T18:39:17Z",
+   "why": "GAO’s Dave Hinchman discusses hacks on critical water systems, regulatory harmonization issues and the cyber implications of AI."
   },
   {
-   "title": "NASA makes 16 awards for $1.4B consolidated logistics pact",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/nasa-makes-16-awards-14b-consolidated-logistics-pact/416392/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-02T17:00:00Z",
-   "why": "The space agency set up this blanket purchase agreement to move away from 10 separate center-level contracts."
-  },
-  {
-   "title": "Hope is not a plan: Get ready for SBA's new size standards now",
-   "url": "https://www.washingtontechnology.com/opinion/2026/10/hope-not-plan-get-ready-sbas-new-size-standards-now/416371/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-02T15:00:00Z",
-   "why": "File your comments but expect some version of the proposal to take effect in 2027."
-  },
-  {
-   "title": "16 Companies Capture NASA’s $1.4B Enterprise Logistics BPAs",
-   "url": "https://www.govconwire.com/articles/nasa-enterprise-logistics-support-services-16-companies",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-02T09:48:14Z",
-   "why": "The NASA logistics agreements run through GSA's OASIS+ vehicle, with a five-year base ordering period open through Sept."
-  },
-  {
-   "title": "SAP NS2 Awarded $903M DLA Cloud Services IDIQ",
-   "url": "https://www.govconwire.com/articles/sap-ns2-903m-dla-cloud-services-idiq-contract-award",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-02T09:46:53Z",
-   "why": "SAP NS2 has secured a seven-year, $903 million sole-source IDIQ contract from the Defense Logistics Agency for cloud services."
+   "title": "Long-range radar deal puts Ireland on course to shrink capability gap",
+   "url": "https://breakingdefense.com/2026/10/long-range-radar-deal-puts-ireland-on-course-to-shrink-capability-gap/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-02T18:20:00Z",
+   "why": "Dublin said last year that a “record” €1.5 billion defense budget would allow “significant progress” to be made on the radar project."
   }
  ]
 }
