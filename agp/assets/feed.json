@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-10-02T20:39:16.981913Z",
+ "updatedAt": "2026-10-03T00:24:27.353751Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army to establish new autonomy command, acquisition executive",
+   "url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-02T21:46:37Z",
+   "why": "The service’s new command will be called Army Futures and Autonomous Systems Command, or FASCOM, according to a memo signed by Acting Army Secretary Adam Telle."
+  },
   {
    "title": "Watchdog: IRS skipped step meant to prevent ‘unnecessary spending’ on procurement hub",
    "url": "https://fedscoop.com/irs-procurement-hub-defend-the-spend/",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-02T09:46:53Z",
    "why": "SAP NS2 has secured a seven-year, $903 million sole-source IDIQ contract from the Defense Logistics Agency for cloud services."
-  },
-  {
-   "title": "GSA memo to set AI-specific acquisition rules",
-   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-memo-set-ai-specific-acquisition-rules/416378/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-01T23:04:00Z",
-   "why": "The language includes changes some industry groups have requested through a public comment period and will go into effect Oct."
   }
  ]
 }
