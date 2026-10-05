@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-10-03T17:13:11.574164Z",
+ "updatedAt": "2026-10-05T19:45:56.425441Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Army to establish new autonomy command, acquisition executive",
-   "url": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/",
+   "title": "SAIC buys ISC to bulk up quantum-ready encryption tech",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/saic-buys-isc-bulk-quantum-ready-encryption-tech/416420/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-05T18:31:58Z",
+   "why": "The tuck-in acquisition adds public key infrastructure and credential management tools already embedded across the intelligence community and Defense..."
+  },
+  {
+   "title": "Northrop logs first flight for self-funded drone wingman",
+   "url": "https://breakingdefense.com/2026/10/northrop-logs-first-flight-for-self-funded-drone-wingman/",
    "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-02T21:46:37Z",
-   "why": "The service’s new command will be called Army Futures and Autonomous Systems Command, or FASCOM, according to a memo signed by Acting Army Secretary Adam Telle."
+   "category": "Defense and National Security",
+   "published": "2026-10-05T17:52:56Z",
+   "why": "The YFQ-48A performed fully autonomous “taxi, takeoff, in-flight maneuvers and landing” over the Mojave Desert in California, according to Northrop Grumman."
   },
   {
-   "title": "DHS readies major cyber contract",
-   "url": "https://federalnewsnetwork.com/contractsawards/2026/10/dhs-readies-major-cyber-contract/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-02T21:20:06Z",
-   "why": "DHS expects to award the potential $626 million Network, Cloud and Cybersecurity Services 2.0 vehicle by late November."
-  },
-  {
-   "title": "Hegseth issues new directive to hasten U.S. military’s counter-drone pursuits",
-   "url": "https://defensescoop.com/2026/10/02/hegseth-issues-new-directive-to-hasten-counter-drone-pursuits/",
+   "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea",
+   "url": "https://defensescoop.com/2026/10/05/air-force-counter-drone-point-defense-modernization-south-korea/",
    "source": "DefenseScoop",
    "category": "Defense and National Security",
-   "published": "2026-10-02T21:12:11Z",
-   "why": "The nation’s counter-drone task force “will not accept a slow-moving bureaucracy when faced with a fast-moving threat,” a spokesperson said."
+   "published": "2026-10-05T17:25:32Z",
+   "why": "The RFI release comes amid growing concerns about North Korea’s drone arsenal."
   },
   {
-   "title": "Travis Metz to lead DIU as Owen West takes ‘leave of absence’ to help steer new AutoWarCom push",
-   "url": "https://defensescoop.com/2026/10/02/travis-metz-diu-owen-west-autowarcom-pete-hegseth/",
+   "title": "After developing Pentagon’s counter-drone marketplace, Kaizen nabs $49M IDIQ from Army with first task order for classified work",
+   "url": "https://defensescoop.com/2026/10/05/kaizen-49m-contract-army-task-order-classified-work/",
    "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-10-02T20:29:44Z",
-   "why": "Both West and Metz will report directly to Defense Secretary Pete Hegseth, a source told DefenseScoop."
-  },
-  {
-   "title": "Watchdog: IRS skipped step meant to prevent ‘unnecessary spending’ on procurement hub",
-   "url": "https://fedscoop.com/irs-procurement-hub-defend-the-spend/",
-   "source": "FedScoop",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-02T20:18:11Z",
-   "why": "The agency’s “expedited” deployment of a platform to track costs as part of the Trump admin’s “defend the spend” initiative bypassed the market research phase..."
+   "published": "2026-10-05T15:00:00Z",
+   "why": "Delivered through the service’s Digital Capabilities Contracting Center of Excellence (DC3oE), the award allows select Army organizations to use Kaizen’s..."
   },
   {
-   "title": "Housing finance agency chief moves to slash watchdog’s budget, leading Democrats to demand his resignation",
-   "url": "https://www.govexec.com/oversight/2026/10/housing-finance-agency-chief-moves-slash-watchdogs-budget-leading-democrats-demand-his-resignation/416397/",
-   "source": "Government Executive",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-02T19:06:58Z",
-   "why": "The Federal Housing Finance Agency inspector general said that budget cuts would force the office to reduce its staffing by up to 80% and effectively stop..."
-  },
-  {
-   "title": "Agencies, critical infrastructure balance evolving cybersecurity risks",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/agencies-critical-infrastructure-balance-evolving-cybersecurity-risks/",
-   "source": "Federal News Network",
+   "title": "WT 360: Nextgov/FCW’s Christian Robles on OneGov, AI, Medicaid tech and Flock cameras",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/wt-360-nextgovfcws-christian-robles-onegov-ai-medicaid-tech-and-flock-cameras/416393/",
+   "source": "Washington Technology",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-02T18:39:17Z",
-   "why": "GAO’s Dave Hinchman discusses hacks on critical water systems, regulatory harmonization issues and the cyber implications of AI."
+   "published": "2026-10-05T10:00:00Z",
+   "why": "Christian Robles, who reports on technology policy and service delivery at Nextgov/FCW, jumps in to detail the federal government’s newest set of centralized..."
   },
   {
-   "title": "Long-range radar deal puts Ireland on course to shrink capability gap",
-   "url": "https://breakingdefense.com/2026/10/long-range-radar-deal-puts-ireland-on-course-to-shrink-capability-gap/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-02T18:20:00Z",
-   "why": "Dublin said last year that a “record” €1.5 billion defense budget would allow “significant progress” to be made on the radar project."
+   "title": "Exiger’s Brandon Daniels: White House Meeting Yields AI Governance Principles",
+   "url": "https://www.govconwire.com/articles/exiger-brandon-daniels-white-house-ai-super-intelligence-accord",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-05T09:48:29Z",
+   "why": "Exiger CEO Brandon Daniels has discussed the super intelligence governance principles AI leaders agreed on at a White House meeting."
+  },
+  {
+   "title": "Dynatrace Acquires Arize to Expand AI Observability Capabilities",
+   "url": "https://www.govconwire.com/articles/dynatrace-arize-ai-observability",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-05T09:46:36Z",
+   "why": "Dynatrace acquired Arize for $915 million, including about $815 million in cash and replacement equity awards."
+  },
+  {
+   "title": "BWXT Lands $189M Navy Contract to Produce Submarine, Aircraft Carrier Reactor Fuel",
+   "url": "https://www.govconwire.com/articles/bwxt-189m-navy-nuclear-fuel-contract",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-05T09:45:26Z",
+   "why": "Nuclear Fuel Services in Erwin, Tennessee, will make fuel for Navy submarines and carriers, with work set to wrap up in August 2027."
   }
  ]
 }
