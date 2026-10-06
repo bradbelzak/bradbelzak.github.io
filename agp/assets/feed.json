@@ -1,16 +1,64 @@
 {
- "updatedAt": "2026-10-06T01:43:51.361570Z",
+ "updatedAt": "2026-10-06T17:09:43.464255Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Citrix discloses third actively exploited NetScaler zero-day in less than a week",
-   "url": "https://cyberscoop.com/citrix-netscaler-third-exploited-zero-day-vulnerability/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-05T23:07:17Z",
-   "why": "The vendor was much quicker and consistent in its response to the latest defect, and researchers consider the impact relatively low compared to the previous..."
+   "title": "Army awards Anduril contract worth up to $1.8B over five years to expand NGC2",
+   "url": "https://defensescoop.com/2026/10/06/army-awards-anduril-1-8b-contract-expand-ngc2/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-06T17:06:35Z",
+   "why": "The contract marks the latest signal for the Army’s expansion of NGC2, an ecosystem of interconnected hardware and software underpinned by Anduril’s Lattice..."
+  },
+  {
+   "title": "Air Force Research Laboratory permanently deletes $10B vehicle",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/air-force-research-laboratory-permanently-deletes-10b-vehicle/416439/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-06T16:15:15Z",
+   "why": "The lab decides instead that its industry partnerships \"are best served by using flexible, agile, and immediately available acquisition pathways.”"
+  },
+  {
+   "title": "DHS kicks its network, cloud and cyber consolidation vehicle down the road",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/dhs-kicks-its-network-cloud-and-cyber-consolidation-vehicle-down-road/416440/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-06T16:13:21Z",
+   "why": "Industry will have an undetermined amount of extra time to gear up for this contract to centralize IT operations across the entire Homeland Security Department."
+  },
+  {
+   "title": "FBI removes Accenture contractor after missed security patch led to breach",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/fbi-removes-accenture-contractor-after-missed-security-patch-led-breach/416441/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-06T14:08:00Z",
+   "why": "The bureau’s cyber chief blamed a contractor’s failure to apply an available fix for an intrusion that may have exposed sensitive employee information."
+  },
+  {
+   "title": "SAIC Closes Acquisition of Information Security Corp.",
+   "url": "https://www.govconwire.com/articles/saic-closes-isc-acquisition-zero-trust-pqc",
+   "source": "GovConWire",
+   "category": "Compliance and Security",
+   "published": "2026-10-06T09:44:12Z",
+   "why": "SAIC has completed its acquisition of ISC, a developer of encryption software, to expand its zero trust and PQC capabilities."
+  },
+  {
+   "title": "Leidos, Altaris Complete Analogic Security Screening Joint Venture",
+   "url": "https://www.govconwire.com/articles/leidos-altaris-analogic-joint-venture",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-06T09:43:57Z",
+   "why": "Leidos will retain a significant minority stake while pursuing airport and air traffic systems modernization work."
+  },
+  {
+   "title": "GSA overcomes protests to award contract for next gen HSPD-12 services",
+   "url": "https://federalnewsnetwork.com/contractsawards/2026/10/gsa-overcomes-protests-to-award-contract-for-next-gen-hspd-12-services/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-05T22:41:16Z",
+   "why": "GSA awarded XTec a $237.6 million contract to move the Personal Identity Verification credentialing service program into a new era."
   },
   {
    "title": "Pentagon picks 4 vendors for counter-drone directed energy pilot program",
@@ -19,54 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-10-05T21:51:21Z",
    "why": "AeroVironment, Epirus, Kord and Boeing were selected for JIATF-401’s pilot program."
-  },
-  {
-   "title": "TMF invests $83.4M in 4 AI-enabled projects",
-   "url": "https://www.nextgov.com/modernization/2026/10/tmf-invests-834m-4-ai-enabled-projects/416431/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-05T21:49:00Z",
-   "why": "One project will replace a legacy payroll system serving roughly a third of the federal workforce with an AI-enabled cloud platform."
-  },
-  {
-   "title": "Appeals court seemingly OKs VA’s contested union contract expiration",
-   "url": "https://www.govexec.com/workforce/2026/10/appeals-court-seemingly-oks-vas-contested-union-contract-expiration/416426/",
-   "source": "Government Executive",
-   "category": "Compliance and Security",
-   "published": "2026-10-05T21:45:28Z",
-   "why": "A three-judge panel found that a judge’s ruling in August forcing the VA to maintain its CBAs with AFGE improperly delved into questions of compliance with..."
-  },
-  {
-   "title": "Boeing nabs potential $14.7 billion PAC-3 seeker contract",
-   "url": "https://breakingdefense.com/2026/10/boeing-nabs-potential-14-7-billion-pac-3-seeker-contract/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-05T20:21:58Z",
-   "why": "The award was issued as an undefinitized contract by PAC-3 prime contractor Lockheed Martin."
-  },
-  {
-   "title": "SAIC buys ISC to bulk up quantum-ready encryption tech",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/saic-buys-isc-bulk-quantum-ready-encryption-tech/416420/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-05T18:31:58Z",
-   "why": "The tuck-in acquisition adds public key infrastructure and credential management tools already embedded across the intelligence community and Defense..."
-  },
-  {
-   "title": "7th Air Force seeks new counter-drone capabilities for point defense modernization in South Korea",
-   "url": "https://defensescoop.com/2026/10/05/air-force-counter-drone-point-defense-modernization-south-korea/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-10-05T17:25:32Z",
-   "why": "The RFI release comes amid growing concerns about North Korea’s drone arsenal."
-  },
-  {
-   "title": "After developing Pentagon’s counter-drone marketplace, Kaizen nabs $49M IDIQ from Army with first task order for classified work",
-   "url": "https://defensescoop.com/2026/10/05/kaizen-49m-contract-army-task-order-classified-work/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-05T15:00:00Z",
-   "why": "Delivered through the service’s Digital Capabilities Contracting Center of Excellence (DC3oE), the award allows select Army organizations to use Kaizen’s..."
   }
  ]
 }
