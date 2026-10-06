@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-10-05T22:33:13.302420Z",
+ "updatedAt": "2026-10-06T01:43:51.361570Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Citrix discloses third actively exploited NetScaler zero-day in less than a week",
+   "url": "https://cyberscoop.com/citrix-netscaler-third-exploited-zero-day-vulnerability/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-05T23:07:17Z",
+   "why": "The vendor was much quicker and consistent in its response to the latest defect, and researchers consider the impact relatively low compared to the previous..."
+  },
   {
    "title": "Pentagon picks 4 vendors for counter-drone directed energy pilot program",
    "url": "https://breakingdefense.com/2026/10/pentagon-picks-4-vendors-for-counter-drone-directed-energy-pilot-program/",
@@ -11,6 +19,14 @@
    "category": "Defense and National Security",
    "published": "2026-10-05T21:51:21Z",
    "why": "AeroVironment, Epirus, Kord and Boeing were selected for JIATF-401’s pilot program."
+  },
+  {
+   "title": "TMF invests $83.4M in 4 AI-enabled projects",
+   "url": "https://www.nextgov.com/modernization/2026/10/tmf-invests-834m-4-ai-enabled-projects/416431/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-05T21:49:00Z",
+   "why": "One project will replace a legacy payroll system serving roughly a third of the federal workforce with an AI-enabled cloud platform."
   },
   {
    "title": "Appeals court seemingly OKs VA’s contested union contract expiration",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-05T15:00:00Z",
    "why": "Delivered through the service’s Digital Capabilities Contracting Center of Excellence (DC3oE), the award allows select Army organizations to use Kaizen’s..."
-  },
-  {
-   "title": "WT 360: Nextgov/FCW’s Christian Robles on OneGov, AI, Medicaid tech and Flock cameras",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/wt-360-nextgovfcws-christian-robles-onegov-ai-medicaid-tech-and-flock-cameras/416393/",
-   "source": "Washington Technology",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-05T10:00:00Z",
-   "why": "Christian Robles, who reports on technology policy and service delivery at Nextgov/FCW, jumps in to detail the federal government’s newest set of centralized..."
-  },
-  {
-   "title": "Exiger’s Brandon Daniels: White House Meeting Yields AI Governance Principles",
-   "url": "https://www.govconwire.com/articles/exiger-brandon-daniels-white-house-ai-super-intelligence-accord",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-05T09:48:29Z",
-   "why": "Exiger CEO Brandon Daniels has discussed the super intelligence governance principles AI leaders agreed on at a White House meeting."
   }
  ]
 }
