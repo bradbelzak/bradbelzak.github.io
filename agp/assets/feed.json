@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-10-07T00:36:36.796433Z",
+ "updatedAt": "2026-10-07T17:47:33.637005Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "The revolving door for tech officials at Trump’s DHS",
+   "url": "https://fedscoop.com/the-revolving-door-for-tech-officials-at-trumps-dhs/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-07T17:45:15Z",
+   "why": "IT leaders at the agency have flirted with the boundaries of ethical and legal limits with various ties to federal contractors, government experts say."
+  },
+  {
+   "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
+   "url": "https://breakingdefense.com/2026/10/from-directed-energy-to-ai-and-hardening-jiatf-401-is-widening-counter-uas-options/",
+   "source": "Breaking Defense",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-07T16:39:28Z",
+   "why": "There is no single answer to the drone threat, pushing the Pentagon toward a broader mix of defenses."
+  },
+  {
+   "title": "Edgewater Acquires HPC Firm RedLine Performance Solutions",
+   "url": "https://www.govconwire.com/articles/edgewater-acquires-redline-performance-solutions-hpc",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-07T09:40:54Z",
+   "why": "Edgewater has acquired RedLine Performance Solutions to expand HPC, scientific computing, AI and cloud offerings for federal agencies."
+  },
+  {
+   "title": "Navy Awards Lockheed Martin Potential $1.7B SEWIP Contract Modification",
+   "url": "https://www.govconwire.com/articles/lockheed-martin-navy-sewip-modification",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-07T09:40:28Z",
+   "why": "Lockheed Martin will perform 78 percent of SEWIP work in Liverpool, New York, with the rest in Pennsylvania."
+  },
+  {
+   "title": "Unions back Senate push to limit stock buybacks for defense contractors",
+   "url": "https://federalnewsnetwork.com/unions/2026/10/unions-back-senate-push-to-limit-stock-buybacks-for-defense-contractors/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-06T22:39:10Z",
+   "why": "“Our DIB is in desperate need of strict guardrails to prioritize investment in production capacity expansion, job quality and security,” the unions said."
+  },
   {
    "title": "The monsters of Cybersecurity Awareness Month are getting stronger",
    "url": "https://www.nextgov.com/cybersecurity/2026/10/monsters-cybersecurity-awareness-month-are-getting-stronger/416449/",
@@ -13,12 +53,12 @@
    "why": "Familiar threats like phishing and ransomware have not gone away, but NIST’s 2026 Cybersecurity Awareness Month activities are increasingly confronting newer..."
   },
   {
-   "title": "Bonnie Evangelista to lead drone buying on Pentagon’s new DRPM-UxS team",
-   "url": "https://defensescoop.com/2026/10/06/pentagon-drpm-uxs-drone-acquisition-bonnie-evangelista/",
-   "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-06T21:17:19Z",
-   "why": "She previously helped co-found the Defense Department's Tradewinds Marketplace for commercial AI and data products."
+   "title": "Five SBA mentor-protégé joint venture pitfalls that can cost you a contract",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/five-sba-mentor-protege-joint-venture-pitfalls-that-can-cost-you-a-contract/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-06T20:38:57Z",
+   "why": "While the MPP provides significant benefits, it also presents important compliance risks for the unwary."
   },
   {
    "title": "MAPS protest ruling exposes FAR overhaul’s clause confusion",
@@ -27,46 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-06T19:23:17Z",
    "why": "The Government Accountability Office denied four protests, but also flagged how class deviations from the Federal Acquisition Regulation Overhaul can muddy..."
-  },
-  {
-   "title": "‘Hallelujah’: Stakeholders react with praise and concern to GSA AI acquisitions clause",
-   "url": "https://fedscoop.com/gsa-ai-acquisitions-clause-experts-react/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T18:50:19Z",
-   "why": "The long-awaited clause was issued as a regulation deviation last week, and while some previous commenters are relieved, they still have worries about it in..."
-  },
-  {
-   "title": "Army awards Anduril contract worth up to $1.8B over five years to expand NGC2",
-   "url": "https://defensescoop.com/2026/10/06/army-awards-anduril-1-8b-contract-expand-ngc2/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T17:06:35Z",
-   "why": "The contract marks the latest signal for the Army’s expansion of NGC2, an ecosystem of interconnected hardware and software underpinned by Anduril’s Lattice..."
-  },
-  {
-   "title": "Air Force Research Laboratory permanently deletes $10B vehicle",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/air-force-research-laboratory-permanently-deletes-10b-vehicle/416439/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T16:15:15Z",
-   "why": "The lab decides instead that its industry partnerships \"are best served by using flexible, agile, and immediately available acquisition pathways.”"
-  },
-  {
-   "title": "DHS kicks its network, cloud and cyber consolidation vehicle down the road",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/dhs-kicks-its-network-cloud-and-cyber-consolidation-vehicle-down-road/416440/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T16:13:21Z",
-   "why": "Industry will have an undetermined amount of extra time to gear up for this contract to centralize IT operations across the entire Homeland Security Department."
-  },
-  {
-   "title": "FBI removes Accenture contractor after missed security patch led to breach",
-   "url": "https://www.nextgov.com/cybersecurity/2026/10/fbi-removes-accenture-contractor-after-missed-security-patch-led-breach/416441/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T14:08:00Z",
-   "why": "The bureau’s cyber chief blamed a contractor’s failure to apply an available fix for an intrusion that may have exposed sensitive employee information."
   }
  ]
 }
