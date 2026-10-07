@@ -1,9 +1,57 @@
 {
- "updatedAt": "2026-10-07T17:47:33.637005Z",
+ "updatedAt": "2026-10-07T21:13:35.284117Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "AI collapsed the patching window. Washington needs a cyber risk operations doctrine.",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/ai-collapsed-the-patching-window-washington-needs-a-cyber-risk-operations-doctrine/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-07T20:41:38Z",
+   "why": "The government’s cybersecurity crisis will arrive as a flood of software vulnerabilities are discovered faster than any agency can patch them."
+  },
+  {
+   "title": "CMS pitches new contractor operating model for ‘detect and prevent’ fraud strategy",
+   "url": "https://www.nextgov.com/digital-government/2026/10/cms-pitches-new-contractor-operating-model-detect-and-prevent-fraud-strategy/416481/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-07T20:36:00Z",
+   "why": "The proposal builds on the Trump administration’s multi-faceted effort to curtail fraud, waste and abuse in federal health programs."
+  },
+  {
+   "title": "Using holiday lights to inform hurricane recovery? Award honors ‘seemingly odd’ federally funded research that brings about groundbreaking discoveries",
+   "url": "https://www.govexec.com/workforce/2026/10/using-holiday-lights-inform-hurricane-recovery-award-honors-seemingly-odd-federally-funded-research-brings-about-groundbreaking-discoveries/416477/",
+   "source": "Government Executive",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-07T19:53:21Z",
+   "why": "The Trump administration has sought to upend federal support for scientific research, including through budget cuts and granting political appointees more..."
+  },
+  {
+   "title": "Major rules for federal contractors handling sensitive data are nearing the finish line",
+   "url": "https://cyberscoop.com/federal-contractors-cui-cybersecurity-rules/",
+   "source": "CyberScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-07T19:44:56Z",
+   "why": "The regulations on “controlled unclassified information” include security rules and requirements for reporting when they’re breached, including by cyberattacks."
+  },
+  {
+   "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
+   "url": "https://breakingdefense.com/2026/10/army-issues-just-under-100m-in-application-awards-for-ngc2-to-9-companies/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-07T19:38:41Z",
+   "why": "“Providing core software applications is a critical next step."
+  },
+  {
+   "title": "Tetra Tech loses EPA protest over technician the agency already approved",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/tetra-tech-loses-epa-protest-over-technician-agency-already-approved/416475/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-07T19:13:02Z",
+   "why": "The Government Accountability Office says an approval under an incumbent contract does not carry over to the compete."
+  },
   {
    "title": "The revolving door for tech officials at Trump’s DHS",
    "url": "https://fedscoop.com/the-revolving-door-for-tech-officials-at-trumps-dhs/",
@@ -19,54 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-10-07T16:39:28Z",
    "why": "There is no single answer to the drone threat, pushing the Pentagon toward a broader mix of defenses."
-  },
-  {
-   "title": "Edgewater Acquires HPC Firm RedLine Performance Solutions",
-   "url": "https://www.govconwire.com/articles/edgewater-acquires-redline-performance-solutions-hpc",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-07T09:40:54Z",
-   "why": "Edgewater has acquired RedLine Performance Solutions to expand HPC, scientific computing, AI and cloud offerings for federal agencies."
-  },
-  {
-   "title": "Navy Awards Lockheed Martin Potential $1.7B SEWIP Contract Modification",
-   "url": "https://www.govconwire.com/articles/lockheed-martin-navy-sewip-modification",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-07T09:40:28Z",
-   "why": "Lockheed Martin will perform 78 percent of SEWIP work in Liverpool, New York, with the rest in Pennsylvania."
-  },
-  {
-   "title": "Unions back Senate push to limit stock buybacks for defense contractors",
-   "url": "https://federalnewsnetwork.com/unions/2026/10/unions-back-senate-push-to-limit-stock-buybacks-for-defense-contractors/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T22:39:10Z",
-   "why": "“Our DIB is in desperate need of strict guardrails to prioritize investment in production capacity expansion, job quality and security,” the unions said."
-  },
-  {
-   "title": "The monsters of Cybersecurity Awareness Month are getting stronger",
-   "url": "https://www.nextgov.com/cybersecurity/2026/10/monsters-cybersecurity-awareness-month-are-getting-stronger/416449/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-06T21:26:00Z",
-   "why": "Familiar threats like phishing and ransomware have not gone away, but NIST’s 2026 Cybersecurity Awareness Month activities are increasingly confronting newer..."
-  },
-  {
-   "title": "Five SBA mentor-protégé joint venture pitfalls that can cost you a contract",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/five-sba-mentor-protege-joint-venture-pitfalls-that-can-cost-you-a-contract/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-06T20:38:57Z",
-   "why": "While the MPP provides significant benefits, it also presents important compliance risks for the unwary."
-  },
-  {
-   "title": "MAPS protest ruling exposes FAR overhaul’s clause confusion",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/maps-ruling-exposes-far-overhauls-clause-confusion/416443/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T19:23:17Z",
-   "why": "The Government Accountability Office denied four protests, but also flagged how class deviations from the Federal Acquisition Regulation Overhaul can muddy..."
   }
  ]
 }
