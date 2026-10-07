@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-06T20:55:11.310144Z",
+ "updatedAt": "2026-10-07T00:36:36.796433Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "The monsters of Cybersecurity Awareness Month are getting stronger",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/monsters-cybersecurity-awareness-month-are-getting-stronger/416449/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-06T21:26:00Z",
+   "why": "Familiar threats like phishing and ransomware have not gone away, but NIST’s 2026 Cybersecurity Awareness Month activities are increasingly confronting newer..."
+  },
+  {
+   "title": "Bonnie Evangelista to lead drone buying on Pentagon’s new DRPM-UxS team",
+   "url": "https://defensescoop.com/2026/10/06/pentagon-drpm-uxs-drone-acquisition-bonnie-evangelista/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-06T21:17:19Z",
+   "why": "She previously helped co-found the Defense Department's Tradewinds Marketplace for commercial AI and data products."
+  },
   {
    "title": "MAPS protest ruling exposes FAR overhaul’s clause confusion",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/maps-ruling-exposes-far-overhauls-clause-confusion/416443/",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-06T14:08:00Z",
    "why": "The bureau’s cyber chief blamed a contractor’s failure to apply an available fix for an intrusion that may have exposed sensitive employee information."
-  },
-  {
-   "title": "SAIC Closes Acquisition of Information Security Corp.",
-   "url": "https://www.govconwire.com/articles/saic-closes-isc-acquisition-zero-trust-pqc",
-   "source": "GovConWire",
-   "category": "Compliance and Security",
-   "published": "2026-10-06T09:44:12Z",
-   "why": "SAIC has completed its acquisition of ISC, a developer of encryption software, to expand its zero trust and PQC capabilities."
-  },
-  {
-   "title": "Leidos, Altaris Complete Analogic Security Screening Joint Venture",
-   "url": "https://www.govconwire.com/articles/leidos-altaris-analogic-joint-venture",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-06T09:43:57Z",
-   "why": "Leidos will retain a significant minority stake while pursuing airport and air traffic systems modernization work."
   }
  ]
 }
