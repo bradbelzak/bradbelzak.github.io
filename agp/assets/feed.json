@@ -1,32 +1,64 @@
 {
- "updatedAt": "2026-10-08T17:51:12.119834Z",
+ "updatedAt": "2026-10-08T21:15:36.019582Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "OpenAI says Iran, Russia used AI journalists, think tanks to influence Western media",
-   "url": "https://cyberscoop.com/openai-disrupts-russia-iran-ai-influence-operations/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-08T17:44:43Z",
-   "why": "The two campaigns were rated 4 and 5 out of 6 for severity, the first time OpenAI has reported what it considers a high-impact influence campaigns."
-  },
-  {
-   "title": "Cyber Leaders Exchange 2026: CESER’s Andrew McClure on advancing a resilient energy sector",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-cesers-andrew-mcclure-on-advancing-a-resilient-energy-sector/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-08T17:44:21Z",
-   "why": "CESER's latest strategy focuses on “world-class” security technologies, hardening U.S."
-  },
-  {
-   "title": "Autonomy, space and logistics startups detail their newest capital raises",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/autonomy-space-and-logistics-startups-detail-their-newest-capital-raises/416501/",
-   "source": "Washington Technology",
+   "title": "David Wajsgras on Everfox’s Core Capabilities & Acquisition Strategy",
+   "url": "https://www.govconwire.com/articles/david-wajsgras-everfox-interview-cyber-capabilities-acquisition-executive-mosaic",
+   "source": "GovConWire",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-08T16:54:36Z",
-   "why": "The venture investment arms of Booz Allen Hamilton and RTX Corp."
+   "published": "2026-10-08T20:41:00Z",
+   "why": "Everfox CEO David Wajsgras has outlined the company's cross-domain and insider risk capabilities and its plans to pursue acquisitions."
+  },
+  {
+   "title": "A new False Claims Act case shows how the government is enforcing the rules on contractors",
+   "url": "https://federalnewsnetwork.com/management/2026/10/a-new-false-claims-act-case-shows-how-the-government-is-enforcing-the-rules-on-contractors/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-08T20:18:42Z",
+   "why": "\"Contractors shouldn't just be looking at potential federal exposure, but also state exposure,\" said Richard Arnolt."
+  },
+  {
+   "title": "GSA seeks to boost understanding of FedRAMP 20x overhaul",
+   "url": "https://www.nextgov.com/digital-government/2026/10/gsa-seeks-boost-understanding-fedramp-20x-overhaul/416508/",
+   "source": "Nextgov",
+   "category": "Compliance and Security",
+   "published": "2026-10-08T19:43:00Z",
+   "why": "The cloud security program is looking to educate both agencies and private companies on the ways the revamped program differs from previous requirements."
+  },
+  {
+   "title": "FBI seizes websites supporting Chinese contractor’s hacking operations",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/fbi-seizes-websites-supporting-chinese-contractors-hacking-operations/416505/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-08T18:34:00Z",
+   "why": "U.S."
+  },
+  {
+   "title": "Strengthening federal zero trust through identity modernization",
+   "url": "https://fedscoop.com/ping-identity-federal-agencies/",
+   "source": "FedScoop",
+   "category": "Compliance and Security",
+   "published": "2026-10-08T18:30:00Z",
+   "why": "How federal agencies can modernize identity and access management to reduce silos, secure hybrid environments and support cloud adoption."
+  },
+  {
+   "title": "What industry must get right to accelerate technology adoption in the IC",
+   "url": "https://www.washingtontechnology.com/opinion/2026/10/what-industry-must-get-right-accelerate-technology-adoption-ic/416507/",
+   "source": "Washington Technology",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-08T18:28:21Z",
+   "why": "To succeed, contractors must align with a mission need, plan for security and integration, understand the budget and contracting path, and identify who will..."
+  },
+  {
+   "title": "Colby approves Pentagon policy for ‘cyber operations-peculiar’ monetary awards",
+   "url": "https://defensescoop.com/2026/10/08/elbridge-colby-pentagon-cyber-operations-peculiar-awards-program/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-08T17:57:10Z",
+   "why": "The COPA initiative allows for the issuance of cash bonuses up to $2,500 to eligible troops to “recognize exceptional contributions rooted in novel actions..."
   },
   {
    "title": "Chickasaw Nation's contracting arm buys network engineering provider",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-08T16:49:38Z",
    "why": "CNI Federal Services business adds a technology services portfolio that includes an alternative method for speeding up connections and delivering data."
-  },
-  {
-   "title": "Navy, Shield AI pour big bucks into X-BAT drone development",
-   "url": "https://breakingdefense.com/2026/10/navy-shield-ai-pour-big-bucks-into-x-bat-drone-development/",
-   "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-08T15:26:37Z",
-   "why": "Altogether, Shield AI and the US Navy are investing a combined $400 million into the X-BAT drone."
-  },
-  {
-   "title": "Weaponizing the supply chain for a liquid-fueled howitzer-fired munition that flies 150 km",
-   "url": "https://breakingdefense.com/2026/10/weaponizing-the-supply-chain-for-a-liquid-fueled-howitzer-fired-munition-that-flies-150-km/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-08T12:28:00Z",
-   "why": "[Sponsored] The goal of such weaponization is to tie warfighter needs to the RDT&E cycle."
-  },
-  {
-   "title": "How AI Turns Federal Procurement Forecasts Into Capture Plans",
-   "url": "https://www.govconwire.com/articles/yigit-guney-govcon-expert-cleatus-procurement-forecast-capture-plan-ai",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-08T09:21:04Z",
-   "why": "Yigit Guney, CLEATUS co-founder and a GovCon Expert, explains how capture teams can convert procurement forecasts into capture plans."
-  },
-  {
-   "title": "Census Bureau Prioritizes Decennial, Geospatial Work in $2.6B CenTAM Acquisition Update",
-   "url": "https://www.govconwire.com/articles/centam-decennial-geospatial-solicitation-fy27",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-08T09:20:18Z",
-   "why": "CenTAM covers four small business BPAs worth about $2.6 billion for census application modernization and geospatial systems."
   }
  ]
 }
