@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-10-08T00:55:47.788955Z",
+ "updatedAt": "2026-10-08T17:51:12.119834Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Union demands federal prison leaders be held in contempt after agency ‘openly defies’ court order",
-   "url": "https://www.govexec.com/workforce/2026/10/union-federal-prison-leaders-contempt-agency-defies-court-order/416483/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-07T21:23:08Z",
-   "why": "The U.S."
-  },
-  {
-   "title": "CMS pitches new contractor operating model for ‘detect and prevent’ fraud strategy",
-   "url": "https://www.nextgov.com/digital-government/2026/10/cms-pitches-new-contractor-operating-model-detect-and-prevent-fraud-strategy/416481/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-07T20:36:00Z",
-   "why": "The proposal builds on the Trump administration’s multi-faceted effort to curtail fraud, waste and abuse in federal health programs."
-  },
-  {
-   "title": "Using holiday lights to inform hurricane recovery? Award honors ‘seemingly odd’ federally funded research that brings about groundbreaking discoveries",
-   "url": "https://www.govexec.com/workforce/2026/10/using-holiday-lights-inform-hurricane-recovery-award-honors-seemingly-odd-federally-funded-research-brings-about-groundbreaking-discoveries/416477/",
-   "source": "Government Executive",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-07T19:53:21Z",
-   "why": "The Trump administration has sought to upend federal support for scientific research, including through budget cuts and granting political appointees more..."
-  },
-  {
-   "title": "Major rules for federal contractors handling sensitive data are nearing the finish line",
-   "url": "https://cyberscoop.com/federal-contractors-cui-cybersecurity-rules/",
+   "title": "OpenAI says Iran, Russia used AI journalists, think tanks to influence Western media",
+   "url": "https://cyberscoop.com/openai-disrupts-russia-iran-ai-influence-operations/",
    "source": "CyberScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-07T19:44:56Z",
-   "why": "The regulations on “controlled unclassified information” include security rules and requirements for reporting when they’re breached, including by cyberattacks."
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-08T17:44:43Z",
+   "why": "The two campaigns were rated 4 and 5 out of 6 for severity, the first time OpenAI has reported what it considers a high-impact influence campaigns."
   },
   {
-   "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
-   "url": "https://breakingdefense.com/2026/10/army-issues-just-under-100m-in-application-awards-for-ngc2-to-9-companies/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-07T19:38:41Z",
-   "why": "“Providing core software applications is a critical next step."
+   "title": "Cyber Leaders Exchange 2026: CESER’s Andrew McClure on advancing a resilient energy sector",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-cesers-andrew-mcclure-on-advancing-a-resilient-energy-sector/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-08T17:44:21Z",
+   "why": "CESER's latest strategy focuses on “world-class” security technologies, hardening U.S."
   },
   {
-   "title": "Tetra Tech loses EPA protest over technician the agency already approved",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/tetra-tech-loses-epa-protest-over-technician-agency-already-approved/416475/",
+   "title": "Autonomy, space and logistics startups detail their newest capital raises",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/autonomy-space-and-logistics-startups-detail-their-newest-capital-raises/416501/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-07T19:13:02Z",
-   "why": "The Government Accountability Office says an approval under an incumbent contract does not carry over to the compete."
+   "published": "2026-10-08T16:54:36Z",
+   "why": "The venture investment arms of Booz Allen Hamilton and RTX Corp."
   },
   {
-   "title": "The revolving door for tech officials at Trump’s DHS",
-   "url": "https://fedscoop.com/the-revolving-door-for-tech-officials-at-trumps-dhs/",
-   "source": "FedScoop",
+   "title": "Chickasaw Nation's contracting arm buys network engineering provider",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/chickasaw-nations-contracting-arm-buys-network-engineering-provider/416497/",
+   "source": "Washington Technology",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-07T17:45:15Z",
-   "why": "IT leaders at the agency have flirted with the boundaries of ethical and legal limits with various ties to federal contractors, government experts say."
+   "published": "2026-10-08T16:49:38Z",
+   "why": "CNI Federal Services business adds a technology services portfolio that includes an alternative method for speeding up connections and delivering data."
   },
   {
-   "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
-   "url": "https://breakingdefense.com/2026/10/from-directed-energy-to-ai-and-hardening-jiatf-401-is-widening-counter-uas-options/",
+   "title": "Navy, Shield AI pour big bucks into X-BAT drone development",
+   "url": "https://breakingdefense.com/2026/10/navy-shield-ai-pour-big-bucks-into-x-bat-drone-development/",
    "source": "Breaking Defense",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-07T16:39:28Z",
-   "why": "There is no single answer to the drone threat, pushing the Pentagon toward a broader mix of defenses."
+   "published": "2026-10-08T15:26:37Z",
+   "why": "Altogether, Shield AI and the US Navy are investing a combined $400 million into the X-BAT drone."
+  },
+  {
+   "title": "Weaponizing the supply chain for a liquid-fueled howitzer-fired munition that flies 150 km",
+   "url": "https://breakingdefense.com/2026/10/weaponizing-the-supply-chain-for-a-liquid-fueled-howitzer-fired-munition-that-flies-150-km/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-08T12:28:00Z",
+   "why": "[Sponsored] The goal of such weaponization is to tie warfighter needs to the RDT&E cycle."
+  },
+  {
+   "title": "How AI Turns Federal Procurement Forecasts Into Capture Plans",
+   "url": "https://www.govconwire.com/articles/yigit-guney-govcon-expert-cleatus-procurement-forecast-capture-plan-ai",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-08T09:21:04Z",
+   "why": "Yigit Guney, CLEATUS co-founder and a GovCon Expert, explains how capture teams can convert procurement forecasts into capture plans."
+  },
+  {
+   "title": "Census Bureau Prioritizes Decennial, Geospatial Work in $2.6B CenTAM Acquisition Update",
+   "url": "https://www.govconwire.com/articles/centam-decennial-geospatial-solicitation-fy27",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-08T09:20:18Z",
+   "why": "CenTAM covers four small business BPAs worth about $2.6 billion for census application modernization and geospatial systems."
   }
  ]
 }
