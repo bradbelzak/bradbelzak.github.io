@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-10-09T01:09:59.940059Z",
+ "updatedAt": "2026-10-09T17:25:25.320593Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "GDLS exec: New loitering munitions platform to be delivered to Army by end of month",
+   "url": "https://breakingdefense.com/2026/10/gdls-exec-new-loitering-munitions-platform-to-be-delivered-to-army-by-end-of-month/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-09T16:35:00Z",
+   "why": "The company is on contract to provide four PERCH 2.0 prototypes to the Army’s 1st Brigade, 1st Cavalry Division by the end of October."
+  },
+  {
+   "title": "New leaders, new drone command: What we expect from AUSA 2026",
+   "url": "https://breakingdefense.com/2026/10/new-leaders-new-drone-command-what-we-expect-from-ausa-2026/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-09T16:07:00Z",
+   "why": "The Army’s autonomy push and the future of its modernization programs are set to loom large at this year’s conference."
+  },
+  {
+   "title": "One front door: What OMB’s new Login.gov mandate means for agencies",
+   "url": "https://fedscoop.com/omb-memo-login-gov-one-front-door/",
+   "source": "FedScoop",
+   "category": "Technology Modernization",
+   "published": "2026-10-09T15:19:32Z",
+   "why": "A former CISO at the Social Security Administration lays out a blueprint for how agencies and vendors should approach government’s new requirements for the..."
+  },
+  {
+   "title": "Can the Grid Keep Up With AI? Inside DOE’s Data Center Power Push",
+   "url": "https://www.govconwire.com/articles/data-centers-energy-ai-doe-dawn-zimmer",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-09T09:42:39Z",
+   "why": "DOE is opening federal land, pushing grid reforms and tapping national labs to power data centers."
+  },
+  {
+   "title": "EY Books $869M in DFAS Audit Contracts for Navy, Air Force",
+   "url": "https://www.govconwire.com/articles/ernst-young-869m-military-financial-audit-awards",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-09T09:40:12Z",
+   "why": "The Navy award runs through 2031 and the Air Force contract succeeds EY’s 2022 deal."
+  },
+  {
+   "title": "Jody Kelman, Emelia Probasco Join Muon Space Leadership Team",
+   "url": "https://www.govconwire.com/articles/muon-space-jody-kelman-emelia-probasco-leadership-team",
+   "source": "GovConWire",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-09T09:39:41Z",
+   "why": "The satellite constellation builder has added a former Lyft executive and a Georgetown AI researcher as it ramps production."
+  },
+  {
+   "title": "Lawmakers eye more federal action on AI standards, security, disclosures",
+   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/10/lawmakers-eye-more-federal-action-on-ai-standards-security-disclosures/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-08T23:05:19Z",
+   "why": "Lawmakers appear keen on agencies such as CISA and NIST taking more leading roles in evaluating AI security risks and setting safety standards."
+  },
   {
    "title": "Bipartisan Senate bill would push DOD to expand its oversight of in-use commercial frontier AI models",
    "url": "https://defensescoop.com/2026/10/08/senate-bill-expand-dod-oversight-commercial-frontier-ai-models/",
@@ -11,62 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-08T22:20:50Z",
    "why": "The legislation would direct the secretary of defense to create new reporting requirements and voluntary guidance for large AI contractors."
-  },
-  {
-   "title": "David Wajsgras on Everfox’s Core Capabilities & Acquisition Strategy",
-   "url": "https://www.govconwire.com/articles/david-wajsgras-everfox-interview-cyber-capabilities-acquisition-executive-mosaic",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-08T20:41:00Z",
-   "why": "Everfox CEO David Wajsgras has outlined the company's cross-domain and insider risk capabilities and its plans to pursue acquisitions."
-  },
-  {
-   "title": "A new False Claims Act case shows how the government is enforcing the rules on contractors",
-   "url": "https://federalnewsnetwork.com/management/2026/10/a-new-false-claims-act-case-shows-how-the-government-is-enforcing-the-rules-on-contractors/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-08T20:18:42Z",
-   "why": "\"Contractors shouldn't just be looking at potential federal exposure, but also state exposure,\" said Richard Arnolt."
-  },
-  {
-   "title": "GSA seeks to boost understanding of FedRAMP 20x overhaul",
-   "url": "https://www.nextgov.com/digital-government/2026/10/gsa-seeks-boost-understanding-fedramp-20x-overhaul/416508/",
-   "source": "Nextgov",
-   "category": "Compliance and Security",
-   "published": "2026-10-08T19:43:00Z",
-   "why": "The cloud security program is looking to educate both agencies and private companies on the ways the revamped program differs from previous requirements."
-  },
-  {
-   "title": "FBI seizes websites supporting Chinese contractor’s hacking operations",
-   "url": "https://www.nextgov.com/cybersecurity/2026/10/fbi-seizes-websites-supporting-chinese-contractors-hacking-operations/416505/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-08T18:34:00Z",
-   "why": "U.S."
-  },
-  {
-   "title": "Strengthening federal zero trust through identity modernization",
-   "url": "https://fedscoop.com/ping-identity-federal-agencies/",
-   "source": "FedScoop",
-   "category": "Compliance and Security",
-   "published": "2026-10-08T18:30:00Z",
-   "why": "How federal agencies can modernize identity and access management to reduce silos, secure hybrid environments and support cloud adoption."
-  },
-  {
-   "title": "What industry must get right to accelerate technology adoption in the IC",
-   "url": "https://www.washingtontechnology.com/opinion/2026/10/what-industry-must-get-right-accelerate-technology-adoption-ic/416507/",
-   "source": "Washington Technology",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-08T18:28:21Z",
-   "why": "To succeed, contractors must align with a mission need, plan for security and integration, understand the budget and contracting path, and identify who will..."
-  },
-  {
-   "title": "Chickasaw Nation's contracting arm buys network engineering provider",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/chickasaw-nations-contracting-arm-buys-network-engineering-provider/416497/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-08T16:49:38Z",
-   "why": "CNI Federal Services business adds a technology services portfolio that includes an alternative method for speeding up connections and delivering data."
   }
  ]
 }
