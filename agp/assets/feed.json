@@ -1,16 +1,64 @@
 {
- "updatedAt": "2026-10-09T17:25:25.320593Z",
+ "updatedAt": "2026-10-09T20:48:15.938472Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "GDLS exec: New loitering munitions platform to be delivered to Army by end of month",
-   "url": "https://breakingdefense.com/2026/10/gdls-exec-new-loitering-munitions-platform-to-be-delivered-to-army-by-end-of-month/",
+   "title": "GSA removes 244 Chinese products from procurement list",
+   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-removes-244-chinese-products-procurement-list/416538/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-09T20:29:00Z",
+   "why": "The agency is seeking to fulfill ‘truthful advertising’ and fraud-busting executive orders signed by President Donald Trump."
+  },
+  {
+   "title": "Other Transaction Authority for defense construction",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/other-transaction-authority-for-defense-construction/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-09T20:27:20Z",
+   "why": "Procurement selection depends on matching the acquisition method to the project's uncertainty, complexity, schedule, competition and transaction costs."
+  },
+  {
+   "title": "The Pentagon gave $350 million in contracts to a firm closely tied to a senior Defense Department official",
+   "url": "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-09T20:16:32Z",
+   "why": "The contracts raise questions about whether personal and professional ties to senior defense officials gave the firm an advantage in securing Pentagon business."
+  },
+  {
+   "title": "One year in, Army’s FUZE leader eyes ‘bigger’ acquisition challenges",
+   "url": "https://breakingdefense.com/2026/10/one-year-in-armys-fuze-leader-eyes-bigger-acquisition-challenges/",
    "source": "Breaking Defense",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-09T16:35:00Z",
-   "why": "The company is on contract to provide four PERCH 2.0 prototypes to the Army’s 1st Brigade, 1st Cavalry Division by the end of October."
+   "published": "2026-10-09T20:00:00Z",
+   "why": "The Army innovation hub’s first year also revealed the challenge of making sure promising technologies don’t stop at the prototype stage, FUZE Director Matt..."
+  },
+  {
+   "title": "Coast Guard surpasses its recruiting goal for third consecutive year",
+   "url": "https://federalnewsnetwork.com/federal-newscast/2026/10/coast-guard-surpasses-its-recruiting-goal-for-third-consecutive-year/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-09T19:31:43Z",
+   "why": "The Coast Guard awarded a $400 million contract to modernize its training center in Cape May, New Jersey."
+  },
+  {
+   "title": "Cyber Leaders Exchange 2026: CISA’s Chris Butera on tackling AI-fueled cyber risks",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-cisas-chris-butera-on-tackling-ai-fueled-cyber-risks/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-09T18:51:44Z",
+   "why": "CISA cyber leader shares plans for AI-driven vulnerability management, how the Gold Eagle program is coordinating bug discovery and more."
+  },
+  {
+   "title": "Fiscal 2027 brings big opportunities, and big challenges",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/fiscal-2027-brings-big-opportunities-and-big-challenges/416533/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-09T18:30:53Z",
+   "why": "Contract consolidation, a shift to General Services Administration vehicles and proposed size standard changes will reshape the competitive landscape..."
   },
   {
    "title": "New leaders, new drone command: What we expect from AUSA 2026",
@@ -19,54 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-10-09T16:07:00Z",
    "why": "The Army’s autonomy push and the future of its modernization programs are set to loom large at this year’s conference."
-  },
-  {
-   "title": "One front door: What OMB’s new Login.gov mandate means for agencies",
-   "url": "https://fedscoop.com/omb-memo-login-gov-one-front-door/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-10-09T15:19:32Z",
-   "why": "A former CISO at the Social Security Administration lays out a blueprint for how agencies and vendors should approach government’s new requirements for the..."
-  },
-  {
-   "title": "Can the Grid Keep Up With AI? Inside DOE’s Data Center Power Push",
-   "url": "https://www.govconwire.com/articles/data-centers-energy-ai-doe-dawn-zimmer",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-09T09:42:39Z",
-   "why": "DOE is opening federal land, pushing grid reforms and tapping national labs to power data centers."
-  },
-  {
-   "title": "EY Books $869M in DFAS Audit Contracts for Navy, Air Force",
-   "url": "https://www.govconwire.com/articles/ernst-young-869m-military-financial-audit-awards",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-09T09:40:12Z",
-   "why": "The Navy award runs through 2031 and the Air Force contract succeeds EY’s 2022 deal."
-  },
-  {
-   "title": "Jody Kelman, Emelia Probasco Join Muon Space Leadership Team",
-   "url": "https://www.govconwire.com/articles/muon-space-jody-kelman-emelia-probasco-leadership-team",
-   "source": "GovConWire",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-09T09:39:41Z",
-   "why": "The satellite constellation builder has added a former Lyft executive and a Georgetown AI researcher as it ramps production."
-  },
-  {
-   "title": "Lawmakers eye more federal action on AI standards, security, disclosures",
-   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/10/lawmakers-eye-more-federal-action-on-ai-standards-security-disclosures/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-08T23:05:19Z",
-   "why": "Lawmakers appear keen on agencies such as CISA and NIST taking more leading roles in evaluating AI security risks and setting safety standards."
-  },
-  {
-   "title": "Bipartisan Senate bill would push DOD to expand its oversight of in-use commercial frontier AI models",
-   "url": "https://defensescoop.com/2026/10/08/senate-bill-expand-dod-oversight-commercial-frontier-ai-models/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-08T22:20:50Z",
-   "why": "The legislation would direct the secretary of defense to create new reporting requirements and voluntary guidance for large AI contractors."
   }
  ]
 }
