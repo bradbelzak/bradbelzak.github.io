@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-10-10T17:48:04.121552Z",
+ "updatedAt": "2026-10-12T20:15:18.672873Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "GSA removes 244 Chinese products from procurement list",
-   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-removes-244-chinese-products-procurement-list/416538/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-09T20:29:00Z",
-   "why": "The agency is seeking to fulfill ‘truthful advertising’ and fraud-busting executive orders signed by President Donald Trump."
+   "title": "From drones to ground vehicles: Check out day 1 of AUSA",
+   "url": "https://breakingdefense.com/2026/10/from-drones-to-ground-vehicles-check-out-day-1-of-ausa/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-12T19:58:31Z",
+   "why": "Sights on the ground at the Walter E."
   },
   {
-   "title": "Other Transaction Authority for defense construction",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/other-transaction-authority-for-defense-construction/",
+   "title": "IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3 billion",
+   "url": "https://cyberscoop.com/ionq-acquires-elisity-1-3-billion-quantum-security/",
+   "source": "CyberScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-12T18:12:10Z",
+   "why": "The acquisition pairs Elisity's zero-trust access controls with IonQ's post-quantum cryptography business as federal agencies and major companies accelerate..."
+  },
+  {
+   "title": "Cyber Leaders Exchange 2026: Cisco’s Norman St. Laurent on building a future-ready cyber workforce",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-ciscos-norman-st-laurent-on-building-a-future-ready-cyber-workforce/",
    "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-09T20:27:20Z",
-   "why": "Procurement selection depends on matching the acquisition method to the project's uncertainty, complexity, schedule, competition and transaction costs."
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-12T12:49:11Z",
+   "why": "AI is revolutionizing the state of cybersecurity, but workforce development and training is as important as ever, Cisco federal expert says."
   },
   {
-   "title": "The Pentagon gave $350 million in contracts to a firm closely tied to a senior Defense Department official",
-   "url": "https://www.govexec.com/defense/2026/10/pentagon-gave-350-million-contracts-firm-closely-tied-senior-defense-department-official/416537/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-09T20:16:32Z",
-   "why": "The contracts raise questions about whether personal and professional ties to senior defense officials gave the firm an advantage in securing Pentagon business."
+   "title": "Cyber Leaders Exchange 2026: Revolutional’s Pete Harris on holding AI accountable",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-revolutionals-pete-harris-on-holding-ai-accountable/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-12T12:41:35Z",
+   "why": "Federal CISOs are learning to navigate AI's promise and peril."
   },
   {
-   "title": "One year in, Army’s FUZE leader eyes ‘bigger’ acquisition challenges",
-   "url": "https://breakingdefense.com/2026/10/one-year-in-armys-fuze-leader-eyes-bigger-acquisition-challenges/",
+   "title": "Cyber Leaders Exchange 2026: Federal, industry experts on best defenses against AI attacks",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-federal-industry-experts-on-best-defenses-against-ai-attacks/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-12T12:39:48Z",
+   "why": "The State Department’s Gharun Lacy said cyberattackers using custom code require agencies to focus more on the fundamentals of a secure architecture."
+  },
+  {
+   "title": "WT 360: Fiscal year 2027's key features include contract scrutiny and tech differentiation",
+   "url": "https://www.washingtontechnology.com/podcasts/2026/10/wt-360-fiscal-year-2027s-key-features-include-contract-scrutiny-and-tech-differentiation/416525/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-12T10:00:00Z",
+   "why": "John Caucis and James Wichert, public sector market analysts at Technology Business Research, overview an environment for contractors that looks replete with..."
+  },
+  {
+   "title": "Army again tweaks acquisition structure to remove unwanted layer of bureaucracy",
+   "url": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy/",
    "source": "Breaking Defense",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-09T20:00:00Z",
-   "why": "The Army innovation hub’s first year also revealed the challenge of making sure promising technologies don’t stop at the prototype stage, FUZE Director Matt..."
+   "published": "2026-10-12T10:00:00Z",
+   "why": "With this newly implemented change, the service has attempted to increase communication between its Portfolio Acquisition Executives and their subordinate..."
   },
   {
-   "title": "Coast Guard surpasses its recruiting goal for third consecutive year",
-   "url": "https://federalnewsnetwork.com/federal-newscast/2026/10/coast-guard-surpasses-its-recruiting-goal-for-third-consecutive-year/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-09T19:31:43Z",
-   "why": "The Coast Guard awarded a $400 million contract to modernize its training center in Cape May, New Jersey."
-  },
-  {
-   "title": "Cyber Leaders Exchange 2026: CISA’s Chris Butera on tackling AI-fueled cyber risks",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-cisas-chris-butera-on-tackling-ai-fueled-cyber-risks/",
-   "source": "Federal News Network",
+   "title": "Your AI agent is only as safe as the packages it downloads",
+   "url": "https://cyberscoop.com/ai-agent-software-supply-chain-security-op-ed/",
+   "source": "CyberScoop",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-09T18:51:44Z",
-   "why": "CISA cyber leader shares plans for AI-driven vulnerability management, how the Gold Eagle program is coordinating bug discovery and more."
-  },
-  {
-   "title": "Fiscal 2027 brings big opportunities, and big challenges",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/fiscal-2027-brings-big-opportunities-and-big-challenges/416533/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-09T18:30:53Z",
-   "why": "Contract consolidation, a shift to General Services Administration vehicles and proposed size standard changes will reshape the competitive landscape..."
-  },
-  {
-   "title": "Cyber, tech and operations leadership moves across the market",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/cyber-tech-and-operations-leadership-moves-across-market/416529/",
-   "source": "Washington Technology",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-09T18:24:58Z",
-   "why": "One major market player featured in this listing adds a trio of vice presidents to its ranks."
+   "published": "2026-10-12T10:00:00Z",
+   "why": "NVIDIA's new agent safety platform puts enforcement in the right place."
   }
  ]
 }
