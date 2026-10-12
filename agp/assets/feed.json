@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-12T20:15:18.672873Z",
+ "updatedAt": "2026-10-12T22:53:37.545606Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "American Army forces in South Korea adapting to new drone threats",
+   "url": "https://defensescoop.com/2026/10/12/eighth-army-adapting-to-new-drone-threats/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-10-12T21:27:50Z",
+   "why": "The 8th Army has been learning from what’s happening in Ukraine and the Middle East, and working through changes in its own tactics, techniques and procedures..."
+  },
+  {
+   "title": "ARCYBER expanding use of AI agents for network operations",
+   "url": "https://defensescoop.com/2026/10/12/arcyber-expanding-use-of-ai-agents-for-network-operations/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-12T21:20:13Z",
+   "why": "Task Force Lexington has “mapped out” an entire Cyber Protection Team composed of agents, including for analytic support and network analysts, among other..."
+  },
+  {
+   "title": "At Warsaw Security Forum, Poland’s Tusk raises alarm over ‘real threat’ from Russia",
+   "url": "https://breakingdefense.com/2026/10/at-warsaw-security-forum-polands-tusk-raises-alarm-over-real-threat-from-russia/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-12T20:39:43Z",
+   "why": "The prime minister urged additional sanctions on Moscow, saying the “path through peace does not lie through weakness.”"
+  },
   {
    "title": "From drones to ground vehicles: Check out day 1 of AUSA",
    "url": "https://breakingdefense.com/2026/10/from-drones-to-ground-vehicles-check-out-day-1-of-ausa/",
@@ -43,30 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-10-12T12:39:48Z",
    "why": "The State Department’s Gharun Lacy said cyberattackers using custom code require agencies to focus more on the fundamentals of a secure architecture."
-  },
-  {
-   "title": "WT 360: Fiscal year 2027's key features include contract scrutiny and tech differentiation",
-   "url": "https://www.washingtontechnology.com/podcasts/2026/10/wt-360-fiscal-year-2027s-key-features-include-contract-scrutiny-and-tech-differentiation/416525/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-12T10:00:00Z",
-   "why": "John Caucis and James Wichert, public sector market analysts at Technology Business Research, overview an environment for contractors that looks replete with..."
-  },
-  {
-   "title": "Army again tweaks acquisition structure to remove unwanted layer of bureaucracy",
-   "url": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-12T10:00:00Z",
-   "why": "With this newly implemented change, the service has attempted to increase communication between its Portfolio Acquisition Executives and their subordinate..."
-  },
-  {
-   "title": "Your AI agent is only as safe as the packages it downloads",
-   "url": "https://cyberscoop.com/ai-agent-software-supply-chain-security-op-ed/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-12T10:00:00Z",
-   "why": "NVIDIA's new agent safety platform puts enforcement in the right place."
   }
  ]
 }
