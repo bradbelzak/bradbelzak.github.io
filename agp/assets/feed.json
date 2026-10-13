@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-13T18:13:11.229268Z",
+ "updatedAt": "2026-10-13T21:10:46.258225Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Top Dems press VA for answers on $17B EHR modernization contract boost",
+   "url": "https://www.nextgov.com/modernization/2026/10/top-dems-press-va-answers-17b-ehr-modernization-contract-boost/416572/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-13T20:58:00Z",
+   "why": "The ranking members of the House and Senate Veterans’ Affairs committees said VA’s “citation of ‘unanticipated complexities’ as the rationale for nearly..."
+  },
+  {
+   "title": "A new phase of government AI adoption could bring a very different budget reality",
+   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/10/a-new-phase-of-government-ai-adoption-could-bring-a-very-different-budget-reality/",
+   "source": "Federal News Network",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-13T18:37:11Z",
+   "why": "\"The cloud journey started very similarly, where almost all assumed initially that migrating will lead to saved costs,\" said Gayatri Shenai."
+  },
   {
    "title": "Census Bureau starts to craft program management contract for small businesses",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/census-bureau-starts-craft-program-management-contract-small-businesses/416562/",
@@ -11,6 +27,14 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-13T17:59:52Z",
    "why": "The ability to scale staff and other resources on an as-needed basis will be paramount for this effort ahead of the 2030 tally."
+  },
+  {
+   "title": "Race cars and robots on drones: Sights from AUSA day 2",
+   "url": "https://breakingdefense.com/2026/10/race-cars-and-robots-on-drones-sights-from-ausa-day-2/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-13T17:33:08Z",
+   "why": "George Washington made a cameo appearance at this year’s conference, which features incredibly large artillery and FPV drones from the Ukrainian battlefield."
   },
   {
    "title": "Supreme Court to decide if DOGE records will stay hidden",
@@ -37,36 +61,12 @@
    "why": "Industry has a big opportunity with the Federal Acquisition Regulation overhaul, along with the opportunity agencies have to more efficiently access new..."
   },
   {
-   "title": "Army to take a (cautious) step toward employing AI agents to defend networks: Official",
-   "url": "https://breakingdefense.com/2026/10/army-to-take-a-cautious-step-toward-employing-ai-agents-to-defend-networks-official/",
+   "title": "Teledyne FLIR Defense releases new compact counter-UAS radar",
+   "url": "https://breakingdefense.com/2026/10/teledyne-flir-defense-releases-new-compact-counter-uas-radar/",
    "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-13T11:00:00Z",
-   "why": "The Army is making its first awards under Project Griffin, which eventually envisions AI prowling networks for malicious activity."
-  },
-  {
-   "title": "Air Books $200M DOW Contract for Army NGC2 Software Delivery",
-   "url": "https://www.govconwire.com/articles/air-200m-dow-contract-army-ngc2-software",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-13T09:40:22Z",
-   "why": "Air has secured a potential five-year, $200 million DOW contract to support Army NGC2 with its AI-native readiness software."
-  },
-  {
-   "title": "GRVTY Secures $125M in Classified Prime Contracts",
-   "url": "https://www.govconwire.com/articles/grvty-125m-classified-prime-contracts-q3",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-13T09:39:44Z",
-   "why": "The defense technology company works in four domains: space electronic warfare, directed energy, maritime autonomy and cyber effects."
-  },
-  {
-   "title": "NASA Issues Final RFP for Commercial Space Stations in LEO After ISS Retirement",
-   "url": "https://www.govconwire.com/articles/nasa-commercial-space-stations-leo-3",
-   "source": "GovConWire",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-13T09:28:39Z",
-   "why": "NASA expects to award commercial LEO destination contracts on April 15, 2027, with proposals due Dec."
+   "category": "Defense and National Security",
+   "published": "2026-10-13T13:00:00Z",
+   "why": "“The Ranger R10-3DX gives operators an affordable, compact, and highly capable radar solution that delivers the early warning and tracking performance needed..."
   }
  ]
 }
