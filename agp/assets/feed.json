@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-10-13T02:32:02.007073Z",
+ "updatedAt": "2026-10-13T18:13:11.229268Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Telle talks ‘manufacturing rodeo,’ supply chain ‘weak links’: AUSA Day 1",
-   "url": "https://breakingdefense.com/2026/10/telle-talks-manufacturing-rodeo-supply-chain-weak-links-ausa-day-1/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-13T00:30:36Z",
-   "why": "The Breaking Defense team is on the ground, reporting for AUSA 2026."
-  },
-  {
-   "title": "American Army forces in South Korea adapting to new drone threats",
-   "url": "https://defensescoop.com/2026/10/12/eighth-army-adapting-to-new-drone-threats/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-10-12T21:27:50Z",
-   "why": "The 8th Army has been learning from what’s happening in Ukraine and the Middle East, and working through changes in its own tactics, techniques and procedures..."
-  },
-  {
-   "title": "ARCYBER expanding use of AI agents for network operations",
-   "url": "https://defensescoop.com/2026/10/12/arcyber-expanding-use-of-ai-agents-for-network-operations/",
-   "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-12T21:20:13Z",
-   "why": "Task Force Lexington has “mapped out” an entire Cyber Protection Team composed of agents, including for analytic support and network analysts, among other..."
-  },
-  {
-   "title": "At Warsaw Security Forum, Poland’s Tusk raises alarm over ‘real threat’ from Russia",
-   "url": "https://breakingdefense.com/2026/10/at-warsaw-security-forum-polands-tusk-raises-alarm-over-real-threat-from-russia/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-12T20:39:43Z",
-   "why": "The prime minister urged additional sanctions on Moscow, saying the “path through peace does not lie through weakness.”"
-  },
-  {
-   "title": "IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3 billion",
-   "url": "https://cyberscoop.com/ionq-acquires-elisity-1-3-billion-quantum-security/",
-   "source": "CyberScoop",
+   "title": "Census Bureau starts to craft program management contract for small businesses",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/census-bureau-starts-craft-program-management-contract-small-businesses/416562/",
+   "source": "Washington Technology",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-12T18:12:10Z",
-   "why": "The acquisition pairs Elisity's zero-trust access controls with IonQ's post-quantum cryptography business as federal agencies and major companies accelerate..."
+   "published": "2026-10-13T17:59:52Z",
+   "why": "The ability to scale staff and other resources on an as-needed basis will be paramount for this effort ahead of the 2030 tally."
   },
   {
-   "title": "Cyber Leaders Exchange 2026: Cisco’s Norman St. Laurent on building a future-ready cyber workforce",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-ciscos-norman-st-laurent-on-building-a-future-ready-cyber-workforce/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-12T12:49:11Z",
-   "why": "AI is revolutionizing the state of cybersecurity, but workforce development and training is as important as ever, Cisco federal expert says."
+   "title": "Supreme Court to decide if DOGE records will stay hidden",
+   "url": "https://fedscoop.com/supreme-court-to-hear-doge-case-public-records/",
+   "source": "FedScoop",
+   "category": "Compliance and Security",
+   "published": "2026-10-13T16:59:18Z",
+   "why": "The high court stayed a discovery order last year that called on the Elon Musk-led group to produce documents in compliance with federal records requests."
   },
   {
-   "title": "Cyber Leaders Exchange 2026: Revolutional’s Pete Harris on holding AI accountable",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-revolutionals-pete-harris-on-holding-ai-accountable/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-12T12:41:35Z",
-   "why": "Federal CISOs are learning to navigate AI's promise and peril."
+   "title": "Continuing resolution could ‘complicate’ Army’s HADES spy plane production: Official",
+   "url": "https://breakingdefense.com/2026/10/continuing-resolution-could-complicate-armys-hades-spy-plane-production-official/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-13T16:27:49Z",
+   "why": "The Army’s G-2 Andrew Evans told Breaking Defense the program is currently “completely” on cost and schedule, but a budget impasse threatens plans."
   },
   {
-   "title": "Cyber Leaders Exchange 2026: Federal, industry experts on best defenses against AI attacks",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cyber-leaders-exchange-2026-federal-industry-experts-on-best-defenses-against-ai-attacks/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-12T12:39:48Z",
-   "why": "The State Department’s Gharun Lacy said cyberattackers using custom code require agencies to focus more on the fundamentals of a secure architecture."
+   "title": "The government is asking industry to help rewrite how it buys technology. We should answer.",
+   "url": "https://fedscoop.com/revolutionary-far-overhaul-industry-technology/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-13T15:00:00Z",
+   "why": "Industry has a big opportunity with the Federal Acquisition Regulation overhaul, along with the opportunity agencies have to more efficiently access new..."
+  },
+  {
+   "title": "Army to take a (cautious) step toward employing AI agents to defend networks: Official",
+   "url": "https://breakingdefense.com/2026/10/army-to-take-a-cautious-step-toward-employing-ai-agents-to-defend-networks-official/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-13T11:00:00Z",
+   "why": "The Army is making its first awards under Project Griffin, which eventually envisions AI prowling networks for malicious activity."
+  },
+  {
+   "title": "Air Books $200M DOW Contract for Army NGC2 Software Delivery",
+   "url": "https://www.govconwire.com/articles/air-200m-dow-contract-army-ngc2-software",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-13T09:40:22Z",
+   "why": "Air has secured a potential five-year, $200 million DOW contract to support Army NGC2 with its AI-native readiness software."
+  },
+  {
+   "title": "GRVTY Secures $125M in Classified Prime Contracts",
+   "url": "https://www.govconwire.com/articles/grvty-125m-classified-prime-contracts-q3",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-13T09:39:44Z",
+   "why": "The defense technology company works in four domains: space electronic warfare, directed energy, maritime autonomy and cyber effects."
+  },
+  {
+   "title": "NASA Issues Final RFP for Commercial Space Stations in LEO After ISS Retirement",
+   "url": "https://www.govconwire.com/articles/nasa-commercial-space-stations-leo-3",
+   "source": "GovConWire",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-13T09:28:39Z",
+   "why": "NASA expects to award commercial LEO destination contracts on April 15, 2027, with proposals due Dec."
   }
  ]
 }
