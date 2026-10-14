@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-13T21:10:46.258225Z",
+ "updatedAt": "2026-10-14T00:15:04.926436Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
+   "url": "https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-13T22:10:42Z",
+   "why": "The security vendor said it initially discovered a portion of the defect during internal security checks in June, but the company said it didn’t meet the..."
+  },
+  {
+   "title": "GAO cyber chief eyes workforce investments as watchdog does more with less",
+   "url": "https://fedscoop.com/gao-cybersecurity-workforce-jennifer-franks/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-13T21:56:26Z",
+   "why": "Jennifer Franks, director of the GAO’s Center for Enhanced Cybersecurity, said the nonpartisan agency needs upskilling and adaptability to keep pace with..."
+  },
+  {
+   "title": "Labor has mostly stopped checking whether federal contractors are following disability rules",
+   "url": "https://www.govexec.com/oversight/2026/10/labor-federal-contractors-disability-rules/416571/",
+   "source": "Government Executive",
+   "category": "Compliance and Security",
+   "published": "2026-10-13T21:06:39Z",
+   "why": "A watchdog found that the Office of Federal Contract Compliance Programs has no plans to restart routine audits, leaving less oversight of protections for..."
+  },
   {
    "title": "Top Dems press VA for answers on $17B EHR modernization contract boost",
    "url": "https://www.nextgov.com/modernization/2026/10/top-dems-press-va-answers-17b-ehr-modernization-contract-boost/416572/",
@@ -29,14 +53,6 @@
    "why": "The ability to scale staff and other resources on an as-needed basis will be paramount for this effort ahead of the 2030 tally."
   },
   {
-   "title": "Race cars and robots on drones: Sights from AUSA day 2",
-   "url": "https://breakingdefense.com/2026/10/race-cars-and-robots-on-drones-sights-from-ausa-day-2/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-13T17:33:08Z",
-   "why": "George Washington made a cameo appearance at this year’s conference, which features incredibly large artillery and FPV drones from the Ukrainian battlefield."
-  },
-  {
    "title": "Supreme Court to decide if DOGE records will stay hidden",
    "url": "https://fedscoop.com/supreme-court-to-hear-doge-case-public-records/",
    "source": "FedScoop",
@@ -51,22 +67,6 @@
    "category": "Budget and Appropriations",
    "published": "2026-10-13T16:27:49Z",
    "why": "The Army’s G-2 Andrew Evans told Breaking Defense the program is currently “completely” on cost and schedule, but a budget impasse threatens plans."
-  },
-  {
-   "title": "The government is asking industry to help rewrite how it buys technology. We should answer.",
-   "url": "https://fedscoop.com/revolutionary-far-overhaul-industry-technology/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-13T15:00:00Z",
-   "why": "Industry has a big opportunity with the Federal Acquisition Regulation overhaul, along with the opportunity agencies have to more efficiently access new..."
-  },
-  {
-   "title": "Teledyne FLIR Defense releases new compact counter-UAS radar",
-   "url": "https://breakingdefense.com/2026/10/teledyne-flir-defense-releases-new-compact-counter-uas-radar/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-13T13:00:00Z",
-   "why": "“The Ranger R10-3DX gives operators an affordable, compact, and highly capable radar solution that delivers the early warning and tracking performance needed..."
   }
  ]
 }
