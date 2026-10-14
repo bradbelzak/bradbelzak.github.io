@@ -1,9 +1,57 @@
 {
- "updatedAt": "2026-10-14T00:15:04.926436Z",
+ "updatedAt": "2026-10-14T15:48:08.879509Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army to launch Project Gatekeeper, an effort to make it easier for vendors to onboard software",
+   "url": "https://defensescoop.com/2026/10/14/army-project-gatekeeper-software-artificial-intelligence/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-14T15:16:56Z",
+   "why": "The initiative is intended to speed up the onboarding of defense vendors’ software into the service’s network by using AI to vet prospective industry code in..."
+  },
+  {
+   "title": "Senators press Trump admin to rally federal government around AI safety, security",
+   "url": "https://cyberscoop.com/congress-presses-trump-administration-ai-safety-cybersecurity/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-14T15:11:31Z",
+   "why": "The letter argues federal agencies should more rigorously test AI models for security threats and sandbox evasion, set new safety standards and lean into..."
+  },
+  {
+   "title": "Continuing Resolution is ‘biggest challenge’ for Army Pacific Command",
+   "url": "https://breakingdefense.com/2026/10/continuing-resolution-is-biggest-challenge-for-army-pacific-command/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-14T15:06:49Z",
+   "why": "“It’s a challenge, again, we have to overcome, but it’s part of the fiscal environment,” Gen."
+  },
+  {
+   "title": "Dropping degree requirements from federal contracts opens the door to AI-enabled services",
+   "url": "https://fedscoop.com/agencies-hiring-skills-over-education-bill/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-14T15:00:00Z",
+   "why": "There could be unintended consequences in the bill requiring agencies to make skills-based assessments in federal contracting."
+  },
+  {
+   "title": "Dems demand answers on EHRM contract rise as VA says lawmakers knew the total price",
+   "url": "https://fedscoop.com/democrats-letter-va-oracle-ehr-modernization-contract-hike/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-14T14:48:12Z",
+   "why": "Ahead of Oracle’s subpoenaed testimony, Democratic lawmakers want to know why the ceiling nearly tripled to $27 billion."
+  },
+  {
+   "title": "Didn’t get picked for IFPC interceptor competition? Army says come demo anyway",
+   "url": "https://breakingdefense.com/2026/10/didnt-get-picked-for-ifpc-interceptor-competition-army-says-come-demo-anyway/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-14T12:00:00Z",
+   "why": "The service will continue working with the Lockheed Martin and Boeing-Anduril teams but also hosting “shoot-off opportunity” for additional vendors, explained..."
+  },
   {
    "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
    "url": "https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited/",
@@ -13,60 +61,12 @@
    "why": "The security vendor said it initially discovered a portion of the defect during internal security checks in June, but the company said it didn’t meet the..."
   },
   {
-   "title": "GAO cyber chief eyes workforce investments as watchdog does more with less",
-   "url": "https://fedscoop.com/gao-cybersecurity-workforce-jennifer-franks/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-13T21:56:26Z",
-   "why": "Jennifer Franks, director of the GAO’s Center for Enhanced Cybersecurity, said the nonpartisan agency needs upskilling and adaptability to keep pace with..."
-  },
-  {
    "title": "Labor has mostly stopped checking whether federal contractors are following disability rules",
    "url": "https://www.govexec.com/oversight/2026/10/labor-federal-contractors-disability-rules/416571/",
    "source": "Government Executive",
    "category": "Compliance and Security",
    "published": "2026-10-13T21:06:39Z",
    "why": "A watchdog found that the Office of Federal Contract Compliance Programs has no plans to restart routine audits, leaving less oversight of protections for..."
-  },
-  {
-   "title": "Top Dems press VA for answers on $17B EHR modernization contract boost",
-   "url": "https://www.nextgov.com/modernization/2026/10/top-dems-press-va-answers-17b-ehr-modernization-contract-boost/416572/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-13T20:58:00Z",
-   "why": "The ranking members of the House and Senate Veterans’ Affairs committees said VA’s “citation of ‘unanticipated complexities’ as the rationale for nearly..."
-  },
-  {
-   "title": "A new phase of government AI adoption could bring a very different budget reality",
-   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/10/a-new-phase-of-government-ai-adoption-could-bring-a-very-different-budget-reality/",
-   "source": "Federal News Network",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-13T18:37:11Z",
-   "why": "\"The cloud journey started very similarly, where almost all assumed initially that migrating will lead to saved costs,\" said Gayatri Shenai."
-  },
-  {
-   "title": "Census Bureau starts to craft program management contract for small businesses",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/census-bureau-starts-craft-program-management-contract-small-businesses/416562/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-13T17:59:52Z",
-   "why": "The ability to scale staff and other resources on an as-needed basis will be paramount for this effort ahead of the 2030 tally."
-  },
-  {
-   "title": "Supreme Court to decide if DOGE records will stay hidden",
-   "url": "https://fedscoop.com/supreme-court-to-hear-doge-case-public-records/",
-   "source": "FedScoop",
-   "category": "Compliance and Security",
-   "published": "2026-10-13T16:59:18Z",
-   "why": "The high court stayed a discovery order last year that called on the Elon Musk-led group to produce documents in compliance with federal records requests."
-  },
-  {
-   "title": "Continuing resolution could ‘complicate’ Army’s HADES spy plane production: Official",
-   "url": "https://breakingdefense.com/2026/10/continuing-resolution-could-complicate-armys-hades-spy-plane-production-official/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-13T16:27:49Z",
-   "why": "The Army’s G-2 Andrew Evans told Breaking Defense the program is currently “completely” on cost and schedule, but a budget impasse threatens plans."
   }
  ]
 }
