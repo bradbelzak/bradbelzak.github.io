@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-10-14T20:09:33.108607Z",
+ "updatedAt": "2026-10-14T23:52:57.728087Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Watchdog links HUD workforce cuts to delayed tech services",
+   "url": "https://fedscoop.com/hud-tech-services-gao-report/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-14T21:21:31Z",
+   "why": "The GAO found a 29% staff reduction and big cuts to IT contracts in 2025."
+  },
   {
    "title": "Army reopens $50B MAPS contract to small business teams only",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/army-reopens-50b-maps-contract-small-business-teams-only/416593/",
@@ -51,14 +59,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-10-14T15:11:31Z",
    "why": "The letter argues federal agencies should more rigorously test AI models for security threats and sandbox evasion, set new safety standards and lean into..."
-  },
-  {
-   "title": "Continuing Resolution is ‘biggest challenge’ for Army Pacific Command",
-   "url": "https://breakingdefense.com/2026/10/continuing-resolution-is-biggest-challenge-for-army-pacific-command/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-14T15:06:49Z",
-   "why": "“It’s a challenge, again, we have to overcome, but it’s part of the fiscal environment,” Gen."
   },
   {
    "title": "Dropping degree requirements from federal contracts opens the door to AI-enabled services",
