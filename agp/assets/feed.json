@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-14T15:48:08.879509Z",
+ "updatedAt": "2026-10-14T20:09:33.108607Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Army reopens $50B MAPS contract to small business teams only",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/army-reopens-50b-maps-contract-small-business-teams-only/416593/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-14T19:52:41Z",
+   "why": "The Army’s response to a protest decision bars others from revising their proposals, which could expose the professional services contract to claims of unequal..."
+  },
+  {
+   "title": "DHA, Leidos finalize bridge contract for health record transition",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/dha-leidos-finalize-bridge-contract-health-record-transition/416584/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-14T18:54:12Z",
+   "why": "The Defense Health Agency and Leidos iron out the terms of how they will work together on shifting DHA away from the current lead integrator model."
+  },
+  {
+   "title": "What it takes to build accountable AI in government",
+   "url": "https://fedscoop.com/what-it-takes-to-build-accountable-ai-in-government/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-14T18:30:00Z",
+   "why": "Six leaders from government and industry explain how embedding AI in financial, grants, and acquisition systems can move agencies from after-the-fact reporting..."
+  },
+  {
+   "title": "Successful implementation of AI tools must start with integrating cyber capabilities",
+   "url": "https://federalnewsnetwork.com/federal-insights/2026/10/successful-implementation-of-ai-tools-must-start-with-integrating-cyber-capabilities/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-14T16:47:53Z",
+   "why": "Federal and industry experts say agencies applying AI capabilities to both IT and OT systems can analyze more data more quickly to mitigate risks faster."
+  },
   {
    "title": "Army to launch Project Gatekeeper, an effort to make it easier for vendors to onboard software",
    "url": "https://defensescoop.com/2026/10/14/army-project-gatekeeper-software-artificial-intelligence/",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-14T15:00:00Z",
    "why": "There could be unintended consequences in the bill requiring agencies to make skills-based assessments in federal contracting."
-  },
-  {
-   "title": "Dems demand answers on EHRM contract rise as VA says lawmakers knew the total price",
-   "url": "https://fedscoop.com/democrats-letter-va-oracle-ehr-modernization-contract-hike/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-14T14:48:12Z",
-   "why": "Ahead of Oracle’s subpoenaed testimony, Democratic lawmakers want to know why the ceiling nearly tripled to $27 billion."
-  },
-  {
-   "title": "Didn’t get picked for IFPC interceptor competition? Army says come demo anyway",
-   "url": "https://breakingdefense.com/2026/10/didnt-get-picked-for-ifpc-interceptor-competition-army-says-come-demo-anyway/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-14T12:00:00Z",
-   "why": "The service will continue working with the Lockheed Martin and Boeing-Anduril teams but also hosting “shoot-off opportunity” for additional vendors, explained..."
-  },
-  {
-   "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
-   "url": "https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-13T22:10:42Z",
-   "why": "The security vendor said it initially discovered a portion of the defect during internal security checks in June, but the company said it didn’t meet the..."
-  },
-  {
-   "title": "Labor has mostly stopped checking whether federal contractors are following disability rules",
-   "url": "https://www.govexec.com/oversight/2026/10/labor-federal-contractors-disability-rules/416571/",
-   "source": "Government Executive",
-   "category": "Compliance and Security",
-   "published": "2026-10-13T21:06:39Z",
-   "why": "A watchdog found that the Office of Federal Contract Compliance Programs has no plans to restart routine audits, leaving less oversight of protections for..."
   }
  ]
 }
