@@ -1,16 +1,32 @@
 {
- "updatedAt": "2026-10-15T19:50:22.405930Z",
+ "updatedAt": "2026-10-15T23:39:23.248690Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "AI offers Secret Service unique mission enhancements, official says",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/10/ai-offers-secret-service-unique-mission-enhancements-official-says/416627/",
-   "source": "Nextgov",
+   "title": "Don’t take short cuts with FEVS",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/dont-take-short-cuts-with-fevs/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-15T22:40:19Z",
+   "why": "Steve Krauss, Sydney Heimbrock and Nathan Bailey, federal HR experts, say agencies shouldn’t treat the annual engagement survey as a compliance exercise."
+  },
+  {
+   "title": "Task force driving Coast Guard’s zero trust journey for OT, IT systems",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/task-force-driving-coast-guards-zero-trust-journey-for-ot-it-systems/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-15T21:18:20Z",
+   "why": "Capt."
+  },
+  {
+   "title": "Proofpoint to buy Varonis for $6.3 billion",
+   "url": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/",
+   "source": "CyberScoop",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-15T19:30:00Z",
-   "why": "Threats against the Secret Service’s full-time protectees are up over 40% since last year."
+   "published": "2026-10-15T21:13:58Z",
+   "why": "The deal pairs the email security giant's massive threat intelligence with Varonis' visibility into corporate data, as both companies race to secure the AI..."
   },
   {
    "title": "The next election influence campaign will target your AI chatbot",
@@ -27,14 +43,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-15T19:09:24Z",
    "why": "Sharing leaked pricing with all bidders compounded a Procurement Integrity Act violation rather than curing it."
-  },
-  {
-   "title": "Transportation turns to AI to trace research grant recipients’ links to foreign adversaries",
-   "url": "https://www.nextgov.com/artificial-intelligence/2026/10/transportation-turns-ai-trace-research-grant-recipients-links-foreign-adversaries/416621/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-15T18:13:00Z",
-   "why": "Neil Chaudhry, senior advisor for AI at Transportation, says the agency has worked with its partners to create “some really robust AI tools” to analyze the..."
   },
   {
    "title": "How a partner letter derailed WidePoint's $3B DHS incumbent win",
@@ -59,14 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-10-15T13:00:02Z",
    "why": "By: Travis Rosiek, Public Sector CTO at Rubrik In September, OpenAI agents unsuccessfully tried to access the Education Department’s Office for Civil Rights..."
-  },
-  {
-   "title": "Watchdog links HUD workforce cuts to delayed tech services",
-   "url": "https://fedscoop.com/hud-tech-services-gao-report/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-14T21:21:31Z",
-   "why": "The GAO found a 29% staff reduction and big cuts to IT contracts in 2025."
   }
  ]
 }
