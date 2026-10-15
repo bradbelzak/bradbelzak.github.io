@@ -1,24 +1,48 @@
 {
- "updatedAt": "2026-10-15T15:34:20.057955Z",
+ "updatedAt": "2026-10-15T19:50:22.405930Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "US moves to staff leaders for industry-partnered offensive cyber program",
-   "url": "https://www.nextgov.com/cybersecurity/2026/10/us-moves-staff-leaders-industry-partnered-offensive-cyber-program/416613/",
+   "title": "AI offers Secret Service unique mission enhancements, official says",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/10/ai-offers-secret-service-unique-mission-enhancements-official-says/416627/",
    "source": "Nextgov",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-15T15:09:00Z",
-   "why": "The Trump administration is laying groundwork to enlist companies against foreign cybercriminals, but payment arrangements and protections for participating..."
+   "published": "2026-10-15T19:30:00Z",
+   "why": "Threats against the Secret Service’s full-time protectees are up over 40% since last year."
   },
   {
-   "title": "Federal AI adoption metrics miss the human factor",
-   "url": "https://fedscoop.com/federal-ai-adoption-the-human-factor/",
-   "source": "FedScoop",
+   "title": "The next election influence campaign will target your AI chatbot",
+   "url": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
+   "source": "CyberScoop",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-15T15:00:00Z",
-   "why": "An overhaul of federal employee surveys could lead to smarter decisions involving AI."
+   "published": "2026-10-15T19:29:58Z",
+   "why": "Someone is seeding the internet with hyperlocal content about political races."
+  },
+  {
+   "title": "Air Force cannot fix pricing leak by leaking it to everyone, GAO says",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/air-force-cannot-fix-pricing-leak-leaking-it-everyone-gao-says/416623/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-15T19:09:24Z",
+   "why": "Sharing leaked pricing with all bidders compounded a Procurement Integrity Act violation rather than curing it."
+  },
+  {
+   "title": "Transportation turns to AI to trace research grant recipients’ links to foreign adversaries",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/10/transportation-turns-ai-trace-research-grant-recipients-links-foreign-adversaries/416621/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-15T18:13:00Z",
+   "why": "Neil Chaudhry, senior advisor for AI at Transportation, says the agency has worked with its partners to create “some really robust AI tools” to analyze the..."
+  },
+  {
+   "title": "How a partner letter derailed WidePoint's $3B DHS incumbent win",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/how-partner-letter-derailed-widepoints-3b-dhs-incumbent-win/416612/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-15T16:14:43Z",
+   "why": "The Homeland Security Department's interpretation of the mobile device management contract's requirements for partner commitments was too narrow, a newly..."
   },
   {
    "title": "As critical mineral deadline looms, Army expects to feel ‘some impact’",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-14T21:21:31Z",
    "why": "The GAO found a 29% staff reduction and big cuts to IT contracts in 2025."
-  },
-  {
-   "title": "Trump quietly hired political appointees under a new job classification, good government group reports",
-   "url": "https://www.govexec.com/management/2026/10/trump-hired-political-appointees-new-job-classification/416590/",
-   "source": "Government Executive",
-   "category": "Policy and Regulation",
-   "published": "2026-10-14T20:16:10Z",
-   "why": "While Schedule G is not officially set up in regulation, the Office of Personnel Management emphasized that the position category for political appointees was..."
-  },
-  {
-   "title": "Army reopens $50B MAPS contract to small business teams only",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/army-reopens-50b-maps-contract-small-business-teams-only/416593/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-14T19:52:41Z",
-   "why": "The Army’s response to a protest decision bars others from revising their proposals, which could expose the professional services contract to claims of unequal..."
-  },
-  {
-   "title": "U.S. military debuts new Task Force Easy to enable drone tech ‘adaptation dominance’",
-   "url": "https://defensescoop.com/2026/10/14/military-drone-tech-task-force-easy/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-10-14T19:33:10Z",
-   "why": "The commander shed new light on its origin and Defense Department leaders’ overarching vision for it during the annual AUSA conference."
   }
  ]
 }
