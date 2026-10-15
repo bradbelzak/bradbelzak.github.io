@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-14T23:52:57.728087Z",
+ "updatedAt": "2026-10-15T15:34:20.057955Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "US moves to staff leaders for industry-partnered offensive cyber program",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/us-moves-staff-leaders-industry-partnered-offensive-cyber-program/416613/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-15T15:09:00Z",
+   "why": "The Trump administration is laying groundwork to enlist companies against foreign cybercriminals, but payment arrangements and protections for participating..."
+  },
+  {
+   "title": "Federal AI adoption metrics miss the human factor",
+   "url": "https://fedscoop.com/federal-ai-adoption-the-human-factor/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-15T15:00:00Z",
+   "why": "An overhaul of federal employee surveys could lead to smarter decisions involving AI."
+  },
+  {
+   "title": "As critical mineral deadline looms, Army expects to feel ‘some impact’",
+   "url": "https://breakingdefense.com/2026/10/as-critical-mineral-deadline-looms-army-expects-to-feel-some-impact/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-15T14:07:35Z",
+   "why": "Liz Miranda, Army Materiel Command’s executive deputy to the commanding general, said a White House order’s requirements for companies to map their supply..."
+  },
+  {
+   "title": "As AI Speeds Cyber Defense, Government Must Preserve the Training Ground",
+   "url": "https://www.meritalk.com/as-ai-speeds-cyber-defense-government-must-preserve-the-training-ground/",
+   "source": "MeriTalk",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-15T13:00:02Z",
+   "why": "By: Travis Rosiek, Public Sector CTO at Rubrik In September, OpenAI agents unsuccessfully tried to access the Education Department’s Office for Civil Rights..."
+  },
   {
    "title": "Watchdog links HUD workforce cuts to delayed tech services",
    "url": "https://fedscoop.com/hud-tech-services-gao-report/",
@@ -11,6 +43,14 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-14T21:21:31Z",
    "why": "The GAO found a 29% staff reduction and big cuts to IT contracts in 2025."
+  },
+  {
+   "title": "Trump quietly hired political appointees under a new job classification, good government group reports",
+   "url": "https://www.govexec.com/management/2026/10/trump-hired-political-appointees-new-job-classification/416590/",
+   "source": "Government Executive",
+   "category": "Policy and Regulation",
+   "published": "2026-10-14T20:16:10Z",
+   "why": "While Schedule G is not officially set up in regulation, the Office of Personnel Management emphasized that the position category for political appointees was..."
   },
   {
    "title": "Army reopens $50B MAPS contract to small business teams only",
@@ -21,52 +61,12 @@
    "why": "The Army’s response to a protest decision bars others from revising their proposals, which could expose the professional services contract to claims of unequal..."
   },
   {
-   "title": "DHA, Leidos finalize bridge contract for health record transition",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/dha-leidos-finalize-bridge-contract-health-record-transition/416584/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-14T18:54:12Z",
-   "why": "The Defense Health Agency and Leidos iron out the terms of how they will work together on shifting DHA away from the current lead integrator model."
-  },
-  {
-   "title": "What it takes to build accountable AI in government",
-   "url": "https://fedscoop.com/what-it-takes-to-build-accountable-ai-in-government/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-14T18:30:00Z",
-   "why": "Six leaders from government and industry explain how embedding AI in financial, grants, and acquisition systems can move agencies from after-the-fact reporting..."
-  },
-  {
-   "title": "Successful implementation of AI tools must start with integrating cyber capabilities",
-   "url": "https://federalnewsnetwork.com/federal-insights/2026/10/successful-implementation-of-ai-tools-must-start-with-integrating-cyber-capabilities/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-14T16:47:53Z",
-   "why": "Federal and industry experts say agencies applying AI capabilities to both IT and OT systems can analyze more data more quickly to mitigate risks faster."
-  },
-  {
-   "title": "Army to launch Project Gatekeeper, an effort to make it easier for vendors to onboard software",
-   "url": "https://defensescoop.com/2026/10/14/army-project-gatekeeper-software-artificial-intelligence/",
+   "title": "U.S. military debuts new Task Force Easy to enable drone tech ‘adaptation dominance’",
+   "url": "https://defensescoop.com/2026/10/14/military-drone-tech-task-force-easy/",
    "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-14T15:16:56Z",
-   "why": "The initiative is intended to speed up the onboarding of defense vendors’ software into the service’s network by using AI to vet prospective industry code in..."
-  },
-  {
-   "title": "Senators press Trump admin to rally federal government around AI safety, security",
-   "url": "https://cyberscoop.com/congress-presses-trump-administration-ai-safety-cybersecurity/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-14T15:11:31Z",
-   "why": "The letter argues federal agencies should more rigorously test AI models for security threats and sandbox evasion, set new safety standards and lean into..."
-  },
-  {
-   "title": "Dropping degree requirements from federal contracts opens the door to AI-enabled services",
-   "url": "https://fedscoop.com/agencies-hiring-skills-over-education-bill/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-14T15:00:00Z",
-   "why": "There could be unintended consequences in the bill requiring agencies to make skills-based assessments in federal contracting."
+   "category": "Defense and National Security",
+   "published": "2026-10-14T19:33:10Z",
+   "why": "The commander shed new light on its origin and Defense Department leaders’ overarching vision for it during the annual AUSA conference."
   }
  ]
 }
