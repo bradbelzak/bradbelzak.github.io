@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-16T19:31:15.903950Z",
+ "updatedAt": "2026-10-16T23:29:41.662302Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "DISA faces another protest over Enclave contract expansion",
+   "url": "https://federalnewsnetwork.com/contracting/2026/10/disa-faces-another-protest-over-enclave-contract-expansion/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-16T22:11:43Z",
+   "why": "Another bid protest was filed after DISA concluded that Leidos was the only company capable of transitioning all combatant commands to DoDNet."
+  },
+  {
+   "title": "Judge voids Bureau of Prisons’ attempt to re-terminate union contract",
+   "url": "https://federalnewsnetwork.com/unions/2026/10/judge-voids-bureau-of-prisons-attempt-to-re-terminate-union-contract/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-16T22:10:49Z",
+   "why": "Despite voiding the re-termination notice, the judge denied AFGE’s request to hold BOP in contempt of court for not abiding by a preliminary injunction."
+  },
+  {
+   "title": "Judge again orders reinstatement of Bureau of Prisons union contracts, but stops short of contempt",
+   "url": "https://www.govexec.com/workforce/2026/10/judge-again-orders-reinstatement-bureau-prisons-union-contracts-stops-short-contempt/416659/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-16T21:10:31Z",
+   "why": "U.S."
+  },
+  {
+   "title": "Government’s AI problem is a structure gap, not a skills gap",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/governments-ai-problem-is-a-structure-gap-not-a-skills-gap/",
+   "source": "Federal News Network",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-16T21:01:10Z",
+   "why": "AI won't wait for the next budget cycle."
+  },
   {
    "title": "Core4ce challenges removal from $1.4B RETS contract competition",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/core4ce-pushes-back-removal-14b-dod-competition/416652/",
@@ -21,22 +53,6 @@
    "why": "Discover how pre-hardened, continuously maintained containers can reduce security workloads, advance zero trust, and accelerate secure software delivery for..."
   },
   {
-   "title": "US Navy deploys unmanned maritime drone to support carrier strike group in historic first",
-   "url": "https://defensescoop.com/2026/10/16/us-navy-deploys-unmanned-maritime-drone-to-support-carrier-strike-group-in-historic-first/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-10-16T18:22:38Z",
-   "why": "Acting Secretary Hung Cao announced the significant fleet integration this week."
-  },
-  {
-   "title": "Agencies grapple with accelerating cybersecurity landscape",
-   "url": "https://federalnewsnetwork.com/federal-insights/2026/10/agencies-grapple-with-accelerating-cybersecurity-landscape/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-16T17:21:06Z",
-   "why": "Artificial intelligence is accelerating cybersecurity threats, while AI adoption is posing urgent risks around data, identity, trust and decision-making."
-  },
-  {
    "title": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
    "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
    "source": "Breaking Defense",
@@ -45,28 +61,12 @@
    "why": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the..."
   },
   {
-   "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
-   "url": "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-16T15:19:30Z",
-   "why": "Germany has set a target of 2029 to field a CCA, which would make it the first European country to reach such a milestone, but that timeline now looks to be in..."
-  },
-  {
    "title": "VA allows union contract to expire for most employees",
    "url": "https://www.govexec.com/workforce/2026/10/va-allows-union-contract-expire-most-employees/416639/",
    "source": "Government Executive",
    "category": "Acquisition and Contracting",
    "published": "2026-10-16T13:06:45Z",
    "why": "Individuals hired as departmental police officers, firefighters and security guards, exempted from Trump’s anti-union orders, remain covered under the expired..."
-  },
-  {
-   "title": "Don’t take short cuts with FEVS",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/dont-take-short-cuts-with-fevs/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-15T22:40:19Z",
-   "why": "Steve Krauss, Sydney Heimbrock and Nathan Bailey, federal HR experts, say agencies shouldn’t treat the annual engagement survey as a compliance exercise."
   }
  ]
 }
