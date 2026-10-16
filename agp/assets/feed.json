@@ -1,16 +1,56 @@
 {
- "updatedAt": "2026-10-16T15:21:20.653978Z",
+ "updatedAt": "2026-10-16T19:31:15.903950Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Cybersecurity incident at BAE Systems disrupts US bankruptcy court system",
-   "url": "https://cyberscoop.com/bae-systems-cybersecurity-incident-us-bankruptcy-courts/",
-   "source": "CyberScoop",
+   "title": "Core4ce challenges removal from $1.4B RETS contract competition",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/core4ce-pushes-back-removal-14b-dod-competition/416652/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-16T18:52:38Z",
+   "why": "The company wants the Government Accountability Office to rule on allegations of a conflict-of-interest involving a competitor for the Defense Department..."
+  },
+  {
+   "title": "Accelerate defense missions with secure, pre-hardened containers",
+   "url": "https://defensescoop.com/secure-containers-ping/",
+   "source": "DefenseScoop",
+   "category": "Compliance and Security",
+   "published": "2026-10-16T18:30:00Z",
+   "why": "Discover how pre-hardened, continuously maintained containers can reduce security workloads, advance zero trust, and accelerate secure software delivery for..."
+  },
+  {
+   "title": "US Navy deploys unmanned maritime drone to support carrier strike group in historic first",
+   "url": "https://defensescoop.com/2026/10/16/us-navy-deploys-unmanned-maritime-drone-to-support-carrier-strike-group-in-historic-first/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-10-16T18:22:38Z",
+   "why": "Acting Secretary Hung Cao announced the significant fleet integration this week."
+  },
+  {
+   "title": "Agencies grapple with accelerating cybersecurity landscape",
+   "url": "https://federalnewsnetwork.com/federal-insights/2026/10/agencies-grapple-with-accelerating-cybersecurity-landscape/",
+   "source": "Federal News Network",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-16T15:12:44Z",
-   "why": "The outage has stopped official bankruptcy notices nationwide since Oct."
+   "published": "2026-10-16T17:21:06Z",
+   "why": "Artificial intelligence is accelerating cybersecurity threats, while AI adoption is posing urgent risks around data, identity, trust and decision-making."
+  },
+  {
+   "title": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
+   "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-16T16:28:00Z",
+   "why": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the..."
+  },
+  {
+   "title": "Germany changes course on plans to buy MQ-28 drone wingman: Boeing official",
+   "url": "https://breakingdefense.com/2026/10/germany-changes-course-on-plans-to-buy-mq-28-drone-wingman-boeing-official/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-16T15:19:30Z",
+   "why": "Germany has set a target of 2029 to field a CCA, which would make it the first European country to reach such a milestone, but that timeline now looks to be in..."
   },
   {
    "title": "VA allows union contract to expire for most employees",
@@ -21,52 +61,12 @@
    "why": "Individuals hired as departmental police officers, firefighters and security guards, exempted from Trump’s anti-union orders, remain covered under the expired..."
   },
   {
-   "title": "Turkish Aerospace expands Anka 3 production with new line for upgraded drone",
-   "url": "https://breakingdefense.com/2026/10/turkish-aerospace-expands-anka-3-production-with-new-line-for-upgraded-drone/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-16T11:02:00Z",
-   "why": "A company official said the first aircraft to be built on the new line is expected to roll out “soon” and undergo flight testing afterward."
-  },
-  {
    "title": "Don’t take short cuts with FEVS",
    "url": "https://federalnewsnetwork.com/commentary/2026/10/dont-take-short-cuts-with-fevs/",
    "source": "Federal News Network",
    "category": "Compliance and Security",
    "published": "2026-10-15T22:40:19Z",
    "why": "Steve Krauss, Sydney Heimbrock and Nathan Bailey, federal HR experts, say agencies shouldn’t treat the annual engagement survey as a compliance exercise."
-  },
-  {
-   "title": "Task force driving Coast Guard’s zero trust journey for OT, IT systems",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/task-force-driving-coast-guards-zero-trust-journey-for-ot-it-systems/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-15T21:18:20Z",
-   "why": "Capt."
-  },
-  {
-   "title": "Proofpoint to buy Varonis for $6.3 billion",
-   "url": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-15T21:13:58Z",
-   "why": "The deal pairs the email security giant's massive threat intelligence with Varonis' visibility into corporate data, as both companies race to secure the AI..."
-  },
-  {
-   "title": "The next election influence campaign will target your AI chatbot",
-   "url": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-15T19:29:58Z",
-   "why": "Someone is seeding the internet with hyperlocal content about political races."
-  },
-  {
-   "title": "Air Force cannot fix pricing leak by leaking it to everyone, GAO says",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/air-force-cannot-fix-pricing-leak-leaking-it-everyone-gao-says/416623/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-15T19:09:24Z",
-   "why": "Sharing leaked pricing with all bidders compounded a Procurement Integrity Act violation rather than curing it."
   }
  ]
 }
