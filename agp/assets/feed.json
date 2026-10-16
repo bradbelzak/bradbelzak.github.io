@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-15T23:39:23.248690Z",
+ "updatedAt": "2026-10-16T15:21:20.653978Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Cybersecurity incident at BAE Systems disrupts US bankruptcy court system",
+   "url": "https://cyberscoop.com/bae-systems-cybersecurity-incident-us-bankruptcy-courts/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-16T15:12:44Z",
+   "why": "The outage has stopped official bankruptcy notices nationwide since Oct."
+  },
+  {
+   "title": "VA allows union contract to expire for most employees",
+   "url": "https://www.govexec.com/workforce/2026/10/va-allows-union-contract-expire-most-employees/416639/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-16T13:06:45Z",
+   "why": "Individuals hired as departmental police officers, firefighters and security guards, exempted from Trump’s anti-union orders, remain covered under the expired..."
+  },
+  {
+   "title": "Turkish Aerospace expands Anka 3 production with new line for upgraded drone",
+   "url": "https://breakingdefense.com/2026/10/turkish-aerospace-expands-anka-3-production-with-new-line-for-upgraded-drone/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-16T11:02:00Z",
+   "why": "A company official said the first aircraft to be built on the new line is expected to roll out “soon” and undergo flight testing afterward."
+  },
   {
    "title": "Don’t take short cuts with FEVS",
    "url": "https://federalnewsnetwork.com/commentary/2026/10/dont-take-short-cuts-with-fevs/",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-15T19:09:24Z",
    "why": "Sharing leaked pricing with all bidders compounded a Procurement Integrity Act violation rather than curing it."
-  },
-  {
-   "title": "How a partner letter derailed WidePoint's $3B DHS incumbent win",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/how-partner-letter-derailed-widepoints-3b-dhs-incumbent-win/416612/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-15T16:14:43Z",
-   "why": "The Homeland Security Department's interpretation of the mobile device management contract's requirements for partner commitments was too narrow, a newly..."
-  },
-  {
-   "title": "As critical mineral deadline looms, Army expects to feel ‘some impact’",
-   "url": "https://breakingdefense.com/2026/10/as-critical-mineral-deadline-looms-army-expects-to-feel-some-impact/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-15T14:07:35Z",
-   "why": "Liz Miranda, Army Materiel Command’s executive deputy to the commanding general, said a White House order’s requirements for companies to map their supply..."
-  },
-  {
-   "title": "As AI Speeds Cyber Defense, Government Must Preserve the Training Ground",
-   "url": "https://www.meritalk.com/as-ai-speeds-cyber-defense-government-must-preserve-the-training-ground/",
-   "source": "MeriTalk",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-15T13:00:02Z",
-   "why": "By: Travis Rosiek, Public Sector CTO at Rubrik In September, OpenAI agents unsuccessfully tried to access the Education Department’s Office for Civil Rights..."
   }
  ]
 }
