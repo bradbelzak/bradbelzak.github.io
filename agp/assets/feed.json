@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-10-16T23:29:41.662302Z",
+ "updatedAt": "2026-10-17T16:19:54.342366Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
+   "url": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-17T00:34:02Z",
+   "why": "While voluntary, the document marks the federal government’s most detailed cybersecurity guidance for securing sandbox environments during AI model tests."
+  },
   {
    "title": "DISA faces another protest over Enclave contract expansion",
    "url": "https://federalnewsnetwork.com/contracting/2026/10/disa-faces-another-protest-over-enclave-contract-expansion/",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-16T16:28:00Z",
    "why": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the..."
-  },
-  {
-   "title": "VA allows union contract to expire for most employees",
-   "url": "https://www.govexec.com/workforce/2026/10/va-allows-union-contract-expire-most-employees/416639/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-16T13:06:45Z",
-   "why": "Individuals hired as departmental police officers, firefighters and security guards, exempted from Trump’s anti-union orders, remain covered under the expired..."
   }
  ]
 }
