@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-17T16:19:54.342366Z",
+ "updatedAt": "2026-10-19T17:26:41.192598Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Pentagon CIO gets new strategic technical advisor",
+   "url": "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor/",
+   "source": "DefenseScoop",
+   "category": "Compliance and Security",
+   "published": "2026-10-19T15:58:53Z",
+   "why": "The appointment comes amid a push by the department to modernize its IT and cybersecurity tools, streamline procurement, and figure out the way ahead for the..."
+  },
+  {
+   "title": "Ukrainian defense firms get creative to try and break through export restrictions",
+   "url": "https://breakingdefense.com/2026/10/ukrainian-defense-firms-get-creative-to-try-and-break-through-export-restrictions/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-19T13:11:04Z",
+   "why": "Speaking to Breaking Defense in Washington and Lviv, companies made clear that reform efforts to allow weapons exports have not gone far enough."
+  },
+  {
+   "title": "Spyware found on devices belonging to prominent Serbian critics as elections loom",
+   "url": "https://cyberscoop.com/pegasus-spyware-serbia-critics-elections/",
+   "source": "CyberScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-19T10:00:00Z",
+   "why": "The confirmed and suspected targets include a university rector backing Serbia's protests and a prosecutor who investigated a Trump-linked Belgrade..."
+  },
   {
    "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
    "url": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
@@ -43,30 +67,6 @@
    "category": "Budget and Appropriations",
    "published": "2026-10-16T21:01:10Z",
    "why": "AI won't wait for the next budget cycle."
-  },
-  {
-   "title": "Core4ce challenges removal from $1.4B RETS contract competition",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/core4ce-pushes-back-removal-14b-dod-competition/416652/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-16T18:52:38Z",
-   "why": "The company wants the Government Accountability Office to rule on allegations of a conflict-of-interest involving a competitor for the Defense Department..."
-  },
-  {
-   "title": "Accelerate defense missions with secure, pre-hardened containers",
-   "url": "https://defensescoop.com/secure-containers-ping/",
-   "source": "DefenseScoop",
-   "category": "Compliance and Security",
-   "published": "2026-10-16T18:30:00Z",
-   "why": "Discover how pre-hardened, continuously maintained containers can reduce security workloads, advance zero trust, and accelerate secure software delivery for..."
-  },
-  {
-   "title": "Zone 5 ‘found a spot’ in drone interceptor market with new Eclipse: CEO",
-   "url": "https://breakingdefense.com/2026/10/zone-5-found-a-spot-in-drone-interceptor-market-with-new-eclipse-ceo/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-16T16:28:00Z",
-   "why": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the..."
   }
  ]
 }
