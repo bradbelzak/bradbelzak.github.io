@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-19T20:59:27.333473Z",
+ "updatedAt": "2026-10-20T00:15:35.717213Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "This cybersecurity agency is supposed to protect U.S. elections. Officials fear it’s been compromised by Trump",
+   "url": "https://www.govexec.com/technology/2026/10/cybersecurity-agency-supposed-protect-us-elections-officials-fear-its-been-compromised-trump/416687/",
+   "source": "Government Executive",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-19T21:59:47Z",
+   "why": "President Donald Trump’s 2027 budget proposal would reduce funding for the Cybersecurity and Infrastructure Security Agency by another $700 million, which..."
+  },
+  {
+   "title": "Governmentwide cyber exercise to test resilience against AI cyber attack",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/governmentwide-cyber-exercise-to-test-resilience-against-ai-cyber-attack/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-19T21:49:49Z",
+   "why": "Mike Duffy, the acting federal CISO, said the tabletop event will help ensure agencies have the capabilities and the processes to respond to any cyber event."
+  },
+  {
+   "title": "GAO to monitor government AI use, hire AI experts in coming years",
+   "url": "https://fedscoop.com/gao-to-monitor-government-ai-use-hire-ai-experts-in-coming-years/",
+   "source": "FedScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-19T21:16:50Z",
+   "why": "In its 2027-2032 strategic plan, the congressional watchdog laid out several goals revolving around emerging technology, artificial intelligence and..."
+  },
   {
    "title": "Small business takes aim at DISA’s Enclave expansion",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/small-business-takes-aim-disas-enclave-expansion/416679/",
@@ -37,36 +61,12 @@
    "why": "Artificial intelligence and conventional automation techniques are a keen area of interest for the government body chartered to protect U.S."
   },
   {
-   "title": "You can’t have a fence high enough to protect your facility against drones",
-   "url": "https://breakingdefense.com/2026/10/you-cant-have-a-fence-high-enough-to-protect-your-facility-against-drones/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-19T18:24:00Z",
-   "why": "[Sponsored] New threats, including downstream attacks, drive the need for improved tools to protect critical assets."
-  },
-  {
    "title": "Pentagon CIO gets new strategic technical advisor",
    "url": "https://defensescoop.com/2026/10/19/pentagon-cio-gets-new-strategic-technical-advisor/",
    "source": "DefenseScoop",
    "category": "Compliance and Security",
    "published": "2026-10-19T15:58:53Z",
    "why": "The appointment comes amid a push by the department to modernize its IT and cybersecurity tools, streamline procurement, and figure out the way ahead for the..."
-  },
-  {
-   "title": "Ukrainian defense firms get creative to try and break through export restrictions",
-   "url": "https://breakingdefense.com/2026/10/ukrainian-defense-firms-get-creative-to-try-and-break-through-export-restrictions/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-19T13:11:04Z",
-   "why": "Speaking to Breaking Defense in Washington and Lviv, companies made clear that reform efforts to allow weapons exports have not gone far enough."
-  },
-  {
-   "title": "Federal agencies recommend cyber controls, independent testing for frontier AI systems",
-   "url": "https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-17T00:34:02Z",
-   "why": "While voluntary, the document marks the federal government’s most detailed cybersecurity guidance for securing sandbox environments during AI model tests."
   }
  ]
 }
