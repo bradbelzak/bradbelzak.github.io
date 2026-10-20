@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-20T19:58:08.315881Z",
+ "updatedAt": "2026-10-20T23:47:45.762775Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "HHS to make sole-source award to Anthropic ahead of broader AI competition",
+   "url": "https://fedscoop.com/hhs-sole-source-award-anthropic-ai-claude/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-20T23:08:03Z",
+   "why": "The health department initially rolled out Claude to all of its workers in December 2025."
+  },
+  {
+   "title": "Schedule G political appointees flew under the radar for more than a year",
+   "url": "https://federalnewsnetwork.com/management/2026/10/schedule-g-political-appointees-flew-under-the-radar-for-more-than-a-year/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-10-20T22:13:37Z",
+   "why": "The rise in Schedule G appointments comes amid a broader surge in political leadership under the Trump administration, currently at a 40-year high."
+  },
+  {
+   "title": "A way to fix the federal government’s approach to cybersecurity compliance",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/a-way-to-fix-the-federal-governments-approach-to-cybersecurity-compliance/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-20T21:09:38Z",
+   "why": "These directives demand continuous compliance, and it’s no surprise that federal cybersecurity professionals are struggling to keep up."
+  },
   {
    "title": "Everfox secures $90 million Army tech support contract",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/everfox-secures-90-million-army-tech-support-contract/416708/",
@@ -43,30 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-10-20T13:57:13Z",
    "why": "Drones and counter-drone tech dominated the show as the Army implements new ways to keep industry competing."
-  },
-  {
-   "title": "Navy expands contract ceiling for AI-enabled repair robots",
-   "url": "https://defensescoop.com/2026/10/20/navy-expands-contract-ceiling-for-ai-enabled-repair-robots/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-20T11:33:50Z",
-   "why": "Gecko Robotics Co-founder and President Troy Demmer shared new details about the Navy's approach to fleet maintenance."
-  },
-  {
-   "title": "This cybersecurity agency is supposed to protect U.S. elections. Officials fear it’s been compromised by Trump",
-   "url": "https://www.govexec.com/technology/2026/10/cybersecurity-agency-supposed-protect-us-elections-officials-fear-its-been-compromised-trump/416687/",
-   "source": "Government Executive",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-19T21:59:47Z",
-   "why": "President Donald Trump’s 2027 budget proposal would reduce funding for the Cybersecurity and Infrastructure Security Agency by another $700 million, which..."
-  },
-  {
-   "title": "Governmentwide cyber exercise to test resilience against AI cyber attack",
-   "url": "https://federalnewsnetwork.com/technology-main/2026/10/governmentwide-cyber-exercise-to-test-resilience-against-ai-cyber-attack/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-19T21:49:49Z",
-   "why": "Mike Duffy, the acting federal CISO, said the tabletop event will help ensure agencies have the capabilities and the processes to respond to any cyber event."
   }
  ]
 }
