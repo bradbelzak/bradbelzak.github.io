@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-20T15:38:01.600944Z",
+ "updatedAt": "2026-10-20T19:58:08.315881Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Everfox secures $90 million Army tech support contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/everfox-secures-90-million-army-tech-support-contract/416708/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-20T19:29:09Z",
+   "why": "The award's scope covers software, hardware and engineering services and is also open to other parts of the Defense Department."
+  },
+  {
+   "title": "Maximus seeks greater technical depth in $660M Agile Defense acquisition",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/maximus-seeks-greater-technical-depth-660m-agile-defense-acquisition/416702/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-20T18:16:21Z",
+   "why": "In talking with Wall Street, Maximus CEO Bruce Caswell takes investors through the rationale for the acquisition and how Agile Defense does more than \"just..."
+  },
+  {
+   "title": "SBA's proposed size standard rules draw 1,200-plus comments… and counting",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/sbas-proposed-size-standard-rules-draw-1200-plus-comments-and-counting/416693/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-20T16:38:43Z",
+   "why": "Many oppose raising the thresholds, but there are plenty of supporters too."
+  },
   {
    "title": "Turkish defense procurement spending proposed to rise 229% in 2027",
    "url": "https://breakingdefense.com/2026/10/turkish-defense-procurement-spending-proposed-to-rise-229-in-2027/",
@@ -38,35 +62,11 @@
   },
   {
    "title": "Governmentwide cyber exercise to test resilience against AI cyber attack",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/governmentwide-cyber-exercise-to-test-resilience-against-ai-cyber-attack/",
+   "url": "https://federalnewsnetwork.com/technology-main/2026/10/governmentwide-cyber-exercise-to-test-resilience-against-ai-cyber-attack/",
    "source": "Federal News Network",
    "category": "AI and Cybersecurity",
    "published": "2026-10-19T21:49:49Z",
    "why": "Mike Duffy, the acting federal CISO, said the tabletop event will help ensure agencies have the capabilities and the processes to respond to any cyber event."
-  },
-  {
-   "title": "GAO to monitor government AI use, hire AI experts in coming years",
-   "url": "https://fedscoop.com/gao-to-monitor-government-ai-use-hire-ai-experts-in-coming-years/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-19T21:16:50Z",
-   "why": "In its 2027-2032 strategic plan, the congressional watchdog laid out several goals revolving around emerging technology, artificial intelligence and..."
-  },
-  {
-   "title": "Small business takes aim at DISA’s Enclave expansion",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/small-business-takes-aim-disas-enclave-expansion/416679/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-19T20:16:07Z",
-   "why": "Competitive Range Solutions claims the Defense Information Systems Agency sat on the requirement for three years and now claims this is the only contract it..."
-  },
-  {
-   "title": "DIU unveils next phase in unmanned vessel competition",
-   "url": "https://breakingdefense.com/2026/10/diu-unveils-next-phase-in-unmanned-vessel-competition/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-19T19:03:22Z",
-   "why": "The DIU solicitation said that it wants USVs outfitted with “mature hard-kill Counter-Air effectors and clutter-resilient sensor suites.”"
   }
  ]
 }
