@@ -1,24 +1,56 @@
 {
- "updatedAt": "2026-10-21T15:55:38.120686Z",
+ "updatedAt": "2026-10-21T20:04:05.575920Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Behind effective drone warfare, a living globe of geospatial data",
-   "url": "https://federalnewsnetwork.com/defense-main/2026/10/behind-effective-drone-warfare-a-living-globe-of-geospatial-data/",
-   "source": "Federal News Network",
-   "category": "Defense and National Security",
-   "published": "2026-10-21T15:29:53Z",
-   "why": "\"What we're finding in today's warfare — we see it with Ukraine, we see it with U.S."
-  },
-  {
-   "title": "At Rock Island, Army infuses innovation into manufacturing, acquisition",
-   "url": "https://federalnewsnetwork.com/army/2026/10/at-rock-island-army-infuses-innovation-into-manufacturing-acquisition/",
+   "title": "New data show cleared employees are bigger targets than ever",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/new-data-show-cleared-employees-are-bigger-targets-than-ever/",
    "source": "Federal News Network",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-21T15:03:26Z",
-   "why": "\"We have struggled with finding a solution that we need today, which is a more modular, flexible solution,\" Lynda Armer said."
+   "published": "2026-10-21T19:56:24Z",
+   "why": "The FBI alerted contractors that North Korean IT workers are trying to obtain positions with cleared defense companies and others with government contracts."
+  },
+  {
+   "title": "TRICARE Young Adult premiums to hit nearly $900 a month in 2027",
+   "url": "https://federalnewsnetwork.com/pay-benefits/2026/10/tricare-young-adult-premiums-to-hit-nearly-900-a-month-in-2027/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-10-21T19:55:24Z",
+   "why": "Enrollees will dole out about $4,700 for Select or more than $10,700 for Prime over the course of the year, not including additional costs of care."
+  },
+  {
+   "title": "FirstSource III protesters lose bid to revive $10B DHS contract",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/firstsource-iii-protesters-lose-bid-revive-10b-dhs-contract/416734/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-21T19:11:19Z",
+   "why": "A Court of Federal Claims judge rules that President Trump’s consolidation order gave the Homeland Security Department a rational basis to cancel the..."
+  },
+  {
+   "title": "GSA, SBA target more 8(a) firms for audits",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/gsa-sba-target-more-8-firms-audits/416735/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-21T19:02:19Z",
+   "why": "Nearly 700 companies face \"deeper scrutiny\" as the General Services Administration and Small Business Administration hunt for signs of fraud, waste and abuse."
+  },
+  {
+   "title": "NASA launches $425M hydrosphere research support recompete",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/nasa-launches-425m-hydrosphere-research-support-recompete/416730/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-21T18:29:22Z",
+   "why": "NASA uses the contract to acquire industry support across activities in data product development and validation, instrument development, and numerical modeling."
+  },
+  {
+   "title": "Why agencies must strengthen the data foundation before scaling AI",
+   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/10/why-agencies-must-strengthen-the-data-foundation-before-scaling-ai/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-21T16:15:31Z",
+   "why": "Agencies face pressure to deliver AI, strengthen cybersecurity and modernize legacy systems."
   },
   {
    "title": "Army’s tech chief talks autonomy, acquisition and the future of drones",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-20T23:08:03Z",
    "why": "The health department initially rolled out Claude to all of its workers in December 2025."
-  },
-  {
-   "title": "Google launches Gemini for government services as new ‘agentic solution’",
-   "url": "https://fedscoop.com/google-launches-gemini-for-government-services/",
-   "source": "FedScoop",
-   "category": "Technology Modernization",
-   "published": "2026-10-20T21:53:24Z",
-   "why": "The Google Public Sector Summit featured the Gemini announcement and GSA Administrator Ed Forst’s take on America-dot-gov."
-  },
-  {
-   "title": "A way to fix the federal government’s approach to cybersecurity compliance",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/a-way-to-fix-the-federal-governments-approach-to-cybersecurity-compliance/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-20T21:09:38Z",
-   "why": "These directives demand continuous compliance, and it’s no surprise that federal cybersecurity professionals are struggling to keep up."
-  },
-  {
-   "title": "Everfox secures $90 million Army tech support contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/everfox-secures-90-million-army-tech-support-contract/416708/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-20T19:29:09Z",
-   "why": "The award's scope covers software, hardware and engineering services and is also open to other parts of the Defense Department."
-  },
-  {
-   "title": "Maximus seeks greater technical depth in $660M Agile Defense acquisition",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/maximus-seeks-greater-technical-depth-660m-agile-defense-acquisition/416702/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-20T18:16:21Z",
-   "why": "In talking with Wall Street, Maximus CEO Bruce Caswell takes investors through the rationale for the acquisition and how Agile Defense does more than \"just..."
   }
  ]
 }
