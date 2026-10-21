@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-21T20:04:05.575920Z",
+ "updatedAt": "2026-10-21T23:58:29.940474Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Senate lawmakers press Pentagon for greater price transparency",
+   "url": "https://federalnewsnetwork.com/congress/2026/10/senate-lawmakers-press-pentagon-for-greater-price-transparency/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-21T22:42:50Z",
+   "why": "The lawmakers want to know whether DoD will disqualify contractors that refuse to provide necessary cost and pricing data."
+  },
+  {
+   "title": "Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight",
+   "url": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-21T22:17:26Z",
+   "why": "In a new legal brief, they warned that the high-stakes ruling will “threaten all defense contractors.” The post Former U.S."
+  },
+  {
+   "title": "Air Force starting to game out sustainment framework for CCA drones",
+   "url": "https://defensescoop.com/2026/10/21/air-force-cca-drones-sustainment-plan/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-21T20:21:11Z",
+   "why": "Once the AI-enabled uncrewed systems are fielded, the Air Force will need its maintenance enterprise to help keep them flying and ready for combat."
+  },
   {
    "title": "New data show cleared employees are bigger targets than ever",
    "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/new-data-show-cleared-employees-are-bigger-targets-than-ever/",
@@ -11,14 +35,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-21T19:56:24Z",
    "why": "The FBI alerted contractors that North Korean IT workers are trying to obtain positions with cleared defense companies and others with government contracts."
-  },
-  {
-   "title": "TRICARE Young Adult premiums to hit nearly $900 a month in 2027",
-   "url": "https://federalnewsnetwork.com/pay-benefits/2026/10/tricare-young-adult-premiums-to-hit-nearly-900-a-month-in-2027/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-10-21T19:55:24Z",
-   "why": "Enrollees will dole out about $4,700 for Select or more than $10,700 for Prime over the course of the year, not including additional costs of care."
   },
   {
    "title": "FirstSource III protesters lose bid to revive $10B DHS contract",
@@ -45,28 +61,12 @@
    "why": "NASA uses the contract to acquire industry support across activities in data product development and validation, instrument development, and numerical modeling."
   },
   {
-   "title": "Why agencies must strengthen the data foundation before scaling AI",
-   "url": "https://federalnewsnetwork.com/artificial-intelligence/2026/10/why-agencies-must-strengthen-the-data-foundation-before-scaling-ai/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-21T16:15:31Z",
-   "why": "Agencies face pressure to deliver AI, strengthen cybersecurity and modernize legacy systems."
-  },
-  {
    "title": "Army’s tech chief talks autonomy, acquisition and the future of drones",
    "url": "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones/",
    "source": "Breaking Defense",
    "category": "Acquisition and Contracting",
    "published": "2026-10-21T13:06:12Z",
    "why": "CTO Alex Miller sits down with Breaking Defense’s Carley Welch to discuss the Army’s unmanned initiatives."
-  },
-  {
-   "title": "HHS to make sole-source award to Anthropic ahead of broader AI competition",
-   "url": "https://fedscoop.com/hhs-sole-source-award-anthropic-ai-claude/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-20T23:08:03Z",
-   "why": "The health department initially rolled out Claude to all of its workers in December 2025."
   }
  ]
 }
