@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-22T19:59:20.845958Z",
+ "updatedAt": "2026-10-22T23:57:19.781045Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "DHS consolidates software purchasing under $2.7B Carahsoft contract",
+   "url": "https://fedscoop.com/dhs-consolidate-procurement-carahsoft/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-22T22:01:37Z",
+   "why": "The agencywide blanket purchase agreement brings a streamlined procurement vehicle for licenses and other services from 70-plus vendors, of which Carahsoft is..."
+  },
+  {
+   "title": "ATI sues SBA, claims O’Keefe video sidelined the tribally-owned business",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/ati-sues-sba-claims-okeefe-video-sidelined-tribally-owned-business/416769/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-22T21:16:07Z",
+   "why": "A year after its suspension stemming from a hidden-camera video, ATI Government Solutions says the Small Business Administration still cannot point to any..."
+  },
   {
    "title": "SOCOM seeks common PaaS environment to support testing and fielding of new tech",
    "url": "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle/",
@@ -45,28 +61,12 @@
    "why": "The Army is testing drone-mounted cyber and electronic warfare capabilities as it works to determine the standard-issue equipment for its 11th Cyber Battalion..."
   },
   {
-   "title": "Encryption isn’t enough to protect data wherever it goes",
-   "url": "https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/",
-   "source": "CyberScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-22T10:00:00Z",
-   "why": "Once data is in use, encryption falls short."
-  },
-  {
-   "title": "Senate lawmakers press Pentagon for greater price transparency",
-   "url": "https://federalnewsnetwork.com/congress/2026/10/senate-lawmakers-press-pentagon-for-greater-price-transparency/",
-   "source": "Federal News Network",
+   "title": "SBA refocuses Regional Innovation Cluster program following DOGE cuts",
+   "url": "https://fedscoop.com/sba-regional-innovation-cluster-awards-doge/",
+   "source": "FedScoop",
    "category": "Acquisition and Contracting",
-   "published": "2026-10-21T22:42:50Z",
-   "why": "The lawmakers want to know whether DoD will disqualify contractors that refuse to provide necessary cost and pricing data."
-  },
-  {
-   "title": "Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight",
-   "url": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-21T22:17:26Z",
-   "why": "In a new legal brief, they warned that the high-stakes ruling will “threaten all defense contractors.” The post Former U.S."
+   "published": "2026-10-22T13:26:19Z",
+   "why": "The agency recently awarded nine new contracts for the program aimed at fueling innovation in regions across the country."
   }
  ]
 }
