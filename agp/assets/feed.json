@@ -1,9 +1,33 @@
 {
- "updatedAt": "2026-10-22T15:51:48.758661Z",
+ "updatedAt": "2026-10-22T19:59:20.845958Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "SOCOM seeks common PaaS environment to support testing and fielding of new tech",
+   "url": "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle/",
+   "source": "DefenseScoop",
+   "category": "Defense and National Security",
+   "published": "2026-10-22T18:28:50Z",
+   "why": "The command released an RFI and a draft performance work statement for the initiative."
+  },
+  {
+   "title": "Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
+   "url": "https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-22T17:37:24Z",
+   "why": "One of the bill’s sponsors told CyberScoop it’s “incredibly expensive” for U.S."
+  },
+  {
+   "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
+   "url": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-22T16:58:00Z",
+   "why": "Created in 1958 for NASA, the obscure fiscal tool has since become the predominant approach to military contracting – at great risk to taxpayers, one..."
+  },
   {
    "title": "Navy awards Applied Intuition $25M to deploy AI sensor fusion at sea",
    "url": "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea/",
@@ -21,6 +45,14 @@
    "why": "The Army is testing drone-mounted cyber and electronic warfare capabilities as it works to determine the standard-issue equipment for its 11th Cyber Battalion..."
   },
   {
+   "title": "Encryption isn’t enough to protect data wherever it goes",
+   "url": "https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-22T10:00:00Z",
+   "why": "Once data is in use, encryption falls short."
+  },
+  {
    "title": "Senate lawmakers press Pentagon for greater price transparency",
    "url": "https://federalnewsnetwork.com/congress/2026/10/senate-lawmakers-press-pentagon-for-greater-price-transparency/",
    "source": "Federal News Network",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-21T22:17:26Z",
    "why": "In a new legal brief, they warned that the high-stakes ruling will “threaten all defense contractors.” The post Former U.S."
-  },
-  {
-   "title": "New data show cleared employees are bigger targets than ever",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/new-data-show-cleared-employees-are-bigger-targets-than-ever/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-21T19:56:24Z",
-   "why": "The FBI alerted contractors that North Korean IT workers are trying to obtain positions with cleared defense companies and others with government contracts."
-  },
-  {
-   "title": "FirstSource III protesters lose bid to revive $10B DHS contract",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/firstsource-iii-protesters-lose-bid-revive-10b-dhs-contract/416734/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-21T19:11:19Z",
-   "why": "A Court of Federal Claims judge rules that President Trump’s consolidation order gave the Homeland Security Department a rational basis to cancel the..."
-  },
-  {
-   "title": "GSA, SBA target more 8(a) firms for audits",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/gsa-sba-target-more-8-firms-audits/416735/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-21T19:02:19Z",
-   "why": "Nearly 700 companies face \"deeper scrutiny\" as the General Services Administration and Small Business Administration hunt for signs of fraud, waste and abuse."
-  },
-  {
-   "title": "NASA launches $425M hydrosphere research support recompete",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/nasa-launches-425m-hydrosphere-research-support-recompete/416730/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-21T18:29:22Z",
-   "why": "NASA uses the contract to acquire industry support across activities in data product development and validation, instrument development, and numerical modeling."
   }
  ]
 }
