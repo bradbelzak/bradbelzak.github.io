@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-22T23:57:19.781045Z",
+ "updatedAt": "2026-10-23T15:43:17.002264Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Vendor lock-in finds a new home in AI, and a contract clause won’t fix it",
+   "url": "https://www.nextgov.com/ideas/2026/10/vendor-lock-finds-new-home-ai-and-contract-clause-wont-fix-it/416779/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-23T14:00:00Z",
+   "why": "COMMENTARY | GSA’s new AI clause targets vendor lock-in, but enforcement remains a challenge."
+  },
+  {
+   "title": "Natilus secures Air Force contract to develop blended wing body aircraft",
+   "url": "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-23T12:03:00Z",
+   "why": "“We think now’s the right time” for a blended wing body design to make its debut, Natilus Chief Operating Officer Nolan Giblin told Breaking Defense."
+  },
   {
    "title": "DHS consolidates software purchasing under $2.7B Carahsoft contract",
    "url": "https://fedscoop.com/dhs-consolidate-procurement-carahsoft/",
@@ -21,6 +37,14 @@
    "why": "A year after its suspension stemming from a hidden-camera video, ATI Government Solutions says the Small Business Administration still cannot point to any..."
   },
   {
+   "title": "Space Force shifts into high gear on cislunar warfare, with RFIs coming soon",
+   "url": "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-22T20:27:12Z",
+   "why": "Maj."
+  },
+  {
    "title": "SOCOM seeks common PaaS environment to support testing and fielding of new tech",
    "url": "https://defensescoop.com/2026/10/22/socom-paas-integrated-contracting-vehicle/",
    "source": "DefenseScoop",
@@ -29,7 +53,7 @@
    "why": "The command released an RFI and a draft performance work statement for the initiative."
   },
   {
-   "title": "Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
+   "title": "Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber",
    "url": "https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/",
    "source": "CyberScoop",
    "category": "AI and Cybersecurity",
@@ -43,30 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-22T16:58:00Z",
    "why": "Created in 1958 for NASA, the obscure fiscal tool has since become the predominant approach to military contracting – at great risk to taxpayers, one..."
-  },
-  {
-   "title": "Navy awards Applied Intuition $25M to deploy AI sensor fusion at sea",
-   "url": "https://breakingdefense.com/2026/10/navy-awards-applied-intuition-25m-to-deploy-ai-sensor-fusion-at-sea/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-22T15:43:21Z",
-   "why": "The Intelligent Perception System will help sailors understand a flood of sensor feeds while collecting data to train improved AI models, the company said."
-  },
-  {
-   "title": "Army unit experimenting with small drones for ‘tailored cyber effects’",
-   "url": "https://breakingdefense.com/2026/10/army-unit-experimenting-with-small-drones-for-tailored-cyber-effects/",
-   "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-22T13:59:00Z",
-   "why": "The Army is testing drone-mounted cyber and electronic warfare capabilities as it works to determine the standard-issue equipment for its 11th Cyber Battalion..."
-  },
-  {
-   "title": "SBA refocuses Regional Innovation Cluster program following DOGE cuts",
-   "url": "https://fedscoop.com/sba-regional-innovation-cluster-awards-doge/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-22T13:26:19Z",
-   "why": "The agency recently awarded nine new contracts for the program aimed at fueling innovation in regions across the country."
   }
  ]
 }
