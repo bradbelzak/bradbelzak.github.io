@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-23T19:55:24.302865Z",
+ "updatedAt": "2026-10-23T23:49:57.739566Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "The battlefield has no boundaries: How the Iran war is redrawing the cyber threat map",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/the-battlefield-has-no-boundaries-how-the-iran-war-is-redrawing-the-cyber-threat-map/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-23T21:40:39Z",
+   "why": "Every defense contractor should reassess whether its cybersecurity reflects today’s threat environment or the one that existed five years ago."
+  },
+  {
+   "title": "HHS sole-source award to Anthropic continues to raise questions",
+   "url": "https://fedscoop.com/hhs-sole-source-award-to-anthropic-continues-to-raise-questions/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-23T21:40:16Z",
+   "why": "The award would continue “vital” services for six months after expiration of Anthropic’s OneGov deal, per the agency."
+  },
+  {
+   "title": "Cybersecurity liability doesn’t necessarily start with a breach",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cybersecurity-liability-doesnt-necessarily-start-with-a-breach/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-23T21:03:09Z",
+   "why": "\"Not just having IT sitting at the table, or your CISO sitting at the table, I want to have compliance, business, everybody at the table,\" said Michael Volkov."
+  },
+  {
+   "title": "Bureau of Prisons seeks another shot at ending union contracts",
+   "url": "https://www.govexec.com/workforce/2026/10/bureau-prisons-seeks-another-shot-ending-union-contracts/416798/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-23T20:56:50Z",
+   "why": "One union local president said he is still routinely denied official time, has meeting requests ignored, and that his prison has failed to reinstitute..."
+  },
   {
    "title": "Leidos books $160M cyber warfare award",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/leidos-books-160m-cyber-warfare-award/416791/",
@@ -29,44 +61,12 @@
    "why": "The memo to acquisition leaders came from the principal director for Defense Pricing, Contracting, and Acquisition Policy."
   },
   {
-   "title": "ATI sues SBA to lift suspension from federal contracting",
-   "url": "https://federalnewsnetwork.com/acquisition/2026/10/ati-sues-sba-to-lift-suspension-from-federal-contracting/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T16:09:38Z",
-   "why": "ATI Government Solutions, an 8(a) company, says SBA has acted in bad faith and violated the Administrative Procedures Act and the Fifth Amendment."
-  },
-  {
    "title": "Vendor lock-in finds a new home in AI, and a contract clause won’t fix it",
    "url": "https://www.nextgov.com/ideas/2026/10/vendor-lock-finds-new-home-ai-and-contract-clause-wont-fix-it/416779/",
    "source": "Nextgov",
    "category": "Acquisition and Contracting",
    "published": "2026-10-23T14:00:00Z",
    "why": "COMMENTARY | GSA’s new AI clause targets vendor lock-in, but enforcement remains a challenge."
-  },
-  {
-   "title": "Natilus secures Air Force contract to develop blended wing body aircraft",
-   "url": "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T12:03:00Z",
-   "why": "“We think now’s the right time” for a blended wing body design to make its debut, Natilus Chief Operating Officer Nolan Giblin told Breaking Defense."
-  },
-  {
-   "title": "DHS consolidates software purchasing under $2.7B Carahsoft contract",
-   "url": "https://fedscoop.com/dhs-consolidate-procurement-carahsoft/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-22T22:01:37Z",
-   "why": "The agencywide blanket purchase agreement brings a streamlined procurement vehicle for licenses and other services from 70-plus vendors, of which Carahsoft is..."
-  },
-  {
-   "title": "ATI sues SBA, claims O’Keefe video sidelined the tribally-owned business",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/ati-sues-sba-claims-okeefe-video-sidelined-tribally-owned-business/416769/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-22T21:16:07Z",
-   "why": "A year after its suspension stemming from a hidden-camera video, ATI Government Solutions says the Small Business Administration still cannot point to any..."
   }
  ]
 }
