@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T23:49:57.739566Z",
+ "updatedAt": "2026-10-24T16:32:27.058592Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
@@ -37,6 +37,14 @@
    "why": "One union local president said he is still routinely denied official time, has meeting requests ignored, and that his prison has failed to reinstitute..."
   },
   {
+   "title": "Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring",
+   "url": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-23T20:41:31Z",
+   "why": "Space Systems Command officials said the contracts are an initial step for the Commercial Augmentation Space Reserve (CASR) initiative, and don’t address the..."
+  },
+  {
    "title": "Leidos books $160M cyber warfare award",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/leidos-books-160m-cyber-warfare-award/416791/",
    "source": "Washington Technology",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-23T16:40:41Z",
    "why": "The memo to acquisition leaders came from the principal director for Defense Pricing, Contracting, and Acquisition Policy."
-  },
-  {
-   "title": "Vendor lock-in finds a new home in AI, and a contract clause won’t fix it",
-   "url": "https://www.nextgov.com/ideas/2026/10/vendor-lock-finds-new-home-ai-and-contract-clause-wont-fix-it/416779/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T14:00:00Z",
-   "why": "COMMENTARY | GSA’s new AI clause targets vendor lock-in, but enforcement remains a challenge."
   }
  ]
 }
