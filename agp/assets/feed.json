@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-26T17:18:38.743114Z",
+ "updatedAt": "2026-10-26T20:59:18.579840Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "DoD’s reasons for CMMC pause falling apart in face of RFI responses",
+   "url": "https://federalnewsnetwork.com/defense-news/2026/10/dods-reasons-for-cmmc-pause-falling-apart-in-face-of-rfi-responses/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-26T20:39:10Z",
+   "why": "Defense Department documents show the biggest challenges are not with CMMC, but with the underlying NIST standards."
+  },
+  {
+   "title": "Shadow Boxing: Anthropic and Uncle Sam’s AI Problem",
+   "url": "https://www.meritalk.com/shadow-boxing-anthropic-and-uncle-sams-ai-problem/",
+   "source": "MeriTalk",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-26T20:13:50Z",
+   "why": "Washington has a tangled AI strategy."
+  },
+  {
+   "title": "SBA is moving field offices away from major cities, union says",
+   "url": "https://www.govexec.com/management/2026/10/sba-moving-field-offices-away-major-cities-union/416818/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-26T19:53:48Z",
+   "why": "The Small Business Administration previously said that it would relocate offices out of certain cities due to disagreements about federal immigration..."
+  },
+  {
+   "title": "Pricing leak taints $1.9 billion Air Force contract award, GAO says",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/two-wrongs-dont-make-right/416815/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-26T18:02:21Z",
+   "why": "The watchdog agency said the Air Force had no way to rule out that leaked data influenced the winning bid."
+  },
   {
    "title": "Smack Technologies lands new deal for AI prototype to enhance joint military campaigning",
    "url": "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command/",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-23T21:40:16Z",
    "why": "The award would continue “vital” services for six months after expiration of Anthropic’s OneGov deal, per the agency."
-  },
-  {
-   "title": "Cybersecurity liability doesn’t necessarily start with a breach",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/cybersecurity-liability-doesnt-necessarily-start-with-a-breach/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-23T21:03:09Z",
-   "why": "\"Not just having IT sitting at the table, or your CISO sitting at the table, I want to have compliance, business, everybody at the table,\" said Michael Volkov."
-  },
-  {
-   "title": "Bureau of Prisons seeks another shot at ending union contracts",
-   "url": "https://www.govexec.com/workforce/2026/10/bureau-prisons-seeks-another-shot-ending-union-contracts/416798/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T20:56:50Z",
-   "why": "One union local president said he is still routinely denied official time, has meeting requests ignored, and that his prison has failed to reinstitute..."
-  },
-  {
-   "title": "Space Force reveals first 6 ‘operational’ contracts for civil reserve support in space monitoring",
-   "url": "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T20:41:31Z",
-   "why": "Space Systems Command officials said the contracts are an initial step for the Commercial Augmentation Space Reserve (CASR) initiative, and don’t address the..."
-  },
-  {
-   "title": "Leidos books $160M cyber warfare award",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/leidos-books-160m-cyber-warfare-award/416791/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T19:09:49Z",
-   "why": "Leidos used capabilities from its Kudu Dynamics acquisition to capture the Cyber Command contract that supports offensive and defensive operations."
   }
  ]
 }
