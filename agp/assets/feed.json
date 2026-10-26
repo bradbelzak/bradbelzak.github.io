@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-24T16:32:27.058592Z",
+ "updatedAt": "2026-10-26T17:18:38.743114Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Smack Technologies lands new deal for AI prototype to enhance joint military campaigning",
+   "url": "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-26T16:00:00Z",
+   "why": "The OTA comes as SOCOM is fast-tracking frontier AI capabilities to solve real-world operational challenges and free up its leaders to focus on the most..."
+  },
+  {
+   "title": "WT 360: Defense One’s Lauren Williams on shipbuilding, counterdrone and quantum tech matters",
+   "url": "https://www.washingtontechnology.com/podcasts/2026/10/wt-360-defense-ones-lauren-williams-shipbuilding-counterdrone-and-quantum-tech-matters/416788/",
+   "source": "Washington Technology",
+   "category": "Defense and National Security",
+   "published": "2026-10-26T10:00:00Z",
+   "why": "Lauren Williams, business editor at Defense One, jumps in to explain Anduril’s shipyard partnership with the Navy."
+  },
   {
    "title": "The battlefield has no boundaries: How the Iran war is redrawing the cyber threat map",
    "url": "https://federalnewsnetwork.com/commentary/2026/10/the-battlefield-has-no-boundaries-how-the-iran-war-is-redrawing-the-cyber-threat-map/",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-23T19:09:49Z",
    "why": "Leidos used capabilities from its Kudu Dynamics acquisition to capture the Cyber Command contract that supports offensive and defensive operations."
-  },
-  {
-   "title": "(US)AI becomes GSA's first direct OneGov contract with a small business",
-   "url": "https://www.nextgov.com/acquisition/2026/10/usai-becomes-gsas-first-direct-onegov-contract-small-business/416789/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T17:37:00Z",
-   "why": "The Maryland firm known for its Intelligent Computing Platform will offer significant discounts to government customers on software licenses and pilots through..."
-  },
-  {
-   "title": "Pentagon issues guidance on AI procurements to support Trump’s ‘truth-seeking’ and ‘ideological neutrality’ directives",
-   "url": "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T16:40:41Z",
-   "why": "The memo to acquisition leaders came from the principal director for Defense Pricing, Contracting, and Acquisition Policy."
   }
  ]
 }
