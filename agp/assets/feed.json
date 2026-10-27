@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-10-27T16:32:32.609379Z",
+ "updatedAt": "2026-10-27T20:37:08.744670Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "AI won’t make cybersecurity automatic. It will make continuous security smarter.",
+   "url": "https://www.nextgov.com/ideas/2026/10/ai-wont-make-cybersecurity-automatic-it-will-make-continuous-security-smarter/416844/",
+   "source": "Nextgov",
+   "category": "Compliance and Security",
+   "published": "2026-10-27T19:59:00Z",
+   "why": "COMMENTARY | Compliance is essential, but compliance alone is not security."
+  },
+  {
+   "title": "Defense organizations have spent years talking about autonomy. What’s changing now is the speed.",
+   "url": "https://federalnewsnetwork.com/technology-main/2026/10/defense-organizations-have-spent-years-talking-about-autonomy-whats-changing-now-is-the-speed/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-27T19:10:14Z",
+   "why": "\"I think part of the contractor community's perspective is really thinking through, what does this do to acquisition timelines?\" said Stephanie Kostro."
+  },
+  {
+   "title": "A more flexible way to defend maneuver forces from drones that doesn’t tie them down",
+   "url": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-27T18:48:04Z",
+   "why": "[Sponsored] Short-range air defense that is designed to move and adapt regardless of vehicle."
+  },
+  {
+   "title": "NIST issues roadmap for transition to post-quantum encryption standards",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/nist-issues-roadmap-transition-post-quantum-encryption-standards/416841/",
+   "source": "Nextgov",
+   "category": "Policy and Regulation",
+   "published": "2026-10-27T18:45:00Z",
+   "why": "The report aims to help organizations take the standards already set out by NIST and create a plan for implementing them, in alignment with the Trump..."
+  },
+  {
+   "title": "GovExec acquires d8 Group to boost federal contract wins for clients",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/govexec-adds-bd-specialist-its-portfolio/416840/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-27T18:13:06Z",
+   "why": "Washington Technology parent is adding a business development-as-a-service offering to its portfolio through the acquisition of d8 Group."
+  },
   {
    "title": "How the F-15 and F-22 should inform the F-47’s procurement",
    "url": "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement/",
@@ -27,46 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-10-26T22:02:18Z",
    "why": "Responses are due Nov."
-  },
-  {
-   "title": "Records show White House, DOGE involvement in National Science Foundation grant terminations",
-   "url": "https://fedscoop.com/records-show-white-house-doge-involvement-in-national-science-foundation-grant-terminations/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-26T21:45:02Z",
-   "why": "Federal records show DOGE's role in initiating grant terminations across the National Science Foundation and indicate that the White House also flagged awards..."
-  },
-  {
-   "title": "DoD’s reasons for CMMC pause falling apart in face of RFI responses",
-   "url": "https://federalnewsnetwork.com/defense-news/2026/10/dods-reasons-for-cmmc-pause-falling-apart-in-face-of-rfi-responses/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-26T20:39:10Z",
-   "why": "Defense Department documents show the biggest challenges are not with CMMC, but with the underlying NIST standards."
-  },
-  {
-   "title": "Shadow Boxing: Anthropic and Uncle Sam’s AI Problem",
-   "url": "https://www.meritalk.com/shadow-boxing-anthropic-and-uncle-sams-ai-problem/",
-   "source": "MeriTalk",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-26T20:13:50Z",
-   "why": "Washington has a tangled AI strategy."
-  },
-  {
-   "title": "SBA is moving field offices away from major cities, union says",
-   "url": "https://www.govexec.com/management/2026/10/sba-moving-field-offices-away-major-cities-union/416818/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-26T19:53:48Z",
-   "why": "The Small Business Administration previously said that it would relocate offices out of certain cities due to disagreements about federal immigration..."
-  },
-  {
-   "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
-   "url": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-26T18:39:07Z",
-   "why": "The company claims the Contra system can track and engage “hundreds or thousands of drone and missile threats at the same time.”"
   }
  ]
 }
