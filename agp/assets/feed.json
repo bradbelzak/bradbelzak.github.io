@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-27T00:21:44.899403Z",
+ "updatedAt": "2026-10-27T16:32:32.609379Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "How the F-15 and F-22 should inform the F-47’s procurement",
+   "url": "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-27T16:13:00Z",
+   "why": "Budgetary lessons from the two legacy aircraft can help the Air Force anticipate hard choices for the new F-47, one analyst argues."
+  },
+  {
+   "title": "The new must-have capabilities for drones",
+   "url": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-27T12:24:00Z",
+   "why": "[Sponsored] Electronic warfare, GPS denial, and battlefield attrition are driving new requirements for small UAS."
+  },
   {
    "title": "Navy RFI is looking for firms with experience supporting large ERP systems",
    "url": "https://www.washingtontechnology.com/contracts/2026/10/navy-rfi-looking-firms-experience-supporting-large-erp-systems/416827/",
@@ -45,28 +61,12 @@
    "why": "The Small Business Administration previously said that it would relocate offices out of certain cities due to disagreements about federal immigration..."
   },
   {
-   "title": "Pricing leak taints $1.9 billion Air Force contract award, GAO says",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/two-wrongs-dont-make-right/416815/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-26T18:02:21Z",
-   "why": "The watchdog agency said the Air Force had no way to rule out that leaked data influenced the winning bid."
-  },
-  {
-   "title": "Smack Technologies lands new deal for AI prototype to enhance joint military campaigning",
-   "url": "https://defensescoop.com/2026/10/26/smack-technologies-ai-prototype-special-operations-command/",
-   "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-26T16:00:00Z",
-   "why": "The OTA comes as SOCOM is fast-tracking frontier AI capabilities to solve real-world operational challenges and free up its leaders to focus on the most..."
-  },
-  {
-   "title": "WT 360: Defense One’s Lauren Williams on shipbuilding, counterdrone and quantum tech matters",
-   "url": "https://www.washingtontechnology.com/podcasts/2026/10/wt-360-defense-ones-lauren-williams-shipbuilding-counterdrone-and-quantum-tech-matters/416788/",
-   "source": "Washington Technology",
+   "title": "Helsing rolls out Contra air defense design, plus two new inteceptors",
+   "url": "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors/",
+   "source": "Breaking Defense",
    "category": "Defense and National Security",
-   "published": "2026-10-26T10:00:00Z",
-   "why": "Lauren Williams, business editor at Defense One, jumps in to explain Anduril’s shipyard partnership with the Navy."
+   "published": "2026-10-26T18:39:07Z",
+   "why": "The company claims the Contra system can track and engage “hundreds or thousands of drone and missile threats at the same time.”"
   }
  ]
 }
