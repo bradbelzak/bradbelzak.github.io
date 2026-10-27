@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-26T20:59:18.579840Z",
+ "updatedAt": "2026-10-27T00:21:44.899403Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Navy RFI is looking for firms with experience supporting large ERP systems",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/navy-rfi-looking-firms-experience-supporting-large-erp-systems/416827/",
+   "source": "Washington Technology",
+   "category": "Defense and National Security",
+   "published": "2026-10-26T22:02:18Z",
+   "why": "Responses are due Nov."
+  },
+  {
+   "title": "Records show White House, DOGE involvement in National Science Foundation grant terminations",
+   "url": "https://fedscoop.com/records-show-white-house-doge-involvement-in-national-science-foundation-grant-terminations/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-26T21:45:02Z",
+   "why": "Federal records show DOGE's role in initiating grant terminations across the National Science Foundation and indicate that the White House also flagged awards..."
+  },
   {
    "title": "DoD’s reasons for CMMC pause falling apart in face of RFI responses",
    "url": "https://federalnewsnetwork.com/defense-news/2026/10/dods-reasons-for-cmmc-pause-falling-apart-in-face-of-rfi-responses/",
@@ -51,22 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-10-26T10:00:00Z",
    "why": "Lauren Williams, business editor at Defense One, jumps in to explain Anduril’s shipyard partnership with the Navy."
-  },
-  {
-   "title": "The battlefield has no boundaries: How the Iran war is redrawing the cyber threat map",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/the-battlefield-has-no-boundaries-how-the-iran-war-is-redrawing-the-cyber-threat-map/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T21:40:39Z",
-   "why": "Every defense contractor should reassess whether its cybersecurity reflects today’s threat environment or the one that existed five years ago."
-  },
-  {
-   "title": "HHS sole-source award to Anthropic continues to raise questions",
-   "url": "https://fedscoop.com/hhs-sole-source-award-to-anthropic-continues-to-raise-questions/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-23T21:40:16Z",
-   "why": "The award would continue “vital” services for six months after expiration of Anthropic’s OneGov deal, per the agency."
   }
  ]
 }
