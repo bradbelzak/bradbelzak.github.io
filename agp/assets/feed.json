@@ -1,16 +1,56 @@
 {
- "updatedAt": "2026-10-27T20:37:08.744670Z",
+ "updatedAt": "2026-10-28T00:26:34.674642Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "AI won’t make cybersecurity automatic. It will make continuous security smarter.",
-   "url": "https://www.nextgov.com/ideas/2026/10/ai-wont-make-cybersecurity-automatic-it-will-make-continuous-security-smarter/416844/",
-   "source": "Nextgov",
+   "title": "Industry, legal experts urge FAR Council to set standards for AI in federal procurement",
+   "url": "https://federalnewsnetwork.com/acquisition-policy/2026/10/industry-legal-experts-urge-far-council-to-set-standards-for-ai-in-federal-procurement/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-27T23:01:22Z",
+   "why": "Currently, there is no federal acquisition rule governing how agencies can use AI during bid evaluations."
+  },
+  {
+   "title": "RFI offers path forward for DoD with CMMC",
+   "url": "https://federalnewsnetwork.com/defense-news/2026/10/rfi-offers-path-forward-for-dod-with-cmmc/",
+   "source": "Federal News Network",
    "category": "Compliance and Security",
-   "published": "2026-10-27T19:59:00Z",
-   "why": "COMMENTARY | Compliance is essential, but compliance alone is not security."
+   "published": "2026-10-27T21:29:40Z",
+   "why": "DoD’s Cybersecurity Maturity Model Certification task force outlined several short- and medium-term steps to address long-time program challenges."
+  },
+  {
+   "title": "Before you file that AI bug report, OpenAI has some advice",
+   "url": "https://cyberscoop.com/openai-ai-generated-bug-reports/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-27T21:21:27Z",
+   "why": "Open-source maintainers are so overwhelmed by AI-generated security reports that some have stopped accepting them."
+  },
+  {
+   "title": "What do agencies get now that USAi isn’t free? GSA doing the ‘boring’ work",
+   "url": "https://fedscoop.com/usai-gsa-shared-services-platform-cost/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-27T20:59:16Z",
+   "why": "The GSA aims to pass on OneGov savings to agencies and deal with all acquisition and testing issues as USAi is converted to a paid model, according to an..."
+  },
+  {
+   "title": "Air Force launches next phase of hypersonic missile program with $694M contract award for ARRW",
+   "url": "https://defensescoop.com/2026/10/27/air-force-hypersonic-missile-production-contract-lockheed-martin/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-27T20:58:58Z",
+   "why": "DefenseScoop talked to analysts about the implications of the deal."
+  },
+  {
+   "title": "VA small business director shares tips for winning contracts",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/va-small-business-director-shares-tips-winning-contracts/416847/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-27T20:34:36Z",
+   "why": "Chantel Bankston-Carter advises companies to treat capability statements like tailored résumés and lead with solutions, not problems."
   },
   {
    "title": "Defense organizations have spent years talking about autonomy. What’s changing now is the speed.",
@@ -21,52 +61,12 @@
    "why": "\"I think part of the contractor community's perspective is really thinking through, what does this do to acquisition timelines?\" said Stephanie Kostro."
   },
   {
-   "title": "A more flexible way to defend maneuver forces from drones that doesn’t tie them down",
-   "url": "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-27T18:48:04Z",
-   "why": "[Sponsored] Short-range air defense that is designed to move and adapt regardless of vehicle."
-  },
-  {
-   "title": "NIST issues roadmap for transition to post-quantum encryption standards",
-   "url": "https://www.nextgov.com/cybersecurity/2026/10/nist-issues-roadmap-transition-post-quantum-encryption-standards/416841/",
-   "source": "Nextgov",
-   "category": "Policy and Regulation",
-   "published": "2026-10-27T18:45:00Z",
-   "why": "The report aims to help organizations take the standards already set out by NIST and create a plan for implementing them, in alignment with the Trump..."
-  },
-  {
    "title": "GovExec acquires d8 Group to boost federal contract wins for clients",
    "url": "https://www.washingtontechnology.com/companies/2026/10/govexec-adds-bd-specialist-its-portfolio/416840/",
    "source": "Washington Technology",
    "category": "Acquisition and Contracting",
    "published": "2026-10-27T18:13:06Z",
    "why": "Washington Technology parent is adding a business development-as-a-service offering to its portfolio through the acquisition of d8 Group."
-  },
-  {
-   "title": "How the F-15 and F-22 should inform the F-47’s procurement",
-   "url": "https://breakingdefense.com/2026/10/how-the-f-15-and-f-22-should-inform-the-f-47s-procurement/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-27T16:13:00Z",
-   "why": "Budgetary lessons from the two legacy aircraft can help the Air Force anticipate hard choices for the new F-47, one analyst argues."
-  },
-  {
-   "title": "The new must-have capabilities for drones",
-   "url": "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-27T12:24:00Z",
-   "why": "[Sponsored] Electronic warfare, GPS denial, and battlefield attrition are driving new requirements for small UAS."
-  },
-  {
-   "title": "Navy RFI is looking for firms with experience supporting large ERP systems",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/navy-rfi-looking-firms-experience-supporting-large-erp-systems/416827/",
-   "source": "Washington Technology",
-   "category": "Defense and National Security",
-   "published": "2026-10-26T22:02:18Z",
-   "why": "Responses are due Nov."
   }
  ]
 }
