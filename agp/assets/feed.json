@@ -1,16 +1,48 @@
 {
- "updatedAt": "2026-10-28T17:08:50.576214Z",
+ "updatedAt": "2026-10-28T20:58:40.050121Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Army taps AWS and WWT to boost AI-enabled cybersecurity initiative",
-   "url": "https://defensescoop.com/2026/10/28/army-aws-wwt-ai-cybersecurity-project-griffin/",
+   "title": "Army designates 2 additional ‘permissive’ sites for commercial vendors to test their drone and counter-drone tech",
+   "url": "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology/",
    "source": "DefenseScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-28T16:31:32Z",
-   "why": "“Partnering with commercial industry is a national security imperative for the Army, as the private sector drives rapid innovation in superintelligence, cloud..."
+   "category": "Defense and National Security",
+   "published": "2026-10-28T19:56:07Z",
+   "why": "The move is part of a broader Army initiative aimed at facilitating vendor access to test ranges."
+  },
+  {
+   "title": "Nine ways the Pentagon can fix CMMC without lowering the cybersecurity bar",
+   "url": "https://federalnewsnetwork.com/commentary/2026/10/nine-ways-the-pentagon-can-fix-cmmc-without-lowering-the-cybersecurity-bar/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-28T19:54:29Z",
+   "why": "Russia and Ukraine are already demonstrating how quickly AI, autonomous systems, and software can move from development to operational use."
+  },
+  {
+   "title": "GSA exposed sensitive information to all agency users on Google Drive, OIG finds",
+   "url": "https://fedscoop.com/gsa-exposed-sensitive-information-on-google-drive-watchdog/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-28T19:26:19Z",
+   "why": "Social Security numbers, building security information and vendor proposals were shared with all General Services Administration users and contractors, the..."
+  },
+  {
+   "title": "Leidos secures $99 million OTA for cyber operator dashboard",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/leidos-secures-99-million-ota-cyber-operator-dashboard/416883/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-28T18:44:33Z",
+   "why": "This is the second Cyber Command award Leidos has announced in a week, both credited to its purchase of Kudu Dynamics."
+  },
+  {
+   "title": "Parsons details its OTA contract profile and previews CFO transition",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/parsons-details-its-ota-contract-profile-and-previews-cfo-transition/416875/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-28T18:42:08Z",
+   "why": "In talking with Wall Street, Parsons CEO Carey Smith touts the company's progress in winning work under alternative contracting arrangements."
   },
   {
    "title": "DHS sunsets its Acquisition Planning Forecast System",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-28T13:36:00Z",
    "why": "The biomanufacturing facility will boast 20,000 liters of UV-sterilized vats, able to brew anything from “bio-cement” for helipads to explosives for Hellfire..."
-  },
-  {
-   "title": "Scale publishes first AI benchmark through CAISSI partnership",
-   "url": "https://fedscoop.com/scale-chemistry-ai-benchmark-caissi-partnership-dualchem/",
-   "source": "FedScoop",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-28T10:00:00Z",
-   "why": "The new benchmark, DualChem, is aimed at helping government agencies determine AI model risk in chemistry applications."
-  },
-  {
-   "title": "Australia pushes to beef up air defenses",
-   "url": "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-28T08:34:00Z",
-   "why": "Australia expects to select the winning platform for LAND 6504 in late 2027 following a RFP that is expected in the early part of the year."
-  },
-  {
-   "title": "Industry, legal experts urge FAR Council to set standards for AI in federal procurement",
-   "url": "https://federalnewsnetwork.com/acquisition-policy/2026/10/industry-legal-experts-urge-far-council-to-set-standards-for-ai-in-federal-procurement/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-27T23:01:22Z",
-   "why": "Currently, there is no federal acquisition rule governing how agencies can use AI during bid evaluations."
-  },
-  {
-   "title": "RFI offers path forward for DoD with CMMC",
-   "url": "https://federalnewsnetwork.com/defense-main/2026/10/rfi-offers-path-forward-for-dod-with-cmmc/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-27T21:29:40Z",
-   "why": "DoD’s Cybersecurity Maturity Model Certification task force outlined several short- and medium-term steps to address long-time program challenges."
   }
  ]
 }
