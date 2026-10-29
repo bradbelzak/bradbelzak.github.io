@@ -1,9 +1,57 @@
 {
- "updatedAt": "2026-10-29T17:24:04.596693Z",
+ "updatedAt": "2026-10-29T21:01:14.510850Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
+   "url": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
+   "source": "CyberScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-29T20:58:28Z",
+   "why": "A DHS contractor requested its removal, while a social media site blocked links to it."
+  },
+  {
+   "title": "Army’s MV-75 production award could slip due to CR, raising program costs: Textron",
+   "url": "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-29T19:32:11Z",
+   "why": "Bell Textron executives warned that a delay in the helicopter’s first low-rate production contract could increase the program’s expected financial hit to as..."
+  },
+  {
+   "title": "Beyond autopilot: Understanding the five levels of battlefield drone autonomy",
+   "url": "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-29T19:22:59Z",
+   "why": "[Sponsored] By going beyond simple automation, drones can carry out tasks with minimal input from operators."
+  },
+  {
+   "title": "Anthropic’s IPO: Uncle Sam Wants His AI Both Ways",
+   "url": "https://www.meritalk.com/anthropics-ipo-uncle-sam-wants-his-ai-both-ways/",
+   "source": "MeriTalk",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-29T19:14:48Z",
+   "why": "Washington wants industry to unleash cutting-edge AI."
+  },
+  {
+   "title": "After the midterms: What GovCon needs to watch",
+   "url": "https://www.washingtontechnology.com/opinion/2026/10/after-midterms-what-govcon-needs-watch/416918/",
+   "source": "Washington Technology",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-29T18:55:45Z",
+   "why": "A lame duck Congress, a looming shutdown fight and a new balance of power will shape the market in 2027."
+  },
+  {
+   "title": "A discovery at NIST changed how researchers think about an unusual quantum material",
+   "url": "https://federalnewsnetwork.com/technology-main/2026/10/a-discovery-at-nist-changed-how-researchers-think-about-an-unusual-quantum-material/",
+   "source": "Federal News Network",
+   "category": "Technology Modernization",
+   "published": "2026-10-29T17:59:18Z",
+   "why": "\"It is essential that we still have funding to do the kind of work that does not have an immediate, obvious financial benefit,\" said Dr."
+  },
   {
    "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
    "url": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
@@ -13,60 +61,12 @@
    "why": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will..."
   },
   {
-   "title": "Giving counter-UAS operators 75 km of advance warning throws the advantage to them",
-   "url": "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-29T15:00:14Z",
-   "why": "[Sponsored] SkyValor extends RF detection range, providing more time to assess and respond to drone threats."
-  },
-  {
-   "title": "Kaliningrad is more than the Suwałki Gap, and NATO cannot ignore it",
-   "url": "https://breakingdefense.com/2026/10/kaliningrad-is-more-than-the-suwalki-gap-and-nato-cannot-ignore-it/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-29T14:25:49Z",
-   "why": "In an age of drones and long-range precision weapons, Kaliningrad’s location shows Europe’s security isn’t neatly divided between frontline states and everyone..."
-  },
-  {
    "title": "GSA left sensitive information in its Google Drive exposed, watchdog finds",
    "url": "https://www.nextgov.com/cybersecurity/2026/10/gsa-left-sensitive-information-its-google-drive-exposed-watchdog-finds/416886/",
    "source": "Nextgov",
    "category": "Technology Modernization",
    "published": "2026-10-29T12:00:00Z",
    "why": "The watchdog previously found in 2014 that the agency had not protected information stored in its Google cloud environment."
-  },
-  {
-   "title": "DHS personnel leak exposes contact details and sensitive job information",
-   "url": "https://www.nextgov.com/cybersecurity/2026/10/dhs-personnel-leak-exposes-contact-details-and-sensitive-job-information/416901/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-29T02:07:00Z",
-   "why": "A group calling itself the Department of Peace claimed responsibility for obtaining records on more than 41,000 employees and contractors, citing opposition to..."
-  },
-  {
-   "title": "Army designates 2 additional ‘permissive’ sites for commercial vendors to test their drone and counter-drone tech",
-   "url": "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology/",
-   "source": "DefenseScoop",
-   "category": "Defense and National Security",
-   "published": "2026-10-28T19:56:07Z",
-   "why": "The move is part of a broader Army initiative aimed at facilitating vendor access to test ranges."
-  },
-  {
-   "title": "Nine ways the Pentagon can fix CMMC without lowering the cybersecurity bar",
-   "url": "https://federalnewsnetwork.com/commentary/2026/10/nine-ways-the-pentagon-can-fix-cmmc-without-lowering-the-cybersecurity-bar/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-28T19:54:29Z",
-   "why": "Russia and Ukraine are already demonstrating how quickly AI, autonomous systems, and software can move from development to operational use."
-  },
-  {
-   "title": "GSA exposed sensitive information to all agency users on Google Drive, OIG finds",
-   "url": "https://fedscoop.com/gsa-exposed-sensitive-information-on-google-drive-watchdog/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-28T19:26:19Z",
-   "why": "Social Security numbers, building security information and vendor proposals were shared with all General Services Administration users and contractors, the..."
   }
  ]
 }
