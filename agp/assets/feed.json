@@ -1,9 +1,49 @@
 {
- "updatedAt": "2026-10-28T20:58:40.050121Z",
+ "updatedAt": "2026-10-29T17:24:04.596693Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
+   "url": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-29T16:45:18Z",
+   "why": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will..."
+  },
+  {
+   "title": "Giving counter-UAS operators 75 km of advance warning throws the advantage to them",
+   "url": "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-29T15:00:14Z",
+   "why": "[Sponsored] SkyValor extends RF detection range, providing more time to assess and respond to drone threats."
+  },
+  {
+   "title": "Kaliningrad is more than the Suwałki Gap, and NATO cannot ignore it",
+   "url": "https://breakingdefense.com/2026/10/kaliningrad-is-more-than-the-suwalki-gap-and-nato-cannot-ignore-it/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-10-29T14:25:49Z",
+   "why": "In an age of drones and long-range precision weapons, Kaliningrad’s location shows Europe’s security isn’t neatly divided between frontline states and everyone..."
+  },
+  {
+   "title": "GSA left sensitive information in its Google Drive exposed, watchdog finds",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/gsa-left-sensitive-information-its-google-drive-exposed-watchdog-finds/416886/",
+   "source": "Nextgov",
+   "category": "Technology Modernization",
+   "published": "2026-10-29T12:00:00Z",
+   "why": "The watchdog previously found in 2014 that the agency had not protected information stored in its Google cloud environment."
+  },
+  {
+   "title": "DHS personnel leak exposes contact details and sensitive job information",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/dhs-personnel-leak-exposes-contact-details-and-sensitive-job-information/416901/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-29T02:07:00Z",
+   "why": "A group calling itself the Department of Peace claimed responsibility for obtaining records on more than 41,000 employees and contractors, citing opposition to..."
+  },
   {
    "title": "Army designates 2 additional ‘permissive’ sites for commercial vendors to test their drone and counter-drone tech",
    "url": "https://defensescoop.com/2026/10/28/army-test-range-access-commercial-vendors-drone-technology/",
@@ -27,46 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-28T19:26:19Z",
    "why": "Social Security numbers, building security information and vendor proposals were shared with all General Services Administration users and contractors, the..."
-  },
-  {
-   "title": "Leidos secures $99 million OTA for cyber operator dashboard",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/leidos-secures-99-million-ota-cyber-operator-dashboard/416883/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-28T18:44:33Z",
-   "why": "This is the second Cyber Command award Leidos has announced in a week, both credited to its purchase of Kudu Dynamics."
-  },
-  {
-   "title": "Parsons details its OTA contract profile and previews CFO transition",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/parsons-details-its-ota-contract-profile-and-previews-cfo-transition/416875/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-28T18:42:08Z",
-   "why": "In talking with Wall Street, Parsons CEO Carey Smith touts the company's progress in winning work under alternative contracting arrangements."
-  },
-  {
-   "title": "DHS sunsets its Acquisition Planning Forecast System",
-   "url": "https://fedscoop.com/dhs-apfs-shut-down-4site-acquisition-planning-forecast-system/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-28T15:22:30Z",
-   "why": "The portal providing vendors and the public with a look at what purchases were coming up will come to an end Oct."
-  },
-  {
-   "title": "SBIR program finally gets a commercialization standard with teeth",
-   "url": "https://www.washingtontechnology.com/opinion/2026/10/sbir-program-gets-reforms/416867/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-28T13:42:50Z",
-   "why": "The Small Business Administration's proposal targets firms that collect dozens of Phase II awards without transitioning to other revenue sources, and that's a..."
-  },
-  {
-   "title": "Startup Biosphere wins Pentagon contract to scale up production of key chemicals",
-   "url": "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-28T13:36:00Z",
-   "why": "The biomanufacturing facility will boast 20,000 liters of UV-sterilized vats, able to brew anything from “bio-cement” for helipads to explosives for Hellfire..."
   }
  ]
 }
