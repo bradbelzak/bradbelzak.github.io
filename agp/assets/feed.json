@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-30T16:59:45.926947Z",
+ "updatedAt": "2026-10-30T20:41:10.696613Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Data, analytics helping CMS stop fraud before it starts",
+   "url": "https://federalnewsnetwork.com/federal-insights/2026/10/data-analytics-helping-cms-stop-fraud-before-it-starts/",
+   "source": "Federal News Network",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-30T20:10:48Z",
+   "why": "CMS, GDIT and CLEAR officials say new artificial intelligence tools are driving decisions earlier in the process of whether to pay beneficiaries and providers."
+  },
+  {
+   "title": "Space Force plans $946M sole-source award because Boeing won't sell data rights",
+   "url": "https://www.washingtontechnology.com/contracts/2026/10/boeing-wont-sell-data-rights-so-space-force-plans-946m-sole-source-deal/416951/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-30T19:09:07Z",
+   "why": "The government's notice of the award says Boeing has repeatedly refused to sell the data needed to hold a competition for satellite sustainment work."
+  },
+  {
+   "title": "General Dynamics' next CEO prioritizes consistency for the tech shops",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/general-dynamics-next-ceo-prioritizes-consistency-tech-shops/416948/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-30T17:52:59Z",
+   "why": "In talking with Wall Street, Danny Deep charts out the paths forward for the IT services and mission systems units as he prepares for his next role."
+  },
+  {
+   "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
+   "url": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
+   "source": "Breaking Defense",
+   "category": "Budget and Appropriations",
+   "published": "2026-10-30T17:28:09Z",
+   "why": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion."
+  },
   {
    "title": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals",
    "url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-30T14:49:51Z",
    "why": "Salesforce views its agreement to buy Rune Technologies as bolstering its artificial intelligence portfolio and presence in edge operations like logistics."
-  },
-  {
-   "title": "Industry pushes back on DoD’s proposed rules for moving program",
-   "url": "https://federalnewsnetwork.com/defense-news/2026/10/industry-pushes-back-on-dods-proposed-rules-for-moving-program/",
-   "source": "Federal News Network",
-   "category": "Compliance and Security",
-   "published": "2026-10-29T22:53:15Z",
-   "why": "Movers for America's biggest concerns include base access and the ability of small businesses to meet the CMMC Level 2 compliance requirements."
-  },
-  {
-   "title": "Trump’s AI use to inform military operations questioned by House duo",
-   "url": "https://fedscoop.com/trump-ai-use-military-operations-house-letter/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-29T21:20:09Z",
-   "why": "Ranking members from two House committees requested a closed-door briefing regarding AI-related document retention policies, vendor contracts, cybersecurity..."
-  },
-  {
-   "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
-   "url": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
-   "source": "CyberScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-29T20:58:28Z",
-   "why": "A DHS contractor requested its removal, while a social media site blocked links to it."
-  },
-  {
-   "title": "Army’s MV-75 production award could slip due to CR, raising program costs: Textron",
-   "url": "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-29T19:32:11Z",
-   "why": "Bell Textron executives warned that a delay in the helicopter’s first low-rate production contract could increase the program’s expected financial hit to as..."
   }
  ]
 }
