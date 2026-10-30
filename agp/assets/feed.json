@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-10-30T00:49:57.794336Z",
+ "updatedAt": "2026-10-30T16:59:45.926947Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals",
+   "url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-30T16:45:00Z",
+   "why": "The new policy is due to come into effect in April 2027 and make sure that “British workers and businesses still benefit,” from contracts inked with foreign..."
+  },
+  {
+   "title": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha",
+   "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-30T16:16:18Z",
+   "why": "The award marks the first shipyard selection from TOTE Services as the vessel construction manager of the LSM program for the Navy."
+  },
+  {
+   "title": "Defense contractor pleads guilty to aiding North Korean remote worker scheme",
+   "url": "https://cyberscoop.com/defense-contractor-guilty-north-korea-scheme-facilitator/",
+   "source": "CyberScoop",
+   "category": "Compliance and Security",
+   "published": "2026-10-30T15:14:29Z",
+   "why": "The 62-year-old allowed co-conspirators to use his identity and top secret security clearance to apply for almost 100 jobs last year."
+  },
+  {
+   "title": "Salesforce pushes further into defense tech via Rune acquisition",
+   "url": "https://www.washingtontechnology.com/companies/2026/10/salesforce-pushes-further-defense-tech-rune-acquisition/416943/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-30T14:49:51Z",
+   "why": "Salesforce views its agreement to buy Rune Technologies as bolstering its artificial intelligence portfolio and presence in edge operations like logistics."
+  },
   {
    "title": "Industry pushes back on DoD’s proposed rules for moving program",
    "url": "https://federalnewsnetwork.com/defense-news/2026/10/industry-pushes-back-on-dods-proposed-rules-for-moving-program/",
@@ -35,38 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-29T19:32:11Z",
    "why": "Bell Textron executives warned that a delay in the helicopter’s first low-rate production contract could increase the program’s expected financial hit to as..."
-  },
-  {
-   "title": "Anthropic’s IPO: Uncle Sam Wants His AI Both Ways",
-   "url": "https://www.meritalk.com/anthropics-ipo-uncle-sam-wants-his-ai-both-ways/",
-   "source": "MeriTalk",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-29T19:14:48Z",
-   "why": "Washington wants industry to unleash cutting-edge AI."
-  },
-  {
-   "title": "After the midterms: What GovCon needs to watch",
-   "url": "https://www.washingtontechnology.com/opinion/2026/10/after-midterms-what-govcon-needs-watch/416918/",
-   "source": "Washington Technology",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-29T18:55:45Z",
-   "why": "A lame duck Congress, a looming shutdown fight and a new balance of power will shape the market in 2027."
-  },
-  {
-   "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
-   "url": "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-29T16:45:18Z",
-   "why": "The “groundbreaking agreement” on AMRAAM production “will not only ensure the acquisition of equipment needed by both Japan and the United States, but will..."
-  },
-  {
-   "title": "GSA left sensitive information in its Google Drive exposed, watchdog finds",
-   "url": "https://www.nextgov.com/cybersecurity/2026/10/gsa-left-sensitive-information-its-google-drive-exposed-watchdog-finds/416886/",
-   "source": "Nextgov",
-   "category": "Technology Modernization",
-   "published": "2026-10-29T12:00:00Z",
-   "why": "The watchdog previously found in 2014 that the agency had not protected information stored in its Google cloud environment."
   }
  ]
 }
