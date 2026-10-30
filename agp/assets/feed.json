@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-10-29T21:01:14.510850Z",
+ "updatedAt": "2026-10-30T00:49:57.794336Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Industry pushes back on DoD’s proposed rules for moving program",
+   "url": "https://federalnewsnetwork.com/defense-news/2026/10/industry-pushes-back-on-dods-proposed-rules-for-moving-program/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-10-29T22:53:15Z",
+   "why": "Movers for America's biggest concerns include base access and the ability of small businesses to meet the CMMC Level 2 compliance requirements."
+  },
+  {
+   "title": "Trump’s AI use to inform military operations questioned by House duo",
+   "url": "https://fedscoop.com/trump-ai-use-military-operations-house-letter/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-29T21:20:09Z",
+   "why": "Ranking members from two House committees requested a closed-door briefing regarding AI-related document retention policies, vendor contracts, cybersecurity..."
+  },
   {
    "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
    "url": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
@@ -21,14 +37,6 @@
    "why": "Bell Textron executives warned that a delay in the helicopter’s first low-rate production contract could increase the program’s expected financial hit to as..."
   },
   {
-   "title": "Beyond autopilot: Understanding the five levels of battlefield drone autonomy",
-   "url": "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-10-29T19:22:59Z",
-   "why": "[Sponsored] By going beyond simple automation, drones can carry out tasks with minimal input from operators."
-  },
-  {
    "title": "Anthropic’s IPO: Uncle Sam Wants His AI Both Ways",
    "url": "https://www.meritalk.com/anthropics-ipo-uncle-sam-wants-his-ai-both-ways/",
    "source": "MeriTalk",
@@ -43,14 +51,6 @@
    "category": "Budget and Appropriations",
    "published": "2026-10-29T18:55:45Z",
    "why": "A lame duck Congress, a looming shutdown fight and a new balance of power will shape the market in 2027."
-  },
-  {
-   "title": "A discovery at NIST changed how researchers think about an unusual quantum material",
-   "url": "https://federalnewsnetwork.com/technology-main/2026/10/a-discovery-at-nist-changed-how-researchers-think-about-an-unusual-quantum-material/",
-   "source": "Federal News Network",
-   "category": "Technology Modernization",
-   "published": "2026-10-29T17:59:18Z",
-   "why": "\"It is essential that we still have funding to do the kind of work that does not have an immediate, obvious financial benefit,\" said Dr."
   },
   {
    "title": "US, Japan reach agreements for AMRAAM assembly, SM-3 production boost: Japanese MoD",
