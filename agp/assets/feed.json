@@ -1,16 +1,32 @@
 {
- "updatedAt": "2026-10-30T20:41:10.696613Z",
+ "updatedAt": "2026-10-31T00:42:01.242831Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Data, analytics helping CMS stop fraud before it starts",
-   "url": "https://federalnewsnetwork.com/federal-insights/2026/10/data-analytics-helping-cms-stop-fraud-before-it-starts/",
+   "title": "‘Dangerous:’ CISA official criticizes company’s decision to release PHP bug early",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/",
    "source": "Federal News Network",
    "category": "AI and Cybersecurity",
-   "published": "2026-10-30T20:10:48Z",
-   "why": "CMS, GDIT and CLEAR officials say new artificial intelligence tools are driving decisions earlier in the process of whether to pay beneficiaries and providers."
+   "published": "2026-10-30T22:57:43Z",
+   "why": "Security firm Chainguard broke an embargo on a critical vulnerability."
+  },
+  {
+   "title": "As the acquisition world turns: 4 plot twists in the latest storyline",
+   "url": "https://federalnewsnetwork.com/reporters-notebook/2026/10/as-the-acquisition-world-turns-4-plot-twists-in-the-latest-storyline/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-10-30T22:14:59Z",
+   "why": "NIH and DHS close down long-time services, while NASA and the Navy are getting new characters ready for their debuts."
+  },
+  {
+   "title": "Tech bills of the week: Creating a Congressional Office of Technology; Enhancing data center transparency; and more",
+   "url": "https://www.nextgov.com/policy/2026/10/tech-bills-week-creating-congressional-office-technology-enhancing-data-center-transparency-and-more/416959/",
+   "source": "Nextgov",
+   "category": "AI and Cybersecurity",
+   "published": "2026-10-30T21:57:00Z",
+   "why": "Lawmakers introduced measures to confront the use of AI by human traffickers and to strengthen the cybersecurity of cloud-based infrastructure."
   },
   {
    "title": "Space Force plans $946M sole-source award because Boeing won't sell data rights",
@@ -19,22 +35,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-10-30T19:09:07Z",
    "why": "The government's notice of the award says Boeing has repeatedly refused to sell the data needed to hold a competition for satellite sustainment work."
-  },
-  {
-   "title": "General Dynamics' next CEO prioritizes consistency for the tech shops",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/general-dynamics-next-ceo-prioritizes-consistency-tech-shops/416948/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-30T17:52:59Z",
-   "why": "In talking with Wall Street, Danny Deep charts out the paths forward for the IT services and mission systems units as he prepares for his next role."
-  },
-  {
-   "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
-   "url": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
-   "source": "Breaking Defense",
-   "category": "Budget and Appropriations",
-   "published": "2026-10-30T17:28:09Z",
-   "why": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion."
   },
   {
    "title": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals",
