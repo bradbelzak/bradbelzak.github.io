@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-10-31T00:42:01.242831Z",
+ "updatedAt": "2026-11-02T21:39:56.810269Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Musk is the target of a new Democratic bill to curtail political donations from federal contractors",
+   "url": "https://www.govexec.com/oversight/2026/11/musk-target-new-democratic-bill-curtail-political-donations-federal-contractors/416980/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-02T19:27:04Z",
+   "why": "While government contracting companies are already barred from making campaign contributions, a new measure would extend that prohibition to the corporations’..."
+  },
+  {
+   "title": "Leidos challenges $572M NORAD contract that went to Amentum",
+   "url": "https://www.washingtontechnology.com/contracts/2026/11/leidos-challenges-572m-norad-contract-went-amentum/416966/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-02T19:00:00Z",
+   "why": "Leidos is arguing that Space Force failed to consider price and did not treat bidders equally in the competition."
+  },
+  {
+   "title": "Leonardo DRS tapped to support Army’s high-energy laser program",
+   "url": "https://defensescoop.com/2026/11/02/army-high-energy-laser-program-leonardo-drs-av/",
+   "source": "DefenseScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-02T18:19:40Z",
+   "why": "The company will be helping prime contractor AeroVironment under the E-HEL program."
+  },
+  {
+   "title": "Thales hires Zolet to lead US defense subsidiary",
+   "url": "https://www.washingtontechnology.com/companies/2026/11/thales-hires-zolet-lead-us-defense-subsidiary/416976/",
+   "source": "Washington Technology",
+   "category": "AI and Cybersecurity",
+   "published": "2026-11-02T18:00:00Z",
+   "why": "David Zolet will lead a Thales Defense & Space Inc."
+  },
+  {
+   "title": "Oshkosh steps into large UAS space with new Grid Aero partnership",
+   "url": "https://breakingdefense.com/2026/11/oshkosh-steps-into-larger-uas-space-with-new-grid-aero-partnership/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-11-02T14:23:14Z",
+   "why": "The two companies plan to team up on “design for manufacturability, production planning, supply chain optimization, and ultimately building Lifter aircraft at..."
+  },
+  {
+   "title": "ATI seeks emergency order to end year-long ban from federal contracting",
+   "url": "https://www.washingtontechnology.com/companies/2026/11/ati-seeks-emergency-order-end-year-long-ban-federal-contracting/416965/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-02T13:58:02Z",
+   "why": "The tribally-owned contractor says the Small Business Administration suspended it over a single YouTube video and has yet to produce any evidence of wrongdoing..."
+  },
+  {
+   "title": "Federal court tosses Trump lawsuit challenging Alaska Senate certification",
+   "url": "https://cyberscoop.com/judge-dismisses-alaska-senate-lawsuit-peltola-sullivan/",
+   "source": "CyberScoop",
+   "category": "Compliance and Security",
+   "published": "2026-11-01T22:47:26Z",
+   "why": "The government claimed voters would be confused by two candidates with the same name."
+  },
   {
    "title": "‘Dangerous:’ CISA official criticizes company’s decision to release PHP bug early",
    "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/",
@@ -11,62 +67,6 @@
    "category": "AI and Cybersecurity",
    "published": "2026-10-30T22:57:43Z",
    "why": "Security firm Chainguard broke an embargo on a critical vulnerability."
-  },
-  {
-   "title": "As the acquisition world turns: 4 plot twists in the latest storyline",
-   "url": "https://federalnewsnetwork.com/reporters-notebook/2026/10/as-the-acquisition-world-turns-4-plot-twists-in-the-latest-storyline/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-30T22:14:59Z",
-   "why": "NIH and DHS close down long-time services, while NASA and the Navy are getting new characters ready for their debuts."
-  },
-  {
-   "title": "Tech bills of the week: Creating a Congressional Office of Technology; Enhancing data center transparency; and more",
-   "url": "https://www.nextgov.com/policy/2026/10/tech-bills-week-creating-congressional-office-technology-enhancing-data-center-transparency-and-more/416959/",
-   "source": "Nextgov",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-30T21:57:00Z",
-   "why": "Lawmakers introduced measures to confront the use of AI by human traffickers and to strengthen the cybersecurity of cloud-based infrastructure."
-  },
-  {
-   "title": "Space Force plans $946M sole-source award because Boeing won't sell data rights",
-   "url": "https://www.washingtontechnology.com/contracts/2026/10/boeing-wont-sell-data-rights-so-space-force-plans-946m-sole-source-deal/416951/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-30T19:09:07Z",
-   "why": "The government's notice of the award says Boeing has repeatedly refused to sell the data needed to hold a competition for satellite sustainment work."
-  },
-  {
-   "title": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals",
-   "url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-30T16:45:00Z",
-   "why": "The new policy is due to come into effect in April 2027 and make sure that “British workers and businesses still benefit,” from contracts inked with foreign..."
-  },
-  {
-   "title": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha",
-   "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-30T16:16:18Z",
-   "why": "The award marks the first shipyard selection from TOTE Services as the vessel construction manager of the LSM program for the Navy."
-  },
-  {
-   "title": "Defense contractor pleads guilty to aiding North Korean remote worker scheme",
-   "url": "https://cyberscoop.com/defense-contractor-guilty-north-korea-scheme-facilitator/",
-   "source": "CyberScoop",
-   "category": "Compliance and Security",
-   "published": "2026-10-30T15:14:29Z",
-   "why": "The 62-year-old allowed co-conspirators to use his identity and top secret security clearance to apply for almost 100 jobs last year."
-  },
-  {
-   "title": "Salesforce pushes further into defense tech via Rune acquisition",
-   "url": "https://www.washingtontechnology.com/companies/2026/10/salesforce-pushes-further-defense-tech-rune-acquisition/416943/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-10-30T14:49:51Z",
-   "why": "Salesforce views its agreement to buy Rune Technologies as bolstering its artificial intelligence portfolio and presence in edge operations like logistics."
   }
  ]
 }
