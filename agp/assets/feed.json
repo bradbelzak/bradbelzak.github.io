@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-11-02T21:39:56.810269Z",
+ "updatedAt": "2026-11-02T23:51:13.416394Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Government watchdog backs Air Force decision to limit contract bids to cleared companies",
+   "url": "https://federalnewsnetwork.com/air-force/2026/11/government-watchdog-backs-air-force-decision-to-limit-contract-bids-to-cleared-companies/",
+   "source": "Federal News Network",
+   "category": "Compliance and Security",
+   "published": "2026-11-02T23:30:36Z",
+   "why": "A contractor argued that the department’s requirement to hold an active top-secret facility clearance at the time of proposal submission was overly restrictive."
+  },
+  {
+   "title": "Agencies were told to go multi-cloud without the engineers to make the move",
+   "url": "https://federalnewsnetwork.com/commentary/2026/11/agencies-were-told-to-go-multi-cloud-without-the-engineers-to-make-the-move/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-02T21:44:35Z",
+   "why": "Agencies measure resilience against recovery time objectives written into a contract years ago, and those are easy to hit inside a single provider."
+  },
   {
    "title": "Musk is the target of a new Democratic bill to curtail political donations from federal contractors",
    "url": "https://www.govexec.com/oversight/2026/11/musk-target-new-democratic-bill-curtail-political-donations-federal-contractors/416980/",
@@ -51,22 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-11-02T13:58:02Z",
    "why": "The tribally-owned contractor says the Small Business Administration suspended it over a single YouTube video and has yet to produce any evidence of wrongdoing..."
-  },
-  {
-   "title": "Federal court tosses Trump lawsuit challenging Alaska Senate certification",
-   "url": "https://cyberscoop.com/judge-dismisses-alaska-senate-lawsuit-peltola-sullivan/",
-   "source": "CyberScoop",
-   "category": "Compliance and Security",
-   "published": "2026-11-01T22:47:26Z",
-   "why": "The government claimed voters would be confused by two candidates with the same name."
-  },
-  {
-   "title": "‘Dangerous:’ CISA official criticizes company’s decision to release PHP bug early",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/10/dangerous-cisa-official-criticizes-companys-decision-to-release-php-bug-early/",
-   "source": "Federal News Network",
-   "category": "AI and Cybersecurity",
-   "published": "2026-10-30T22:57:43Z",
-   "why": "Security firm Chainguard broke an embargo on a critical vulnerability."
   }
  ]
 }
