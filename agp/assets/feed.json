@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-11-02T23:51:13.416394Z",
+ "updatedAt": "2026-11-03T19:26:14.345119Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Airbus ends Wingman drone to meet Germany’s accelerated operations timeline",
+   "url": "https://breakingdefense.com/2026/11/airbus-ends-wingman-drone-to-meet-germanys-accelerated-operations-timeline/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-11-03T18:41:02Z",
+   "why": "In place of the defunct aircraft, Airbus is prioritizing development of the U760 Ravenstorm that features a subsonic cruise speed and an internal weapons..."
+  },
+  {
+   "title": "Are prediction markets making it harder to protect government secrets?",
+   "url": "https://federalnewsnetwork.com/workforce/2026/11/are-prediction-markets-making-it-harder-to-protect-government-secrets/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-03T18:22:51Z",
+   "why": "\"There are scenarios where a corporation, a contractor who employs this individual could theoretically face a criminal exposure,\" said Alex Blanchard."
+  },
+  {
+   "title": "Telos promotes Griffin to CEO as Wood steps back",
+   "url": "https://www.washingtontechnology.com/companies/2026/11/telos-promotes-griffin-ceo-wood-steps-back/417001/",
+   "source": "Washington Technology",
+   "category": "AI and Cybersecurity",
+   "published": "2026-11-03T18:06:42Z",
+   "why": "John Wood's transition to executive chairman of the board of directors concludes his 32-year run as chief executive, a tenure marked by the cyber company's..."
+  },
+  {
+   "title": "Judge peels apart protests against DHA's $1.6B health readiness award",
+   "url": "https://www.washingtontechnology.com/contracts/2026/11/judge-peels-apart-protests-against-dhas-16b-health-readiness-award/417002/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-03T18:05:09Z",
+   "why": "A Court of Federal Claims judge analogized the plaintiffs to having \"done their best impression of a lint roller\" in trying to nitpick the Defense Health..."
+  },
+  {
+   "title": "Leonardo DRS lands role on the Army’s first high-energy laser production deal",
+   "url": "https://www.washingtontechnology.com/contracts/2026/11/leonardo-drs-lands-role-armys-first-high-energy-laser-production-deal/417003/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-03T18:04:37Z",
+   "why": "The subcontract under AeroVironment’s $464.8 million Other Transaction Authority program puts DRS in charge of power and environmental control for dozens of..."
+  },
+  {
+   "title": "Former Army boss Dan Driscoll joins OpenAI as senior counselor",
+   "url": "https://defensescoop.com/2026/11/03/dan-driscoll-openai-strategic-counselor/",
+   "source": "DefenseScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-11-03T16:47:37Z",
+   "why": "In his new role, Driscoll will “work with OpenAI teams and leaders across governments, industry, academia, and allied institutions to advance practical..."
+  },
+  {
+   "title": "CrowdStrike moves to acquire Fiddler and Dreadnode, adding AI observability and testing to its security platform",
+   "url": "https://cyberscoop.com/crowdstrike-acquires-fiddler-dreadnode-ai-security/",
+   "source": "CyberScoop",
+   "category": "AI and Cybersecurity",
+   "published": "2026-11-03T15:44:26Z",
+   "why": "CrowdStrike is extending its platform to watch, test and explain autonomous AI agents, as enterprises face behavior-based risks that conventional security..."
+  },
   {
    "title": "Government watchdog backs Air Force decision to limit contract bids to cleared companies",
    "url": "https://federalnewsnetwork.com/air-force/2026/11/government-watchdog-backs-air-force-decision-to-limit-contract-bids-to-cleared-companies/",
@@ -11,62 +67,6 @@
    "category": "Compliance and Security",
    "published": "2026-11-02T23:30:36Z",
    "why": "A contractor argued that the department’s requirement to hold an active top-secret facility clearance at the time of proposal submission was overly restrictive."
-  },
-  {
-   "title": "Agencies were told to go multi-cloud without the engineers to make the move",
-   "url": "https://federalnewsnetwork.com/commentary/2026/11/agencies-were-told-to-go-multi-cloud-without-the-engineers-to-make-the-move/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-02T21:44:35Z",
-   "why": "Agencies measure resilience against recovery time objectives written into a contract years ago, and those are easy to hit inside a single provider."
-  },
-  {
-   "title": "Musk is the target of a new Democratic bill to curtail political donations from federal contractors",
-   "url": "https://www.govexec.com/oversight/2026/11/musk-target-new-democratic-bill-curtail-political-donations-federal-contractors/416980/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-02T19:27:04Z",
-   "why": "While government contracting companies are already barred from making campaign contributions, a new measure would extend that prohibition to the corporations’..."
-  },
-  {
-   "title": "Leidos challenges $572M NORAD contract that went to Amentum",
-   "url": "https://www.washingtontechnology.com/contracts/2026/11/leidos-challenges-572m-norad-contract-went-amentum/416966/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-02T19:00:00Z",
-   "why": "Leidos is arguing that Space Force failed to consider price and did not treat bidders equally in the competition."
-  },
-  {
-   "title": "Leonardo DRS tapped to support Army’s high-energy laser program",
-   "url": "https://defensescoop.com/2026/11/02/army-high-energy-laser-program-leonardo-drs-av/",
-   "source": "DefenseScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-02T18:19:40Z",
-   "why": "The company will be helping prime contractor AeroVironment under the E-HEL program."
-  },
-  {
-   "title": "Thales hires Zolet to lead US defense subsidiary",
-   "url": "https://www.washingtontechnology.com/companies/2026/11/thales-hires-zolet-lead-us-defense-subsidiary/416976/",
-   "source": "Washington Technology",
-   "category": "AI and Cybersecurity",
-   "published": "2026-11-02T18:00:00Z",
-   "why": "David Zolet will lead a Thales Defense & Space Inc."
-  },
-  {
-   "title": "Oshkosh steps into large UAS space with new Grid Aero partnership",
-   "url": "https://breakingdefense.com/2026/11/oshkosh-steps-into-larger-uas-space-with-new-grid-aero-partnership/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-11-02T14:23:14Z",
-   "why": "The two companies plan to team up on “design for manufacturability, production planning, supply chain optimization, and ultimately building Lifter aircraft at..."
-  },
-  {
-   "title": "ATI seeks emergency order to end year-long ban from federal contracting",
-   "url": "https://www.washingtontechnology.com/companies/2026/11/ati-seeks-emergency-order-end-year-long-ban-federal-contracting/416965/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-02T13:58:02Z",
-   "why": "The tribally-owned contractor says the Small Business Administration suspended it over a single YouTube video and has yet to produce any evidence of wrongdoing..."
   }
  ]
 }
