@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-03T22:16:20.058959Z",
+ "updatedAt": "2026-11-04T02:12:34.944318Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Fixed-price is the new default. Do government contractors know what their contracts cost?",
+   "url": "https://federalnewsnetwork.com/commentary/2026/11/fixed-price-is-the-new-default-do-government-contractors-know-what-their-contracts-cost/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-03T23:26:43Z",
+   "why": "Fixed-price contracting isn't new."
+  },
   {
    "title": "Defense and aerospace firm settles with government over allegedly failing to meet cybersecurity contract requirements",
    "url": "https://cyberscoop.com/ilc-dover-cybersecurity-settlement-false-claims-act/",
@@ -11,14 +19,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-11-03T21:49:51Z",
    "why": "ILC settled for $13 million, and its parent company said it resolved the issues before settling without an admission of liability."
-  },
-  {
-   "title": "Competition for federal business increasingly starts with access to the right contract vehicles",
-   "url": "https://federalnewsnetwork.com/contracting/2026/11/competition-for-federal-business-increasingly-starts-with-access-to-the-right-contract-vehicles/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T20:53:12Z",
-   "why": "\"I think with DOGE, there was tremendous departure of experienced contracting officials over the last year,\" said Kathleen Sievers."
   },
   {
    "title": "ATI fights SBA’s bid to argue its case in secret",
