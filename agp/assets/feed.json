@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-11-04T19:41:25.980576Z",
+ "updatedAt": "2026-11-04T22:33:51.452707Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "GSA fills two key leadership positions",
+   "url": "https://federalnewsnetwork.com/people/2026/11/gsa-fills-two-key-leadership-positions/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T21:35:53Z",
+   "why": "Jennifer Hill and Mark Weiss join the General Services Administration to lead the Federal Acquisition Service and Public Buildings Service, respectively."
+  },
+  {
+   "title": "Meet the physicists making NIST the epicenter of quantum advancement",
+   "url": "https://fedscoop.com/nist-quantum-physicists-flemming-awards/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T21:35:05Z",
+   "why": "The country’s most notable developments in quantum technology are happening at the agency."
+  },
   {
    "title": "FedRAMP grants first ‘Class C’ certification to Perplexity",
    "url": "https://www.nextgov.com/acquisition/2026/11/fedramp-grants-first-class-c-certification-perplexity/417044/",
@@ -29,14 +45,6 @@
    "why": "India awarded Garden Reach Shipbuilders & Engineers and Goa Shipyard Limited contracts to build five and three corvettes, respectively, for the country’s navy."
   },
   {
-   "title": "Delphinus, Shorepoint and Tenica close on acquisitions",
-   "url": "https://www.washingtontechnology.com/companies/2026/11/delphinus-shorepoint-and-tenica-close-acquisitions/417040/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T17:28:03Z",
-   "why": "Private capital is behind all three transactions that cut across the market's maritime, cybersecurity and intelligence community domains."
-  },
-  {
    "title": "GSA names new acquisition chief after months with acting leader",
    "url": "https://www.govexec.com/management/2026/11/gsa-names-new-acquisition-chief-after-months-acting-leader/417039/",
    "source": "Government Executive",
@@ -59,14 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-11-04T15:44:00Z",
    "why": "The Federal Acquisition Service has been headed by an acting commissioner since April."
-  },
-  {
-   "title": "Fixed-price is the new default. Do government contractors know what their contracts cost?",
-   "url": "https://federalnewsnetwork.com/commentary/2026/11/fixed-price-is-the-new-default-do-government-contractors-know-what-their-contracts-cost/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T23:26:43Z",
-   "why": "Fixed-price contracting isn't new."
   }
  ]
 }
