@@ -1,9 +1,65 @@
 {
- "updatedAt": "2026-11-04T02:12:34.944318Z",
+ "updatedAt": "2026-11-04T19:41:25.980576Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "FedRAMP grants first ‘Class C’ certification to Perplexity",
+   "url": "https://www.nextgov.com/acquisition/2026/11/fedramp-grants-first-class-c-certification-perplexity/417044/",
+   "source": "Nextgov",
+   "category": "Compliance and Security",
+   "published": "2026-11-04T18:11:00Z",
+   "why": "The new FedRAMP certification gives federal agencies access to Perplexity models, as well as leading frontier AI models."
+  },
+  {
+   "title": "GSA appoints former banking exec as new government contracting head",
+   "url": "https://fedscoop.com/gsa-appoints-jennifer-hill-new-fas-commissioner/",
+   "source": "FedScoop",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T17:49:53Z",
+   "why": "Jennifer Hill is the new commissioner of the Federal Acquisition Service, the agency’s contracting operation recently involved in artificial intelligence..."
+  },
+  {
+   "title": "India taps two domestic shipbuilders for $5.7B corvette program",
+   "url": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program/",
+   "source": "Breaking Defense",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T17:37:32Z",
+   "why": "India awarded Garden Reach Shipbuilders & Engineers and Goa Shipyard Limited contracts to build five and three corvettes, respectively, for the country’s navy."
+  },
+  {
+   "title": "Delphinus, Shorepoint and Tenica close on acquisitions",
+   "url": "https://www.washingtontechnology.com/companies/2026/11/delphinus-shorepoint-and-tenica-close-acquisitions/417040/",
+   "source": "Washington Technology",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T17:28:03Z",
+   "why": "Private capital is behind all three transactions that cut across the market's maritime, cybersecurity and intelligence community domains."
+  },
+  {
+   "title": "GSA names new acquisition chief after months with acting leader",
+   "url": "https://www.govexec.com/management/2026/11/gsa-names-new-acquisition-chief-after-months-acting-leader/417039/",
+   "source": "Government Executive",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T16:31:31Z",
+   "why": "Jennifer Hill, a former banking executive who joined the agency in February, will lead the Federal Acquisition Service."
+  },
+  {
+   "title": "Shield AI cofounder teases ‘snowball’ of X-BAT fighter drone announcements in Europe",
+   "url": "https://breakingdefense.com/2026/11/shield-ai-cofounder-teases-snowball-of-x-bat-fighter-drone-announcements-in-europe/",
+   "source": "Breaking Defense",
+   "category": "AI and Cybersecurity",
+   "published": "2026-11-04T16:15:00Z",
+   "why": "Ryan Tseng told Breaking Defense that the prospective deals and new industry pacts will be publicized when “we’re ready to announce them.”"
+  },
+  {
+   "title": "Former banking executive named GSA acquisition lead",
+   "url": "https://www.nextgov.com/people/2026/11/former-banking-executive-named-gsa-acquisition-lead/417037/",
+   "source": "Nextgov",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T15:44:00Z",
+   "why": "The Federal Acquisition Service has been headed by an acting commissioner since April."
+  },
   {
    "title": "Fixed-price is the new default. Do government contractors know what their contracts cost?",
    "url": "https://federalnewsnetwork.com/commentary/2026/11/fixed-price-is-the-new-default-do-government-contractors-know-what-their-contracts-cost/",
@@ -11,62 +67,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-11-03T23:26:43Z",
    "why": "Fixed-price contracting isn't new."
-  },
-  {
-   "title": "Defense and aerospace firm settles with government over allegedly failing to meet cybersecurity contract requirements",
-   "url": "https://cyberscoop.com/ilc-dover-cybersecurity-settlement-false-claims-act/",
-   "source": "CyberScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T21:49:51Z",
-   "why": "ILC settled for $13 million, and its parent company said it resolved the issues before settling without an admission of liability."
-  },
-  {
-   "title": "ATI fights SBA’s bid to argue its case in secret",
-   "url": "https://www.washingtontechnology.com/companies/2026/11/ati-fights-sbas-bid-argue-its-case-secret/417006/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T20:50:12Z",
-   "why": "The tribally-owned contractor claims the Small Business Administration is relying on a Justice Department probe to avoid having to explain why the company is..."
-  },
-  {
-   "title": "AUSA 2026: The ground truth on the Army’s next chapter",
-   "url": "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T19:56:04Z",
-   "why": "From autonomous warfare and drone innovation to acquisition reform and defense industrial base challenges, Breaking Defense examines the key developments and..."
-  },
-  {
-   "title": "FedRAMP 20x picks up steam with first full ‘Class C’ certification to AI company",
-   "url": "https://fedscoop.com/fedramp-20x-first-full-class-c-certification-ai-company/",
-   "source": "FedScoop",
-   "category": "Compliance and Security",
-   "published": "2026-11-03T19:50:25Z",
-   "why": "Perplexity is the first company to be certified under the full sped-up 20x process within the class most akin to the old “moderate” level."
-  },
-  {
-   "title": "Are prediction markets making it harder to protect government secrets?",
-   "url": "https://federalnewsnetwork.com/workforce/2026/11/are-prediction-markets-making-it-harder-to-protect-government-secrets/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T18:22:51Z",
-   "why": "\"There are scenarios where a corporation, a contractor who employs this individual could theoretically face a criminal exposure,\" said Alex Blanchard."
-  },
-  {
-   "title": "Judge peels apart protests against DHA's $1.6B health readiness award",
-   "url": "https://www.washingtontechnology.com/contracts/2026/11/judge-peels-apart-protests-against-dhas-16b-health-readiness-award/417002/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T18:05:09Z",
-   "why": "A Court of Federal Claims judge analogized the plaintiffs to having \"done their best impression of a lint roller\" in trying to nitpick the Defense Health..."
-  },
-  {
-   "title": "Leonardo DRS lands role on the Army’s first high-energy laser production deal",
-   "url": "https://www.washingtontechnology.com/contracts/2026/11/leonardo-drs-lands-role-armys-first-high-energy-laser-production-deal/417003/",
-   "source": "Washington Technology",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-03T18:04:37Z",
-   "why": "The subcontract under AeroVironment’s $464.8 million Other Transaction Authority program puts DRS in charge of power and environmental control for dozens of..."
   }
  ]
 }
