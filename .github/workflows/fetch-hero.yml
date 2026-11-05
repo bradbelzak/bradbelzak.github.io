@@ -1,0 +1,50 @@
+name: Fetch hero video
+
+# One-off: downloads the final hero cut into agp/assets/agp-hero.mp4
+# and points index.html at the local file. Run manually from the Actions tab.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download video
+        run: |
+          set -euo pipefail
+          URL="https://d2ol7oe51mr4n9.cloudfront.net/user_3Fq2K7YiKjF82LHG4qXJl5yWGvo/764650f0-4cff-4604-b311-492ae74da8f8.mp4"
+          curl -fL --retry 3 -o agp/assets/agp-hero.mp4 "$URL"
+          ls -la agp/assets/agp-hero.mp4
+          SIZE=$(stat -c %s agp/assets/agp-hero.mp4)
+          if [ "$SIZE" -lt 500000 ]; then echo "Download too small ($SIZE bytes)"; exit 1; fi
+          if [ "$SIZE" -gt 95000000 ]; then echo "File too large for GitHub ($SIZE bytes)"; exit 1; fi
+          file agp/assets/agp-hero.mp4 | grep -qi 'mp4\|iso media' || { echo "Not an MP4"; exit 1; }
+
+      - name: Point hero at local file
+        run: |
+          set -euo pipefail
+          python3 - <<'EOF'
+          import re
+          p = "index.html"
+          s = open(p, encoding="utf-8").read()
+          new, n = re.subn(
+              r'src="https://d2ol7oe51mr4n9\.cloudfront\.net/[^"]+\.mp4"',
+              'src="agp/assets/agp-hero.mp4"', s)
+          assert n == 1, f"expected 1 replacement, made {n}"
+          open(p, "w", encoding="utf-8").write(new)
+          EOF
+          grep -n 'agp-hero.mp4' index.html
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add agp/assets/agp-hero.mp4 index.html
+          git commit -m "site: host hero video locally"
+          git push
