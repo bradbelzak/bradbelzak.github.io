@@ -1,32 +1,64 @@
 {
- "updatedAt": "2026-11-02T18:42:27.615327Z",
+ "updatedAt": "2026-11-05T19:52:18.434654Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "The fiscal risks of bringing US troops out of Europe",
-   "url": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-11-02T18:15:00Z",
-   "why": "Reducing America’s military footprint in Europe may seem fiscally prudent, but relocating troops and giving up overseas bases could leave US taxpayers with a..."
-  },
-  {
-   "title": "Constitutional Collision Course",
-   "url": "https://www.justsecurity.org/162909/constitutional-collision-course/?utm_source=rss&utm_medium=rss&utm_campaign=constitutional-collision-course",
-   "source": "Just Security",
+   "title": "Harmeet Dhillon exits after radical overhaul of Justice Department’s Civil Rights Division",
+   "url": "https://federalnewsnetwork.com/people/2026/11/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division/",
+   "source": "Federal News Network",
    "category": "Congress and Legislation",
-   "published": "2026-11-02T14:04:39Z",
-   "why": "How Congress can help bolster federal judges and help stop Trump administration noncompliance with court orders."
+   "published": "2026-11-05T19:08:07Z",
+   "why": "FILE - Harmeet Dhillon speaks with a member of the audience after testifying at a House Committee on House Administration hearing on Capitol Hill in..."
   },
   {
-   "title": "How to prevent an energy quarantine of Taiwan",
-   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/how-to-prevent-an-energy-quarantine-of-taiwan/",
-   "source": "Atlantic Council",
+   "title": "A Democratic Congress could derail major Pentagon plans and put Hegseth under pressure",
+   "url": "https://www.govexec.com/defense/2026/11/impeachment-investigations-canceled-projects-democratic-congress/417057/",
+   "source": "Government Executive",
+   "category": "Congress and Legislation",
+   "published": "2026-11-04T22:26:36Z",
+   "why": "Funding fights, investigations and potential impeachment proceedings could reshape the Defense Department’s agenda, putting high-profile initiatives such as..."
+  },
+  {
+   "title": "Dem lawmakers vow inquest into CISA cuts, intel policy",
+   "url": "https://www.defenseone.com/policy/2026/11/democrats-midterm-sweep-puts-cisa-cuts-intelligence-disputes-under-scrutiny/417058/",
+   "source": "Defense One",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-04T22:00:00Z",
+   "why": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the..."
+  },
+  {
+   "title": "Trump’s Next Trade War Could Be With Congress",
+   "url": "https://foreignpolicy.com/2026/11/04/midterms-democrats-trump-tariffs-trade-war-congress/",
+   "source": "Foreign Policy",
+   "category": "Trade, Tariffs and Sanctions",
+   "published": "2026-11-04T18:02:50Z",
+   "why": "Trump’s tariffs are unpopular, and lawmakers want to claw back their authority."
+  },
+  {
+   "title": "EXCLUSIVE: House China committee pushes Air Force on think tank cuts",
+   "url": "https://breakingdefense.com/2026/11/house-china-committee-pushes-air-force-on-think-tank-cuts/",
+   "source": "Breaking Defense",
    "category": "Geopolitics and Global Risk",
-   "published": "2026-11-02T14:00:00Z",
-   "why": "An all-of-the-above energy strategy in Taiwan can help the United States and allies deter a Chinese energy quarantine of the island."
+   "published": "2026-11-04T16:28:45Z",
+   "why": "“Under-resourcing” the China Aerospace Studies Institute (CASI) “could risk undermining the ability of military leaders and civilian policymakers to..."
+  },
+  {
+   "title": "Industry groups want cyber threat-sharing law renewed through defense authorization bill",
+   "url": "https://www.defenseone.com/policy/2026/11/industry-groups-cyber-sharing-law/416993/",
+   "source": "Defense One",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-02T23:00:00Z",
+   "why": "Banks, utilities, and other industries are asking lawmakers to extend liability protections through 2035."
+  },
+  {
+   "title": "Companies warn cyber threat sharing could suffer without new legal protections",
+   "url": "https://www.govexec.com/technology/2026/11/companies-warn-cyber-threat-sharing-new-legal-protections/416989/",
+   "source": "Government Executive",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-02T22:48:48Z",
+   "why": "A coalition of 35 industry groups is pressing Congress to extend liability safeguards for businesses that share cyberattack data with federal agencies, with..."
   },
   {
    "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
@@ -35,38 +67,6 @@
    "category": "Trade, Tariffs and Sanctions",
    "published": "2026-11-02T12:00:00Z",
    "why": "Presidential proclamation published in the Federal Register."
-  },
-  {
-   "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
-   "url": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies/",
-   "source": "Breaking Defense",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-10-30T20:17:22Z",
-   "why": "The announcement comes amid heightened tensions between Kyiv and Washington, including purported delays in the transfer of interceptors."
-  },
-  {
-   "title": "Syrian hacker who served Assad regime gets 42 months in US prison",
-   "url": "https://cyberscoop.com/syrian-hacker-ahmad-umar-agha-sentenced/",
-   "source": "CyberScoop",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-10-30T14:33:22Z",
-   "why": "Ahmad Umar Agha is best known for posting a fake Associated Press tweet claiming President Obama was injured in a White House bombing."
-  },
-  {
-   "title": "The Next Congress Needs to Reclaim Its Oversight of the Department of Defense",
-   "url": "https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/",
-   "source": "War on the Rocks",
-   "category": "Congress and Legislation",
-   "published": "2026-10-28T07:30:00Z",
-   "why": "Since returning to office in January 2025, the Trump administration has aggressively exercised executive authority across the federal government."
-  },
-  {
-   "title": "Tensions Rise",
-   "url": "https://warontherocks.com/tensions-rise/",
-   "source": "War on the Rocks",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-10-26T19:45:41Z",
-   "why": "Welcome to The Adversarial."
   }
  ]
 }
