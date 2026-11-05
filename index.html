@@ -1137,5 +1137,22 @@ window.AGP_FEED_CONFIG = {
   set(); v.addEventListener('loadedmetadata',set); v.addEventListener('play',set);
 })();
 </script>
+
+<script>
+(function(){
+  var v=document.querySelector('.hero__video'); if(!v) return;
+  v.muted=true; v.defaultMuted=true; v.setAttribute('muted','');
+  function go(){ try{ var p=v.play(); if(p&&p.catch) p.catch(function(){}); }catch(e){} }
+  var evs=['touchstart','touchend','pointerdown','scroll','click','keydown'];
+  function kick(){ go(); if(!v.paused){ evs.forEach(function(e){ window.removeEventListener(e,kick); }); } }
+  evs.forEach(function(e){ window.addEventListener(e,kick,{passive:true}); });
+  document.addEventListener('visibilitychange',function(){ if(!document.hidden) go(); });
+  window.addEventListener('pageshow',go);
+  v.addEventListener('loadeddata',go);
+  v.addEventListener('stalled',function(){ setTimeout(go,800); });
+  v.addEventListener('pause',function(){ if(!document.hidden) setTimeout(go,300); });
+  go();
+})();
+</script>
 </body>
 </html>
