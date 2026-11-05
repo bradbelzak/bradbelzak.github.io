@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
 build_feed.py - refresh agp/assets/feed.json for the acuityglobalpartners.com
-public sector news ticker and the "What We Are Watching" strip.
+government affairs and global risk news ticker.
 
-Run on a schedule by .github/workflows/refresh-feed.yml. Pulls public sector
-trade press RSS plus the Federal Register API, drops anything older than
-MAX_AGE_DAYS, asks Haiku to pick and categorise the strongest items for an
-executive public sector advisory audience, and writes feed.json.
+Run on a schedule by .github/workflows/refresh-feed.yml. Pulls Washington and
+foreign policy press RSS plus presidential documents from the Federal Register
+API, drops anything older than MAX_AGE_DAYS, asks Haiku to pick and categorise
+the strongest items for an executive audience watching U.S. policy and global
+risk, and writes feed.json.
 
 Failure philosophy: degrade, never freeze, never lie.
   - Model call fails  -> publish the freshest headlines, categories by source,
@@ -43,77 +44,103 @@ OUT_PATH = os.path.join(
 
 MAX_AGE_DAYS = 7        # nothing older than this ever reaches the ticker
 MAX_STORIES = 8         # how many end up in the ticker
-MAX_CANDIDATES = 45     # cap on what we hand the model
+MAX_CANDIDATES = 160    # cap on what we score and hand the model (12 feeds x up to 12 items, plus Federal Register)
 PER_FEED = 12           # entries pulled per RSS source
 
 FEEDS = [
-    ("FedScoop", "https://fedscoop.com/feed/"),
-    ("DefenseScoop", "https://defensescoop.com/feed/"),
-    ("Nextgov", "https://www.nextgov.com/rss/all/"),
-    ("MeriTalk", "https://www.meritalk.com/feed/"),
-    ("Federal News Network", "https://federalnewsnetwork.com/feed/"),
+    # Government affairs: Congress, the White House, agencies
+    ("Roll Call", "https://rollcall.com/feed/"),
+    ("Politico Congress", "https://rss.politico.com/congress.xml"),
     ("Government Executive", "https://www.govexec.com/rss/all/"),
+    ("Federal News Network", "https://federalnewsnetwork.com/feed/"),
+    # Global risk as it bears on the United States
+    ("Foreign Policy", "https://foreignpolicy.com/feed/"),
+    ("War on the Rocks", "https://warontherocks.com/feed/"),
+    ("Just Security", "https://www.justsecurity.org/feed/"),
+    ("Atlantic Council", "https://www.atlanticcouncil.org/feed/"),
+    ("State Department", "https://www.state.gov/rss-feed/press-releases/feed/"),
+    ("Defense One", "https://www.defenseone.com/rss/all/"),
     ("Breaking Defense", "https://breakingdefense.com/feed/"),
     ("CyberScoop", "https://cyberscoop.com/feed/"),
-    ("Washington Technology", "https://washingtontechnology.com/rss/all/"),
-    ("GovConWire", "https://www.govconwire.com/feed/"),
 ]
 
 # Categories the ticker displays. Keep this list short; it renders as a chip.
 CATEGORIES = [
-    "Acquisition and Contracting",
-    "AI and Cybersecurity",
-    "Compliance and Security",
-    "Budget and Appropriations",
+    "Congress and Legislation",
+    "White House and Agencies",
+    "Trade, Tariffs and Sanctions",
     "Defense and National Security",
-    "Policy and Regulation",
-    "Technology Modernization",
+    "Geopolitics and Global Risk",
+    "Cyber and Technology Risk",
 ]
 
 # Fallback category by source, used only when the model call fails.
 SOURCE_CATEGORY = {
-    "DefenseScoop": "Defense and National Security",
+    "Roll Call": "Congress and Legislation",
+    "Politico Congress": "Congress and Legislation",
+    "Government Executive": "White House and Agencies",
+    "Federal News Network": "White House and Agencies",
+    "Federal Register": "White House and Agencies",
+    "Foreign Policy": "Geopolitics and Global Risk",
+    "War on the Rocks": "Defense and National Security",
+    "Just Security": "Geopolitics and Global Risk",
+    "Atlantic Council": "Geopolitics and Global Risk",
+    "State Department": "Geopolitics and Global Risk",
+    "Defense One": "Defense and National Security",
     "Breaking Defense": "Defense and National Security",
-    "CyberScoop": "AI and Cybersecurity",
-    "Federal Register": "Policy and Regulation",
-    "Washington Technology": "Acquisition and Contracting",
-    "GovConWire": "Acquisition and Contracting",
+    "CyberScoop": "Cyber and Technology Risk",
 }
 
-# Relevance scoring for the no-model path (added 2026-08-25). Before this,
-# heuristic_pick took the newest items, and the morning Federal Register batch
-# (every document stamped noon UTC) filled all eight slots with rules that
-# have nothing to do with selling into government. Now each candidate is
-# scored on contractor and compliance keywords, source balance is enforced,
-# and the Federal Register is capped.
+# Relevance scoring for the no-model path. Retargeted 2026-11-02 from
+# contractor news to government affairs and global risk as they bear on the
+# United States. Each candidate is scored on policy and risk keywords, a U.S.
+# anchor is rewarded, campaign horse-race and culture content is pushed down,
+# source balance is enforced, and the Federal Register is capped.
 KEYWORD_WEIGHTS = [
-    # compliance gates
-    (r"\bcmmc\b", 6), (r"\bfedramp\b", 6), (r"\bnist\b", 3), (r"\bcompliance\b", 4),
-    (r"\bcertification", 3), (r"\bzero trust\b", 3), (r"\bsupply chain\b", 3),
-    (r"\bsam\.gov\b", 4), (r"\bfalse claims\b", 4), (r"\bdfars\b", 5), (r"\bfar\b", 3),
-    (r"\bexport control|\bitar\b|\bear\b", 3), (r"\bsecurity clearance|\bcleared\b", 3),
-    # contracting and acquisition
-    (r"\bcontract", 4), (r"\bawards?\b", 3), (r"\bprocurement\b", 4), (r"\bacquisition\b", 4),
-    (r"\bsolicitation|\brfp\b|\brfi\b", 4), (r"\bidiq\b|\bgwac\b|\bbpa\b|\bota\b", 4),
-    (r"\bgsa\b|\bschedule\b", 3), (r"\bsmall business\b|\bsbir\b|\bsttr\b", 4),
-    (r"\bprotest\b", 3), (r"\bvendor|\bcontractor|\bprime\b|\bsubcontract", 4),
-    (r"\bdiu\b|\bafwerx\b|\bsofwerx\b", 3), (r"\bteaming\b|\bpartnership\b", 2),
-    # budget
-    (r"\bappropriation|\bbudget\b|\bcontinuing resolution|\bshutdown\b", 4),
-    (r"\bndaa\b", 4),
-    # technology adoption
-    (r"\bartificial intelligence\b|\bai\b", 2), (r"\bcloud\b", 2), (r"\bmodernization\b", 2),
-    (r"\bcounter-uas\b|\bdrone", 3), (r"\bcyber", 2), (r"\bstartup|\bventure\b", 3),
+    # government affairs: Congress, the White House, agencies, courts
+    (r"\bcongress|\bsenate\b|\bhouse\b|\blawmakers?\b|\bcommittee\b", 3),
+    (r"\bbill\b|\blegislation\b|\bndaa\b|\bappropriation|\bbudget\b|\bfunding\b", 4),
+    (r"\bcontinuing resolution\b|\bshutdown\b|\bdebt ceiling\b|\breconciliation\b", 5),
+    (r"\bwhite house\b|\bexecutive order\b|\badministration\b|\bproclamation\b|\bmemorandum\b", 3),
+    (r"\bregulat|\brule\b|\brulemaking\b|\bagency\b|\bagencies\b|\bdelegation of authority\b", 2),
+    (r"\bsupreme court\b|\bfederal judge\b|\bcourt\b", 1),
+    (r"\bconfirm(ed|ation)\b|\bnominee\b|\bhearing\b|\boversight\b|\binspector general\b", 3),
+    # trade, sanctions and economic statecraft
+    (r"\btariffs?\b|\bduties\b|\badjusting imports\b|\bsection 232\b|\bsection 301\b|\btrade\b", 5),
+    (r"\bsanction|\bofac\b|\bexport control|\bentity list\b|\bcfius\b|\boutbound investment\b", 6),
+    (r"\bdefense production act\b|\bcritical minerals?\b|\bsupply chains?\b|\brare earth", 5),
+    # geopolitics and global risk
+    (r"\bchina\b|\bbeijing\b|\btaiwan\b|\brussia\b|\bukraine\b|\biran\b|\bnorth korea\b", 4),
+    (r"\bisrael\b|\bgaza\b|\bhouthi|\bred sea\b|\bstrait of hormuz\b|\bmiddle east\b|\bgulf\b", 3),
+    (r"\bnato\b|\ballies\b|\balliance\b|\bquad\b|\bg7\b|\bg20\b|\bindo-pacific\b|\bpacific\b", 3),
+    (r"\bwar\b|\bconflict\b|\bmissiles?\b|\bnuclear\b|\bdeterren|\bescalat|\bceasefire\b", 3),
+    (r"\bpentagon\b|\bdefense\b|\bmilitary\b|\btroops?\b|\bforce posture\b|\bintelligence\b", 2),
+    (r"\bterror|\bespionage\b|\bspy|\bcounterintelligence\b|\bforeign interference\b", 3),
+    (r"\bstate department\b|\bsecretary of state\b|\brubio\b|\bdiplomat|\bsummit\b|\btreaty\b", 2),
+    # cyber and technology risk
+    (r"\bcyber|\bransomware\b|\bhack|\bvulnerabilit|\bcisa\b|\bcritical infrastructure\b", 3),
+    (r"\bartificial intelligence\b|\bai\b|\bsemiconductor|\bchips?\b|\bquantum\b", 2),
+    # the U.S. anchor
+    (r"\bu\.s\.|\bunited states\b|\bamerica|\bwashington\b|\bfederal\b", 2),
 ]
 NEGATIVE_WEIGHTS = [
-    (r"\bcorrection\b", -6), (r"\btechnical amendment", -6), (r"\brestricted area", -8),
-    (r"\bairspace\b", -6), (r"\bfishery|\bfisheries\b", -8), (r"\bmigratory\b", -8),
-    (r"\bpesticide|\btolerance", -8), (r"\bopinion\b|\bcommentary\b", -4),
-    (r"\bobituar|\bpodcast\b|\bwebinar\b", -5), (r"\bwaiver and extension", -6),
-    (r"\bappeals?\b", -3),
+    # campaign horse race, partisan personalities, polling
+    (r"\bcampaign\b|\bpolls?\b|\bpolling\b|\bsurvey\b|\bballots?\b|\bvoters?\b|\bmidterm|\bprimary\b", -4),
+    (r"\braid\b|\bfeud\b|\bslams?\b|\brips\b|\bblasts?\b", -5),
+    # culture, reviews, quizzes, lifestyle, personal finance
+    (r"\breview\b|\bbooks?\b|\bnetflix\b|\bfilm\b|\bmovie\b|\bculture\b|\bbaseball\b|\bsports?\b", -8),
+    (r"\bquiz\b|\bwhat in the world\b|\bpodcast\b|\bwebinar\b|\bvideo\b|\bobituar", -6),
+    (r"\bretire(e|es|ment)\b|\btsp\b|\bfers\b|\bpurchasing power\b|\bwi-fi\b|\bmovers (&|and) shakers\b", -6),
+    (r"\bnational day\b|\bindependence day\b|\b(month|week|day), 20\d\d\b|\bon the occasion\b|\bcongratulat", -8),
+    (r"\bearly edition\b|\bcorrection\b|\btechnical amendment", -6),
+    # press-mention and collection pages that point elsewhere instead of reporting
+    (r"\bquoted in\b|\bjoins .* (podcast|panel|show)\b|^collection:|\bfor the [a-z ]+(tribune|review|journal):", -10),
+    # electoral contests and personnel moves
+    (r"\bendorse|\bchalleng(e|es|ing) [a-z]+ [a-z]+$|\bincumbent|\bcandidates?\b|\bsenate nominee\b|\brace\b|\bbacklash\b", -5),
+    (r"\bacting role\b|\bsteps down\b|\bnamed (as )?(new )?(chief|director|head)\b|\bappointed\b", -5),
 ]
 FEDREG_CAP = 1            # at most this many Federal Register items in the ticker
-PER_SOURCE_CAP = 3        # keep the ticker from reading like one outlet
+PER_SOURCE_CAP = 2        # keep the ticker from reading like one outlet
 
 
 def relevance(item):
@@ -123,39 +150,40 @@ def relevance(item):
         if re.search(pat, text):
             score += w
     base = item["source"].split(" - ")[0]
-    if base in ("Washington Technology", "GovConWire"):
-        score += 2          # contractor press is on-topic by construction
     if base == "Federal Register":
-        score -= 3          # rules need to earn their slot on keywords alone
+        score += 1          # presidential documents are primary-source policy moves
     return score
 
 
 def category_for(item):
-    """Keyword-first category, source fallback. Used on the no-model path."""
-    text = (item.get("title", "") + " " + item.get("summary", "")).lower()
-    if re.search(r"cmmc|fedramp|compliance|certification|zero trust|false claims|dfars|clearance", text):
-        return "Compliance and Security"
-    if re.search(r"appropriation|budget|continuing resolution|shutdown|ndaa", text):
-        return "Budget and Appropriations"
-    if re.search(r"contract|award|procurement|acquisition|solicitation|rfp|idiq|gwac|protest|small business|sbir", text):
-        return "Acquisition and Contracting"
-    if re.search(r"\bai\b|artificial intelligence|cyber", text):
-        return "AI and Cybersecurity"
-    if re.search(r"pentagon|defense|army|navy|air force|space force|dod\b|homeland|counter-uas|drone", text):
-        return "Defense and National Security"
-    if re.search(r"rule|regulation|executive order|policy|legislation|congress", text):
-        return "Policy and Regulation"
+    """Keyword-first category, source fallback. Used on the no-model path.
+    Title is checked before summary so a passing word in a blurb (a "bigger
+    bill", a "trade-off") does not override what the headline is about."""
+    title = item.get("title", "").lower()
+    summary = item.get("summary", "").lower()
+    rules = [
+        ("Trade, Tariffs and Sanctions", r"\btariffs?\b|\bduties\b|\badjusting imports\b|\bsection (232|301)\b|\bsanction|\bofac\b|\bexport controls?\b|\bentity list\b|\bcfius\b|\btrade (deal|war|policy|talks)\b|\busmca\b"),
+        ("Cyber and Technology Risk", r"\bcyber|\bransomware\b|\bhack|\bvulnerabilit|\bcisa\b|\bspyware\b|\bsemiconductor|\bquantum\b"),
+        ("Congress and Legislation", r"\bcongress(ional)?\b|\bsenate\b|\bhouse (passes|votes|committee|republicans|democrats)\b|\blawmakers?\b|\bbill\b|\blegislation\b|\bndaa\b|\bappropriations?\b|\bcontinuing resolution\b|\bshutdown\b"),
+        ("Geopolitics and Global Risk", r"\bchina\b|\btaiwan\b|\brussia\b|\bukrain|\biran\b|\bnorth korea\b|\bisrael\b|\bgaza\b|\bhouthi|\bnato\b|\bquad\b|\bg(7|20)\b|\bmiddle east\b|\bvenezuela\b|\bsaudi\b|\bturk(ey|ish)\b|\btaliban\b"),
+        ("Defense and National Security", r"\bpentagon\b|\bdefense\b|\bmilitary\b|\barmy\b|\bnavy\b|\bair force\b|\bspace force\b|\btroops?\b|\bintelligence\b|\bmissiles?\b"),
+        ("White House and Agencies", r"\bwhite house\b|\bexecutive order\b|\badministration\b|\bproclamation\b|\bmemorandum\b|\bdetermination\b|\bagenc(y|ies)\b|\bregulat|\bpresidential\b"),
+    ]
+    for text in (title, summary):
+        for cat, pat in rules:
+            if re.search(pat, text):
+                return cat
     base = item["source"].split(" - ")[0]
-    return SOURCE_CATEGORY.get(base, "Technology Modernization")
+    return SOURCE_CATEGORY.get(base, "Geopolitics and Global Risk")
 
-SELECTION_PROMPT = """You are curating a public sector news ticker on the website of Acuity Global Partners, a Washington DC advisory that helps technology companies and their investors enter, operate, and win in government markets. The audience is agency executives, govtech founders, and investors.
+SELECTION_PROMPT = """You are curating a news ticker on the website of Acuity Global Partners, a Washington DC firm that advises companies, investors, and boards on government strategy and global risk. The audience is executives, investors, and boards whose businesses are exposed to U.S. government decisions and to international events that affect the United States.
 
-Pick the {n} items most useful to that audience. Favour: procurement and contract actions, budget and appropriations moves, compliance gates such as FedRAMP and CMMC, agency technology adoption, defense acquisition, and regulation that changes how companies sell into government. Avoid personnel trivia, routine event notices, opinion columns, and anything that is not actionable for a company selling to government.
+Pick the {n} items most useful to that audience. Favour: actions by Congress, the White House, and federal agencies; budget and appropriations; tariffs, sanctions, export controls, and investment screening; defense and national security policy; and international developments with clear consequences for the United States, its allies, or U.S. companies operating abroad. Avoid campaign horse-race coverage, partisan personality stories, polls, opinion columns, book and culture reviews, personnel trivia, and anything without a clear U.S. policy or risk implication. Stay strictly nonpartisan.
 
 For each item you pick, return:
 - i: the item's index
 - category: exactly one of {categories}
-- why: one sentence, max 20 words, on why it matters to a company selling into government. Plain declarative prose, no hype, no em dashes.
+- why: one sentence, max 20 words, on why it matters to an executive or investor watching U.S. policy and global risk. Plain declarative prose, no hype, no em dashes.
 
 Items:
 {items}
@@ -272,7 +300,8 @@ def fetch_rss(cutoff):
 
 
 def fetch_federal_register(cutoff):
-    """Rules and proposed rules from the Federal Register API. No key needed."""
+    """Presidential documents (executive orders, proclamations, memoranda,
+    determinations) from the Federal Register API. No key needed."""
     try:
         resp = requests.get(
             "https://www.federalregister.gov/api/v1/documents.json",
@@ -280,8 +309,8 @@ def fetch_federal_register(cutoff):
                 "per_page": 20,
                 "order": "newest",
                 "fields[]": ["title", "html_url", "publication_date",
-                             "type", "agencies", "abstract"],
-                "conditions[type][]": ["RULE", "PRORULE"],
+                             "type", "subtype", "agencies", "abstract"],
+                "conditions[type][]": ["PRESDOCU"],
                 "conditions[publication_date][gte]": cutoff.strftime("%Y-%m-%d"),
             },
             timeout=25,
@@ -304,7 +333,9 @@ def fetch_federal_register(cutoff):
         agency = ""
         if agencies and isinstance(agencies[0], dict):
             agency = agencies[0].get("name", "") or ""
-        summary = _clean(d.get("abstract", "")) or _clean(d.get("type", ""))
+        subtype = _clean(d.get("subtype", "")) or "document"
+        summary = _clean(d.get("abstract", "")) or (
+            f"Presidential {subtype.lower()} published in the Federal Register.")
         out.append({
             "title": title,
             "url": url,
@@ -336,10 +367,9 @@ def dedupe(items):
 def heuristic_pick(items):
     """Used when the model call is unavailable.
 
-    Ranked by contractor and compliance relevance (recency breaks ties), with
+    Ranked by government affairs and global risk relevance (recency breaks ties), with
     a per-source cap and a Federal Register cap so the ticker reads like a
-    government-contracting desk, not the newest eight lines of whatever came
-    in. Blurb comes from the item's own RSS description.
+    policy and risk desk, not the newest eight lines of whatever came in. Blurb comes from the item's own RSS description.
     """
     ranked = sorted(items, key=lambda it: (relevance(it), it["published"]), reverse=True)
     picked, per_source = [], {}
@@ -412,7 +442,7 @@ def model_pick(items):
         cat = str(p.get("category", "")).strip()
         if cat not in CATEGORIES:
             cat = SOURCE_CATEGORY.get(it["source"].split(" - ")[0],
-                                      "Technology Modernization")
+                                      "Geopolitics and Global Risk")
         why = str(p.get("why", "")).strip()[:200]
         if not why:
             why = _first_sentence(it.get("summary", ""))
