@@ -1,6 +1,6 @@
 name: refresh-news-feed
 
-# Refreshes agp/assets/feed.json for the public sector ticker on
+# Refreshes agp/assets/feed.json for the government affairs and global risk ticker on
 # acuityglobalpartners.com. Commits only when the story list actually changes,
 # so Pages is not rebuilt for nothing and the commit history stays readable.
 #
@@ -102,5 +102,5 @@ jobs:
           fi
 
           git add agp/assets/feed.json
-          git commit -m "feed: refresh public sector ticker"
+          git commit -m "feed: refresh government affairs and global risk ticker"
           git push
