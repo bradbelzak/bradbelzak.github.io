@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-04T22:33:51.452707Z",
+ "updatedAt": "2026-11-05T02:18:53.769536Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Pentagon sued over its Project Meridian advisory committee",
+   "url": "https://federalnewsnetwork.com/litigation/2026/11/pentagon-sued-over-its-project-meridian-advisory-committee/",
+   "source": "Federal News Network",
+   "category": "Acquisition and Contracting",
+   "published": "2026-11-04T22:59:18Z",
+   "why": "\"DoD is trying to make this out to be some kind of contractor-like service, but that's not how the memo lays out the work of the committee,” Scott Amey said."
+  },
   {
    "title": "GSA fills two key leadership positions",
    "url": "https://federalnewsnetwork.com/people/2026/11/gsa-fills-two-key-leadership-positions/",
@@ -35,14 +43,6 @@
    "category": "Acquisition and Contracting",
    "published": "2026-11-04T17:49:53Z",
    "why": "Jennifer Hill is the new commissioner of the Federal Acquisition Service, the agency’s contracting operation recently involved in artificial intelligence..."
-  },
-  {
-   "title": "India taps two domestic shipbuilders for $5.7B corvette program",
-   "url": "https://breakingdefense.com/2026/11/india-taps-two-domestic-shipbuilders-for-5-7b-corvette-program/",
-   "source": "Breaking Defense",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T17:37:32Z",
-   "why": "India awarded Garden Reach Shipbuilders & Engineers and Goa Shipyard Limited contracts to build five and three corvettes, respectively, for the country’s navy."
   },
   {
    "title": "GSA names new acquisition chief after months with acting leader",
