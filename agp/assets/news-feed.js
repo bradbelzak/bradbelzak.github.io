@@ -47,10 +47,10 @@
       bar = document.createElement("div");
       bar.id = "nf-ticker"; bar.className = "nf-ticker";
       bar.setAttribute("role", "region");
-      bar.setAttribute("aria-label", "Latest U.S. public sector developments — scrolling headlines");
+      bar.setAttribute("aria-label", "Latest U.S. government affairs and global risk developments, scrolling headlines");
       bar.innerHTML =
         '<span class="nf-ticker-label">' +
-          '<span class="nf-tdot" aria-hidden="true"></span><span>Public Sector News</span></span>' +
+          '<span class="nf-tdot" aria-hidden="true"></span><span>Industry News</span></span>' +
         '<div class="nf-ticker-viewport"><div class="nf-ticker-track" id="nf-tick-track"></div></div>';
       hero.parentNode.insertBefore(bar, hero);
       /* Not pinned. The ticker belongs to the landing screen and scrolls away
@@ -136,12 +136,10 @@
     var stale = ageH > STALE_AFTER_HOURS;
 
     if (dot) {
-      dot.style.background = stale ? "#8a8f98" : "";
-      dot.style.animation = stale ? "none" : "";
-      dot.style.boxShadow = stale ? "none" : "";
+      /* Dot stays green and pulsing; staleness shows only in the tooltip. */
     }
     if (label) {
-      label.textContent = stale ? "Public Sector News (delayed)" : "Public Sector News";
+      label.textContent = "Industry News";
     }
     bar.setAttribute("data-state", stale ? "stale" : "live");
     bar.setAttribute(

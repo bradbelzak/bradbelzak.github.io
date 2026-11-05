@@ -1,72 +1,72 @@
 {
- "updatedAt": "2026-11-05T02:18:53.769536Z",
+ "updatedAt": "2026-11-02T18:42:27.615327Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Pentagon sued over its Project Meridian advisory committee",
-   "url": "https://federalnewsnetwork.com/litigation/2026/11/pentagon-sued-over-its-project-meridian-advisory-committee/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T22:59:18Z",
-   "why": "\"DoD is trying to make this out to be some kind of contractor-like service, but that's not how the memo lays out the work of the committee,” Scott Amey said."
-  },
-  {
-   "title": "GSA fills two key leadership positions",
-   "url": "https://federalnewsnetwork.com/people/2026/11/gsa-fills-two-key-leadership-positions/",
-   "source": "Federal News Network",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T21:35:53Z",
-   "why": "Jennifer Hill and Mark Weiss join the General Services Administration to lead the Federal Acquisition Service and Public Buildings Service, respectively."
-  },
-  {
-   "title": "Meet the physicists making NIST the epicenter of quantum advancement",
-   "url": "https://fedscoop.com/nist-quantum-physicists-flemming-awards/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T21:35:05Z",
-   "why": "The country’s most notable developments in quantum technology are happening at the agency."
-  },
-  {
-   "title": "FedRAMP grants first ‘Class C’ certification to Perplexity",
-   "url": "https://www.nextgov.com/acquisition/2026/11/fedramp-grants-first-class-c-certification-perplexity/417044/",
-   "source": "Nextgov",
-   "category": "Compliance and Security",
-   "published": "2026-11-04T18:11:00Z",
-   "why": "The new FedRAMP certification gives federal agencies access to Perplexity models, as well as leading frontier AI models."
-  },
-  {
-   "title": "GSA appoints former banking exec as new government contracting head",
-   "url": "https://fedscoop.com/gsa-appoints-jennifer-hill-new-fas-commissioner/",
-   "source": "FedScoop",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T17:49:53Z",
-   "why": "Jennifer Hill is the new commissioner of the Federal Acquisition Service, the agency’s contracting operation recently involved in artificial intelligence..."
-  },
-  {
-   "title": "GSA names new acquisition chief after months with acting leader",
-   "url": "https://www.govexec.com/management/2026/11/gsa-names-new-acquisition-chief-after-months-acting-leader/417039/",
-   "source": "Government Executive",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T16:31:31Z",
-   "why": "Jennifer Hill, a former banking executive who joined the agency in February, will lead the Federal Acquisition Service."
-  },
-  {
-   "title": "Shield AI cofounder teases ‘snowball’ of X-BAT fighter drone announcements in Europe",
-   "url": "https://breakingdefense.com/2026/11/shield-ai-cofounder-teases-snowball-of-x-bat-fighter-drone-announcements-in-europe/",
+   "title": "The fiscal risks of bringing US troops out of Europe",
+   "url": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe/",
    "source": "Breaking Defense",
-   "category": "AI and Cybersecurity",
-   "published": "2026-11-04T16:15:00Z",
-   "why": "Ryan Tseng told Breaking Defense that the prospective deals and new industry pacts will be publicized when “we’re ready to announce them.”"
+   "category": "Defense and National Security",
+   "published": "2026-11-02T18:15:00Z",
+   "why": "Reducing America’s military footprint in Europe may seem fiscally prudent, but relocating troops and giving up overseas bases could leave US taxpayers with a..."
   },
   {
-   "title": "Former banking executive named GSA acquisition lead",
-   "url": "https://www.nextgov.com/people/2026/11/former-banking-executive-named-gsa-acquisition-lead/417037/",
-   "source": "Nextgov",
-   "category": "Acquisition and Contracting",
-   "published": "2026-11-04T15:44:00Z",
-   "why": "The Federal Acquisition Service has been headed by an acting commissioner since April."
+   "title": "Constitutional Collision Course",
+   "url": "https://www.justsecurity.org/162909/constitutional-collision-course/?utm_source=rss&utm_medium=rss&utm_campaign=constitutional-collision-course",
+   "source": "Just Security",
+   "category": "Congress and Legislation",
+   "published": "2026-11-02T14:04:39Z",
+   "why": "How Congress can help bolster federal judges and help stop Trump administration noncompliance with court orders."
+  },
+  {
+   "title": "How to prevent an energy quarantine of Taiwan",
+   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/how-to-prevent-an-energy-quarantine-of-taiwan/",
+   "source": "Atlantic Council",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-02T14:00:00Z",
+   "why": "An all-of-the-above energy strategy in Taiwan can help the United States and allies deter a Chinese energy quarantine of the island."
+  },
+  {
+   "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
+   "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
+   "source": "Federal Register - Executive Office of the President",
+   "category": "Trade, Tariffs and Sanctions",
+   "published": "2026-11-02T12:00:00Z",
+   "why": "Presidential proclamation published in the Federal Register."
+  },
+  {
+   "title": "US greenlights 500 Patriot missiles for Ukraine, with $2.1 billion to be paid by allies",
+   "url": "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies/",
+   "source": "Breaking Defense",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-10-30T20:17:22Z",
+   "why": "The announcement comes amid heightened tensions between Kyiv and Washington, including purported delays in the transfer of interceptors."
+  },
+  {
+   "title": "Syrian hacker who served Assad regime gets 42 months in US prison",
+   "url": "https://cyberscoop.com/syrian-hacker-ahmad-umar-agha-sentenced/",
+   "source": "CyberScoop",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-10-30T14:33:22Z",
+   "why": "Ahmad Umar Agha is best known for posting a fake Associated Press tweet claiming President Obama was injured in a White House bombing."
+  },
+  {
+   "title": "The Next Congress Needs to Reclaim Its Oversight of the Department of Defense",
+   "url": "https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/",
+   "source": "War on the Rocks",
+   "category": "Congress and Legislation",
+   "published": "2026-10-28T07:30:00Z",
+   "why": "Since returning to office in January 2025, the Trump administration has aggressively exercised executive authority across the federal government."
+  },
+  {
+   "title": "Tensions Rise",
+   "url": "https://warontherocks.com/tensions-rise/",
+   "source": "War on the Rocks",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-10-26T19:45:41Z",
+   "why": "Welcome to The Adversarial."
   }
  ]
 }
