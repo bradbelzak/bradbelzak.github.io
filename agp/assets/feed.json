@@ -1,16 +1,24 @@
 {
- "updatedAt": "2026-11-05T19:52:18.434654Z",
+ "updatedAt": "2026-11-05T22:38:56.361467Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Harmeet Dhillon exits after radical overhaul of Justice Department’s Civil Rights Division",
-   "url": "https://federalnewsnetwork.com/people/2026/11/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division/",
+   "title": "Republicans have a ticking clock. What can they get done on defense?",
+   "url": "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense/",
+   "source": "Breaking Defense",
+   "category": "Defense and National Security",
+   "published": "2026-11-05T21:55:18Z",
+   "why": "Reconciliation, defense appropriations and the NDAA will all fight for attention as Congress considers the impeachment of Defense Secretary Pete Hegseth."
+  },
+  {
+   "title": "DHS to face aggressive investigations, oversight in next Congress",
+   "url": "https://federalnewsnetwork.com/congress/2026/11/dhs-to-face-aggressive-investigations-oversight-in-next-congress/",
    "source": "Federal News Network",
    "category": "Congress and Legislation",
-   "published": "2026-11-05T19:08:07Z",
-   "why": "FILE - Harmeet Dhillon speaks with a member of the audience after testifying at a House Committee on House Administration hearing on Capitol Hill in..."
+   "published": "2026-11-05T20:10:44Z",
+   "why": "Democrats are previewing plans to pursue aggressive oversight and investigations at DHS, ranging from ICE's rapid expansion to staffing cuts at CISA."
   },
   {
    "title": "A Democratic Congress could derail major Pentagon plans and put Hegseth under pressure",
@@ -35,14 +43,6 @@
    "category": "Trade, Tariffs and Sanctions",
    "published": "2026-11-04T18:02:50Z",
    "why": "Trump’s tariffs are unpopular, and lawmakers want to claw back their authority."
-  },
-  {
-   "title": "EXCLUSIVE: House China committee pushes Air Force on think tank cuts",
-   "url": "https://breakingdefense.com/2026/11/house-china-committee-pushes-air-force-on-think-tank-cuts/",
-   "source": "Breaking Defense",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-04T16:28:45Z",
-   "why": "“Under-resourcing” the China Aerospace Studies Institute (CASI) “could risk undermining the ability of military leaders and civilian policymakers to..."
   },
   {
    "title": "Industry groups want cyber threat-sharing law renewed through defense authorization bill",
