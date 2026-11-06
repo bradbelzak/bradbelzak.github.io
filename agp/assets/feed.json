@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-11-06T19:16:58.687948Z",
+ "updatedAt": "2026-11-06T22:01:44.008510Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
+   "url": "https://www.govexec.com/management/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417104/",
+   "source": "Government Executive",
+   "category": "White House and Agencies",
+   "published": "2026-11-06T19:57:48Z",
+   "why": "Several government oversight reports have found that agencies made costly operational errors as they implemented the administration’s cost-cutting directives."
+  },
+  {
+   "title": "'Permanent, serious' dialogue needed with China on AI: tech-focused lawmaker",
+   "url": "https://www.defenseone.com/policy/2026/11/ai-dialogue-china-congress/417105/",
+   "source": "Defense One",
+   "category": "Congress and Legislation",
+   "published": "2026-11-06T18:00:00Z",
+   "why": "“The Chinese Communist Party doesn’t want rogue AI agents hacking their systems and their water authorities any more than we do,” Rep."
+  },
   {
    "title": "Justice Department creates new task force to police AI misuse",
    "url": "https://www.govexec.com/technology/2026/11/department-justice-forms-ai-task-force/417075/",
@@ -37,28 +53,12 @@
    "why": "Reconciliation, defense appropriations and the NDAA will all fight for attention as Congress considers the impeachment of Defense Secretary Pete Hegseth."
   },
   {
-   "title": "Meeks vows Iran votes as he seeks Foreign Affairs gavel",
-   "url": "https://rollcall.com/2026/11/05/meeks-vows-iran-votes-as-he-seeks-foreign-affairs-gavel/",
-   "source": "Roll Call",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-05T20:46:42Z",
-   "why": "Rep."
-  },
-  {
    "title": "Dem lawmakers vow inquest into CISA cuts, intel policy",
    "url": "https://www.defenseone.com/policy/2026/11/democrats-midterm-sweep-puts-cisa-cuts-intelligence-disputes-under-scrutiny/417058/",
    "source": "Defense One",
    "category": "Cyber and Technology Risk",
    "published": "2026-11-04T22:00:00Z",
    "why": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the..."
-  },
-  {
-   "title": "Industry groups want cyber threat-sharing law renewed through defense authorization bill",
-   "url": "https://www.defenseone.com/policy/2026/11/industry-groups-cyber-sharing-law/416993/",
-   "source": "Defense One",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-11-02T23:00:00Z",
-   "why": "Banks, utilities, and other industries are asking lawmakers to extend liability protections through 2035."
   },
   {
    "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
