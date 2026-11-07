@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-06T22:01:44.008510Z",
+ "updatedAt": "2026-11-07T01:50:41.789770Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "To settle Russia’s Ukraine war, Europe needs to let Kyiv in. Trump can help (really).",
+   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/to-settle-russias-ukraine-war-europe-needs-to-let-kyiv-in-trump-can-help-really/",
+   "source": "Atlantic Council",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-06T21:20:00Z",
+   "why": "Any deal to end the war in Ukraine must fix a date for Kyiv to join the EU, but countless hurdles stand in the way."
+  },
   {
    "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
    "url": "https://www.govexec.com/management/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417104/",
@@ -35,14 +43,6 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-06T08:30:05Z",
    "why": "In the lead-up to General Secretary Xi Jinping’s September 2026 visit to the White House to discuss, among other topics, AI, U.S."
-  },
-  {
-   "title": "Harmeet Dhillon exits after radical overhaul of Justice Department’s Civil Rights Division",
-   "url": "https://federalnewsnetwork.com/people/2026/11/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division/",
-   "source": "Federal News Network",
-   "category": "Congress and Legislation",
-   "published": "2026-11-05T22:26:52Z",
-   "why": "FILE - Harmeet Dhillon speaks with a member of the audience after testifying at a House Committee on House Administration hearing on Capitol Hill in..."
   },
   {
    "title": "Republicans have a ticking clock. What can they get done on defense?",
