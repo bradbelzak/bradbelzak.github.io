@@ -850,6 +850,8 @@ footer{padding:26px 60px;border-top:1px solid var(--line);color:var(--dim);font-
 }
 }
 button,input,select,textarea{font-family:inherit}
+.hero__video::-webkit-media-controls,.hero__video::-webkit-media-controls-start-playback-button{display:none!important;-webkit-appearance:none}
+img.hero__anim{object-fit:cover}
 </style>
 <link rel="stylesheet" href="agp/assets/news-feed.css?v=2">
 <link rel="stylesheet" href="agp/assets/spacing-audit.css?v=2">
@@ -1367,7 +1369,21 @@ window.AGP_FEED_CONFIG = {
 (function(){
   var v=document.querySelector('.hero__video'); if(!v) return;
   v.muted=true; v.defaultMuted=true; v.setAttribute('muted',''); v.loop=true;
-  function go(){ try{ var p=v.play(); if(p&&p.catch) p.catch(function(){}); }catch(e){} }
+  var swapped=false;
+  function swap(){
+    if(swapped) return; swapped=true;
+    var img=document.createElement('img');
+    img.className=v.className+' hero__anim'; img.alt=''; img.setAttribute('aria-hidden','true');
+    img.decoding='async'; img.src='agp/assets/agp-hero.webp';
+    v.parentNode.insertBefore(img,v); v.remove();
+  }
+  var denied=0;
+  function go(){
+    if(swapped) return;
+    try{ var p=v.play(); if(p&&p.catch) p.catch(function(err){ if(err&&err.name==='NotAllowedError'&&++denied>=2) swap(); }); }catch(e){}
+  }
+  // if the browser blocks autoplay, confirm quickly with a second attempt, then swap
+  v.addEventListener('canplay',function(){ if(v.paused) setTimeout(go,400); },{once:true});
   // start the moment enough is buffered, not only at the autoplay check
   ['loadedmetadata','loadeddata','canplay','canplaythrough'].forEach(function(e){ v.addEventListener(e,function(){ if(v.paused) go(); }); });
   // guarantee the loop even where the loop attribute is ignored
@@ -1380,10 +1396,10 @@ window.AGP_FEED_CONFIG = {
   window.addEventListener('pageshow',go);
   // last resort where the browser blocks autoplay: first touch or scroll starts it
   var evs=['touchstart','touchend','pointerdown','scroll','click','keydown'];
-  function kick(){ go(); if(!v.paused){ evs.forEach(function(e){ window.removeEventListener(e,kick); }); } }
+  function kick(){ if(swapped){ evs.forEach(function(e){ window.removeEventListener(e,kick); }); return; } go(); if(!v.paused){ evs.forEach(function(e){ window.removeEventListener(e,kick); }); } }
   evs.forEach(function(e){ window.addEventListener(e,kick,{passive:true}); });
   // watchdog: if nothing is playing a few seconds in, nudge again
-  var tries=0, t=setInterval(function(){ if(!v.paused || ++tries>10){ clearInterval(t); return; } v.load&&v.readyState===0&&v.load(); go(); },1500);
+  var tries=0, t=setInterval(function(){ if(swapped || !v.paused || ++tries>10){ clearInterval(t); return; } v.load&&v.readyState===0&&v.load(); go(); },1500);
   if(v.readyState>=2) go(); else v.load();
   go();
 })();
