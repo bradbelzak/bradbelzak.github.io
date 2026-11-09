@@ -1,16 +1,32 @@
 {
- "updatedAt": "2026-11-07T01:50:41.789770Z",
+ "updatedAt": "2026-11-09T22:14:56.125142Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "To settle Russia’s Ukraine war, Europe needs to let Kyiv in. Trump can help (really).",
-   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/to-settle-russias-ukraine-war-europe-needs-to-let-kyiv-in-trump-can-help-really/",
-   "source": "Atlantic Council",
+   "title": "‘Russ Vought’s gonna meet his match’: What Murkowski’s ascension means for the White House",
+   "url": "https://www.politico.com/news/2026/11/09/lisa-murkowski-trump-appropriations-01155181",
+   "source": "Politico Congress",
+   "category": "White House and Agencies",
+   "published": "2026-11-09T09:45:00Z",
+   "why": "The Alaska Republican has a record of fighting the White House over funding power, and soon she could lock arms with Democrats in that battle."
+  },
+  {
+   "title": "Rethinking Strategic Stability with China: From Coercion to Constructivism",
+   "url": "https://warontherocks.com/rethinking-strategic-stability-with-china-from-coercion-to-constructivism/",
+   "source": "War on the Rocks",
    "category": "Geopolitics and Global Risk",
-   "published": "2026-11-06T21:20:00Z",
-   "why": "Any deal to end the war in Ukraine must fix a date for Kyiv to join the EU, but countless hurdles stand in the way."
+   "published": "2026-11-09T08:30:24Z",
+   "why": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China."
+  },
+  {
+   "title": "The Experts Are Taking Their Revenge Again",
+   "url": "https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/",
+   "source": "Foreign Policy",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-09T08:08:55Z",
+   "why": "The Iran war is the latest example of Washington disregarding intelligence—and suffering the consequences."
   },
   {
    "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
@@ -29,28 +45,12 @@
    "why": "“The Chinese Communist Party doesn’t want rogue AI agents hacking their systems and their water authorities any more than we do,” Rep."
   },
   {
-   "title": "Justice Department creates new task force to police AI misuse",
-   "url": "https://www.govexec.com/technology/2026/11/department-justice-forms-ai-task-force/417075/",
-   "source": "Government Executive",
-   "category": "Defense and National Security",
-   "published": "2026-11-06T13:00:00Z",
-   "why": "The group will coordinate the department’s criminal and civil enforcement efforts involving AI and serve as its main link to the White House’s Super..."
-  },
-  {
    "title": "Can Washington and China Build Confidence Around AI and Stability?",
    "url": "https://warontherocks.com/can-washington-and-china-build-confidence-around-ai-and-stability/",
    "source": "War on the Rocks",
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-06T08:30:05Z",
    "why": "In the lead-up to General Secretary Xi Jinping’s September 2026 visit to the White House to discuss, among other topics, AI, U.S."
-  },
-  {
-   "title": "Republicans have a ticking clock. What can they get done on defense?",
-   "url": "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense/",
-   "source": "Breaking Defense",
-   "category": "Defense and National Security",
-   "published": "2026-11-05T21:55:18Z",
-   "why": "Reconciliation, defense appropriations and the NDAA will all fight for attention as Congress considers the impeachment of Defense Secretary Pete Hegseth."
   },
   {
    "title": "Dem lawmakers vow inquest into CISA cuts, intel policy",
