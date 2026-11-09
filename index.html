@@ -12,6 +12,8 @@
 <meta name="geo.placename" content="Washington, DC">
 <meta name="theme-color" content="#050D28">
 <meta name="google-site-verification" content="sIO444nVohROGV6knM55COvAdEU9f0p_Ke-fJIQJSPI">
+<link rel="preload" as="video" href="agp/assets/agp-hero.mp4?v=2" type="video/mp4" media="(min-width: 761px)">
+<link rel="preload" as="video" href="agp/assets/agp-hero-m.mp4" type="video/mp4" media="(max-width: 760px)">
 <link rel="canonical" href="https://acuityglobalpartners.com/">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" type="image/png" sizes="32x32" href="agp/assets/favicon-32.png">
@@ -932,7 +934,7 @@ button,input,select,textarea{font-family:inherit}
        and change src below to "agp/assets/agp-hero.mp4". The draft streams it from Higgsfield's CDN. -->
   <video class="hero__video" autoplay muted loop playsinline preload="auto" aria-hidden="true" poster="agp/assets/agp-hero-poster.jpg">
     <source src="agp/assets/agp-hero-m.mp4" type="video/mp4" media="(max-width: 760px)">
-    <source src="agp/assets/agp-hero.mp4" type="video/mp4">
+    <source src="agp/assets/agp-hero.mp4?v=2" type="video/mp4">
   </video>
   <div class="tint"></div>
   <div class="htitle">
@@ -1364,16 +1366,25 @@ window.AGP_FEED_CONFIG = {
 <script>
 (function(){
   var v=document.querySelector('.hero__video'); if(!v) return;
-  v.muted=true; v.defaultMuted=true; v.setAttribute('muted','');
+  v.muted=true; v.defaultMuted=true; v.setAttribute('muted',''); v.loop=true;
   function go(){ try{ var p=v.play(); if(p&&p.catch) p.catch(function(){}); }catch(e){} }
+  // start the moment enough is buffered, not only at the autoplay check
+  ['loadedmetadata','loadeddata','canplay','canplaythrough'].forEach(function(e){ v.addEventListener(e,function(){ if(v.paused) go(); }); });
+  // guarantee the loop even where the loop attribute is ignored
+  v.addEventListener('ended',function(){ v.currentTime=0; go(); });
+  // recover from stalls and silent pauses
+  v.addEventListener('stalled',function(){ setTimeout(go,800); });
+  v.addEventListener('suspend',function(){ if(v.paused && v.readyState>=3) go(); });
+  v.addEventListener('pause',function(){ if(!document.hidden && !v.ended) setTimeout(go,300); });
+  document.addEventListener('visibilitychange',function(){ if(!document.hidden) go(); });
+  window.addEventListener('pageshow',go);
+  // last resort where the browser blocks autoplay: first touch or scroll starts it
   var evs=['touchstart','touchend','pointerdown','scroll','click','keydown'];
   function kick(){ go(); if(!v.paused){ evs.forEach(function(e){ window.removeEventListener(e,kick); }); } }
   evs.forEach(function(e){ window.addEventListener(e,kick,{passive:true}); });
-  document.addEventListener('visibilitychange',function(){ if(!document.hidden) go(); });
-  window.addEventListener('pageshow',go);
-  v.addEventListener('loadeddata',go);
-  v.addEventListener('stalled',function(){ setTimeout(go,800); });
-  v.addEventListener('pause',function(){ if(!document.hidden) setTimeout(go,300); });
+  // watchdog: if nothing is playing a few seconds in, nudge again
+  var tries=0, t=setInterval(function(){ if(!v.paused || ++tries>10){ clearInterval(t); return; } v.load&&v.readyState===0&&v.load(); go(); },1500);
+  if(v.readyState>=2) go(); else v.load();
   go();
 })();
 </script>
