@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-10T00:39:22.394426Z",
+ "updatedAt": "2026-11-10T04:03:41.673812Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Trump picks Palantir’s LoSapio to head CISA",
+   "url": "https://cyberscoop.com/trump-picks-palantirs-losapio-to-head-cisa/",
+   "source": "CyberScoop",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-10T03:38:11Z",
+   "why": "The Cybersecurity and Infrastructure Security Agency has gone without a Senate-confirmed director for all of Trump’s second term, and Michael LoSapio could..."
+  },
   {
    "title": "Jeffries pushes to restrict China chip exports in defense bill",
    "url": "https://www.politico.com/live-updates/2026/11/09/congress/momentum-builds-on-chip-exports-01157548",
@@ -35,14 +43,6 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-09T08:08:55Z",
    "why": "The Iran war is the latest example of Washington disregarding intelligence—and suffering the consequences."
-  },
-  {
-   "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
-   "url": "https://www.govexec.com/management/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417104/",
-   "source": "Government Executive",
-   "category": "White House and Agencies",
-   "published": "2026-11-06T19:57:48Z",
-   "why": "Several government oversight reports have found that agencies made costly operational errors as they implemented the administration’s cost-cutting directives."
   },
   {
    "title": "'Permanent, serious' dialogue needed with China on AI: tech-focused lawmaker",
