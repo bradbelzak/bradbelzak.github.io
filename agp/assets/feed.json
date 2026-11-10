@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-10T04:03:41.673812Z",
+ "updatedAt": "2026-11-10T19:38:23.540116Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Trahan crafting AI safety bill with narrower state preemption",
+   "url": "https://www.politico.com/live-updates/2026/11/10/congress/trahan-crafting-ai-safety-bill-with-narrower-state-law-preemption-01158965",
+   "source": "Politico Congress",
+   "category": "Congress and Legislation",
+   "published": "2026-11-10T18:07:39Z",
+   "why": "Lawmakers in a Democrat-controlled Congress may be less likely to supersede state AI laws."
+  },
   {
    "title": "Trump picks Palantir’s LoSapio to head CISA",
    "url": "https://cyberscoop.com/trump-picks-palantirs-losapio-to-head-cisa/",
@@ -11,22 +19,6 @@
    "category": "Cyber and Technology Risk",
    "published": "2026-11-10T03:38:11Z",
    "why": "The Cybersecurity and Infrastructure Security Agency has gone without a Senate-confirmed director for all of Trump’s second term, and Michael LoSapio could..."
-  },
-  {
-   "title": "Jeffries pushes to restrict China chip exports in defense bill",
-   "url": "https://www.politico.com/live-updates/2026/11/09/congress/momentum-builds-on-chip-exports-01157548",
-   "source": "Politico Congress",
-   "category": "Congress and Legislation",
-   "published": "2026-11-09T22:35:10Z",
-   "why": "The post-election push comes as Nvidia investigates an alleged Chinese spy effort targeting its CEO."
-  },
-  {
-   "title": "‘Russ Vought’s gonna meet his match’: What Murkowski’s ascension means for the White House",
-   "url": "https://www.politico.com/news/2026/11/09/lisa-murkowski-trump-appropriations-01155181",
-   "source": "Politico Congress",
-   "category": "White House and Agencies",
-   "published": "2026-11-09T09:45:00Z",
-   "why": "The Alaska Republican has a record of fighting the White House over funding power, and soon she could lock arms with Democrats in that battle."
   },
   {
    "title": "Rethinking Strategic Stability with China: From Coercion to Constructivism",
@@ -37,12 +29,12 @@
    "why": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China."
   },
   {
-   "title": "The Experts Are Taking Their Revenge Again",
-   "url": "https://foreignpolicy.com/2026/11/09/trump-iran-cia-intelligence/",
-   "source": "Foreign Policy",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-09T08:08:55Z",
-   "why": "The Iran war is the latest example of Washington disregarding intelligence—and suffering the consequences."
+   "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
+   "url": "https://www.govexec.com/management/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417104/",
+   "source": "Government Executive",
+   "category": "White House and Agencies",
+   "published": "2026-11-06T19:57:48Z",
+   "why": "Several government oversight reports have found that agencies made costly operational errors as they implemented the administration’s cost-cutting directives."
   },
   {
    "title": "'Permanent, serious' dialogue needed with China on AI: tech-focused lawmaker",
@@ -51,6 +43,14 @@
    "category": "Congress and Legislation",
    "published": "2026-11-06T18:00:00Z",
    "why": "“The Chinese Communist Party doesn’t want rogue AI agents hacking their systems and their water authorities any more than we do,” Rep."
+  },
+  {
+   "title": "Justice Department creates new task force to police AI misuse",
+   "url": "https://www.govexec.com/technology/2026/11/department-justice-forms-ai-task-force/417075/",
+   "source": "Government Executive",
+   "category": "Defense and National Security",
+   "published": "2026-11-06T13:00:00Z",
+   "why": "The group will coordinate the department’s criminal and civil enforcement efforts involving AI and serve as its main link to the White House’s Super..."
   },
   {
    "title": "Can Washington and China Build Confidence Around AI and Stability?",
