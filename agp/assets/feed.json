@@ -1,16 +1,16 @@
 {
- "updatedAt": "2026-11-10T19:38:23.540116Z",
+ "updatedAt": "2026-11-10T22:19:27.652023Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "Trahan crafting AI safety bill with narrower state preemption",
-   "url": "https://www.politico.com/live-updates/2026/11/10/congress/trahan-crafting-ai-safety-bill-with-narrower-state-law-preemption-01158965",
-   "source": "Politico Congress",
-   "category": "Congress and Legislation",
-   "published": "2026-11-10T18:07:39Z",
-   "why": "Lawmakers in a Democrat-controlled Congress may be less likely to supersede state AI laws."
+   "title": "The US wants its quantum lead to turn into factories and supply chains",
+   "url": "https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/",
+   "source": "CyberScoop",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-10T21:50:46Z",
+   "why": "There’s bipartisan support for further investment in the U.S."
   },
   {
    "title": "Trump picks Palantir’s LoSapio to head CISA",
