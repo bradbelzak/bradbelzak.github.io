@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-09T22:14:56.125142Z",
+ "updatedAt": "2026-11-10T00:39:22.394426Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Jeffries pushes to restrict China chip exports in defense bill",
+   "url": "https://www.politico.com/live-updates/2026/11/09/congress/momentum-builds-on-chip-exports-01157548",
+   "source": "Politico Congress",
+   "category": "Congress and Legislation",
+   "published": "2026-11-09T22:35:10Z",
+   "why": "The post-election push comes as Nvidia investigates an alleged Chinese spy effort targeting its CEO."
+  },
   {
    "title": "‘Russ Vought’s gonna meet his match’: What Murkowski’s ascension means for the White House",
    "url": "https://www.politico.com/news/2026/11/09/lisa-murkowski-trump-appropriations-01155181",
@@ -59,14 +67,6 @@
    "category": "Cyber and Technology Risk",
    "published": "2026-11-04T22:00:00Z",
    "why": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the..."
-  },
-  {
-   "title": "Adjusting Imports of Robotics, Industrial Machinery, and Their Parts and Components Into the United States",
-   "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united",
-   "source": "Federal Register - Executive Office of the President",
-   "category": "Trade, Tariffs and Sanctions",
-   "published": "2026-11-02T12:00:00Z",
-   "why": "Presidential proclamation published in the Federal Register."
   }
  ]
 }
