@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-11T01:53:08.159289Z",
+ "updatedAt": "2026-11-11T19:30:36.711647Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "What a Democratic Congress is Likely to Do on Foreign Policy",
+   "url": "https://www.justsecurity.org/163835/democratic-congress-likely-do-foreign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=democratic-congress-likely-do-foreign-policy",
+   "source": "Just Security",
+   "category": "Congress and Legislation",
+   "published": "2026-11-11T14:15:25Z",
+   "why": "What actions the incoming House and Senate majorities may take on the Iran war, tariffs, foreign assistance, and more."
+  },
   {
    "title": "The incoming Senate Appropriations chair calls for December government funding punt",
    "url": "https://www.politico.com/live-updates/2026/11/10/congress/murray-wants-a-stopgap-01160202",
@@ -35,14 +43,6 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-09T08:30:24Z",
    "why": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China."
-  },
-  {
-   "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
-   "url": "https://www.govexec.com/management/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417104/",
-   "source": "Government Executive",
-   "category": "White House and Agencies",
-   "published": "2026-11-06T19:57:48Z",
-   "why": "Several government oversight reports have found that agencies made costly operational errors as they implemented the administration’s cost-cutting directives."
   },
   {
    "title": "'Permanent, serious' dialogue needed with China on AI: tech-focused lawmaker",
