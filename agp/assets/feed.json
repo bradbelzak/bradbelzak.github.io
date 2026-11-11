@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-10T22:19:27.652023Z",
+ "updatedAt": "2026-11-11T01:53:08.159289Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "The incoming Senate Appropriations chair calls for December government funding punt",
+   "url": "https://www.politico.com/live-updates/2026/11/10/congress/murray-wants-a-stopgap-01160202",
+   "source": "Politico Congress",
+   "category": "Congress and Legislation",
+   "published": "2026-11-10T23:45:46Z",
+   "why": "Washington Sen."
+  },
   {
    "title": "The US wants its quantum lead to turn into factories and supply chains",
    "url": "https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/",
@@ -43,14 +51,6 @@
    "category": "Congress and Legislation",
    "published": "2026-11-06T18:00:00Z",
    "why": "“The Chinese Communist Party doesn’t want rogue AI agents hacking their systems and their water authorities any more than we do,” Rep."
-  },
-  {
-   "title": "Justice Department creates new task force to police AI misuse",
-   "url": "https://www.govexec.com/technology/2026/11/department-justice-forms-ai-task-force/417075/",
-   "source": "Government Executive",
-   "category": "Defense and National Security",
-   "published": "2026-11-06T13:00:00Z",
-   "why": "The group will coordinate the department’s criminal and civil enforcement efforts involving AI and serve as its main link to the White House’s Super..."
   },
   {
    "title": "Can Washington and China Build Confidence Around AI and Stability?",
