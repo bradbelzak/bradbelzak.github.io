@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T19:30:36.711647Z",
+ "updatedAt": "2026-11-11T23:25:35.717146Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
@@ -45,6 +45,14 @@
    "why": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China."
   },
   {
+   "title": "Blue wave presages a defense-spending showdown",
+   "url": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
+   "source": "Defense One",
+   "category": "Defense and National Security",
+   "published": "2026-11-06T21:24:24Z",
+   "why": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap."
+  },
+  {
    "title": "'Permanent, serious' dialogue needed with China on AI: tech-focused lawmaker",
    "url": "https://www.defenseone.com/policy/2026/11/ai-dialogue-china-congress/417105/",
    "source": "Defense One",
@@ -59,14 +67,6 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-06T08:30:05Z",
    "why": "In the lead-up to General Secretary Xi Jinping’s September 2026 visit to the White House to discuss, among other topics, AI, U.S."
-  },
-  {
-   "title": "Dem lawmakers vow inquest into CISA cuts, intel policy",
-   "url": "https://www.defenseone.com/policy/2026/11/democrats-midterm-sweep-puts-cisa-cuts-intelligence-disputes-under-scrutiny/417058/",
-   "source": "Defense One",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-11-04T22:00:00Z",
-   "why": "House Democrats will investigate the administration's cyberdefense cuts, while Senate Dems will control confirmation hearings for the officials who lead the..."
   }
  ]
 }
