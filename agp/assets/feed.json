@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-12T02:53:40.026418Z",
+ "updatedAt": "2026-11-12T19:49:48.450675Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
+   "url": "https://cyberscoop.com/section-702-reauthorization-ndaa-debate/",
+   "source": "CyberScoop",
+   "category": "Congress and Legislation",
+   "published": "2026-11-12T17:00:00Z",
+   "why": "CyberScoop is exclusively reporting on the letter to the Hill on the controversial snooping authorities under the Foreign Intelligence Surveillance Act."
+  },
   {
    "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
    "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending/",
@@ -27,14 +35,6 @@
    "category": "Cyber and Technology Risk",
    "published": "2026-11-10T21:50:46Z",
    "why": "There’s bipartisan support for further investment in the U.S."
-  },
-  {
-   "title": "Trump picks Palantir’s LoSapio to head CISA",
-   "url": "https://cyberscoop.com/trump-picks-palantirs-losapio-to-head-cisa/",
-   "source": "CyberScoop",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-11-10T03:38:11Z",
-   "why": "The Cybersecurity and Infrastructure Security Agency has gone without a Senate-confirmed director for all of Trump’s second term, and Michael LoSapio could..."
   },
   {
    "title": "Rethinking Strategic Stability with China: From Coercion to Constructivism",
