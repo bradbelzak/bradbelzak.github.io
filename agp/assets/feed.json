@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-11T23:25:35.717146Z",
+ "updatedAt": "2026-11-12T02:53:40.026418Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
+   "url": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending/",
+   "source": "Breaking Defense",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-11T18:22:56Z",
+   "why": "The new fiscal uplift comes in the wake of Ukraine President Volodymyr Zelenskyy telling European leaders last month that “we need at least €70 billion more..."
+  },
   {
    "title": "What a Democratic Congress is Likely to Do on Foreign Policy",
    "url": "https://www.justsecurity.org/163835/democratic-congress-likely-do-foreign-policy/?utm_source=rss&utm_medium=rss&utm_campaign=democratic-congress-likely-do-foreign-policy",
@@ -11,14 +19,6 @@
    "category": "Congress and Legislation",
    "published": "2026-11-11T14:15:25Z",
    "why": "What actions the incoming House and Senate majorities may take on the Iran war, tariffs, foreign assistance, and more."
-  },
-  {
-   "title": "The incoming Senate Appropriations chair calls for December government funding punt",
-   "url": "https://www.politico.com/live-updates/2026/11/10/congress/murray-wants-a-stopgap-01160202",
-   "source": "Politico Congress",
-   "category": "Congress and Legislation",
-   "published": "2026-11-10T23:45:46Z",
-   "why": "Washington Sen."
   },
   {
    "title": "The US wants its quantum lead to turn into factories and supply chains",
