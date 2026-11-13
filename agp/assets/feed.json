@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-12T22:41:27.204078Z",
+ "updatedAt": "2026-11-13T02:34:26.654147Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Democrats eye spring government funding punt",
+   "url": "https://www.politico.com/live-updates/2026/11/12/congress/democrats-eye-spring-cr-01164057",
+   "source": "Politico Congress",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-12T23:51:30Z",
+   "why": "The party still needs to land on a strategy to curtail Iran war funding in the coming weeks."
+  },
   {
    "title": "Beyond the spy scandal: What the Nvidia-Megaspeed case reveals about export controls",
    "url": "https://www.atlanticcouncil.org/dispatches/beyond-the-spy-scandal-what-the-nvidia-megaspeed-case-reveals-about-export-controls/",
@@ -43,14 +51,6 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-09T08:30:24Z",
    "why": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China."
-  },
-  {
-   "title": "Blue wave presages a defense-spending showdown",
-   "url": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
-   "source": "Defense One",
-   "category": "Defense and National Security",
-   "published": "2026-11-06T21:24:24Z",
-   "why": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap."
   },
   {
    "title": "'Permanent, serious' dialogue needed with China on AI: tech-focused lawmaker",
