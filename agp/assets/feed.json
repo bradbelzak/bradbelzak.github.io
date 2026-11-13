@@ -1,24 +1,32 @@
 {
- "updatedAt": "2026-11-13T19:34:07.386840Z",
+ "updatedAt": "2026-11-13T22:32:23.189628Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "'We're begging for people to come in': Administration officials pitch federal service to students",
-   "url": "https://www.govexec.com/workforce/2026/11/were-begging-people-come-administration-officials-pitch-federal-service-students/417212/",
-   "source": "Government Executive",
-   "category": "White House and Agencies",
-   "published": "2026-11-13T16:38:47Z",
-   "why": "The Transportation secretary joined Office of Personnel Management Director Scott Kupor for a recruitment event at Texas Christian University where the two..."
+   "title": "House Democrats seek to block governmentwide NDA proposal",
+   "url": "https://federalnewsnetwork.com/congress/2026/11/house-democrats-seek-to-block-governmentwide-nda-proposal/",
+   "source": "Federal News Network",
+   "category": "Congress and Legislation",
+   "published": "2026-11-13T22:27:02Z",
+   "why": "A new bill would prohibit federal funding toward implementing the Office of Personnel Management's proposed blanket non-disclosure agreement."
   },
   {
-   "title": "Democrats eye spring government funding punt",
-   "url": "https://www.politico.com/live-updates/2026/11/12/congress/democrats-eye-spring-cr-01164057",
-   "source": "Politico Congress",
+   "title": "Just the Docs: Treasury and State Department Designate Three Guatemalan Drug Trafficking Groups as Terrorists",
+   "url": "https://www.justsecurity.org/164471/treasury-state-guatemala-cartels-terrorist-designations/?utm_source=rss&utm_medium=rss&utm_campaign=treasury-state-guatemala-cartels-terrorist-designations",
+   "source": "Just Security",
+   "category": "Trade, Tariffs and Sanctions",
+   "published": "2026-11-13T20:26:07Z",
+   "why": "Treasury sanctions Guatemala’s Los Mendoza and Los Huistas as terrorists while State designates Los Lorenzanas as a Foreign Terrorist Organization."
+  },
+  {
+   "title": "What Jensen Huang’s Nvidia exit means for Washington, Wall Street, and Beijing",
+   "url": "https://www.atlanticcouncil.org/content-series/fastthinking/what-jensen-huangs-nvidia-exit-means-for-washington-wall-street-and-beijing/",
+   "source": "Atlantic Council",
    "category": "Geopolitics and Global Risk",
-   "published": "2026-11-12T23:51:30Z",
-   "why": "The party still needs to land on a strategy to curtail Iran war funding in the coming weeks."
+   "published": "2026-11-12T21:34:21Z",
+   "why": "Our experts unpack what the alleged Nvidia espionage incident means for national security, markets, and relations with Beijing."
   },
   {
    "title": "Democrats mulling Iran war funding cutoff strategy",
@@ -27,6 +35,14 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-12T21:24:39Z",
    "why": "Sen."
+  },
+  {
+   "title": "'Robot Wars': Defense One Futures, Ep. 1",
+   "url": "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars-ep-1/417183/",
+   "source": "Defense One",
+   "category": "Defense and National Security",
+   "published": "2026-11-12T17:14:55Z",
+   "why": "The U.S."
   },
   {
    "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
@@ -51,22 +67,6 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-09T08:30:24Z",
    "why": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China."
-  },
-  {
-   "title": "Blue wave presages a defense-spending showdown",
-   "url": "https://www.defenseone.com/policy/2026/11/blue-wave-presages-defense-spending-showdown/417111/",
-   "source": "Defense One",
-   "category": "Defense and National Security",
-   "published": "2026-11-06T21:24:24Z",
-   "why": "A reconciliation bill is likely off the table, and the presumed HASC chair is talking about a $1-trillion cap."
-  },
-  {
-   "title": "State Department's push to cancel hundreds of contracts left behind a trail of mistakes, watchdog finds",
-   "url": "https://www.defenseone.com/policy/2026/11/state-departments-push-cancel-hundreds-contracts-left-behind-trail-mistakes-watchdog-finds/417113/",
-   "source": "Defense One",
-   "category": "White House and Agencies",
-   "published": "2026-11-06T21:00:00Z",
-   "why": "Several government oversight reports have found costly operational errors as agencies implemented administration directives."
   }
  ]
 }
