@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-13T22:32:23.189628Z",
+ "updatedAt": "2026-11-14T02:17:59.280188Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "FedRAMP pushes new cyber vulnerability rules to keep pace with AI",
+   "url": "https://federalnewsnetwork.com/cybersecurity/2026/11/fedramp-pushes-new-cyber-vulnerability-rules-to-keep-pace-with-ai/",
+   "source": "Federal News Network",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-13T23:20:43Z",
+   "why": "Companies that provide cloud services to federal agencies are scrambling to adopt new cyber vulnerability management practices by early December."
+  },
   {
    "title": "House Democrats seek to block governmentwide NDA proposal",
    "url": "https://federalnewsnetwork.com/congress/2026/11/house-democrats-seek-to-block-governmentwide-nda-proposal/",
@@ -27,14 +35,6 @@
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-12T21:34:21Z",
    "why": "Our experts unpack what the alleged Nvidia espionage incident means for national security, markets, and relations with Beijing."
-  },
-  {
-   "title": "Democrats mulling Iran war funding cutoff strategy",
-   "url": "https://rollcall.com/2026/11/12/democrats-mulling-iran-war-funding-cutoff-strategy/",
-   "source": "Roll Call",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-12T21:24:39Z",
-   "why": "Sen."
   },
   {
    "title": "'Robot Wars': Defense One Futures, Ep. 1",
