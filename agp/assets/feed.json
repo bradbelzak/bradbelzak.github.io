@@ -1,48 +1,56 @@
 {
- "updatedAt": "2026-11-14T02:17:59.280188Z",
+ "updatedAt": "2026-11-16T21:55:36.989218Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
   {
-   "title": "FedRAMP pushes new cyber vulnerability rules to keep pace with AI",
-   "url": "https://federalnewsnetwork.com/cybersecurity/2026/11/fedramp-pushes-new-cyber-vulnerability-rules-to-keep-pace-with-ai/",
-   "source": "Federal News Network",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-11-13T23:20:43Z",
-   "why": "Companies that provide cloud services to federal agencies are scrambling to adopt new cyber vulnerability management practices by early December."
+   "title": "Federal tech fellows would get an expedited path to permanent jobs under a new bill",
+   "url": "https://www.govexec.com/technology/2026/11/federal-tech-fellows-expedited-path-permanent-jobs-new-bill/417257/",
+   "source": "Government Executive",
+   "category": "Congress and Legislation",
+   "published": "2026-11-16T20:57:00Z",
+   "why": "While the Trump administration’s Tech Force initiative assigns young tech employees to agencies for two-year tours, the sponsor of a new House measure wants to..."
   },
   {
-   "title": "House Democrats seek to block governmentwide NDA proposal",
-   "url": "https://federalnewsnetwork.com/congress/2026/11/house-democrats-seek-to-block-governmentwide-nda-proposal/",
+   "title": "Another looming funding deadline for federal agencies, what happens when the current CR expires",
+   "url": "https://federalnewsnetwork.com/congress/2026/11/another-looming-funding-deadline-for-federal-agencies-what-happens-when-the-current-cr-expires/",
+   "source": "Federal News Network",
+   "category": "White House and Agencies",
+   "published": "2026-11-16T20:21:50Z",
+   "why": "\"Many, especially progressive Democrats, have indicated they don't want any part of approving any kind of money for the war,\" said Mitchell Miller."
+  },
+  {
+   "title": "Taiwan’s Political and Security Future",
+   "url": "https://warontherocks.com/taiwans-political-and-security-future/",
+   "source": "War on the Rocks",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-16T19:15:21Z",
+   "why": "Taiwan faces mounting questions about its ability to defend itself, a bitter fight over defense spending, and uncertainty about Washington’s commitment to its..."
+  },
+  {
+   "title": "Congress needs to decide whether it’ll continue to block the administration’s planned rules on federal grantmaking",
+   "url": "https://federalnewsnetwork.com/agency-oversight/2026/11/congress-needs-to-decide-whether-itll-continue-to-block-the-administrations-planned-rules-on-federal-grantmaking/",
    "source": "Federal News Network",
    "category": "Congress and Legislation",
-   "published": "2026-11-13T22:27:02Z",
-   "why": "A new bill would prohibit federal funding toward implementing the Office of Personnel Management's proposed blanket non-disclosure agreement."
+   "published": "2026-11-16T17:47:42Z",
+   "why": "\"There's a whole range of guardrails that really Congress needs to put forward in the next appropriations bill,\" said Sam Berger."
   },
   {
-   "title": "Just the Docs: Treasury and State Department Designate Three Guatemalan Drug Trafficking Groups as Terrorists",
-   "url": "https://www.justsecurity.org/164471/treasury-state-guatemala-cartels-terrorist-designations/?utm_source=rss&utm_medium=rss&utm_campaign=treasury-state-guatemala-cartels-terrorist-designations",
-   "source": "Just Security",
-   "category": "Trade, Tariffs and Sanctions",
-   "published": "2026-11-13T20:26:07Z",
-   "why": "Treasury sanctions Guatemala’s Los Mendoza and Los Huistas as terrorists while State designates Los Lorenzanas as a Foreign Terrorist Organization."
-  },
-  {
-   "title": "What Jensen Huang’s Nvidia exit means for Washington, Wall Street, and Beijing",
-   "url": "https://www.atlanticcouncil.org/content-series/fastthinking/what-jensen-huangs-nvidia-exit-means-for-washington-wall-street-and-beijing/",
-   "source": "Atlantic Council",
+   "title": "Japan’s Defense Lessons From Ukraine and the Middle East",
+   "url": "https://foreignpolicy.com/2026/11/16/japan-defense-industry-military-weapons-strategy-takaichi/",
+   "source": "Foreign Policy",
    "category": "Geopolitics and Global Risk",
-   "published": "2026-11-12T21:34:21Z",
-   "why": "Our experts unpack what the alleged Nvidia espionage incident means for national security, markets, and relations with Beijing."
+   "published": "2026-11-16T16:08:29Z",
+   "why": "The ability to surge weapons production in wartime is now a critical pillar of deterrence."
   },
   {
-   "title": "'Robot Wars': Defense One Futures, Ep. 1",
-   "url": "https://www.defenseone.com/technology/2026/11/defense-one-futures-robot-wars-ep-1/417183/",
-   "source": "Defense One",
+   "title": "RIP to the $1.45 Trillion FY2027 Defense Budget",
+   "url": "https://warontherocks.com/cogs-of-war/rip-to-the-1-45-trillion-fy2027-defense-budget/",
+   "source": "War on the Rocks",
    "category": "Defense and National Security",
-   "published": "2026-11-12T17:14:55Z",
-   "why": "The U.S."
+   "published": "2026-11-16T09:00:38Z",
+   "why": "The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of..."
   },
   {
    "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
@@ -59,14 +67,6 @@
    "category": "Cyber and Technology Risk",
    "published": "2026-11-10T21:50:46Z",
    "why": "There’s bipartisan support for further investment in the U.S."
-  },
-  {
-   "title": "Rethinking Strategic Stability with China: From Coercion to Constructivism",
-   "url": "https://warontherocks.com/rethinking-strategic-stability-with-china-from-coercion-to-constructivism/",
-   "source": "War on the Rocks",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-09T08:30:24Z",
-   "why": "Every administration since the Cold War has been looking for a significant foreign policy breakthrough with China."
   }
  ]
 }
