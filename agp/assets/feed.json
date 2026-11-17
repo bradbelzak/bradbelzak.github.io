@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-11-17T04:25:53.332054Z",
+ "updatedAt": "2026-11-17T20:47:08.530964Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths",
+   "url": "https://www.atlanticcouncil.org/blogs/econographics/as-the-nvidia-scandal-threatens-to-reignite-trade-tensions-at-trump-xi-talks-beijing-still-holds-the-rare-earths/",
+   "source": "Atlantic Council",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-17T19:17:43Z",
+   "why": "Washington’s push to close loopholes could invite renewed Chinese restrictions on rare earths, exposing a supply-chain vulnerability that the trade truce never..."
+  },
+  {
+   "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
+   "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/",
+   "source": "War on the Rocks",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-17T09:00:48Z",
+   "why": "In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach..."
+  },
   {
    "title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
    "url": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/",
@@ -43,22 +59,6 @@
    "category": "White House and Agencies",
    "published": "2026-11-16T20:27:53Z",
    "why": "Eric Ueland, No."
-  },
-  {
-   "title": "Congress needs to decide whether it’ll continue to block the administration’s planned rules on federal grantmaking",
-   "url": "https://federalnewsnetwork.com/agency-oversight/2026/11/congress-needs-to-decide-whether-itll-continue-to-block-the-administrations-planned-rules-on-federal-grantmaking/",
-   "source": "Federal News Network",
-   "category": "Congress and Legislation",
-   "published": "2026-11-16T17:47:42Z",
-   "why": "\"There's a whole range of guardrails that really Congress needs to put forward in the next appropriations bill,\" said Sam Berger."
-  },
-  {
-   "title": "Japan’s Defense Lessons From Ukraine and the Middle East",
-   "url": "https://foreignpolicy.com/2026/11/16/japan-defense-industry-military-weapons-strategy-takaichi/",
-   "source": "Foreign Policy",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-16T16:08:29Z",
-   "why": "The ability to surge weapons production in wartime is now a critical pillar of deterrence."
   },
   {
    "title": "RIP to the $1.45 Trillion FY2027 Defense Budget",
