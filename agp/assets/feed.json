@@ -1,9 +1,25 @@
 {
- "updatedAt": "2026-11-16T21:55:36.989218Z",
+ "updatedAt": "2026-11-17T00:45:45.300920Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Ron Johnson holds out hope for 'relatively simple' GOP spending bill",
+   "url": "https://www.politico.com/live-updates/2026/11/16/congress/ron-johnson-reconciliation-budget-resolution-01168697",
+   "source": "Politico Congress",
+   "category": "Congress and Legislation",
+   "published": "2026-11-16T23:36:00Z",
+   "why": "The Senate Budget chair said he believed a new reconciliation package could start moving this week."
+  },
+  {
+   "title": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
+   "url": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/",
+   "source": "CyberScoop",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-16T22:51:33Z",
+   "why": "Google's Threat Intelligence Group says the tools trade stealth for speed, leaving noisy forensic traces even as they succeed on their own."
+  },
   {
    "title": "Federal tech fellows would get an expedited path to permanent jobs under a new bill",
    "url": "https://www.govexec.com/technology/2026/11/federal-tech-fellows-expedited-path-permanent-jobs-new-bill/417257/",
@@ -19,14 +35,6 @@
    "category": "White House and Agencies",
    "published": "2026-11-16T20:21:50Z",
    "why": "\"Many, especially progressive Democrats, have indicated they don't want any part of approving any kind of money for the war,\" said Mitchell Miller."
-  },
-  {
-   "title": "Taiwan’s Political and Security Future",
-   "url": "https://warontherocks.com/taiwans-political-and-security-future/",
-   "source": "War on the Rocks",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-16T19:15:21Z",
-   "why": "Taiwan faces mounting questions about its ability to defend itself, a bitter fight over defense spending, and uncertainty about Washington’s commitment to its..."
   },
   {
    "title": "Congress needs to decide whether it’ll continue to block the administration’s planned rules on federal grantmaking",
@@ -59,14 +67,6 @@
    "category": "Congress and Legislation",
    "published": "2026-11-12T17:00:00Z",
    "why": "CyberScoop is exclusively reporting on the letter to the Hill on the controversial snooping authorities under the Foreign Intelligence Surveillance Act."
-  },
-  {
-   "title": "The US wants its quantum lead to turn into factories and supply chains",
-   "url": "https://cyberscoop.com/us-quantum-computing-industry-manufacturing-push/",
-   "source": "CyberScoop",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-11-10T21:50:46Z",
-   "why": "There’s bipartisan support for further investment in the U.S."
   }
  ]
 }
