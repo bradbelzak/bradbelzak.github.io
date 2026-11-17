@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-17T00:45:45.300920Z",
+ "updatedAt": "2026-11-17T04:25:53.332054Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
+   "url": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/",
+   "source": "Breaking Defense",
+   "category": "Congress and Legislation",
+   "published": "2026-11-17T01:17:58Z",
+   "why": "Nearly $69 billion in money sought by the White House through reconciliation will be rolled into the base budget under the Senate appropriator’s plan."
+  },
   {
    "title": "Ron Johnson holds out hope for 'relatively simple' GOP spending bill",
    "url": "https://www.politico.com/live-updates/2026/11/16/congress/ron-johnson-reconciliation-budget-resolution-01168697",
@@ -29,12 +37,12 @@
    "why": "While the Trump administration’s Tech Force initiative assigns young tech employees to agencies for two-year tours, the sponsor of a new House measure wants to..."
   },
   {
-   "title": "Another looming funding deadline for federal agencies, what happens when the current CR expires",
-   "url": "https://federalnewsnetwork.com/congress/2026/11/another-looming-funding-deadline-for-federal-agencies-what-happens-when-the-current-cr-expires/",
-   "source": "Federal News Network",
+   "title": "White House budget aide Ueland slated to head GAO",
+   "url": "https://rollcall.com/2026/11/16/white-house-budget-aide-ueland-slated-to-head-gao/",
+   "source": "Roll Call",
    "category": "White House and Agencies",
-   "published": "2026-11-16T20:21:50Z",
-   "why": "\"Many, especially progressive Democrats, have indicated they don't want any part of approving any kind of money for the war,\" said Mitchell Miller."
+   "published": "2026-11-16T20:27:53Z",
+   "why": "Eric Ueland, No."
   },
   {
    "title": "Congress needs to decide whether it’ll continue to block the administration’s planned rules on federal grantmaking",
@@ -59,14 +67,6 @@
    "category": "Defense and National Security",
    "published": "2026-11-16T09:00:38Z",
    "why": "The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of..."
-  },
-  {
-   "title": "Don’t put Section 702 spying law renewal in defense bill, groups urge Hill leaders",
-   "url": "https://cyberscoop.com/section-702-reauthorization-ndaa-debate/",
-   "source": "CyberScoop",
-   "category": "Congress and Legislation",
-   "published": "2026-11-12T17:00:00Z",
-   "why": "CyberScoop is exclusively reporting on the letter to the Hill on the controversial snooping authorities under the Foreign Intelligence Surveillance Act."
   }
  ]
 }
