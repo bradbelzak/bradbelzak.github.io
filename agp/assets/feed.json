@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-11-17T23:49:09.246600Z",
+ "updatedAt": "2026-11-18T20:24:03.614015Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Senate grills acting Navy secretary on Iran war costs, extended deployments",
+   "url": "https://www.defenseone.com/defense-systems/2026/11/senate-grills-acting-navy-secretary-iran-war-costs-extended-deployments/417307/",
+   "source": "Defense One",
+   "category": "Congress and Legislation",
+   "published": "2026-11-18T17:43:11Z",
+   "why": "Democrats in particular bristled at Hung Cao’s characterization of unsuccessful suicide attempts as “mitigations.”"
+  },
+  {
+   "title": "Wes Moore cautions Dems against shutting down government over Iran war funding",
+   "url": "https://www.politico.com/live-updates/2026/11/18/congress/moore-warns-against-shutdown-01172766",
+   "source": "Politico Congress",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-18T17:12:27Z",
+   "why": "The Maryland governor told POLITICO that Congress “should be able to” both bring an end to the war and keep the federal government open."
+  },
+  {
+   "title": "Bipartisan Senate duo urges ‘immediate’ White House action on AI-enabled cyber threats",
+   "url": "https://www.politico.com/news/2026/11/18/cyber-threats-infrastructure-congress-01172093",
+   "source": "Politico Congress",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-18T10:10:00Z",
+   "why": "Sens."
+  },
+  {
+   "title": "Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers",
+   "url": "https://breakingdefense.com/2026/11/lawmakers-challenge-trumps-push-to-bring-steam-catapults-back-to-ford-class/",
+   "source": "Breaking Defense",
+   "category": "Congress and Legislation",
+   "published": "2026-11-17T22:01:35Z",
+   "why": "The bipartisan pushback came during Acting Navy Secretary Hung Cao’s confirmation hearing, where senators questioned the cost and capability trade-offs of..."
+  },
   {
    "title": "As the Nvidia scandal threatens to reignite trade tensions at Trump-Xi talks, Beijing still holds the rare earths",
    "url": "https://www.atlanticcouncil.org/blogs/econographics/as-the-nvidia-scandal-threatens-to-reignite-trade-tensions-at-trump-xi-talks-beijing-still-holds-the-rare-earths/",
@@ -21,44 +53,12 @@
    "why": "In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach..."
   },
   {
-   "title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
-   "url": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/",
-   "source": "Breaking Defense",
-   "category": "Congress and Legislation",
-   "published": "2026-11-17T01:17:58Z",
-   "why": "Nearly $69 billion in money sought by the White House through reconciliation will be rolled into the base budget under the Senate appropriator’s plan."
-  },
-  {
-   "title": "Ron Johnson holds out hope for 'relatively simple' GOP spending bill",
-   "url": "https://www.politico.com/live-updates/2026/11/16/congress/ron-johnson-reconciliation-budget-resolution-01168697",
-   "source": "Politico Congress",
-   "category": "Congress and Legislation",
-   "published": "2026-11-16T23:36:00Z",
-   "why": "The Senate Budget chair said he believed a new reconciliation package could start moving this week."
-  },
-  {
-   "title": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack",
-   "url": "https://cyberscoop.com/google-fully-automated-ai-cyberattack/",
-   "source": "CyberScoop",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-11-16T22:51:33Z",
-   "why": "Google's Threat Intelligence Group says the tools trade stealth for speed, leaving noisy forensic traces even as they succeed on their own."
-  },
-  {
    "title": "Federal tech fellows would get an expedited path to permanent jobs under a new bill",
    "url": "https://www.govexec.com/technology/2026/11/federal-tech-fellows-expedited-path-permanent-jobs-new-bill/417257/",
    "source": "Government Executive",
    "category": "Congress and Legislation",
    "published": "2026-11-16T20:57:00Z",
    "why": "While the Trump administration’s Tech Force initiative assigns young tech employees to agencies for two-year tours, the sponsor of a new House measure wants to..."
-  },
-  {
-   "title": "Japan’s Defense Lessons From Ukraine and the Middle East",
-   "url": "https://foreignpolicy.com/2026/11/16/japan-defense-industry-military-weapons-strategy-takaichi/",
-   "source": "Foreign Policy",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-16T16:08:29Z",
-   "why": "The ability to surge weapons production in wartime is now a critical pillar of deterrence."
   },
   {
    "title": "RIP to the $1.45 Trillion FY2027 Defense Budget",
