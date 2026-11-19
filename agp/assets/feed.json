@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-19T20:27:21.575802Z",
+ "updatedAt": "2026-11-19T23:30:39.076102Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "Dispatch from Manama: The Iran war is not over for Bahrain",
+   "url": "https://www.atlanticcouncil.org/dispatches/dispatch-from-manama-the-most-underappreciated-us-ally-in-the-gulf/",
+   "source": "Atlantic Council",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-19T21:47:15Z",
+   "why": "A recent visit to Bahrain offers a window into the ongoing tensions with Iran and diplomatic maneuvering among Gulf nations."
+  },
   {
    "title": "Trump’s CISA nominee dodges questions on who won the 2020 election and whether Jan. 6 was an insurrection",
    "url": "https://www.politico.com/live-updates/2026/11/19/congress/cisa-michael-losapio-hearing-2020-election-01175841",
@@ -27,14 +35,6 @@
    "category": "Congress and Legislation",
    "published": "2026-11-19T15:59:56Z",
    "why": "The White House has pulled the nomination of Dr."
-  },
-  {
-   "title": "Toplines: Why and how the United States and its allies should prepare for a limited nuclear attack",
-   "url": "https://www.atlanticcouncil.org/in-depth-research-reports/toplines-why-and-how-the-united-states-and-its-allies-should-prepare-for-a-limited-nuclear-attack/",
-   "source": "Atlantic Council",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-19T15:21:28Z",
-   "why": "How should the United States and its allies prepare for a limited nuclear attack, and why?"
   },
   {
    "title": "Appropriators slash Trump’s $17B Golden Dome request in draft bill",
