@@ -1,9 +1,41 @@
 {
- "updatedAt": "2026-11-20T03:03:13.792844Z",
+ "updatedAt": "2026-11-20T20:00:07.176115Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "What Ukraine Hath Wrought: Lessons for War, If We’re Listening",
+   "url": "https://warontherocks.com/what-ukraine-hath-wrought-lessons-for-war-if-were-listening/",
+   "source": "War on the Rocks",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-20T17:18:04Z",
+   "why": "Four years into Russia’s war against Ukraine, what should the U.S."
+  },
+  {
+   "title": "What Can Congress Do to Stop the Iran War?",
+   "url": "https://www.justsecurity.org/165403/what-can-congress-do-stop-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=what-can-congress-do-stop-iran-war",
+   "source": "Just Security",
+   "category": "Congress and Legislation",
+   "published": "2026-11-20T13:14:06Z",
+   "why": "Brian Finucane and Tess Bridgeman discuss what authorities Congress could use to try to force the Trump administration to end the war in Iran."
+  },
+  {
+   "title": "FDA will have to wait for a permanent commissioner as Trump withdraws nominee",
+   "url": "https://www.govexec.com/management/2026/11/white-house-pulls-fda-nominee-leaving-agency-without-permanent-leader/417345/",
+   "source": "Government Executive",
+   "category": "Congress and Legislation",
+   "published": "2026-11-20T13:00:00Z",
+   "why": "Sen."
+  },
+  {
+   "title": "Capitol agenda: Dems draft a curb on Iran war cash",
+   "url": "https://www.politico.com/live-updates/2026/11/20/congress/dems-draft-curb-iran-war-cash-01177693",
+   "source": "Politico Congress",
+   "category": "Geopolitics and Global Risk",
+   "published": "2026-11-20T09:44:00Z",
+   "why": "A group of Democrats are closing in on a proposal to cut off Iran war funding as part of a spending deal that would avert a government shutdown in three weeks."
+  },
   {
    "title": "White House fires cyber director in wake of outages, sources say",
    "url": "https://www.defenseone.com/policy/2026/11/pentagon-cio-replaces-white-house-cyber-director-sean-cairncross-major-shakeup/417359/",
@@ -11,14 +43,6 @@
    "category": "Cyber and Technology Risk",
    "published": "2026-11-20T01:00:00Z",
    "why": "Sean Cairncross is to be replaced by Pentagon's CIO; doubts grow about CISA nominee."
-  },
-  {
-   "title": "Dispatch from Manama: The Iran war is not over for Bahrain",
-   "url": "https://www.atlanticcouncil.org/dispatches/dispatch-from-manama-the-most-underappreciated-us-ally-in-the-gulf/",
-   "source": "Atlantic Council",
-   "category": "Geopolitics and Global Risk",
-   "published": "2026-11-19T21:47:15Z",
-   "why": "A recent visit to Bahrain offers a window into the ongoing tensions with Iran and diplomatic maneuvering among Gulf nations."
   },
   {
    "title": "Trump’s CISA nominee dodges questions on who won the 2020 election and whether Jan. 6 was an insurrection",
@@ -29,14 +53,6 @@
    "why": "Michael LoSapio told lawmakers that he plans to reevaluate CISA’s budget and staffing if confirmed."
   },
   {
-   "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
-   "url": "https://federalnewsnetwork.com/management/2026/11/white-house-pulls-nomination-of-dr-heidi-overton-to-lead-the-fda-ahead-of-high-stakes-senate-vote/",
-   "source": "Federal News Network",
-   "category": "Congress and Legislation",
-   "published": "2026-11-19T15:59:56Z",
-   "why": "The White House has pulled the nomination of Dr."
-  },
-  {
    "title": "Appropriators slash Trump’s $17B Golden Dome request in draft bill",
    "url": "https://www.defenseone.com/policy/2026/11/appropriators-slash-trumps-17b-golden-dome-request-draft-bill/417326/",
    "source": "Defense One",
@@ -45,28 +61,12 @@
    "why": "GOP-led committee says reliance on reconciliation “threatens” the missile defense program’s success."
   },
   {
-   "title": "$350 billion reconciliation bill ‘not going to happen’: HASC chair",
-   "url": "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair/",
-   "source": "Breaking Defense",
-   "category": "Congress and Legislation",
-   "published": "2026-11-18T21:56:01Z",
-   "why": "“If a reconciliation bill is still possible, it’s going to have to be skinnied down to deal with … the hole in the defense budget that Venezuela and Iran have..."
-  },
-  {
    "title": "Spending Isn’t Deterrence: Fixing Germany’s Procurement Machine",
    "url": "https://warontherocks.com/cogs-of-war/spending-isnt-deterrence-fixing-germanys-procurement-machine/",
    "source": "War on the Rocks",
    "category": "Geopolitics and Global Risk",
    "published": "2026-11-17T09:00:48Z",
    "why": "In 2026, Germany is spending a record €125 billion on defense, second only to the United States among NATO allies, and its core defense budget is set to reach..."
-  },
-  {
-   "title": "RIP to the $1.45 Trillion FY2027 Defense Budget",
-   "url": "https://warontherocks.com/cogs-of-war/rip-to-the-1-45-trillion-fy2027-defense-budget/",
-   "source": "War on the Rocks",
-   "category": "Defense and National Security",
-   "published": "2026-11-16T09:00:38Z",
-   "why": "The 2026 Congressional midterms appear to have dealt a final death blow to the Trump administration’s prospective $1.45 trillion Fiscal Year 2027 Department of..."
   }
  ]
 }
