@@ -1,9 +1,17 @@
 {
- "updatedAt": "2026-11-19T23:30:39.076102Z",
+ "updatedAt": "2026-11-20T03:03:13.792844Z",
  "live": true,
  "generator": "build_feed.py",
  "windowDays": 7,
  "stories": [
+  {
+   "title": "White House fires cyber director in wake of outages, sources say",
+   "url": "https://www.defenseone.com/policy/2026/11/pentagon-cio-replaces-white-house-cyber-director-sean-cairncross-major-shakeup/417359/",
+   "source": "Defense One",
+   "category": "Cyber and Technology Risk",
+   "published": "2026-11-20T01:00:00Z",
+   "why": "Sean Cairncross is to be replaced by Pentagon's CIO; doubts grow about CISA nominee."
+  },
   {
    "title": "Dispatch from Manama: The Iran war is not over for Bahrain",
    "url": "https://www.atlanticcouncil.org/dispatches/dispatch-from-manama-the-most-underappreciated-us-ally-in-the-gulf/",
@@ -19,14 +27,6 @@
    "category": "Cyber and Technology Risk",
    "published": "2026-11-19T18:20:03Z",
    "why": "Michael LoSapio told lawmakers that he plans to reevaluate CISA’s budget and staffing if confirmed."
-  },
-  {
-   "title": "Dems call CISA nominee ‘disqualified’ after nomination hearing",
-   "url": "https://cyberscoop.com/michael-losapio-cisa-confirmation-hearing/",
-   "source": "CyberScoop",
-   "category": "Cyber and Technology Risk",
-   "published": "2026-11-19T17:11:34Z",
-   "why": "Michael LoSapio, the Palantir executive and Trump administration nominee for CISA, sparred with Democrats on the committee over who won the 2020 election, Jan."
   },
   {
    "title": "White House pulls FDA nominee Heidi Overton after wavering support from Senate Republicans",
